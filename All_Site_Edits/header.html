@@ -1,0 +1,139 @@
+<!--header-->
+<header>
+    <div class="header-main">
+        <div class="header-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 hidden-xs">
+                        <div class="welcome-msg">
+                            ###TEXT, welcome### <span class="user">###USERINFO, firstname###</span><span
+                                class="visitor">###TEXT, visitor###</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="quick-top-links">
+                            ###CREATEACCOUNTLINK,<div class="quick-link-register signup">,</div>,create-account-link###
+                            <div class="quick-link-login">
+                                <a href="/login">###TEXT, login###</a>
+                            </div>
+                            <div class="quick-link-account">
+                                <a href="/settings">###TEXT, myaccount###</a>
+                            </div>
+                            <div class="quick-link-orders">
+                                <a href="/orders">###TEXT, orderHistory###</a>
+                            </div>
+                            <div class="quick-link-logout">
+                                <a href="/login">###TEXT, logout###</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-12 col-md-4 col-lg-3 mobile-logo">
+                        <div class="logo">
+                            <a href="/" title="###SITEINFO, site-name###">
+                                <img id="logo" class="default-header-logo-height skinsetting-header-logo-height"
+                                    src="###SITELOGO_JSON, {size: 'large', url_only: true}###"
+                                    alt="###SITEINFO, site-name###" title="###SITEINFO, site-name###" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="hidden-xs col-sm-8 col-md-5 col-lg-6">
+                        <div class="header-search">
+                            <div class="input-group">
+                                <input type="text" class="form-control header-search-input"
+                                    placeholder="###TEXT,searchsite###" />
+                                <span class="input-group-btn"><button class="btn btn-default header-search-btn"
+                                        type="button"><i class="fa fa-search" aria-hidden="true"></i></button></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-3 mobile-links">
+                        <div id="cart" class="header-cart">
+                            <a href="/cart" class="cart-link" data-hover="dropdown" aria-haspopup="true"
+                                aria-expanded="false" id="cart-button">
+                                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                ###CARTCOUNT_JSON,
+                                {
+                                prefix: "<span class='cart-count-label'>",
+                                    suffix: "</span>"
+                                }
+                                ###
+                                ###TEXT,items###
+                                ###CARTCOST_JSON,{
+                                prefix: " / <span class='cart-cost-label'>",
+                                    suffix: "</span>",
+                                showOnEmpty: true,
+                                emptyText: '0.00'
+                                }
+                                ###
+                            </a>
+                            ###CARTITEMS_JSON, {
+                            prefix: '<div class="dropdown-menu" aria-labelledby="cart-button">',
+                                suffix: '</div>',
+                            itemLayout: '<a class="menu-cart-item" href="@@@URL@@@">
+                                <div class="menu-cart-img">
+                                    <img src="@@@IMAGEURL:smallsquare@@@" alt="@@@NAME@@@" title="@@@NAME@@@" />
+                                </div>
+                                <div class="menu-cart-name">@@@NAME@@@</div>
+                                <div class="menu-cart-item-cost">@@@COST@@@</div>
+                            </a>',
+                            countLayout: '<div class="menu-cart-preview-count">@@@TEXT:showing@@@ @@@SHOWCOUNT@@@
+                                @@@TEXT:of@@@ @@@CARTCOUNT@@@</div>',
+                            footerLayout: '<div class="menu-cart-preview-footer clearfix"><a href="/cart"
+                                    class="btn btn-primary menu-cart-btn">@@@TEXT:viewCart@@@</a>
+                                <div class="menu-cart-subtotal">@@@CARTCOST@@@</div>
+                            </div>'
+                            }###
+                        </div>
+                        <div class="header-mobile-links">
+                            <a class="mobile-nav-btn" class="mobile-nav-btn" data-toggle="collapse"
+                                data-target="#top-nav" href="javascript:void(0)"><i class="fa fa-fw fa-bars"
+                                    aria-hidden="true"></i></a>
+                            <a href="/cart" class="mobile-nav-btn mobile-nav-btn-cart"><i
+                                    class="fa fa-fw fa-shopping-cart" aria-hidden="true"></i>###CARTCOUNT_JSON,
+                                {
+                                prefix: '<span class="badge">',
+                                    suffix: '</span>'
+                                }
+                                ###</a>
+                            <a href="/search" class="mobile-nav-btn"><i class="fa fa-search fa-fw"
+                                    aria-hidden="true"></i></a>
+                            <a href="/login" class="mobile-nav-btn mobile-nav-login"><i class="fa fa-user fa-fw"
+                                    aria-hidden="true"></i></a>
+                            <a href="/settings" class="mobile-nav-btn mobile-nav-settings"><i class="fa fa-user fa-fw"
+                                    aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="top-navbar" class="navbar navbar-default">
+        <div class="container">
+            <nav id="top-nav" class="collapse navbar-collapse">
+                ###NAVIGATION_JSON, {
+                menu_number: 1,
+                container_class: "nav navbar-nav",
+                container_id: "nav-main",
+                active_class: "active",
+                dropdown_class: "",
+                dropdown_container_class: "dropdown-menu",
+                dropdown_anchor_class: "",
+                dropdown_anchor_before: "",
+                dropdown_anchor_after: " <span class='caret'></span>",
+                page_type_class: true,
+                page_name_class: true,
+                prefix: '',
+                suffix: ''
+                }###
+
+            </nav>
+        </div>
+    </div>
+</header>
+<!--header-->

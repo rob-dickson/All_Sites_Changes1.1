@@ -1,0 +1,199 @@
+<style>
+    /* banner widget */
+    .home-banner-area {
+        margin-bottom: 50px;
+    }
+
+    .widget-banner {
+        position: relative;
+    }
+
+    .cycle-slideshow a img,
+    .cycle-slideshow a {
+        width: 100%;
+        cursor: default;
+    }
+
+    .cycle-pager {
+        opacity: 0;
+        position: absolute;
+        bottom: 12px;
+        left: 50%;
+        z-index: 115;
+        width: 60%;
+        padding-left: 0;
+        margin-left: -30%;
+        text-align: center;
+        list-style: none;
+        -webkit-transition: opacity .3s;
+        -o-transition: opacity .3s;
+        transition: opacity .3s;
+    }
+
+    .cycle-pager span {
+        display: inline-block;
+        width: 13px;
+        height: 13px;
+        margin: 1px;
+        text-indent: -999px;
+        cursor: pointer;
+        background-color: #000 \9;
+        background-color: rgba(0, 0, 0, 0.5);
+        border: 1px solid #fff;
+        border-radius: 10px;
+        -webkit-transition: background-color .3s;
+        -o-transition: background-color .3s;
+        transition: background-color .3s;
+    }
+
+    .cycle-pager span:hover {
+        background-color: rgba(255, 255, 255, 0.4);
+    }
+
+    .cycle-pager span img {
+        display: none;
+    }
+
+    .cycle-pager span.cycle-pager-active {
+        width: 15px;
+        height: 15px;
+        margin: 0;
+        background-color: #fff;
+    }
+
+    .prev-next-nav span {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 15%;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+        text-align: center;
+        z-index: 200;
+        color: #fff;
+        opacity: .6;
+        filter: alpha(opacity=60);
+        cursor: pointer;
+    }
+
+    .prev-next-nav span a {
+        display: none;
+    }
+
+    .prev-next-nav span:hover span {
+        opacity: .9;
+    }
+
+    .prev-next-nav {
+        opacity: 0;
+        -webkit-transition: opacity .3s;
+        -o-transition: opacity .3s;
+        transition: opacity .3s;
+    }
+
+    .prev-next-nav.next {
+        right: 0;
+        left: auto;
+    }
+
+    .prev-next-nav.prev span,
+    .prev-next-nav.next span {
+        top: 50%;
+        bottom: auto;
+        z-index: 5;
+        width: 30px;
+        height: 30px;
+        margin-top: -15px;
+        font-size: 30px;
+    }
+
+    .prev-next-nav.next span {
+        right: 50%;
+        margin-right: -10px;
+        left: auto;
+    }
+
+    .prev-next-nav.prev span {
+        left: 50%;
+        margin-left: -10px;
+        right: auto;
+    }
+
+    .cycle-caption {
+        position: absolute;
+        z-index: 100;
+        bottom: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.7);
+        width: 100%;
+        padding: 15px;
+        font-weight: bold;
+        color: #fff;
+    }
+
+    .widget-banner:hover.cycle-pager {
+        opacity: 1;
+    }
+
+    .widget-banner:hover.prev-next-nav {
+        opacity: 1;
+    }
+
+    .widget-banner.glyphicon {
+        font-family: "FontAwesome";
+    }
+
+    .widget-banner.glyphicon-chevron-left:before {
+        content: "\f053";
+    }
+
+    .widget-banner.glyphicon-chevron-right:before {
+        content: "\f054";
+    }
+</style>
+<div class="container banner-container">
+    <div id="home-banner" class="home-banner-area">
+        <div class="widget widget-banner">
+            <div class="cycle-slideshow cycle-paused" data-cycle-tmpl-regex="\[\[((\.)?.*?)\]\]" data-cycle-log="false"
+                data-cycle-fx="fadeout" data-cycle-timeout="4000" data-cycle-allow-wrap="true" data-cycle-delay="0"
+                data-cycle-loop="0" data-cycle-pause-on-hover="false" data-cycle-paused="false" data-cycle-speed="5000"
+                data-cycle-slides="> a " data-cycle-auto-height="0" data-cycle-pager="#no-template-pager1687280513136"
+                data-cycle-pager-template="" style="position: relative;">
+                <a href="#" data-cycle-title="" class="cycle-slide cycle-sentinel"
+                    style="position: static; top: 0px; left: 0px; z-index: 100; opacity: 1; display: block; visibility: hidden;">
+                    <img src="https://af.brandfulfillment.store//files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                        title="" alt="" class="img-responsive" style="visibility: hidden;">
+                </a>
+                <a href="#" data-cycle-title="" class="cycle-slide"
+                    style="position: absolute; top: 0px; left: 0px; z-index: 100; opacity: 0; display: block; visibility: hidden;">
+                    <img src="https://af.brandfulfillment.store//files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                        title="" alt="" class="img-responsive">
+                </a>
+                <a href="#" data-cycle-title="" class="cycle-slide cycle-slide-active"
+                    style="position: absolute; top: 0px; left: 0px; z-index: 99; visibility: visible; opacity: 1; display: block;">
+                    <img src="https://af.brandfulfillment.store//files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                        title="" alt="" class="img-responsive">
+                </a>
+                <a href="#" data-cycle-title="" class="cycle-slide"
+                    style="position: absolute; top: 0px; left: 0px; z-index: 97; visibility: hidden;">
+                    <img src="https://af.brandfulfillment.store//files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                        title="" alt="" class="img-responsive">
+                </a>
+            </div>
+            <div id="no-template-pager1687280513136" class="cycle-pager external">
+                <span class="">
+                    <img src="" width="50" height="50">
+                </span>
+                <span class="cycle-pager-active">
+                    <img src="" width="50" height="50">
+                </span>
+                <span>
+                    <img src="" width="50" height="50">
+                </span>
+                <span>
+                    <img src="" width="50" height="50">
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,110 @@
+<style>
+    .banner {
+        width: 100%;
+        height: fit-content;
+        overflow: hidden;
+    }
+
+    .slides {
+        width: 400%;
+        height: fit-content;
+        display: flex;
+        transition: transform 1s ease;
+    }
+
+    .slides a {
+        width: fit-content;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .slides a picture img {
+        width: fit-content;
+        height: auto;
+        object-fit: cover;
+    }
+    .aleyantW2P-v6 .custom-html img, .aleyantW2P-v6 .instructions img {
+        max-width: 100vw;
+    }
+</style>
+
+<div class="banner">
+    <div class="slides">
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-05.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    class="scrolling_banner" />
+                <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    alt="Slide 1" />
+            </picture>
+        </a>
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/marketing" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-06.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    class="scrolling_banner" />
+                <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    alt="Slide 2" />
+            </picture>
+        </a>
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/signs" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-07.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    class="scrolling_banner" />
+                <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    alt="Slide 3" />
+            </picture>
+        </a>
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/print-services" target="_blank">
+            <picture>
+                <source media="(max-width: 446px) and (max-width: 446px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-08.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    class="scrolling_banner" />
+                <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    alt="Slide 4" />
+            </picture>
+        </a>
+    </div>
+</div>
+
+<script>
+    const slidesContainer = document.querySelector(".slides");
+    let currentSlide = 0;
+    const slideWidth = document.querySelector(".slides a img").clientWidth;
+    function nextSlide() {
+        currentSlide++;
+        if (currentSlide >= slidesContainer.children.length) {
+            currentSlide = 0;
+        }
+        slidesContainer.style.transform = `translateX(-${currentSlide * (slideWidth * 1)}px)`;
+    }
+    setInterval(nextSlide, 9000); 
+</script>
+
+<!-- This is the Old Code
+    <div class="banner">
+    <div class="slides">
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615" target="_blank">
+            <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg" alt="Slide 1" /></a>
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/marketing" target="_blank">
+            <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg" alt="Slide 2" /></a>
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/signs" target="_blank">
+            <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg" alt="Slide 3" /></a>
+        <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/print-services" target="_blank">
+            <img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg" alt="Slide 4" /></a>
+    </div>
+</div> -->

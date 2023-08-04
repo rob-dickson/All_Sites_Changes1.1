@@ -1,0 +1,2059 @@
+<style>
+    div.navbar-left {
+        grid-row: 2/3;
+        display: flex;
+        margin-left: auto;
+    }
+
+    div.show-desktop {
+        display: grid;
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+    }
+
+    div.account-bar {
+        padding-top: 1em;
+        margin-bottom: 0em;
+        max-width: 60%;
+    }
+
+    div.loginPage {
+        margin-top: 2em;
+    }
+
+    header {
+        background-color: black;
+    }
+
+    .navbar {
+        height: 40px;
+        margin-bottom: 20px;
+    }
+
+    /* nav.navbar {
+        display: none;
+    } */
+    div.header-nav {
+        margin-top: 6em;
+    }
+
+    .navbar-text,
+    div.login span {
+        color: #91B19A;
+    }
+
+    .account-bar .navbar-text {
+        color: #91B19A;
+    }
+
+    .account-bar.navbar-default .navbar-link,
+    .account-bar.navbar-default .navbar-nav>li>a {
+        font-size: larger;
+        color: #91B19A;
+        background-color: black;
+    }
+
+    .account-bar.navbar-default .navbar-link,
+    .account-bar.navbar-default .navbar-nav>li>a {
+        font-size: larger;
+        color: #91B19A;
+        background-color: black;
+    }
+
+    .footer {
+        background-color: #ffffff;
+    }
+
+    .pr-search {
+        display: none;
+    }
+
+    #header-main {
+        height: 30px;
+    }
+
+    .skinsetting-header-logo-height {
+        max-height: 100px;
+    }
+
+    #header-main #cart h4 {
+        color: #91B19A;
+    }
+
+    div.shopping-cart {
+        display: none;
+    }
+</style>
+
+<style>
+    element.style {
+        left: 25%;
+        position: relative;
+    }
+</style>
+
+<div style="display: grid;">
+    <div style="justify-self: center;">
+        <span>© 2020 <b>Real Deals</b> | All Rights Reserved | For more assistance contact: <a
+                href="mailto:abostrom@alphagraphics.com?Subject=Real%Deals%Support%Request"
+                target="_top">abostrom@alphagraphics.com</a></span>
+    </div>
+    <div style="justify-self: center;">
+        <ul class="list-inline social-buttons">
+            <li>
+                <a style="display: inline-block;width: 60px;height: 60px;border-radius: 50%;background-color: #C46683;margin-top: 20px;line-height: 85px;color: #fff;"
+                    href="https://www.facebook.com/RealDealsNation/"><em style="position: relative;left: 29%;"
+                        class="fa fa-3x fa-facebook"></em></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<style>
+    element.style {
+        left: 25%;
+        position: relative;
+        display: grid;
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        background-color: transparent;
+    }
+</style>
+
+<style>
+    .navbar-collapse {
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        padding-right: 0%;
+    }
+
+    .navbar-collapse::after {
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        padding-right: 0%;
+        display: grid;
+    }
+
+    .navbar-collapse::before {
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        padding-right: 0%;
+        display: grid;
+    }
+
+    .navbar-header {
+        display: none;
+    }
+
+    .navbar-collapse {
+        overflow-x: visible;
+        border-top: 1px solid transparent;
+        -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .navbar-collapse:before,
+    .navbar-collapse:after {
+        display: block;
+        content: normal;
+    }
+
+    .navbar-collapse:after {
+        clear: none;
+    }
+
+    .navbar-collapse.in {
+        overflow-y: auto;
+    }
+
+    @media (min-width: 768px) {
+        .navbar-collapse {
+            width: auto;
+            border-top: 0;
+            -webkit-box-shadow: none;
+            box-shadow: none;
+        }
+
+        .navbar-collapse.collapse {
+            display: block !important;
+            height: auto !important;
+            padding-bottom: 0;
+            overflow: visible !important;
+        }
+
+        .navbar-collapse.in {
+            overflow-y: visible;
+        }
+
+        .navbar-fixed-top .navbar-collapse,
+        .navbar-static-top .navbar-collapse,
+        .navbar-fixed-bottom .navbar-collapse {
+            padding-right: 0;
+            padding-left: 0;
+        }
+    }
+
+    @media (max-width: 769px) {
+        .navbar-collapse.collapse {
+            display: block !important;
+            height: auto !important;
+            padding-bottom: 0;
+            overflow: visible !important;
+        }
+    }
+</style>
+
+<style>
+    div.prod-buttons {
+        display: none;
+    }
+
+    .prod-cat-item {
+        border-color: white;
+    }
+
+    h3.skinsetting-prod-caption-heading a {
+        text-align: center;
+    }
+
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: visible;
+        width: 100%;
+        height: 100%;
+    }
+
+    .skinsetting-img-wrap-link {
+        height: 258.5px;
+    }
+
+    .single-line-product-heading .skinsetting-prod-caption-heading>a {
+        white-space: normal;
+        font-size: smaller;
+    }
+
+    .skinsetting-img-wrap-link:hover {
+        box-shadow: 0 0 11px rgba(33, 33, 33, .8);
+    }
+
+    a:focus {
+        outline-offset: 4px;
+    }
+
+    @media (min-width: 768px) {
+        #top-nav {
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+        }
+    }
+</style>
+
+
+<a href="#main-content" class="skiplink">Skip to Main Content</a>
+<style>
+    .skiplink {
+        position: absolute;
+        left: -9999px;
+        top: -9999px;
+    }
+</style>
+<script defer>
+    const skipLink = document.querySelector('.skip-link');
+    const mainContent = document.querySelector('#main-content');
+
+    skipLink.addEventListener('click', (event) => {
+        event.preventDefault();
+        mainContent.tabIndex = -1;
+        mainContent.focus();
+    });
+</script>
+
+<!-- ADD TO RootCategory -->
+<a id="main-content"></a>
+
+<style>
+    /* default background-color  */
+    img.lazyload.img-center {
+        background-color: rgba(241, 241, 241, 1);
+    }
+
+    .prod-cat-item .img-wrap-link {
+        background-color: rgba(241, 241, 241, 1)
+    }
+
+    * {
+        font-family: 'Montserrat', sans-serif;
+    }
+</style>
+
+<style>
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: visible;
+        width: 100%;
+        height: 100%;
+    }
+
+    .skinsetting-img-wrap-link {
+        height: 258.5px;
+    }
+
+    @media (min-width: 768px) {
+        #top-nav {
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+        }
+    }
+</style>
+
+<style>
+    .prod-cat-item .img-wrap a {
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<style>
+    a.resetpassword {
+        color: #007BFF;
+    }
+
+    a.resetpassword:hover {
+        color: #DC3545;
+    }
+
+    .header-main {
+        background-color: #ffffff;
+        color: #000000;
+        padding: 5px;
+    }
+
+    .header-cart .cart-link {
+        background-color: #000000;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 20px;
+    }
+
+    .header-search {
+        display: none;
+    }
+
+    a {
+        color: rgb(0, 0, 0);
+    }
+
+    a:hover {
+        color: #99CCEE;
+    }
+
+    .prod-cat-item:hover .item-title a {
+        color: rgba(0, 123, 255, 1);
+    }
+
+    @media (max-width: 767px) {
+        footer div.container {
+            padding-left: 2em;
+        }
+
+        div.logo a {
+            padding-left: 1em;
+            padding-top: 1em;
+            padding-bottom: 1em;
+        }
+
+        i.fa.fa-fw.fa-bars {
+            display: none;
+        }
+    }
+
+    .item-img-info {
+        background-color: #ffffffb3;
+    }
+</style>
+
+
+
+
+<style>
+    @media (min-width: 768px) {
+        #top-nav {
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+        }
+    }
+</style>
+
+
+<img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/skinimages/RD_POD_Sliders4.jpg">
+
+
+
+<style>
+    .header-top {
+        display: none;
+    }
+
+    .header-cart .cart-link {
+        background-color: #CBE6FC;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1.5px solid #292929;
+    }
+
+    .header-search .form-control {
+        background-color: #f5f6f7;
+        color: #292929;
+        border: 1.5px solid #292929;
+    }
+
+    @media (min-width: 768px) {
+        .logo {
+            text-align: initial;
+        }
+    }
+</style>
+
+
+
+
+
+<style>
+    @media (min-width: 768px) {
+        .logo {
+            text-align: left;
+        }
+
+        #top-navbar .navbar-nav>li>a {
+            padding: 18px 15px;
+        }
+
+        .section-title {
+            margin: 15px 0;
+        }
+
+        .right-col .breadcrumb-wrap {
+            display: none;
+        }
+
+        .left-col .breadcrumb-wrap {
+            display: block;
+        }
+
+        .searchResults>ul {
+            -webkit-column-count: 2;
+            -moz-column-count: 2;
+            column-count: 2;
+        }
+
+        .aleyantW2P-v6.pageType_category .k-widget.k-window {
+            height: 80% !important;
+            width: 80% !important;
+            top: 10% !important;
+            left: 10% !important;
+        }
+
+        .col-sm-12 {
+            width: fit-content;
+        }
+
+        .col-md-5 {
+            width: 450px;
+            padding-left: auto;
+            padding-right: auto;
+        }
+
+        .col-md-3 {
+            width: 200px;
+
+        }
+    }
+
+    .header-body {
+        position: relative;
+    }
+
+    .mobile-links {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .hidden-xs {
+        position: absolute;
+        top: 10px;
+        right: 250px;
+    }
+
+
+
+    @media (max-width: 2000px) {
+        .header-top {
+            display: none;
+        }
+
+        .mobile-logo {
+            grid-column: 1/2;
+        }
+
+        .logo {
+            margin: 4px 0;
+            height: 50px;
+            position: relative;
+        }
+
+        .logo a {
+            display: inline-block;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            -o-transform: translateY(-50%);
+            transform: translateY(-50%);
+            position: absolute;
+            top: 50%;
+            left: 0;
+        }
+
+        .logo img {
+            max-height: 50px;
+        }
+
+        .header-cart {
+            display: none;
+        }
+
+        .header-search {
+            grid-column: 2/3;
+        }
+
+        .header-mobile-links {
+            display: block;
+            margin-right: -8px;
+        }
+
+        .user_restricted .mobile-nav-settings {
+            display: none !important;
+        }
+
+        .user_authenticated .mobile-nav-login {
+            display: none !important;
+        }
+
+        .mobile-nav-btn {
+            font-size: 20px;
+            float: right;
+            line-height: 24px;
+            border-radius: 4px;
+            position: relative;
+            padding: 12px 8px;
+        }
+
+        .mobile-nav-btn .badge {
+            border-radius: 7px;
+            bottom: 24px;
+            font-size: 9px;
+            left: 24px;
+            line-height: 1em;
+            min-width: 14px;
+            padding: 2px;
+            position: absolute;
+            text-align: center;
+        }
+
+        .mobile-logo {
+            width: 50%;
+            max-width: -webkit-calc(100vw - 200px);
+            max-width: calc(100vw - 200px);
+        }
+
+        .mobile-links {
+            width: auto;
+            float: right;
+        }
+
+        header {
+            position: fixed;
+            width: 100%;
+            z-index: 999;
+            -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+            top: 0;
+        }
+
+        header #top-navbar {
+            margin-bottom: 0;
+            border: none;
+            max-height: 400px;
+            max-height: -webkit-calc(100vh - 50px);
+            max-height: calc(100vh - 50px);
+            overflow: auto;
+        }
+
+        body {
+            padding-top: 50px;
+        }
+
+        .general-panel {
+            margin-bottom: 15px;
+        }
+
+        .general-panel .general-panel-heading {
+            padding: 8px;
+            position: relative;
+        }
+
+        .general-panel .general-panel-body {
+            padding: 8px;
+        }
+
+        .ratio-5-6:before {
+            padding-bottom: 100%;
+        }
+
+        .banner-full-screen #main-content,
+        #main-content {
+            margin-top: 15px;
+        }
+
+        .navbar-nav.sm-collapsible a.has-submenu {
+            padding-right: 50px !important;
+        }
+
+        .navbar-nav>li>a {
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+
+        .navbar-nav .open .dropdown-menu .dropdown-header,
+        .navbar-nav .open .dropdown-menu>li>a {
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+
+        .navbar-nav li a:focus,
+        .navbar-nav li a:active,
+        .header-mobile-links a:focus,
+        .header-mobile-links a:active {
+            outline: 2px solid rgba(0, 100, 190, 0.3);
+        }
+
+        .footer-quicklinks {
+            margin: 0 -8px;
+        }
+
+        .list-sort select {
+            max-width: 120px;
+        }
+
+        .navbar-collapse {
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+
+        .nav a {
+            border-bottom: 1px solid rgba(100, 100, 100, 0.1);
+        }
+
+        #sidebar .general-panel-heading {
+            padding: 8px;
+        }
+
+        #sidebar .sidebar-nav .sidebar-nav-toggle {
+            display: block;
+        }
+
+        #sidebar .sidebar-nav .general-panel-body {
+            padding: 0;
+        }
+
+        #sidebar .sidebar-nav .general-panel-heading {
+            padding: 10px 10px;
+        }
+
+        #sidebar .sidebar-nav .navbar-nav {
+            padding: 0;
+        }
+
+        #sidebar .sidebar-nav .navbar-nav li a {
+            padding: 12px 10px 12px 10px;
+        }
+
+        #sidebar .sidebar-nav-toggle {
+            position: absolute;
+            right: 0;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            text-align: right;
+            font-size: 16px;
+            padding: 12px 10px 0 0;
+            display: none;
+        }
+
+        #sidebar .sidebar-nav-toggle:before {
+            font-family: FontAwesome;
+            content: '\f077';
+        }
+
+        #sidebar .sidebar-nav-toggle.collapsed:before {
+            content: '\f078';
+        }
+
+        .sidebar-history,
+        .sidebar-subscriber-logo {
+            display: none;
+        }
+
+        .sidebar-featured-products {
+            padding: 5px;
+        }
+
+        .sidebar-featured {
+            display: none;
+        }
+
+        .sidebar-featured .item-info {
+            padding-bottom: 10px;
+        }
+
+        .isHome .sidebar-featured {
+            display: block;
+        }
+
+        .col-lg-1,
+        .col-lg-10,
+        .col-lg-11,
+        .col-lg-12,
+        .col-lg-2,
+        .col-lg-3,
+        .col-lg-4,
+        .col-lg-5,
+        .col-lg-6,
+        .col-lg-7,
+        .col-lg-8,
+        .col-lg-9,
+        .col-md-1,
+        .col-md-10,
+        .col-md-11,
+        .col-md-12,
+        .col-md-2,
+        .col-md-3,
+        .col-md-4,
+        .col-md-5,
+        .col-md-6,
+        .col-md-7,
+        .col-md-8,
+        .col-md-9,
+        .col-sm-1,
+        .col-sm-10,
+        .col-sm-11,
+        .col-sm-12,
+        .col-sm-2,
+        .col-sm-3,
+        .col-sm-4,
+        .col-sm-5,
+        .col-sm-6,
+        .col-sm-7,
+        .col-sm-8,
+        .col-sm-9,
+        .col-xs-1,
+        .col-xs-10,
+        .col-xs-11,
+        .col-xs-12,
+        .col-xs-2,
+        .col-xs-3,
+        .col-xs-4,
+        .col-xs-5,
+        .col-xs-6,
+        .col-xs-7,
+        .col-xs-8,
+        .col-xs-9 {
+            padding-right: 8px;
+            padding-left: 8px;
+        }
+
+        .row,
+        .navbar-nav,
+        .container-fluid>.navbar-collapse,
+        .container-fluid>.navbar-header,
+        .container>.navbar-collapse,
+        .container>.navbar-header {
+            margin-right: -8px;
+            margin-left: -8px;
+        }
+
+        .container,
+        .container-fluid {
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+
+        .prod-cat-item .img-wrap-link {
+            padding: 10px;
+        }
+
+        .prod-view-list .category-panel .prod-cat-list {
+            margin-left: -8px;
+            margin-right: -8px;
+        }
+
+        .prod-view-list .category-panel .hcategory,
+        .prod-view-list .category-panel .hproduct {
+            margin-bottom: 20px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .cartPage {
+            display: block;
+        }
+
+        .loginCreatePromptLogin,
+        .loginCreatePromptAccount {
+            margin-bottom: 5px;
+        }
+
+        .cartProductAddRemove a {
+            padding: 10px;
+            margin-bottom: 5px;
+            width: 100%;
+        }
+
+        .cartPage .cartProductImage>a {
+            height: auto;
+        }
+
+        .cartPage .cartProductImage>a img {
+            max-height: 90vw;
+            max-width: 100%;
+        }
+
+        .checkoutPage {
+            display: block;
+        }
+
+        .credit-card-security-code-tooltip-wrap img {
+            left: auto;
+            right: 20px;
+        }
+
+        div.col-xs-6.col-sm-4.col-md-3.mobile-links {
+            grid-column: 3/4;
+        }
+
+        .navbar-collapse {
+            display: none;
+        }
+
+        div.row {
+            display: grid;
+        }
+    }
+</style>
+
+
+<style>
+    div.search {
+        margin-top: .5em;
+    }
+
+    div.heroImg {
+        position: relative;
+        text-align: center;
+    }
+
+    div.heroImage {
+        width: 100%;
+        object-fit: cover;
+        background-repeat: no-repeat;
+        opacity: 0.4;
+    }
+
+    div.heroTitle {
+        position: absolute;
+        top: 30%;
+        width: 85%;
+        height: 35%;
+        left: 3em;
+        right: auto;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+    }
+
+    @media (max-width: 400px) {
+        div.heroImg {
+            padding: 0em;
+            text-align: left;
+        }
+
+        div.heroImage {
+            opacity: 0.4;
+        }
+
+        div.heroTitle {
+            font-size: smaller;
+        }
+    }
+
+    div.hcategory,
+    div.prod-cat-list,
+    div.thumbnail {
+        border: none;
+        box-shadow: none;
+    }
+
+    div.hcategory {
+        margin-bottom: 3em;
+    }
+
+    div.caption {
+        text-align: center;
+    }
+
+    div.prod-buttons {
+        display: none;
+    }
+
+    @media (min-width: 1200px) {
+        .navbar-nav {
+            width: max-content;
+        }
+    }
+</style>
+
+<style>
+    header {
+        background-color: #000000;
+        color: #91B19A;
+    }
+
+    #top-nav.navbar-collapse,
+    .banner-full-screen .header-nav,
+    .navbar-default {
+        background-image: none;
+        background-color: rgb(0, 0, 0);
+        border-color: rgb(0, 0, 0);
+        color: #91B19A;
+    }
+
+    .footer-col-title {
+        display: none;
+    }
+
+    .footermodule {
+        width: 80%;
+    }
+
+    .col-md-5 {
+        width: 80%;
+    }
+
+    .footermodule {
+        width: 80%;
+        margin-left: auto;
+        text-align: center;
+    }
+
+    li a {
+        color: #91B19A;
+    }
+
+    .alt-links-color a,
+    a.alt-links-color {
+        color: #91B19A;
+    }
+
+    @media (min-width: 768px) {
+        #top-nav .navbar-nav>li {
+            float: right;
+        }
+
+        #top-nav .navbar-nav>li:first-child>a {
+            border: none;
+            padding-right: 0;
+        }
+
+        #top-nav .navbar-nav {
+            padding-right: 0;
+        }
+    }
+
+    /* .has-submenu:hover {
+        width: 90vw;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    } */
+    a.resetpassword {
+        color: #647b6b;
+    }
+
+    a.resetpassword:hover {
+        color: #ff0000;
+    }
+</style>
+
+<style>
+    li.open>ul:hover {
+        width: 90vw;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+</style>
+
+
+<style>
+    div.navbar-left {
+        grid-row: 2/3;
+        display: flex;
+        margin-left: auto;
+    }
+
+    div.show-desktop {
+        display: grid;
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+    }
+
+    div.loginPage {
+        margin-top: 2em;
+    }
+
+    div.account-bar {
+        padding-top: 1em;
+    }
+
+    header {
+        background-color: black;
+    }
+
+    .account-bar.navbar-default .navbar-link,
+    .account-bar.navbar-default .navbar-nav>li>a {
+        font-size: larger;
+        color: #91B19A;
+        background-color: black;
+    }
+
+    .account-bar.navbar-default .navbar-link,
+    .account-bar.navbar-default .navbar-nav>li>a {
+        font-size: larger;
+        color: #91B19A;
+        background-color: black;
+    }
+
+    /* .navbar {
+        height: 40px;
+        margin-bottom: 0px;
+        border-color: transparent;
+    } */
+    .navbar-text,
+    div.login span {
+        color: white;
+    }
+
+    .account-bar .navbar-text {
+        color: #91B19A;
+    }
+
+    .footer {
+        background-color: white;
+    }
+
+    .pr-search {
+        display: none;
+    }
+
+    #header-main {
+        height: 30px;
+    }
+
+    .skinsetting-header-logo-height {
+        max-height: 100px;
+    }
+
+    #header-main #cart h4 {
+        color: #91B19A;
+    }
+
+    div.shopping-cart {
+        display: none;
+    }
+
+    .navbar-collapse {
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        padding-right: 0%;
+    }
+
+    .navbar-inverse {
+        background-color: transparent;
+    }
+
+    div.login.links.navbar-text {
+        margin: 0;
+    }
+
+    div.account-bar.navbar.navbar-default {
+        margin-bottom: 0;
+    }
+</style>
+
+<style>
+    .single-line-product-heading .skinsetting-prod-caption-heading>a {
+        white-space: normal;
+    }
+
+    .prod-cat-item:hover .item-title a {
+        color: rgba(0, 123, 255, 1);
+    }
+</style>
+
+<!-- --- This text is edited in Sites > Categories > Root --- -->
+<div class="heroImg">
+    <div class="heroImage">
+        <picture>
+            <img src="https://www.alphagraphicsmarketing.com/Clyde/hero.jpeg" alt="heroImage">
+        </picture>
+    </div>
+    <div class="heroTitle">
+        <h2>WELCOME TO YOUR PORTAL</h2>
+        <p>Order your custom print products here, request a quote, or contact us to upload new files.</p>
+    </div>
+</div>
+
+<style>
+    a:focus {
+        border-bottom: 1px solid #0033A0;
+    }
+
+    li a:focus,
+    .loginFormLinks a:focus,
+    .site-logo:focus {
+        border-bottom: none;
+    }
+
+    .contactblcok a {
+        color: #0033A0;
+    }
+
+    *:focus {
+        border: 2px dotted rgba(214, 67, 9, 1);
+    }
+</style>
+
+
+
+<div class="footerContent">
+    <p>
+        <a href="http://orem.alphagraphics.com" target="_blank">orem.alphagraphics.com</a>
+        <br>
+        <a href="tel:(801) 426-6200">(801) 426-6200</a>
+        <br> 1466 N State St<br> Orem, UT 84057
+    </p>
+    <div class="icons">
+        <a href="https://www.facebook.com/alphagraphicsorem" id="facebookIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook"
+                class="svg-inline--fa fa-facebook fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512">
+                <path fill="currentColor"
+                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://www.instagram.com/alphagraphics_orem/" id="instagramIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+                class="svg-inline--fa fa-instagram fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://www.linkedin.com/company/18122141" id="linkedinIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin"
+                class="svg-inline--fa fa-linkedin fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z">
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="pinterestIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest"
+                class="svg-inline--fa fa-pinterest fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 496 512">
+                <path fill="currentColor"
+                    d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z">
+                </path>
+            </svg>
+        </a>
+        <a href="https://www.alphagraphics.com/us-utah-orem-us532" id="globeIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="globe"
+                class="svg-inline--fa fa-globe fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 496 512">
+                <path fill="currentColor"
+                    d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z">
+                </path>
+            </svg>
+        </a>
+    </div>
+    <p>Powered by Alphagraphics Utah County</p>
+</div>
+
+
+<div class="footerContent" style="text-align:center;">
+    <p>
+        <a href="http://orem.alphagraphics.com">http://orem.alphagraphics.com</a><br />
+        <a href="tel:(801) 426-6200">(801) 426-6200</a><br />
+        1466&nbsp;N&nbsp;State&nbsp;St<br />
+        Orem,&nbsp;UT&nbsp;84057
+    </p>
+    <div class="icons">
+        <a href="http://www.facebook.com/alphagraphicsorem" id="facebookIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook"
+                class="svg-inline--fa fa-facebook fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512">
+                <path fill="currentColor"
+                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z">
+                </path>
+            </svg>
+        </a>
+        <a href="http://www.instagram.com/alphagraphics_orem" id="instagramIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+                class="svg-inline--fa fa-instagram fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+                </path>
+            </svg>
+        </a>
+        <a href="http://www.linkedin.com/company/alphagraphics-orem" id="linkedinIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin"
+                class="svg-inline--fa fa-linkedin fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z">
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="pinterestIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest"
+                class="svg-inline--fa fa-pinterest fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 496 512">
+                <path fill="currentColor"
+                    d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z">
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="globeIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="globe"
+                class="svg-inline--fa fa-globe fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 496 512">
+                <path fill="currentColor"
+                    d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z">
+                </path>
+            </svg>
+        </a>
+    </div>
+    <p>Powered&nbsp;by&nbsp;Alphagraphics&nbsp;Utah&nbsp;County </p>
+</div>
+
+<style>
+    div.navbar-left {
+        grid-row: 2/3;
+        display: flex;
+        margin-left: auto;
+    }
+
+    div.show-desktop {
+        display: grid;
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+    }
+
+    div.loginPage {
+        margin-top: 2em;
+    }
+
+    div.account-bar {
+        padding-top: 1em;
+    }
+
+    header {
+        background-color: black;
+    }
+
+    .navbar {
+        height: 40px;
+        margin-bottom: 0px;
+        border-color: transparent;
+    }
+
+    .navbar-text,
+    div.login span {
+        color: white;
+    }
+
+    .account-bar .navbar-text {
+        color: #91B19A;
+    }
+
+    .account-bar.navbar-default .navbar-link,
+    .account-bar.navbar-default .navbar-nav>li>a {
+        font-size: larger;
+        color: #91B19A;
+        background-color: black;
+    }
+
+    .account-bar.navbar-default .navbar-link,
+    .account-bar.navbar-default .navbar-nav>li>a {
+        font-size: larger;
+        color: #91B19A;
+        background-color: black;
+    }
+
+    /* #header-main {
+            height: 30px;
+        } */
+    .skinsetting-header-logo-height {
+        max-height: 100px;
+    }
+
+    #header-main #cart h4 {
+        color: #91B19A;
+    }
+
+    div.shopping-cart {
+        display: none;
+    }
+
+    .navbar-collapse {
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        padding-right: 0%;
+    }
+
+    /* .navbar-inverse {
+        background-color: transparent;
+    } */
+    .navbar-collapse {
+        width: fit-content;
+        margin-right: 0em;
+        margin-left: auto;
+        padding-right: 0%;
+    }
+</style>
+
+<style>
+    header {
+        background-color: #000000;
+        color: #91B19A;
+    }
+
+    #top-nav.navbar-collapse,
+    .banner-full-screen .header-nav,
+    .navbar-default {
+        background-image: none;
+        background-color: rgb(0, 0, 0);
+        border-color: rgb(0, 0, 0);
+        color: #91B19A;
+    }
+
+    .footer-col-title {
+        display: none;
+    }
+
+    .footermodule {
+        width: 80%;
+    }
+
+    .col-md-5 {
+        width: 80%;
+    }
+
+    .footermodule {
+        width: 80%;
+        margin-left: auto;
+        text-align: center;
+    }
+
+    li a {
+        color: #91B19A;
+    }
+
+    .alt-links-color a,
+    a.alt-links-color {
+        color: #91B19A;
+    }
+
+    @media (min-width: 768px) {
+        #top-nav .navbar-nav>li {
+            float: right;
+        }
+
+        #top-nav .navbar-nav>li:first-child>a {
+            border: none;
+            padding-right: 0;
+        }
+
+        #top-nav .navbar-nav {
+            padding-right: 0;
+        }
+    }
+
+    .has-submenu:hover {
+        width: 90vw;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+</style>
+<script>
+    const myElement = document.getElementsByClassName("dropdown-menu");
+
+    myElement.onchange = "changeNav()";
+
+    function changeNav() {
+        const element = document.getElementsByClassName('dropdown-menu');
+
+        if (element.getAttribute('aria-expanded') === 'true') {
+            element.style.width = '90vw';
+            element.style.display = 'grid';
+            element.style.gridTemplateColumns = 'repeat(auto-fill, minmax(150px, 1fr))';
+        }
+    }
+</script>
+
+<style>
+    .item-img-info {
+        border-radius: 1.5em;
+    }
+
+    a.btn.btn-default {
+        display: none;
+    }
+</style>
+
+
+<style>
+    .footer-col-title h4,
+    div.footer-col-title::after {
+        color: #d5cb9f;
+        display: none;
+    }
+
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: hidden;
+        height: fit-content;
+    }
+
+    .prod-cat-item .img-wrap {
+        border-bottom: none;
+        background-color: transparent;
+    }
+
+    .img-responsive {
+        background-color: white;
+    }
+
+    .single-line-product-heading .skinsetting-prod-caption-heading>a {
+        display: block;
+        overflow: hidden;
+        text-overflow: initial;
+        white-space: initial;
+        text-align: center;
+    }
+
+    div.caption div.prod-buttons {
+        text-align: center;
+    }
+
+    div.caption div.prod-buttons a.btn-default,
+    span a.quickViewLink {
+        margin: 0.33em;
+        background-color: #003850;
+        color: white;
+
+    }
+
+    div.caption div.prod-buttons a.btn-default:hover,
+    span a.quickViewLink:hover {
+        background-color: #0092b7;
+        font-size: larger;
+        color: white;
+    }
+
+    .prod-cat-item {
+        border-color: transparent;
+    }
+</style>
+
+
+
+<div style="height:10em;background-color:#d3d3d366;text-align:center;padding-top:3em;">
+    <span>
+        <h2>WELCOME TO YOUR PRINT PORTAL </h2>
+        <p>Order your custom print products here, request a quote, or contact us to upload new files. </p>
+    </span>
+</div>
+
+
+<style>
+    .banner-full-screen #top-navbar {
+        border-bottom: 1px solid #808080;
+    }
+
+    div#sidebar {
+        display: none;
+    }
+
+    @media (min-width: 768px) {
+        .col-md-9 {
+            width: 100%;
+        }
+
+        .banner-full-screen .banner-container {
+            padding: 0px 5em;
+        }
+
+        #nav-main>li>a {
+            padding: 25px 15px;
+            font-weight: bold;
+        }
+    }
+
+    div.banner-container {
+        background-color: rgba(210, 42, 48, 1);
+        height: 8em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    div.home-banner-area {
+        max-width: 795px;
+    }
+
+    .banner-full-screen .home-banner-area {
+        margin-bottom: 0px;
+    }
+
+    @media (max-width: 767px) {
+        .banner-full-screen .banner-container {
+            width: 100%;
+            padding: 0px 10px;
+        }
+    }
+
+    div.footer {
+        width: 100%;
+    }
+
+    .footer .footer-inner {
+        border-top: none;
+    }
+
+    @media (min-width: 992px) {
+        .col-md-5 {
+            width: 100%;
+        }
+    }
+
+    .navbar-nav>li>.dropdown-menu {
+        border: 1px solid black;
+    }
+
+    svg:not(:root).svg-inline--fa {
+        overflow: visible;
+    }
+
+    .svg-inline--fa.fa-w-16 {
+        width: 2em;
+    }
+
+    .fa-2x {
+        font-size: 2em;
+    }
+
+    .svg-inline--fa {
+        display: inline-block;
+        font-size: inherit;
+        height: 2em;
+        overflow: visible;
+        vertical-align: -0.125em;
+    }
+
+    div.icons a {
+        text-decoration: none;
+    }
+
+    div.icons a:hover {
+        color: rgba(210, 42, 48, 1);
+    }
+
+    a {
+        color: white;
+    }
+
+    a:focus,
+    a:hover {
+        color: rgba(210, 42, 48, 1);
+    }
+
+    div.prod-cat-item div.caption {
+        text-align: center;
+    }
+
+    .footer .footer-inner {
+        padding: 50px 0 100px 0;
+    }
+
+    #contentEntry img,
+    .categroy-des-area img,
+    .currentCategoryDes img,
+    .page-content-area img,
+    .product-des-area img,
+    .product-description img {
+        height: 100%;
+    }
+</style>
+
+
+<div class="footerContent">
+    <p>
+        <a href="http://americanfork.alphagraphics.com">americanfork.alphagraphics.com</a><br>
+        <a href="tel:(801) 653-2428">(801) 653-2428</a><br> 309 E State St<br> American Fork, UT 84003
+    </p>
+    <div class="icons">
+        <a href="#" id="facebookIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook"
+                class="svg-inline--fa fa-facebook fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512">
+                <path fill="currentColor"
+                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z">
+
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="instagramIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+                class="svg-inline--fa fa-instagram fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="linkedinIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin"
+                class="svg-inline--fa fa-linkedin fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z">
+
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="pinterestIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest"
+                class="svg-inline--fa fa-pinterest fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 496 512">
+                <path fill="currentColor"
+                    d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z">
+                </path>
+            </svg>
+        </a>
+        <a href="#" id="globeIcon" target="_blank">
+            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="globe"
+                class="svg-inline--fa fa-globe fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 496 512">
+                <path fill="currentColor"
+                    d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z">
+                </path>
+            </svg>
+        </a>
+    </div>
+    <p>Powered by Alphagraphics Utah County</p>
+</div>
+&nbsp
+
+
+<div class="track">
+    <div class="slide next slider-content">
+        <img src="/ustorethemes/AGBaseThemeV2//assets/images/Ad1-Mobile.png"
+            srcset="/ustorethemes/AGBaseThemeV2//assets/images/Ad1-Mobile.png 600w, /ustorethemes/AGBaseThemeV2//assets/images/Ad1.jpg 1280w"
+            sizes="(min-width: 960px) 720px, 100vw">
+    </div>
+    <div class="slide hidden slider-content">
+        <img src="/ustorethemes/AGBaseThemeV2//assets/images/Ad2-Mobile.png"
+            srcset="/ustorethemes/AGBaseThemeV2//assets/images/Ad2-Mobile.png 600w, /ustorethemes/AGBaseThemeV2//assets/images/Ad2.jpg 1280w"
+            sizes="(min-width: 960px) 720px, 100vw">
+    </div>
+    <div class="slide previous slider-content">
+        <img src="/ustorethemes/AGBaseThemeV2//assets/images/Ad3-Mobile.png"
+            srcset="/ustorethemes/AGBaseThemeV2//assets/images/Ad3-Mobile.png 600w, /ustorethemes/AGBaseThemeV2//assets/images/Ad3.jpg 1280w"
+            sizes="(min-width: 960px) 720px, 100vw">
+    </div>
+    <div class="slide current slider-content">
+        <img src="/ustorethemes/AGBaseThemeV2//assets/images/Ad4-Mobile.png"
+            srcset="/ustorethemes/AGBaseThemeV2//assets/images/Ad4-Mobile.png 600w, /ustorethemes/AGBaseThemeV2//assets/images/Ad4.jpg 1280w"
+            sizes="(min-width: 960px) 720px, 100vw">
+    </div>
+</div>
+
+<div style="text-align:center;">
+    <p>
+        <a href="http://americanfork.alphagraphics.com">
+            americanfork.alphagraphics.com</a><br />
+        <a href="tel:(801) 653-2428">(801)&nbsp653-&nbsp2428</a><br />
+        309&nbspE&nbspState&nbspSt<br />
+        American&nbspFork,&nbspUT&nbsp84003
+    </p>
+    <p>
+        Powered&nbspby&nbspAlphagraphics&nbspUtah&nbspCounty
+    </p>
+</div>
+
+
+
+<style>
+    .product-gallery-primary>a {
+        background-color: rgba(241, 241, 241, 1);
+    }
+
+    #sidebar {
+        display: none;
+    }
+
+    .category-controls.clearfix {
+        display: none;
+    }
+
+    @media (min-width: 992px) {
+        .col-md-9 {
+            width: 100%;
+        }
+    }
+
+    div.prod-cat-list.row.inline-block-grid.flex-row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .home-banner-area {
+        border: none;
+        padding: 0px;
+        margin: 8px 0px;
+    }
+
+    #header {
+        margin-bottom: 10px;
+    }
+
+    .currentCategoryDes {
+        margin: 20px -15px;
+    }
+
+    @media (min-width: 768px) {
+        .col-sm-6 {
+            width: 25%;
+        }
+        .div.item-info > h3 > a {
+            width: 100%;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .col-sm-6 {
+            display: inline-block;
+            width: 50%;
+        }
+    }
+</style>
+
+
+<style>
+    @media (max-width: 436px) {
+        #main-content > div > div.currentCategoryDes > div {
+            height:140px !important; 
+        }
+    }
+</style>
+
+
+<style>
+    .welcome-msg {
+        display: none;
+    }
+
+    .header-cart .cart-link {
+        background-color: #99CCEE;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1.5px solid #292929;
+    }
+
+    .header-search .form-control {
+        background-color: #f5f6f7;
+        color: #292929;
+        border: 1.5px solid #292929;
+    }
+
+    @media (min-width: 768px) {
+        .logo {
+            text-align: left;
+        }
+
+        #top-navbar .navbar-nav>li>a {
+            padding: 18px 15px;
+        }
+
+        .section-title {
+            margin: 15px 0;
+        }
+
+        .right-col .breadcrumb-wrap {
+            display: none;
+        }
+
+        .left-col .breadcrumb-wrap {
+            display: block;
+        }
+
+        .searchResults>ul {
+            -webkit-column-count: 2;
+            -moz-column-count: 2;
+            column-count: 2;
+        }
+
+        .aleyantW2P-v6.pageType_category .k-widget.k-window {
+            height: 80% !important;
+            width: 80% !important;
+            top: 10% !important;
+            left: 10% !important;
+        }
+
+        .col-sm-12 {
+            width: fit-content;
+        }
+
+        .col-md-5 {
+            width: 450px;
+            padding-left: auto;
+            padding-right: auto;
+        }
+
+        .col-md-3 {
+            width: 200px;
+        }
+    }
+
+    .header-body {
+        position: relative;
+    }
+
+    .mobile-links {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    div.hidden-xs.col-sm-8.col-md-5.col-lg-6 {
+        position: absolute;
+        top: 10px;
+        right: 200px;
+    }
+
+    footer.footer div.container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+    }
+
+    a {
+        color: #337ab7;
+    }
+</style>
+
+<img src="/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/webfiles/OFFICIALBANNER-01.png" alt="" />
+
+<style>
+    .product-gallery-primary>a {
+        background-color: rgba(241, 241, 241, 1);
+    }
+
+    #sidebar {
+        display: none;
+    }
+
+    @media (min-width: 992px) {
+        .col-md-9 {
+            width: 100%;
+        }
+    }
+
+    div.prod-cat-list.row.inline-block-grid.flex-row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .home-banner-area {
+        border: none;
+        box-shadow: 0px 0px 6px rgba(33, 33, 33, .2);
+        padding: 0px;
+        margin: 8px;
+    }
+
+    #header {
+        margin-bottom: 10px;
+    }
+
+    .currentCategoryDes {
+        margin: 0;
+    }
+</style>
+
+
+Corporate Identity
+https://purlifemedical.brandfulfillment.store/category/corporate-identity
+
+Marketing Materials
+https://purlifemedical.brandfulfillment.store/category/marketing
+
+
+<div id="banner" class="proofBanner"
+    style="background-color: rgb(195, 0, 0);padding: 1em;color: white;text-align: center;font-weight: bolder;font-size: x-large;font-family: 'Courier New', Courier, monospace;">
+    <h2>This Site is Not Live</h2>
+    <h3>Proof View</h3>
+</div>
+
+<style>
+    .proofBanner {
+        background-color: rgb(195, 0, 0);
+        padding: 1em;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        font-size: x-large;
+        font-family: 'Courier New', Courier, monospace;
+    }
+</style>
+
+
+<script defer>
+    const elements = document.getElementsByClassName("userInfo");
+
+    for (let i = 0; i < elements.length; i++) {
+        const content = elements[i].textContent;
+        if (content == " Test View") {
+            // console.log("It Works!");
+            const newElement = document.createElement("div");
+            newElement.style.backgroundColor = "rgb(195, 0, 0)";
+            newElement.style.padding = "1em";
+            newElement.style.color = "white";
+            newElement.style.textAlign = "center";
+            newElement.style.fontWeight = "bolder";
+            newElement.style.fontSize = "x-large";
+            newElement.style.fontFamily = "'Courier New', Courier, monospace";
+            newElement.textContent = "ADMIN VIEW - Not all products are visible to standard users";
+            const targetElement = document.querySelector("#top-navbar");
+            targetElement.appendChild(newElement);
+        }
+    }
+</script>
+
+
+Admin PUR Life Medical
+
+<script defer>
+    const element = document.getElementsByClassName("userInfo");
+
+    for (let i = 0; i < element.length; i++) {
+        const content = element[i].textContent;
+        if (content == " Admin PUR Life Medical") {
+            //console.log("It Works!");
+            const newElement = document.createElement("div");
+            newElement.style.backgroundColor = "rgb(195, 0, 0)";
+            newElement.style.padding = "1em";
+            newElement.style.color = "white";
+            newElement.style.textAlign = "center";
+            newElement.style.fontWeight = "bolder";
+            newElement.style.fontSize = "x-large";
+            newElement.style.fontFamily = "'Courier New', Courier, monospace";
+            newElement.textContent = "ADMIN VIEW - Not all products are visible to standard users";
+            const targetElement = document.querySelector("#top-navbar");
+            targetElement.appendChild(newElement);
+        };
+    };
+</script>
+
+Admin PUR Life Medical
+ Admin PUR Life Medical
+
+
+<script defer>
+    const element1 = document.getElementsByClassName("userInfo");
+
+    for (let i = 0; i < element1.length; i++) {
+        const content = element1[i].textContent;
+        if (content == " Admin PUR Life Medical") {
+            //console.log("It Works!");
+            const newElement = document.createElement("div");
+            newElement.style.backgroundColor = "rgb(195, 0, 0)";
+            newElement.style.padding = "1em";
+            newElement.style.color = "white";
+            newElement.style.textAlign = "center";
+            newElement.style.fontWeight = "bolder";
+            newElement.style.fontSize = "x-large";
+            newElement.style.fontFamily = "'Courier New', Courier, monospace";
+            newElement.textContent = "ADMIN VIEW - Not all products are visible to standard users";
+            const targetElement = document.querySelector("#top-navbar");
+            targetElement.appendChild(newElement);
+        };
+    };
+</script>
+
+<style>
+    div.footer-col-title h4 {
+        display: none;
+    }
+</style>
+
+<font face='FUTURASTDMEDIUM' fontsize='13.34pt' spot='rgb(44, 147, 111)'></font>
+
+<style>
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: visible;
+        max-height: 200px;
+        position: relative;
+        color: #2c936f;
+        color: #77797b;
+        color: #77797b;
+    }
+
+    .img-responsive {
+        display: block;
+        max-height: 100%;
+    }
+
+    .single-line-product-heading .skinsetting-prod-caption-heading>a {
+        white-space: wrap;
+        font-size: smaller;
+    }
+</style>

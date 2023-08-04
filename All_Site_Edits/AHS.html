@@ -1,0 +1,87 @@
+
+<style>
+    .slider-wrapper-single {
+    overflow: hidden;
+    font-family: 'Montserrat';
+}
+.slider-wrapper-single .slider, .promotion-item {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width: 1199px) {
+    .promotion-item .main, .promotion-item .promotion-image {
+        height: var(465px * 0.75);
+    }
+}
+.promotion-item, .promotion-item .promotion-image {
+    width: 100%;
+    object-fit: cover;
+    height: 465px;    
+    vertical-align: middle;
+}
+
+.herotext {
+    height: 465px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    background-color: rgba(96, 96, 96, 0.36);
+    width: 100%;
+}
+
+.title-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+.promotion-item * {
+    align-self: center;
+}
+.herotext .title {
+    font-weight: bold;
+}
+.herotext .title {
+    font-size: 2.4em;
+}
+
+@media (max-width: 1224px) {
+    .herotext .title {
+        font-size: 1.75em;
+    }
+    .herotext .subtitle {
+        font-size: 1em;
+    }
+}
+
+.herotext .text {
+    color: #fff;
+}
+
+@media (min-width: 1224px) {
+    .herotext .subtitle {
+        font-size: 1.25em;
+    }
+}
+</style>
+
+<div class="slider-wrapper-single">
+    <div class="slider" style="justify-content: center;">
+        <div class="promotion-item">
+            <img class="promotion-image"
+                src="https://ahs.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AHS Worldwide/AHS_Banner_2939_2000w.jpg"
+                alt="">
+        </div>
+        <div class="herotext">
+            <div class="title-area">
+                <div class="title text">WELCOME TO THE AHS WORLDWIDE PRINT PORTAL</div>
+                <div class="subtitle text">Order your parent, teacher, and student manuals and other teaching resources here</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

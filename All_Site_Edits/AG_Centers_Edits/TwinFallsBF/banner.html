@@ -1,0 +1,105 @@
+<style>
+    .bannerslides {
+        position: relative;
+    }
+
+    .banner-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 2s ease;
+        width: 100vw;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .banner-image.active {
+        opacity: 1;
+        transition: opacity 2s ease;
+    }
+    .bannerbox {
+        width: 100%;
+        height: fit-content;
+    }
+    .bannerslides {
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        transition: transform 2s ease;
+    }
+    .bannerslides a {
+        width: fit-content;
+        height: auto;
+        object-fit: cover;
+    }
+</style>
+<div class="bannerbox">
+    <div class="bannerslides">
+        <a href="https://www.alphagraphics.com/us-idaho-twin-falls-us838" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-05.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    class="scrolling_banner" />
+                <img class="banner-image active"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    alt="Slide 1" />
+            </picture>
+        </a>
+        <a href="https://www.alphagraphics.com/us-idaho-twin-falls-us838/marketing" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-06.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    class="scrolling_banner" />
+                <img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    alt="Slide 2" />
+            </picture>
+        </a>
+        <a href="https://www.alphagraphics.com/us-idaho-twin-falls-us838/signs" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-07.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    class="scrolling_banner" />
+                <img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    alt="Slide 3" />
+            </picture>
+        </a>
+        <a href="https://www.alphagraphics.com/us-idaho-twin-falls-us838/print-services" target="_blank">
+            <picture>
+                <source media="(max-width: 446px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-08.jpg"
+                    class="scrolling_banner" />
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    class="scrolling_banner" />
+                <img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    alt="Slide 4" />
+            </picture>
+        </a>
+    </div>
+</div>
+<script>
+    function fadeImages() {
+        const images = document.querySelectorAll('.banner-image');
+        let currentIndex = 0;
+
+        setInterval(() => {
+            images[currentIndex].classList.remove('active');
+            currentIndex = (currentIndex + 1) % images.length;
+            images[currentIndex].classList.add('active');
+        }, 10000); 
+    }
+    fadeImages();
+</script>

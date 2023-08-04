@@ -1,0 +1,74 @@
+
+.slider-wrapper-single {
+    overflow: hidden;
+    font-family: 'Montserrat';
+}
+.slider-wrapper-single .slider, .promotion-item {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width: 1199px) {
+    .promotion-item .main, .promotion-item .promotion-image {
+        height: var(465px * 0.75);
+    }
+}
+.promotion-item, .promotion-item .promotion-image {
+    width: 100%;
+    object-fit: cover;
+    height: 465px;    
+    vertical-align: middle;
+}
+
+.promotion-image {
+    z-index: -10001;
+}
+
+.herotext {
+    height: 465px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: calc(var(465px)*-1);
+    background-color: var(--promotion-background-color);
+    z-index: 100;
+}
+.title-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+.promotion-item * {
+    align-self: center;
+}
+.herotext .title {
+    font-weight: bold;
+}
+.herotext .title {
+    font-size: 45px;
+}
+
+@media (max-width: 1224px) {
+    .herotext .title {
+        font-size: 1.75em;
+    }
+    .herotext .subtitle {
+        font-size: 1em;
+    }
+}
+
+.herotext .text {
+    color: #fff;
+}
+
+.slider-wrapper-single .slider {
+    background-color: rgba(96, 96, 96, 0.36);
+}
+
+@media (min-width: 1224px) {
+    .herotext .subtitle {
+        font-size: calc(45px*0.6);
+    }
+}

@@ -1,0 +1,219 @@
+<!-- The provided code is an XML document representing a shipment confirmation request. -->
+<!-- First Section  Has access information for the request. It includes the access license number, user ID, and a text placeholder. -->
+<?xml version="1.0"?>
+<AccessRequest>
+	<AccessLicenseNumber>
+		5D09EA8DF52C4538
+	</AccessLicenseNumber>
+	<UserId>
+		speedycps
+	</UserId>
+	<Text>
+		********
+	</Text>
+</AccessRequest>
+<!-- shipment confirmation details -->
+<!-- describe the shipment and its associated information -->
+<?xml version="1.0"?>
+<ShipmentConfirmRequest>
+	<Request>
+		<RequestAction>
+			ShipConfirm
+		</RequestAction>
+		<RequestOption>
+			nonvalidate
+		</RequestOption>
+		<TransactionReference>
+			<CustomerContext />
+			<XpciVersion>
+				1.0001
+			</XpciVersion>
+		</TransactionReference>
+	</Request>
+	<LabelSpecification>
+		<LabelPrintMethod>
+			<Code>
+				GIF
+			</Code>
+		</LabelPrintMethod>
+		<HTTPUserAgent>
+			Mozilla/5.0
+		</HTTPUserAgent>
+		<LabelImageFormat>
+			<Code>
+				GIF
+			</Code>
+		</LabelImageFormat>
+	</LabelSpecification>
+	<Shipment>
+		<Description />
+		<Shipper>
+			<Name>
+				Walt
+			</Name>
+			<CompanyName>
+				AlphaGraphics
+			</CompanyName>
+			<AttentionName>
+				Walt
+			</AttentionName>
+			<PhoneNumber>
+				2085222679
+			</PhoneNumber>
+			<FaxNumber />
+			<Address>
+				<AddressLine1>
+					1680 Bentley Way
+				</AddressLine1>
+				<AddressLine2 />
+				<City>
+					Idaho Falls
+				</City>
+				<StateProvinceCode>
+					ID
+				</StateProvinceCode>
+				<PostalCode>
+					83401
+				</PostalCode>
+				<CountryCode>
+					US
+				</CountryCode>
+			</Address>
+			<ShipperNumber>
+				063236
+			</ShipperNumber>
+		</Shipper>
+		<ShipTo>
+			<Name>
+				Real Deals - Great Falls #219
+			</Name>
+			<CompanyName>
+				Real Deals - Great Falls #219
+			</CompanyName>
+			<AttentionName>
+				Monique Meehan
+			</AttentionName>
+			<PhoneNumber>
+				4063151154
+			</PhoneNumber>
+			<FaxNumber />
+			<ResidentialAddress />
+			<Address>
+				<AddressLine1>
+					117 Park Drive South
+				</AddressLine1>
+				<AddressLine2 />
+				<City>
+					Great Falls
+				</City>
+				<StateProvinceCode>
+					MT
+				</StateProvinceCode>
+				<PostalCode>
+					59401
+				</PostalCode>
+				<CountryCode>
+					US
+				</CountryCode>
+				<ResidentialAddress />
+			</Address>
+		</ShipTo>
+		<ShipFrom>
+			<Name>
+				AlphaGraphics
+			</Name>
+			<CompanyName>
+				AlphaGraphics
+			</CompanyName>
+			<AttentionName>
+				Walt
+			</AttentionName>
+			<PhoneNumber>
+				2085222679
+			</PhoneNumber>
+			<FaxNumber />
+			<Address>
+				<AddressLine1>
+					1680 Bentley Way
+				</AddressLine1>
+				<AddressLine2 />
+				<City>
+					Idaho Falls
+				</City>
+				<StateProvinceCode>
+					ID
+				</StateProvinceCode>
+				<PostalCode>
+					83401
+				</PostalCode>
+				<CountryCode>
+					US
+				</CountryCode>
+			</Address>
+		</ShipFrom>
+		<PaymentInformation>
+			<Prepaid>
+				<BillShipper>
+					<AccountNumber>
+						063236
+					</AccountNumber>
+				</BillShipper>
+			</Prepaid>
+		</PaymentInformation>
+		<Service>
+			<Code>
+				03
+			</Code>
+		</Service>
+		<ShipmentServiceOptions />
+		<RateInformation>
+			<NegotiatedRatesIndicator>
+				1
+			</NegotiatedRatesIndicator>
+		</RateInformation>
+		<Package>
+			<Description />
+			<Dimensions>
+				<Length>
+					25
+				</Length>
+				<Width>
+					25
+				</Width>
+				<Height>
+					3
+				</Height>
+				<UnitOfMeasurement>
+					<Code>
+						IN
+					</Code>
+				</UnitOfMeasurement>
+			</Dimensions>
+			<PackageWeight>
+				<UnitOfMeasurement>
+					<Code>
+						LBS
+					</Code>
+				</UnitOfMeasurement>
+				<Weight>
+					0.56
+				</Weight>
+			</PackageWeight>
+			<PackagingType>
+				<Code>
+					02
+				</Code>
+			</PackagingType>
+			<PackageServiceOptions>
+				<InsuredValue>
+					<CurrencyCode>
+						USD
+					</CurrencyCode>
+					<MonetaryValue>
+						0
+					</MonetaryValue>
+				</InsuredValue>
+			</PackageServiceOptions>
+		</Package>
+	</Shipment>
+</ShipmentConfirmRequest>
