@@ -1,6 +1,9 @@
 <a href="#main-content" class="skiplink">Skip to Main Content</a>
 
 <style>
+    #content > div.prod-cat-list.inline-block-grid.flex-row.row > div {
+        max-width: 250px;
+    }
     .skiplink {
         position: absolute;
         left: -9999px;
@@ -61,13 +64,13 @@
 
     @media (max-width: 446px) {
         .col-md-5 {
-            margin-top: 73%;
+            margin-top: 3em;
         }
     }
 
     @media (min-width: 447px) {
         .col-md-5 {
-            margin-top: 17%;
+            margin-top: 3em;
         }
     }
 
@@ -197,6 +200,9 @@
         width: 80vw;
         text-align: center;
         margin: auto;
+        display: flex;
+        justify-content: center;
+        max-width: 1268px;
     }
 
     .prod-cat-item .img-wrap a {
