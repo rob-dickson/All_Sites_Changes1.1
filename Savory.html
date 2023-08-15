@@ -1,0 +1,68 @@
+<style>
+    #top-nav .navbar-nav>li>a {
+        padding: 5px 8px !important;
+    }
+    @media (min-width: 768px) {
+        #top-nav {
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+        }
+    }
+    @media (max-width: 992px) {
+        #top-nav {
+            font-size: smaller;
+            font-weight: bold;
+        }
+    }
+    li.category a {
+        padding: 5px 8px;
+    } 
+    span.caret {
+        display: none;
+    }
+    #main-content > div > div.prod-cat-list.inline-block-grid.flex-row.row {
+        margin-top: 4em;
+    }
+    .product-gallery-primary {
+        background-color: #f5f5f5;
+    }
+    .caption {
+        text-align: center;
+    }
+    @media (max-width: 563px) {
+        #main-content > div > div.prod-cat-list.inline-block-grid.flex-row.row {
+            margin-top: 6em;
+        }
+    }
+    @media (max-width: 505px) {
+        div.caption > h3 > a {
+            font-size: .7em;
+        }
+    }
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: visible;
+        width: 100%;
+        height: 100%;
+    }
+    .prod-cat-item {
+        border: 2px solid transparent;
+    }
+    .prod-cat-item .img-wrap {
+        border-bottom-color: transparent;
+    }
+    body > footer > div.container > div.row.footer-logo > div {
+        padding: 0 0 2em 0;
+    }
+    .navbar-nav {
+        width: auto !important;
+    }
+    body > div.container.banner-container {
+        display: none;
+    }
+</style>
+<script>
+    let change = document.querySelector("#calculatorTotal")
+    change.style.color = "#eeeeee";
+</script>
