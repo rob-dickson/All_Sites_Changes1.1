@@ -1,2 +1,31 @@
+
+
 urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks,
+
+
 5238;"XS#0|S#0|M#0|L#0|XL#0|XXL#10|XXXL#10";"Ocher#ab781f#0|White#ffffff#0";"M|White|Front|20";"Front#0|Back#0|Front & Back#10";"10";"5";"0-11#25.00|12-23#24|24-47#23|48-71#22|72-143#21|144-287#20"
+
+urlProducto
+    mens-T-shirt;
+
+sizes
+    XS#0|S#0|M#0|L#0|XL#0|XXL#10|XXXL#10;
+
+colors
+    Cyan#00b0bc#0|Black#000000#10|White#ffffff#0|Red#e22323#0|Green#2bb830#0|Yellow#e4bd0b#0;
+
+base
+    M|White|Front|20;
+
+areas
+    Front#0|Back#0|Front & Back#10;
+
+weight
+    10;
+
+MinQuantity
+    5;
+
+PriceBreaks
+    0-11#25.00|12-23#24|24-47#23|48-71#22|72-143#21|144-287#20
+
