@@ -1,18 +1,11 @@
-<style>
-    div {
-        background-color: #30B04B;
-        background-color: #b8e986;
-        background-color: #30B04B;
-    }
-</style>
-
-
-<!--  -->
-
+<!-- MAIN HTML/CSS -->
 
 <a href="#main-content" class="skiplink">Skip to Main Content</a>
 
 <style>
+    #content > div.prod-cat-list.inline-block-grid.flex-row.row > div {
+        max-width: 250px;
+    }
     .skiplink {
         position: absolute;
         left: -9999px;
@@ -266,6 +259,25 @@
     #orderFilters > div {
         margin-right: 0% !important;
         margin-left: 0% !important;
+    }
+    #main-content .featured-products .featured-prod-item .img-wrap a, .prod-cat-item .img-wrap a {
+        background-image: linear-gradient(to top right, #b8e9869c, #30B04B);
+        padding: 0.5em;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 5px;
+    }
+    .prod-cat-item {
+        max-width: 280px;
+    }
+    .hcategory, .hproduct {
+        margin-bottom: 50px;
+        max-width: 300px;
+    }
+    #content>div.prod-cat-list.inline-block-grid.flex-row.row {
+        width: 80vw;
+        text-align: center;
+        margin: auto;
+        justify-content: center;
     }
 </style>
 
