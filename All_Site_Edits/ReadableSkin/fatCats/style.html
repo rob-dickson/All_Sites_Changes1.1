@@ -46,15 +46,14 @@
 
     .navbar-inverse .navbar-nav>li>a {
         color: white;
-        font-size: smaller;
+    }
+    .navbar-nav>li>a,
+    .navbar {
+        border: none;
     }
 
     body>header>div.header-nav>div>nav {
         margin-bottom: 0px;
-    }
-
-    .navbar {
-        border: none;
     }
 
     body>header>div.account-bar.navbar.navbar-default>div>div.show-desktop.hidden-sm.hidden-xs>div.quick-access.navbar-left>div {
@@ -116,6 +115,11 @@
 
     /* ##########  BODY  ########## */
 
+    #main-content > div > div.prod-cat-list.flex-row.row > div > div > div.caption {
+        border-radius: 10px;
+        background: transparent;
+    }
+
     #main-sidebar>div>h2 {
         color: #ffffff;
     }
@@ -134,7 +138,6 @@
     }
 
     #main-sidebar>div {
-
         border: 1px solid #ffffff;
     }
 
@@ -153,8 +156,9 @@
 
     .prod-cat-list .thumbnail {
         margin: 0;
-        background-color: #10131C;
+        background-color: #393E50;
         border: none !important;
+        margin: 1em;
     }
 
     .flex-row.row {
@@ -165,6 +169,7 @@
     div.caption>h3>a {
         color: #ffffff;
         font-size: smaller;
+        display: none;
     }
 
     #main-content>div>div.breadcrumb-wrap,
@@ -172,4 +177,42 @@
     #main-content>div {
         background-color: #10131C;
     }
+    body > header > div.header-nav > div {
+        border-bottom: 4px solid #878B99;
+        margin-bottom: 2em;
+    }
+    .footer {
+        border-top: 4px solid #878B99;
+    }
+
+    @media (min-width: 768px) {
+        .navbar-nav {
+            float: none;
+            margin: 0;
+        }
+        #nav-one {
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+    body > header > div.header-nav > div > nav > div.navbar-header > span {
+        color: #ffffff;
+    }
+    @media (max-width: 768px) {
+        body > header > div.account-bar.navbar.navbar-default {
+            margin-bottom: -35px;
+            padding-top: 10px;
+        }
+        #header-main > div > div > div.col-lg-3.col-md-3.col-sm-5.col-xs-12.logo > div {
+            margin-bottom: 10px;
+        }
+        #header-main > div > div > div.col-lg-3.col-md-3.col-sm-5.col-xs-12.logo {
+            width: fit-content;
+        }
+    }
+    span.icon-bar {
+        background-color: #10131C !important;
+    }
+
 </style>
