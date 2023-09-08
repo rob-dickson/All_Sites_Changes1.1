@@ -1,0 +1,55 @@
+<style>
+    @media (min-width: 768px) {
+        #nav-main {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            padding: 0px !important;
+            background-color: #DA291C;
+        }
+
+        .navbar-nav>li {
+            float: left;
+            padding: 0.5em;
+        }
+
+        .caret {
+            display: none;
+        }
+
+        li.depth1 a.has-submenu {
+            border: none !important;
+            color: white;
+        }
+
+        .navbar-nav>li:hover {
+            background-color: #b92318;
+        }
+
+        #nav-main>li.depth1.submenu.americanfork {
+            grid-column: 1/2;
+        }
+
+        li.depth2 {
+            border-bottom: 1px dashed #c7c9cb;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .navbar-nav.sm-collapsible .navbar-toggle {
+            border-width: 1px;
+            border-style: solid;
+            display: none;
+        }
+
+        .navbar-default .navbar-nav>.active>a,
+        .navbar-default .navbar-nav>.active>a:focus,
+        .navbar-default .navbar-nav>.active>a:hover,
+        .navbar-default .navbar-nav>.open>a,
+        .navbar-default .navbar-nav>.open>a:focus,
+        .navbar-default .navbar-nav>.open>a:hover,
+        .navbar-default .navbar-nav>li>a:focus,
+        .navbar-default .navbar-nav>li>a:hover {
+            color: #DA291C;
+        }
+    }
+</style>
