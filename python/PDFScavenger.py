@@ -14,10 +14,10 @@ def pdf_to_png(pdf_file, output_folder):
         image.save(os.path.join(output_folder, f'page_{i + 1}.png'), 'PNG')
 
 # Input directory containing PDF files
-input_directory = 'C:\Users\Rob D\Downloads\Swig'
+input_directory = r'C:\Users\Rob D\Downloads\Swig'
 
 # Output directory to save PNG files
-output_directory = 'C:\Users\Rob D\Downloads\SwigImg'
+output_directory = r'C:\Users\Rob D\Downloads\SwigImg'
 
 # List all PDF files in the input directory
 pdf_files = [os.path.join(input_directory, filename) for filename in os.listdir(input_directory) if filename.lower().endswith('.pdf')]
