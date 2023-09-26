@@ -1,0 +1,32 @@
+<style>
+    .banner {
+        width: 100%;
+        height: auto;
+    }
+
+    .banner img {
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<div class="banner">
+    <a href="https://dentive.brandfulfillment.store/page/Request">
+        <img src="https://adminc.pro-matters.com/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/DentivePROMOBanners_DentiveBanner.png"
+            alt="Dentive Banner 1" id="BannerImage">
+    </a>
+</div>
+<script>
+    const image = document.getElementById("BannerImage");
+
+    const originalSrc = image.src;
+    const hoverSrc = "https://adminc.pro-matters.com/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/DentivePROMOBanners_DentiveHOVER.png";
+
+    image.addEventListener("mouseover", function () {
+        image.src = hoverSrc;
+    });
+
+    image.addEventListener("mouseout", function () {
+        image.src = originalSrc;
+    });
+</script>
+<div id="builder-content-end"></div>
