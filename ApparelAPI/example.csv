@@ -1,34 +1,31 @@
-﻿
+﻿urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
+22829-00008-WomensZipUpJacket;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|Front|0;Front#0;1;0;0-999999#0;
+22829-00016-HeatheredTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Heather#9c9da4#0;M|Heather|Front|0;Front#0;1;0;0-999999#0;
+22829-00024-MensZipUpJacket;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|Front|0;Front#0;1;0;0-999999#0;
+22829-00033-MensAdidasPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-999999#0;
+22829-00068-FleeceSweater;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Blue#4169e1#0;M|Blue|Front|0;Front#0;1;0;0-999999#0;
+22829-00083-LongSleeveCrew;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Blue#4169e1#0;M|Blue|Front|0;Front#0;0;0;0-999999#0;
+22829-00087-StandardLongSleeve;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Heather#9c9da4#0;M|Heather|Front|0;Front#0;0;0;0-999999#0;
+22829-00096-NextLevelStandardTee;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Heather#364062#0;M|Heather|Front|0;Front#0;0;0;0-999999#0;
+22829-00144-Pinnies;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;White#ffffff#0;M|White|Front|0;Front#0;0;0;0-999999#0;
+22829-00189-NikeLongSleeveTeeCharcoal;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Charcoal#3C4142#0;M|Charcoal|Front|0;Front#0;1;0;0-999999#0;
+22829-00192-NikeLongSleeveTeeLightGrey;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;LightGrey#d3d3d3#0;M|LightGrey|Front|0;Front#0;0;0;0-999999#0;
+23109-00042-TshirtPoweringTheIndustry;XS#0|S#0|M#0|L#0|XL#0|2XL#0;Black#000000#0|Cool Blue#1C3A56#0|Ice Blue#BAE2F8#0;M|Black|Front|0;Front#0;1;0;0-999999#10;
+23109-00044-TshirtHomeLoansAreMyThing;XS#0|S#0|M#0|L#0|XL#0|2XL#0;Black#000000#0|Cool Blue#1C3A56#0;M|Black|Front|0;Front#0;1;0;0-999999#10;
+23109-00056-TshirtMortgageGuru;XS#0|S#0|M#0|L#0|XL#0|2XL#0;Black#000000#0|Cool Blue#1C3A56#0;M|Black|Front|0;Front#0;1;0;0-999999#10;
+23109-00060-MelinHatHydro;Universal#0;Grey#bebfc1#0|Cool Blue#1C3A56#0|Ice Blue#BAE2F8#0;M|Grey|Front|0;Front#0;0.250;0;0-999999#50;
+19998-00044-LongSleeveTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;1;0;0-999999#0;
+19998-00116-ZipPulloverMens;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;1;0;0-9999999#0;
+19998-00117-ZipPulloverWomens;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;1;0;0-9999999#0;
+19998-00118-BellaCanvasPocketTeeWomens;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Grey#d3d3d3#0;M|Grey|Front|0;Front#0;0;0;0-9999999#0;
+19998-00119-PortCoPocketTeeMens;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Grey#d3d3d3#0;M|Grey|Front|0;Front#0;1;0;0-9999999#0;
+25810-00032-BellaCanvasZipHoodieGrey;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Grey#bebfc1#0;M|Grey|Front|0;Front#0;1;0;0-9999999#0;
+25810-00043-WhiteLogoTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0;
+25810-00044-InnovateOrDieTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0;
+25810-00045-GreenLogoTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0;
+25810-00046-MoreThanJustaNumberTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0;
+25810-00047-PermissionedDataTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0;
+25810-00048-GetShitDoneTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0;
 
-urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
-
-22829-00008-WomensZipUpJacket;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Navy#202A44#0";"M|Navy|Front|0";"Front#0";"1";"0";"0-999999#0"
-22829-00016-HeatheredTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Heather#9c9da4#0";"M|Heather|Front|0";"Front#0";"1";"0";"0-999999#0"
-22829-00024-MensZipUpJacket;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Navy#202A44#0";"M|Navy|Front|0";"Front#0";"1";"0";"0-999999#0"
-22829-00033-MensAdidasPolo;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-999999#0"
-22829-00068-FleeceSweater;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Blue#4169e1#0";"M|Blue|Front|0";"Front#0";"1";"0";"0-999999#0"
-22829-00083-LongSleeveCrew;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Blue#4169e1#0";"M|Blue|Front|0";"Front#0";"0";"0";"0-999999#0"
-22829-00087-StandardLongSleeve;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Heather#9c9da4#0";"M|Heather|Front|0";"Front#0";"0";"0";"0-999999#0"
-22829-00096-NextLevelStandardTee;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Heather#364062#0";"M|Heather|Front|0";"Front#0";"0";"0";"0-999999#0"
-22829-00144-Pinnies;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"White#ffffff#0";"M|White|Front|0";"Front#0";"0";"0";"0-999999#0"
-22829-00189-NikeLongSleeveTeeCharcoal;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Charcoal#3C4142#0";"M|Charcoal|Front|0";"Front#0";"1";"0";"0-999999#0"
-22829-00192-NikeLongSleeveTeeLightGrey;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"LightGrey#d3d3d3#0";"M|LightGrey|Front|0";"Front#0";"0";"0";"0-999999#0"
-
-23109-00042-TshirtPoweringTheIndustry;"XS#0|S#0|M#0|L#0|XL#0|2XL#0";"Black#000000#0|Cool Blue#1C3A56#0|Ice Blue#BAE2F8#0";"M|Black|Front|0";"Front#0";"1";"0";"0-999999#10"
-23109-00044-TshirtHomeLoansAreMyThing;"XS#0|S#0|M#0|L#0|XL#0|2XL#0";"Black#000000#0|Cool Blue#1C3A56#0";"M|Black|Front|0";"Front#0";"1";"0";"0-999999#10"
-23109-00056-TshirtMortgageGuru;"XS#0|S#0|M#0|L#0|XL#0|2XL#0";"Black#000000#0|Cool Blue#1C3A56#0";"M|Black|Front|0";"Front#0";"1";"0";"0-999999#10"
-23109-00060-MelinHatHydro;"Universal#0";"Grey#bebfc1#0|Cool Blue#1C3A56#0|Ice Blue#BAE2F8#0";"M|Grey|Front|0";"Front#0";"0";"0";"0-999999#50"
-
-19998-00044-LongSleeveTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"1";"0";"0-999999#0"
-19998-00116-ZipPulloverMens;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"1";"0";"0-9999999#0"
-19998-00117-ZipPulloverWomens;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"1";"0";"0-9999999#0"
-19998-00118-BellaCanvasPocketTeeWomens;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Grey#d3d3d3#0";"M|Grey|Front|0";"Front#0";"0";"0";"0-9999999#0"
-19998-00119-PortCoPocketTeeMens;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Grey#d3d3d3#0";"M|Grey|Front|0";"Front#0";"1";"0";"0-9999999#0"
-
-25810-00032-BellaCanvasZipHoodieGrey;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Grey#bebfc1#0";"M|Grey|Front|0";"Front#0";"1";"0";"0-9999999#0"
-25810-00043-WhiteLogoTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-9999999#0"
-25810-00044-InnovateOrDieTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-9999999#0"
-25810-00045-GreenLogoTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-9999999#0"
-25810-00046-MoreThanJustaNumberTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-9999999#0"
-25810-00047-PermissionedDataTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-9999999#0"
-25810-00048-GetShitDoneTShirt;"XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0";"Black#000000#0";"M|Black|Front|0";"Front#0";"0";"0";"0-9999999#0"
+21332-00032-SeeBeyondShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;.49;0;0-9999999#0;
+21332-00008-Highlighter;Large;Blue#4873b9|Yellow#e8e734;Large|Blue|0;;1;0;0-999999#0;
