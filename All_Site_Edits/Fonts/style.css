@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'WallopBold';
+    src: url('https://www.alphagraphicsmarketing.com/Fonts/Wallop-Bold.otf') format('otf')
+
+
+
+}
+
+
+span {
+    font-family: 'WallopPRPL-Bold';
+    font-family: 'Courier New', Courier, monospace;
+}
+
+@font-face {
+    font-family: "WallopPRPL-Bold";
+    src: url("https://purple.com/themes/custom/themekit/dist/assets/fonts/Wallop/WallopPRPL-Bold.woff2") format("woff2");
+    font-weight: 400;
+    font-style: bold;
+    font-display: swap
+}
