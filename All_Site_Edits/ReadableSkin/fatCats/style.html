@@ -31,7 +31,31 @@
 <!-- ############################################################### -->
 <!-- ############################################################### -->
 
+
+
 <style>
+    /* ##########  Login Page  ########## */
+    @media (min-width: 992px) {
+        #loginPage {
+            padding-right: 35%;
+        }
+
+        .loginForm {
+            width: auto;
+            margin: 0 auto 60px;
+            border-width: 2px;
+            border-style: none;
+        }
+    }
+
+    .loginForm ol {
+        color: black;
+    }
+
+    .loginForm legend {
+        text-indent: 0em;
+    }
+
     /* ##########  Header  ########## */
 
     body>header,
@@ -230,15 +254,12 @@
     #main-content>div.categoryPage_root>div.prod-cat-list.flex-row.row>div>div>div.caption>div.prod-buttons>a {
         font-weight: 600;
     }
-</style>
 
-<!-- #loginpnl > div > form > div > fieldset
-    fieldset {
-        max-width: 510px;
+    #main-content>div>div.prod-cat-list.flex-row.row>div>div>div.caption>h3 {
+        display: none;
     }
-    .col-lg-9 {
-        width: 100% !important;
+
+    body>div.container {
+        min-height: 67vh;
     }
-.loginForm {
-    max-width: 510px !important;
-} -->
+</style>
