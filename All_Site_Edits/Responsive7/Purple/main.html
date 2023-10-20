@@ -7,21 +7,35 @@
         font-display: swap
     }
 
+    @font-face {
+        font-family: "WallopPRPL-Medium";
+        src: url("https://www.alphagraphicsmarketing.com/Fonts/WallopPRPL-Medium.woff2" type="font/woff2") format("woff2");
+        font-weight: 400;
+        font-style: medium;
+        font-display: swap;
+    }
+
+    * {
+        font-family: 'Roboto', sans-serif;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: WallopPRPL-Bold;
+    }
+
+    .single-line-product-heading .skinsetting-prod-caption-heading>a {
+        font-family: WallopPRPL-Bold;
+    }
+
     header {
         border-bottom: 1px solid rgba(180, 180, 180, 1);
-        border-bottom: 1px solid #43268f;
-
     }
 
     .col-md-9 {
         width: 100% !important;
         padding: 0px !important;
-    }
-
-    #main-content,
-    #top-navbar>div {
-        margin: 0px !important;
-        width: 100vw !important;
     }
 
     #top-navbar>div {
@@ -43,7 +57,6 @@
     }
 
     #content>div.prod-cat-list.inline-block-grid.flex-row.row {
-        width: 80vw;
         text-align: center;
         margin: auto;
     }
@@ -107,5 +120,9 @@
         margin-top: 1em;
         padding-top: 2em;
         border-top: 3px solid #A593E7;
+    }
+
+    #main-content {
+        min-height: 67vh;
     }
 </style>
