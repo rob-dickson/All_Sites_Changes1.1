@@ -2971,3 +2971,12 @@ img {
     font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(5.24488em - var(--ffsd)));
   }
 }
+
+
+
+
+
+#content div.prod-cat-list.inline-block-grid.flex-row.row div div.prod-cat-item div.caption h3 a:hover {
+  color:rgba(210, 42, 48, 1);
+}
+
