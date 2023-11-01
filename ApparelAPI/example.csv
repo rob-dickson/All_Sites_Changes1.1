@@ -36,22 +36,17 @@
 
 
 Yesterday
-    - Performance Windows File Fix
-    - Email Notification Logo Update
-    - Utah Tax Update
-    - Modern Outfitters
-        + Site Build
-        + Email Notifications
-Today
-    - CB V3 API 
-    - Get Caught Up
-    - Apparel API 
-    - 6Sense
+    - Capacity Books
+    - Certiport 
     - AG Centers Site Changes
         + Fonts
+        + Standardize Email Notifications
+Today
+    - BSU 
+    - Onboarding 
+    - AG Centers Site Changes
         + Categories Polishing 
         + Footer Links
-        + Standardize Email Notifications
 
 
 /* 
@@ -68,6 +63,7 @@ PAID
 
 */
 
+rgba(26, 17, 80, 1)
 
 https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00001-MarketingManual2ndEdition.pdf
 https://www.alphagraphicsmarketing.com/Performance%20Windows/Static%20Files/14066-00002-RecruitingCard.pdf
