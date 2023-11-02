@@ -1,28 +1,7 @@
 urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
-21332-00004-CorkBottomMug;Lid#0|No Lid#0;Black#000000#0;Lid|Black|0;;0.39;0;0-9999999#0
-
-
 23109-00042-TshirtPoweringTheIndustry;XS#0|S#0|M#0|L#0|XL#0|2XL#0;Black#000000#0|Cool Blue#1C3A56#0|Ice Blue#BAE2F8#0;M|Black|Front|0;Front#0;1;0;0-999999#10;
 23109-00044-TshirtHomeLoansAreMyThing;XS#0|S#0|M#0|L#0|XL#0|2XL#0;Black#000000#0|Cool Blue#1C3A56#0;M|Black|Front|0;Front#0;1;0;0-999999#10;
 23109-00056-TshirtMortgageGuru;XS#0|S#0|M#0|L#0|XL#0|2XL#0;Black#000000#0|Cool Blue#1C3A56#0;M|Black|Front|0;Front#0;1;0;0-999999#10;
 23109-00060-MelinHatHydro;Universal#0;Grey#bebfc1#0|Cool Blue#1C3A56#0|Ice Blue#BAE2F8#0;M|Grey|Front|0;Front#0;0.250;0;0-999999#50;
-
-
-
-
-140|23109-00187-LeatherCatchAll; ; ; ; ; ;0-9999999#20;
-
-140|23109-00188-FellowCarterMoveMug; ; ; ; ; ;0-9999999#40;
-
-140|23109-00189-JCrewLinenRollCuffTeeWomens; ; ; ; ; ;0-9999999#50;
-
-140|23109-00190-BabyOnesie; ; ; ; ; ;0-9999999#25;
-
-140|23109-00193-InsulatedCanCooler; ; ; ; ; ;0-9999999#7.60;
-
-140|23109-00194-JournalNotebook; ; ; ; ; ;0-9999999#15;
-
-140|23109-00195-MadewellCottonHat; ; ; ; ; ;0-9999999#40;
-
-140|23109-00196-MelinHatOdysseyHydro; ; ; ; ; ;0-9999999#65;
-
+23109-00189-JCrewLinenRollCuffTeeWomens;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0|Blue#2a487a#0;M|Black|Front|0;Front#0;0;0;0-9999999#50;
+23109-00191-ClassicTeeOffsetLogoONLY;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#10;
