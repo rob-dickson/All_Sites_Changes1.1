@@ -1,4 +1,8 @@
 <style>
+    #main-content {
+        min-height: 73vh;
+    }
+
     .prod-cat-item {
         border-color: white;
     }
@@ -68,5 +72,57 @@
     a.quickViewLink,
     input.btn {
         margin-top: 0.3em;
+    }
+
+    /******************************/
+    body footer div.container div.row.footer-columns div div.footer-col-title {
+        display: none;
+    }
+
+    body footer div.container div.row.footer-logo {
+        display: none;
+    }
+
+    #main-content div form div div div div.col-md-5 {
+        margin-top: 1em;
+        width: 100% !important;
+    }
+
+    .col-md-5 {
+        width: 100% !important;
+        margin-top: 2em;
+    }
+
+    /******************************* NEW HEADER *******************************/
+
+    .skinsetting-header-logo-height {
+        max-height: 150px;
+    }
+
+    @media (min-width: 768px) {
+        .col-sm-12 {
+            width: 100%;
+        }
+
+        .site-logo-wrap {
+            max-width: auto;
+        }
+    }
+
+    body header div.header-top div.container div.row div.col-sm-12 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    body header div.header-top div div {
+        text-align: center;
+    }
+
+    body header div.header-top div div div div.header-right.pull-right {
+        text-align: right;
+    }
+
+    .site-logo-wrap {
+        max-width: 100% !important;
     }
 </style>
