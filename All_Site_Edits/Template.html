@@ -489,7 +489,7 @@ Twin Falls, ID 83301<br />
 
 
 
-<div class="footerContent">
+<div class="footerContent" style="line-height: 12pt;">
 	<h3>Questions? Contact us at:</h3>
 	<p><a href="tel:(801) 426-6200">(801) 426-6200</a> <br />
 		1466 N State St<br />
@@ -505,3 +505,27 @@ Twin Falls, ID 83301<br />
 		color: #ed1c24;
 	}
 </style>
+
+WALLOPPRPL-MEDIUM
+
+
+
+
+ifs(DesignTypeDD="1","",
+ifs(DesignTypeDD="2","",
+ifs(DesignTypeDD="3","",
+ifs(DesignTypeDD="4","<font face='WALLOPPRPL-MEDIUM' fontsize='13.5'>" & EventNameUI & "<BR>" & "<BR>" & "</font>" & "
+<font face='WALLOPPRPL-MEDIUM' fontsize='13.5pt'>" & STimeUI & " to " & ETimeUI & "<BR>" & "<BR>" & "</font>" & "<font
+	face='WALLOPPRPL-MEDIUM' fontsize='13.5'>" & MonthDD & ", " & DayDD & " " & "<BR>" & "<BR>" & AddresONEUI & ", " &
+	CityUI & " " & StateUI & " " & ZipUI & "</font>",
+ifs(DesignTypeDD="5","<font face='WALLOPPRPL-MEDIUM' fontsize='13.5'>" & EventNameUI & "<BR>" & "<BR>" & "</font>" & "
+<font face='WALLOPPRPL-MEDIUM' fontsize='13.5'>" & STimeUI & " to " & ETimeUI & "<BR>" & "<BR>" & "</font>" & "<font
+	face='WALLOPPRPL-MEDIUM' fontsize='13.5'>" & MonthDD & ", " & DayDD & " " & "<BR>" & "<BR>" & AddresONEUI & ", " &
+	CityUI & " " & StateUI & " " & ZipUI & "</font>",
+ifs(DesignTypeDD="6","<font face='WALLOPPRPL-MEDIUM' fontsize='13.5' color='white'>" & EventNameUI & "<BR>" & "<BR>" & "
+</font>" & "<font face='WALLOPPRPL-MEDIUM' fontsize='13.5' color='white'>" & STimeUI & " to " & ETimeUI & "<BR>" &
+	"<BR>" & "</font>" & "<font face='WALLOPPRPL-MEDIUM' fontsize='13.5' color='white'>" & MonthDD & ", " & DayDD & " "
+	& "<BR>" & "<BR>" & AddresONEUI & ", " & CityUI & " " & StateUI & " " & ZipUI & "</font>",
+ifs(DesignTypeDD="7","",
+ifs(DesignTypeDD="8","",
+""))))))))
