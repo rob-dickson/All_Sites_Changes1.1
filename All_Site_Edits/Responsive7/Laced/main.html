@@ -1,0 +1,117 @@
+<a href="#main-content" class="skiplink">Skip to Main Content</a>
+<style>
+    #main-content {
+        min-height: 73vh;
+    }
+
+    * {
+        font-family: 'Roboto', sans-serif;
+    }
+
+    /* header styles -------------------------------*/
+    header {
+        border-bottom: 1px solid rgba(180, 180, 180, 1);
+        position: sticky;
+        top: 0px;
+        z-index: 100;
+    }
+
+    /* Add skiplink and style -------------------------------*/
+    .skiplink {
+        position: absolute;
+        left: -9999px;
+        top: -9999px;
+    }
+
+    /* Categories and Products -------------------------------*/
+
+    #content>div>div>div>div.img-wrap {
+        transition: transform .2s;
+    }
+
+    #content>div>div>div>div.img-wrap:hover {
+        transform: scale(1.05);
+    }
+
+    #content>div.prod-cat-list.inline-block-grid.flex-row.row>div:nth-child(10)>div>div.img-wrap>a>img {
+        padding: 1em;
+    }
+
+    div.prod-cat-item div.caption {
+        text-align: center;
+    }
+
+    #content>div.prod-cat-list.inline-block-grid.flex-row.row>div {
+        max-width: 250px;
+    }
+
+    #content>div.prod-cat-list.inline-block-grid.flex-row.row {
+        display: flex;
+        justify-content: center;
+    }
+
+    @media (min-width: 1300px) {
+        .container {
+            width: 1300px;
+        }
+    }
+
+    @media (min-width: 1040px) and (max-width: 1299px) {
+        .container {
+            width: 1040px;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .banner-full-screen #main-content {
+            margin-top: 20px !important;
+        }
+    }
+
+    .categoryPage .row #content>div.prod-cat-list.inline-block-grid.flex-row.row>div>div.prod-cat-item>div.img-wrap>a,
+    .product-gallery-primary>a {
+        background-image: linear-gradient(to top right, #ffffff, #dbdada);
+        padding: 0.5em;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 5px;
+    }
+
+    .categoryPage_root .row #content>div.prod-cat-list.inline-block-grid.flex-row.row>div>div.prod-cat-item>div.img-wrap>a {
+        background-image: none;
+        padding: 0em;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 15px;
+        height: fit-content;
+    }
+
+    /* This helps when images are different sizes */
+    div.prod-cat-item>div.img-wrap>a>img {
+        max-width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    #loginpnl>div>form>div>fieldset.submit>div>a:hover {
+        color: black;
+    }
+
+    #sidebar {
+        display: none;
+    }
+
+    #main-content div.categoryPage_root div.row {
+        display: flex;
+        justify-content: center;
+    }
+</style>
+<!-- Add Function to Skiplink -->
+<script defer>
+    const skipLink = document.querySelector('.skip-link');
+    const mainContent = document.querySelector('#main-content');
+
+    skipLink.addEventListener('click', (event) => {
+        event.preventDefault();
+        mainContent.tabIndex = -1;
+        mainContent.focus();
+    });
+</script>
