@@ -1,65 +1,7 @@
-<script>
-    // initialize display elements
-    const visitsDisplay = document.querySelector(".visits");
-
-    // get the stored value in localStorage
-    let numberOfVisits = Number(window.localStorage.getItem("visits-ls"));
-
-    // determine if this is the first visit or display the number of visits.
-    if (numberOfVisits !== 0) {
-    visitsDisplay.innerHTML
-    } else {
-    visitsDisplay.textContent = `This is your first visit!`;
-    }
-
-    // increment the number of visits.
-    numberOfVisits++;
-    // store the new number of visits value
-    localStorage.setItem("visits-ls", numberOfVisits);
-    // show todays date.
-    let todayDisplay = Date.now();
-
-    /////////////////////////////////////////////////////////////////////////////
-
-    // Adding the Days Between Visits
-
-    let dateofvisit = new Date();
-
-    window.localStorage.setItem("date", dateofvisit.getTime());
-
-    let date1 = window.localStorage.getItem("date");
-
-    let date2 = new Date();
-
-    let Difference_In_Time = date2.getTime() - date1;
-
-    let Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24);
-
-    console.log(Difference_In_Days);
-
-    document.querySelector(".dbvisits").innerHTML = Difference_In_Days;
-
-</script>
-
-<style>
-    .vidblock-wrapper {
-        padding: 0px 0px 0px 0px;
-        background-position:left top;
-        background-repeat:no-repeat;
-        -webkit-background-size:cover;
-        -moz-background-size:cover;
-        -o-background-size:cover;
-        background-size:cover;
-    }
-
-</style>
-
 <div class="info-page">
     <div class="video-block"
         style="margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;">
-        <div class="vidblock-wrapper"
-            style=""
-            data-bg-url="">
+        <div class="vidblock-wrapper" data-bg-url="">
             <div class="fusion-video" style="max-width:1200px;max-height:360px;">
                 <div class="video-shortcode">
                     <div class="video-wrapper" style="padding-top: 60%;">
@@ -82,3 +24,29 @@
 
 
 
+<div data-pb-snippet="image-text-8-4">
+    <div class="row" data-pb-node="row">
+        <div class="col-md-8">
+            <p>
+            <div class="img-responsive center-block">
+                <iframe title="Video player" src="https://www.alphagraphicsmarketing.com/RealDeals/IntroHomePage.mp4"
+                    allowfullscreen="" allow="autoplay; fullscreen" id="player_1" name="smallvid">
+                </iframe>
+            </div>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <div data-pb-node="text">
+                <h2>Lorem ipsum dolor</h2>
+
+                <p>Here is a cool intro paragraph... Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
+                    erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+                    lobortis nisl ut aliquip ex ea commodo
+                    consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,
+                    vel illum dolore eu feugiat nulla
+                    facilisis.</p>
+            </div>
+        </div>
+    </div>
+</div>
