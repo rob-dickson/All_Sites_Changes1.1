@@ -35,24 +35,17 @@
 23109-00040-JambysChilluxeCrew;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0|Charcoal#3C4142#0;M|Black|0;;1;0;0-999999#78;
 
 Yesterday
-    - Pricing Engines
-        * Real Deals Pricing Calculators
-        * Master AutoTech | Pricing
-        * Swig Brand Fulfillment Pricing
-        * Veracity Insurance Pricing
-        * PUR Life Pricing
-        * Purple | Pricing
-        * Sleep in Heavenly Peace | Pricing
-        * Savory Pricing
-        * 6Sense Brand Fulfillment Pricing
-        * Fat Cats | Pricing Engines
-    Performance BF Products
+    - Orem Center
+    - American Fork Center | Products
+    - Keller Williams | Products
+    - Bank of Jackson Hole
+    - Ensign College
 Today
-    - Pricing Engines
-        * Fat Cats
-        * American Fork
-    - IF Centers
-    - API Documentation
+    - Volia API Build meeting
+    - Ensign College
+    - Innovative Mortgage Alliance
+    - Horrocks
+    - Help Kylie
 
 
 
@@ -88,9 +81,132 @@ Add Prize wheel to Events
 
 
 
+"<font color='58, 0, 100, 0'>" & NameUI & "</font>" & " - " & "<font color='96,64,31,12'>" & TitleUI & "</font>"
+
+
+
+"<font face='lato-black' fontsize='18pt'>" & 
+NameUI & 
+"</font>" & 
+"<BR>" & 
+TitleUI & 
+"<BR>" & 
+"<font face='lato-regular' fontsize='14pt'>" & 
+OfficePhoneUI & 
+"<BR>" & 
+"</font>" & 
+ifs(EmailUI="","",EmailUI)
+
+
+
+"<font fontsize='8pt'>" & 
+LocationDD & "<BR>" & 
+OfficeUI & "<BR>" & 
+ifs(CellUI="","",CellUI & " (cell)" & "<BR>") & 
+EmailUI & "<BR>" & 
+WebsiteUI &
+"</font>"
+
+
+ifs(CellUI="","",CellUI & " (cell)" & "<BR>")
+
+
+JohnDoe@InnovationMortgage.com
+o: 123.456.7890﻿ | ﻿f: 098.765.4321
+123 Malibu Way﻿ | ﻿Bldg. A Suite 400﻿ | ﻿Lehi, UT, 123456
+NMLS# 123456789 – Company NMLS# 123456
+
+
+
+
+"<font fontsize='6.5pt'>" & 
+EmailUI & "<BR>" & 
+"o: " & OfficeUI &
+"<font color='#6bff00'>" & " |" & "</font>" &
+" f: " & FaxUI & "<BR>" &
+StreetUI &
+"<font color='#6bff00'>" & " | " & "</font>" &
+SuiteUI &
+"<font color='#6bff00'>" & " | " & "</font>" &
+CityUI & ", " &
+StateDD & " " &
+ZipUI & "<BR>" &
+"NMLS# " & PersonalNMLSUI & " " &
+"Company NMLS# " & CompanyNMLSUI &
+"</font>"
+
+
+
+
+"<font face='Tahoma-Bold' fontsize='10pt'>" & 
+FirstNameUI & " " & LastNameUI & "<BR>" & 
+"</font>" & 
+"<font face='Tahoma' fontsize='9pt'>" & 
+TitleONEUI & "<BR>" & 
+TitleTWOUI & 
+"</font>"
+
+"<font face='Tahoma' fontsize='7pt'>" & 
+AddressONEUI & ", " & OfficeTypeDD & " " & AddressTWOUI & "<BR>" & 
+CityUI & ", " & SateDD & " " & ZipUI & 
+"</font>"
+
+"<font face='Tahoma-Bold' fontsize='7pt'>" & 
+"Email " & "<font face='Tahoma' color='#fc5c00'>" & EmailUI & "</font>" & "<BR>" & 
+"Mobile " & "<font face='Tahoma' color='#fc5c00'>" & CellUI & "</font>" & "<BR>" & 
+"Office " & "<font face='Tahoma' color='#fc5c00'>" & OfficeUI & "</font>" &
+"</font>"
+
+
+& "<font face='Tahoma'>" & "</font>" &
+
+
+John Doe <br>
+General Management <br>
+Logan
+
+123 Malibu Way, Office B <br> 
+Logan, UT 83421
+
+Email JohnDoe@Horrocks.com <br> 
+Mobile 123.456.7890 <br> 
+Office 987.654.3210 <br>
 
 
 
 
 
-https://www.alphagraphicsmarketing.com/RealDeals/IntroHomePage.mp4
+
+"<font fontsize='7pt'>" & 
+EmailUI & "<BR>" & 
+"desk " & DeskPhoneUI & "<BR>" & 
+"mobile " & MobilePhoneUI &
+"</font>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
