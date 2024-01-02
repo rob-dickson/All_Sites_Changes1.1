@@ -1,0 +1,78 @@
+<a href="#main-content" class="skiplink">Skip to Main Content</a>
+<style>
+    .skiplink {
+        position: absolute;
+        left: -9999px;
+        top: -9999px;
+    }
+
+    .footer-col-title {
+        text-align: center;
+    }
+
+    .itemCannotApproved::before {
+        content: "I understand this proof will go through a secondary brand review prior to printing. ";
+    }
+
+    a {
+        text-decoration: revert;
+    }
+
+    a:focus {
+        outline: 5px auto -webkit-focus-ring-color;
+        outline-offset: 4px;
+    }
+
+    /* *:focus {
+        border: 2px dotted rgba(214, 67, 9, 1);
+    } */
+    div#sidebar.col-md-3 {
+        display: none;
+    }
+
+    @media (min-width: 992px) {
+        .col-md-9 {
+            width: 100%;
+        }
+    }
+
+    @media (max-width: 436px) {
+        #main-content>div>div.currentCategoryDes>div {
+            height: 140px !important;
+        }
+    }
+
+    .list-view-btns {
+        display: none;
+    }
+</style>
+<script defer>
+    let ordersPage = document.getElementsByClassName("orderSummaryPage");
+
+    if (ordersPage.classList.contains("orderSummaryPage")) {
+        function addParagraph() {
+            let paragraph = document.createElement("p");
+
+            paragraph.textContent =
+                "Please note that the merchant name will appear as Speedy CPS on billing statements.";
+
+            let container = document.getElementsByClassName("ordersPage");
+
+            container.appendChild(paragraph);
+        }
+        addParagraph();
+
+        console.log("Maybe?");
+    } else {
+        console.log("Nope");
+    };
+</script>
+<script defer>
+    const skipLink = document.querySelector('.skip-link');
+    const mainContent = document.querySelector('#main-content');
+    skipLink.addEventListener('click', (event) => {
+        event.preventDefault();
+        mainContent.tabIndex = -1;
+        mainContent.focus();
+    });
+</script>
