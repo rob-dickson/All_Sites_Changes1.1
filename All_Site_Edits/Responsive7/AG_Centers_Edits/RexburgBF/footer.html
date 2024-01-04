@@ -1,8 +1,198 @@
-<div style="text-align:center;">
-    <p><a href="http://agrexburg.com/">agrexburg.com</a><br>
-        <a href="mailto:rexburg@alphagraphics.com">Send us an Email</a><br>
-        <a href="tel: (208) 356-0170">208-356-0170</a><br>
-        80&nbsp;S&nbsp;2nd&nbsp;W<br>
+<style>
+    .bannerslides {
+        position: relative;
+    }
+
+    .banner-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 2s ease;
+        width: 100vw;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .banner-image.active {
+        opacity: 1;
+        transition: opacity 2s ease;
+    }
+
+    .bannerbox {
+        width: 100%;
+        height: fit-content;
+    }
+
+    .bannerslides {
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        transition: transform 2s ease;
+    }
+
+    .bannerslides a {
+        width: fit-content;
+        height: auto;
+        object-fit: cover;
+    }
+</style>
+<div class="bannerbox">
+    <div class="bannerslides"><a href="https://www.alphagraphics.com/us-idaho-rexburg-us643" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-05.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image active"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    alt="Slide 1" />
+            </picture>
+        </a> <a href="https://www.alphagraphics.com/us-idaho-rexburg-us643/marketing" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-06.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    alt="Slide 2" />
+            </picture>
+        </a> <a href="https://www.alphagraphics.com/us-idaho-rexburg-us643/signs" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-07.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    alt="Slide 3" />
+            </picture>
+        </a> <a href="https://www.alphagraphics.com/us-idaho-rexburg-us643/print-services" target="_blank">
+            <picture>
+                <source media="(max-width: 446px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-08.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    alt="Slide 4" />
+            </picture>
+        </a> </div>
+</div>
+<script>function fadeImages() { const images = document.querySelectorAll('.banner-image'); let currentIndex = 0; setInterval(() => { images[currentIndex].classList.remove('active'); currentIndex = (currentIndex + 1) % images.length; images[currentIndex].classList.add('active'); }, 10000); } fadeImages(); </script>
+<style>
+    footer.footer {
+        width: 100%;
+        padding-top: 0px;
+    }
+
+    .footer .footer-inner {
+        border-top: none;
+    }
+
+    @media (min-width: 992px) {
+        body>footer>div.container>div.row.footer-columns>div.col-md-5 {
+            width: 100% !important;
+            height: 450px;
+        }
+
+        body>footer>div.container>div.row.footer-columns>div.col-md-3 {
+            width: 100%;
+        }
+    }
+
+    .footer-col-title {
+        display: none;
+    }
+
+    @media (max-width: 446px) {
+        body>footer>div.container>div.row.footer-columns>div.col-md-5 {
+            margin-top: 73%;
+        }
+    }
+
+    body>footer>div.container>div.row.footer-columns>div.col-md-3 {
+        padding: 0px;
+    }
+
+    .dropdown-menu {
+        border: 1px solid black;
+    }
+
+    svg:not(:root).svg-inline--fa {
+        overflow: visible;
+    }
+
+    .svg-inline--fa.fa-w-16 {
+        width: 2em;
+    }
+
+    .fa-2x {
+        font-size: 2em;
+    }
+
+    .svg-inline--fa {
+        display: inline-block;
+        font-size: inherit;
+        height: 2em;
+        overflow: visible;
+        vertical-align: -0.125em;
+    }
+
+    div.icons a {
+        text-decoration: none;
+    }
+
+    div.icons a:hover {
+        color: rgba(210, 42, 48, 1);
+    }
+
+    a:focus,
+    a:hover {
+        color: rgba(210, 42, 48, 1);
+    }
+
+    div.prod-cat-item div.caption {
+        text-align: center;
+    }
+
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: visible;
+        width: 100%;
+        height: 100%;
+    }
+
+    .skinsetting-img-wrap-link {
+        height: 258.5px;
+    }
+
+    .footer .footer-inner {
+        padding: 0px 0 2em 0;
+    }
+
+    .cycle-pager {
+        display: none;
+    }
+</style>
+<div style="text-align:center;padding-top: 20%;">
+    <p><a href="http://agrexburg.com/">agrexburg.com</a><br />
+        <a href="mailto:brandfulfillmentstore@alphagraphics.com">Send us an Email</a><br />
+        <a href="tel: (208) 356-0170">208-356-0170</a><br />
+        80&nbsp;S&nbsp;2nd&nbsp;W<br />
         Rexburg,&nbsp;ID&nbsp;83440
     </p>
     <div class="icons"><a href="http://www.facebook.com/RexburgAlphagraphics" id="facebookIcon" target="_blank"><svg

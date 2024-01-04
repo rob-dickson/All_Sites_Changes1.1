@@ -1,0 +1,106 @@
+<style>
+    .skinsetting-header-logo-height {
+        max-height: 100px;
+    }
+
+    #main-content {
+        border: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+    #main-content {
+        margin-top: 10px;
+    }
+
+    #main-content-wrap {
+        background: none !important;
+        border-top: none;
+    }
+
+    div.header-top {
+        background-color: #2D2E2D;
+        margin-top: -5px;
+        background-image: url(https://www.alphagraphicsmarketing.com/img/Hash-01.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: contain;
+    }
+
+    div.userInfo {
+        display: none;
+    }
+
+    .k-tabstrip-items .k-state-default .k-link,
+    .k-panelbar li.k-state-default .k-link {
+        color: white;
+    }
+
+    .footer-logo img {
+        display: block;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        background: url(https://www.alphagraphicsmarketing.com/img/FBC-FooterIMG.png) no-repeat;
+        width: 100px;
+        height: auto;
+        padding-left: 100px;
+    }
+
+    div.item-info h3.item-title a {
+        color: white;
+    }
+
+    .cycle-pager span.cycle-pager-active {
+        display: none;
+    }
+</style>
+
+
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", function () {
+
+        var divLogoImage = document.createElement("div");
+
+        divLogoImage.id = "footerICONcontainer";
+
+        divLogoImage.setAttribute("style", "align-items: center;width: 100vw;display: flex;justify-content: center;");
+
+        var footer = document.querySelector("footer");
+
+        footer.insertBefore(divLogoImage, footer.firstChild);
+
+    });
+
+
+    document.addEventListener("DOMContentLoaded", function () {
+
+        var logoImage = document.createElement("img");
+
+        logoImage.src = "https://www.alphagraphicsmarketing.com/img/FBC-FooterIMG.png";
+        logoImage.alt = "Logo";
+        logoImage.id = "footerICON";
+        logoImage.setAttribute("style", "width: 100px;");
+
+        var footer = document.querySelector("footer");
+
+        footer.appendChild(logoImage);
+
+        var containerfooter = document.getElementById("footerICONcontainer");
+
+        containerfooter.appendChild(logoImage);
+
+    });
+
+</script>
+
+
+<tr>
+    <td align="left" valign="middle"
+        style="background-color:#FFFFFF;border-top:0px solid #333333;border-bottom:10px solid #FFFFFF;">
+        <p><span style="align-items: center;width: 100%;display: flex;justify-content: center;"><img
+                    src="https://www.alphagraphicsmarketing.com/img/EmailNotificationFBClogo.png" width="100"
+                    height="auto" alt="" style="padding:1em;" /></span> </p>
+    </td>
+</tr>
