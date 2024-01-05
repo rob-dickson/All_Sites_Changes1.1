@@ -1,11 +1,4 @@
-<a href="#main-content" class="skiplink">Skip to Main Content</a>
 <style>
-    .skiplink {
-        position: absolute;
-        left: -9999px;
-        top: -9999px;
-    }
-
     #content>div:nth-child(1)>div {
         display: none;
     }
@@ -109,29 +102,23 @@
         border: 1px solid #444;
     }
 
-    #content div.general-panel.category-panel div.general-panel-body.page-content-area div div {
-        padding-top: 1.5em;
-    }
-
-    .prod-cat-item .item-img-info {
-        max-height: 220px;
-    }
-
-    div.item-img-info.ratio-1-1 a img {
-        max-height: 200px;
-    }
-
+    /* #content div.general-panel.category-panel div.general-panel-body.page-content-area div div {
+            margin-top: 1.5em;
+        }
     .item-img-info {
         background-color: transparent;
+    }*/
+
+    @media (min-width: 992px) {
+        .col-md-4 {
+            max-width: 280px;
+        }
+    }
+
+    .prod-cat-item .img-wrap-link img {
+        background-image: none;
+        padding: 0em;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 5px;
     }
 </style>
-<script defer>
-    const skipLink = document.querySelector('.skip-link');
-    const mainContent = document.querySelector('#main-content');
-
-    skipLink.addEventListener('click', (event) => {
-        event.preventDefault();
-        mainContent.tabIndex = -1;
-        mainContent.focus();
-    });
-</script>
