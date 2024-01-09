@@ -1,0 +1,451 @@
+<!-- MAIN HTML/CSS -->
+
+<a href="#main-content" class="skiplink">Skip to Main Content</a>
+
+<style>
+    #content > div.prod-cat-list.inline-block-grid.flex-row.row > div {
+        max-width: 250px;
+    }
+    .skiplink {
+        position: absolute;
+        left: -9999px;
+        top: -9999px;
+    }
+
+    div#sidebar {
+        display: none;
+    }
+
+    @media (min-width: 768px) {
+        .col-md-9 {
+            width: 100%;
+        }
+
+        .banner-full-screen .banner-container {
+            padding: 0px 5em;
+        }
+
+        #nav-main>li>a {
+            padding: 25px 15px;
+            font-weight: bold;
+        }
+    }
+
+    div.home-banner-area {
+        max-width: 795px;
+    }
+
+    .banner-full-screen .home-banner-area {
+        margin-bottom: 0px;
+    }
+
+    @media (max-width: 767px) {
+        .banner-full-screen .banner-container {
+            width: 100%;
+            padding: 0px 10px;
+        }
+    }
+
+    div.footer {
+        width: 100%;
+    }
+
+    .footer .footer-inner {
+        border-top: none;
+    }
+
+    @media (min-width: 992px) {
+        .col-md-5 {
+            width: 100%;
+        }
+
+        .col-md-3 {
+            width: 100%;
+        }
+    }
+
+    @media (max-width: 446px) {
+        .col-md-5 {
+            margin-top: 73%;
+        }
+    }
+
+    @media (min-width: 447px) {
+        .col-md-5 {
+            margin-top: 17%;
+        }
+    }
+
+    .col-md-3 {
+        padding: 0px;
+    }
+
+    svg:not(:root).svg-inline--fa {
+        overflow: visible;
+    }
+
+    .svg-inline--fa.fa-w-16 {
+        width: 2em;
+    }
+
+    .fa-2x {
+        font-size: 2em;
+    }
+
+    .svg-inline--fa {
+        display: inline-block;
+        font-size: inherit;
+        height: 2em;
+        overflow: visible;
+        vertical-align: -0.125em;
+    }
+
+    div.icons a {
+        text-decoration: none;
+    }
+
+    div.icons a:hover {
+        color: rgba(210, 42, 48, 1);
+    }
+
+    a:focus,
+    a:hover {
+        color: rgba(210, 42, 48, 1);
+    }
+
+    div.prod-cat-item div.caption {
+        text-align: center;
+    }
+
+    .footer .footer-inner {
+        padding: 0px 0 2em 0;
+    }
+
+    .cycle-pager {
+        display: none;
+    }
+
+    @media (max-width: 767px) {
+
+        #contentEntry img,
+        .categroy-des-area img,
+        .currentCategoryDes img,
+        .page-content-area img,
+        .product-des-area img,
+        .product-description img {
+            max-height: 100%;
+        }
+    }
+
+    @media (min-width: 768px) {
+
+        #contentEntry img,
+        .categroy-des-area img,
+        .currentCategoryDes img,
+        .page-content-area img,
+        .product-des-area img,
+        .product-description img {
+            max-height: 100%;
+        }
+    }
+
+    .resetpassword {
+        color: #d9534f;
+    }
+
+    ol li a {
+        color: black;
+    }
+
+    #main-content>div>form>div>div>div>div.col-md-5 {
+        margin-top: 1em;
+    }
+
+    header {
+        border-bottom: 1px solid rgba(180, 180, 180, 1);
+    }
+
+    .col-md-9 {
+        width: 100% !important;
+        padding: 0px !important;
+    }
+
+    #main-content,
+    #top-navbar>div {
+        margin: 0px !important;
+        width: 100vw !important;
+    }
+
+    #top-navbar>div {
+        margin: 0px !important;
+        padding-left: 3em;
+        padding-right: 3em;
+        width: 100vw !important;
+    }
+
+    div.banner-container {
+        background-color: rgba(210, 42, 48, 1);
+        height: 8em;
+        justify-content: center;
+        align-items: center;
+        display: none;
+    }
+
+    .banner_section h2,
+    .banner_section p {
+        font-family: sans-serif;
+        font-weight: bold;
+        color: black;
+    }
+
+    #content>div.prod-cat-list.inline-block-grid.flex-row.row {
+        width: 80vw;
+        text-align: center;
+        margin: auto;
+    }
+
+    .prod-cat-item .img-wrap a {
+        display: block;
+        overflow: visible;
+        width: 100%;
+        height: 100%;
+    }
+
+    .skinsetting-img-wrap-link {
+        height: 258.5px;
+    }
+
+    div.img-wrap>a>img {
+        max-height: 200px;
+        max-width: 200px;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .banner-full-screen #top-navbar {
+        border-bottom: 1px solid #808080;
+        padding: 0.5em;
+    }
+
+    .dropdown-menu {
+        border: 1px solid darkgrey;
+    }
+
+    .pageTitle {
+        padding: 0.5em 1em 0em 0.5em;
+    }
+
+    #btnLogin {
+        border-radius: 25px;
+    }
+
+    @media (max-width: 767px) {
+        header #top-navbar {
+            overflow: hidden;
+        }
+
+        .prod-cat-item .img-wrap a {
+            display: block;
+            overflow: hidden;
+            width: auto;
+            height: auto;
+        }
+
+        div.img-wrap>a>img {
+            width: 100%;
+        }
+
+        div.caption>h3>a {
+            font-size: small !important;
+        }
+    }
+    div.ordersPage {
+        margin-left: 3em;
+        margin-right: 3em;
+    }
+    #orderFilters > div {
+        margin-right: 0% !important;
+        margin-left: 0% !important;
+    }
+</style>
+
+
+<script defer>
+    const skipLink = document.querySelector('.skip-link');
+    const mainContent = document.querySelector('#main-content');
+
+    skipLink.addEventListener('click', (event) => {
+        event.preventDefault();
+        mainContent.tabIndex = -1;
+        mainContent.focus();
+    });
+</script>
+
+<!-- ROOT LONG DESCRIPTION -->
+
+<style>
+    .new_banner { 
+        background-color: rgba(241, 241, 243, 1); 
+        padding: 4em 0em 4em 0em; } 
+    .banner_section { 
+        text-align: center; 
+    } 
+    .banner_section h2 { 
+        text-align: center; 
+        color: #af1f23; 
+        font: bold;
+    } 
+</style> 
+    <div class="new_banner">
+        <section class="banner_section">
+            <h2>
+                <strong>
+                    <span style="font-family:Arial, Helvetica, sans-serif;">KW WESTFIELD PRINT PORTAL</span>
+                </strong>
+            </h2>
+    
+            <p>
+                <span style="font-family:Arial, Helvetica, sans-serif;">Typeset and order your print materials here.</span>
+            </p>
+        </section>
+    </div>
+<div class="new_banner">
+    <section class="banner_section">
+        <h2>WELCOME TO YOUR PRINT PORTAL</h2>
+        <p>Order and customize your print materials below</p>
+    </section>
+</div>
+
+<!-- Contact Block -->
+
+<style>
+    .bannerslides {
+        position: relative;
+    }
+
+    .banner-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 2s ease;
+        width: 100vw;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .banner-image.active {
+        opacity: 1;
+        transition: opacity 2s ease;
+    }
+
+    .bannerbox {
+        width: 100%;
+        height: fit-content;
+    }
+
+    .bannerslides {
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        transition: transform 2s ease;
+    }
+
+    .bannerslides a {
+        width: fit-content;
+        height: auto;
+        object-fit: cover;
+    }
+</style>
+<div class="bannerbox">
+    <div class="bannerslides"><a href="https://www.alphagraphics.com/us-utah-american-fork-us615" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-05.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image active"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-01.jpg"
+                    alt="Slide 1" />
+            </picture>
+        </a> <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/marketing" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-06.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-02.jpg"
+                    alt="Slide 2" />
+            </picture>
+        </a> <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/signs" target="_blank">
+            <picture>
+                <source media="(min-width: 200px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-07.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-03.jpg"
+                    alt="Slide 3" />
+            </picture>
+        </a> <a href="https://www.alphagraphics.com/us-utah-american-fork-us615/print-services" target="_blank">
+            <picture>
+                <source media="(max-width: 446px) and (max-width: 446px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads_-_mobile-08.jpg"
+                    class="scrolling_banner">
+                </source>
+                <source media="(min-width: 447px) and (max-width: 20000px)"
+                    srcset="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    class="scrolling_banner">
+                </source><img class="banner-image"
+                    src="https://af.brandfulfillment.store/files/subscribers/7b4c94dc-b43e-4a2d-833a-58a6456148a2/WebFiles/AF/brand_fulfillment_website_banner_ads-04.jpg"
+                    alt="Slide 4" />
+            </picture>
+        </a> </div>
+</div>
+<script>function fadeImages() { const images = document.querySelectorAll('.banner-image'); let currentIndex = 0; setInterval(() => { images[currentIndex].classList.remove('active'); currentIndex = (currentIndex + 1) % images.length; images[currentIndex].classList.add('active'); }, 10000); } fadeImages(); </script>
+
+<!-- FOOTER -->
+
+<div style="text-align:center;">
+    <p><a href="http://agamericanfork.com/">agamericanfork.com</a><br />
+        <a href="mailto:brandfulfillmentstore@alphagraphics.com">Send an Email</a><br />
+        <a href="tel: (801) 653-2428">801-653-2428</a><br />
+        309&nbsp;E&nbsp;State&nbsp;St<br />
+        American&nbsp;Fork,&nbsp;UT&nbsp;84003
+    </p>
+    <div class="icons"><a href="http://www.facebook.com/agAmericanFork" id="facebookIcon" target="_blank"><svg
+                aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook"
+                class="svg-inline--fa fa-facebook fa-w-16 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 512 512">
+                <path fill="currentColor"
+                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z">
+                </path>
+            </svg> </a> <a href="http://www.instagram.com/agamericanfork" id="instagramIcon" target="_blank"> <svg
+                aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+                class="svg-inline--fa fa-instagram fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+                </path>
+            </svg> </a> <a href="http://www.linkedin.com/company/alphagraphics-american-fork" id="linkedinIcon"
+            target="_blank"> <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin"
+                class="svg-inline--fa fa-linkedin fa-w-14 fa-2x " role="img" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 448 512">
+                <path fill="currentColor"
+                    d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z">
+                </path>
+            </svg> </a> </div>
+    <p>Powered&nbsp;by&nbsp;AlphaGraphics</p>
+</div>
