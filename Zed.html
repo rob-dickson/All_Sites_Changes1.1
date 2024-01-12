@@ -1,0 +1,159 @@
+###BREADCRUMBS_JSON, {
+prefix: '<div class="row">
+    <div class="col-md-12">
+        <div id="breadcrumb">',
+            suffix: '</div>
+    </div>
+</div>',
+active_class: 'active',
+list_class: 'breadcrumb'
+}###
+###OPENFRAME###
+<div class="product-detail">
+    <div class="row">
+        <div class="col-xs-12">
+            <h1 class="product-name">###PRODNAME###</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 product-info">
+            <div class="hidden-md hidden-lg">
+                ###PRODUCTSINGLEIMAGE_JSON,
+                {
+                layout:'<div class="product-image-gallery mobile">
+                    <div class="product-gallery-primary"><a href="@@@IMAGEURL:xlarge@@@"
+                            data-width="@@@IMAGESIZE:xlarge:WIDTH@@@" data-height="@@@IMAGESIZE:xlarge:HEIGHT@@@"><img
+                                src="@@@IMAGEURL:large@@@" alt="@@@PRODUCTNAME@@@" title="@@@PRODUCTNAME@@@" /></a>
+                        <span class="gallery-intro"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                            @@@TEXT:clickToZoom@@@</span>
+                    </div>
+                </div>',
+                }
+                ###
+                ###PRODUCTMULTIPLEIMAGES_JSON,
+                {
+                layout:'<div class="product-image-gallery mobile">
+                    <div class="product-gallery-carousel owl-carousel">@@@ITEMLAYOUT@@@</div>
+                </div>',
+                itemLayout:'<div class="product-gallery-carousel-item"><a href="@@@IMAGEURL:xlarge@@@" class="owl-lazy"
+                        data-src="@@@IMAGEURL:large@@@" data-width="@@@IMAGESIZE:xlarge:WIDTH@@@"
+                        data-height="@@@IMAGESIZE:xlarge:HEIGHT@@@"></a></div>'
+                }
+                ###
+            </div>
+            <div class="hidden-xs hidden-sm">
+                ###PRODUCTSINGLEIMAGE_JSON,
+                {
+                layout:'<div class="product-image-gallery desktop">
+                    <div class="product-gallery-primary"><a href="@@@IMAGEURL:xlarge@@@"
+                            data-width="@@@IMAGESIZE:xlarge:WIDTH@@@" data-height="@@@IMAGESIZE:xlarge:HEIGHT@@@"><img
+                                src="@@@IMAGEURL:large@@@" alt="@@@PRODUCTNAME@@@" title="@@@PRODUCTNAME@@@" /></a>
+                        <span class="gallery-intro"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                            @@@TEXT:clickToZoom@@@</span>
+                    </div>
+                </div>',
+                }
+                ###
+
+                ###PRODUCTMULTIPLEIMAGES_JSON,
+                {
+                layout:'<div class="product-image-gallery desktop">@@@PRIMARYIMAGELAYOUT@@@<div
+                        class="product-gallery-carousel owl-carousel">@@@ITEMLAYOUT@@@</div>
+                </div>',
+                primaryImageLayout:'<div class="product-gallery-primary"><a href="@@@IMAGEURL:xlarge@@@"><img
+                            src="@@@IMAGEURL:large@@@" alt="@@@PRODUCTNAME@@@" title="@@@PRODUCTNAME@@@" /></a> <span
+                        class="gallery-intro"><i class="fa fa-search-plus" aria-hidden="true"></i>
+                        @@@TEXT:clickToZoom@@@</span></div>',
+                itemLayout:'<div class="product-gallery-carousel-item"><a href="@@@IMAGEURL:xlarge@@@" class="owl-lazy"
+                        data-src="@@@IMAGEURL:large@@@" data-width="@@@IMAGESIZE:xlarge:WIDTH@@@"
+                        data-height="@@@IMAGESIZE:xlarge:HEIGHT@@@"></a></div>'
+                }
+                ###
+            </div>
+            <div class="product-description">
+                ###CUSTOMFIELDS###
+                ###FULLPRODUCTDESCRIPTION###
+            </div>
+        </div>
+        <div class="col-md-6 product-form">
+            ###PRODSHORTDESC, <p>, </p>###
+            ###INVENTORY,
+            <div id="productInventory">
+                <p> ,</p>
+            </div>
+            ###
+            ###PARTNUMBER,
+            <div id="productPartnumber" class="text-muted">
+                <p> ,</p>
+            </div>
+            ###
+            <div class="product-kit-items">
+                ###NEWKITSET,
+                <div class="kit-set-item well kit-img-magnify">
+                    <div class="kit-set-item-image-desc">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="kit-set-item-image-area">
+                                    @@@IMAGE: smallsquare: xlarge@@@
+                                </div>
+                            </div>
+                            <div class="col-sm-9">
+                                <div class="kit-set-item-desc-area">
+                                    <h4>@@@KITSETNAME@@@</h4>
+                                    <p>@@@DESCRIPTION@@@</p>
+                                    <p class="help-block">@@@INSTRUCTIONS@@@</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kit-set-item-price-area">
+                        @@@PRICECALC@@@
+                    </div>
+                </div>
+                ###
+            </div>
+            ###PRICING###
+            ###FILEUPLOAD_JSON, {
+            prefix: '<div class="fileUploadArea">',
+                suffix: '</div>',
+            requredClass: 'alert alert-warning',
+            inputLayout: '<div class="form-group fileUploadSelect fileUploadSelect@@@FILEINPUTCOUNT@@@">
+                @@@FILEINPUTLABEL@@@<div class="input-group file-upload-control"><input type="text"
+                        class="form-control file-upload-name" />
+                    <div class="input-group-btn">
+                        <div class="btn btn-default file-upload-button"><span>@@@TEXT:select@@@</span>@@@FILEINPUT@@@
+                        </div>
+                    </div>
+                </div>
+            </div>',
+            inputClass: 'file-upload-input'
+            }
+            ###
+            ###SHIPTOADDRESS###
+            ###SHIPCALC###
+            ###DOWNLOADASSET###
+            ###RENAMEITEM###
+            ###ORDERNOTESBOX###
+            ###ACCEPTANCE###
+            <div id="calcButtonArea">
+                ###ADDTOCARTBUTTON###
+            </div>
+        </div>
+    </div>
+    ###SUGGESTEDPRODUCTS_JSON, {
+    prefix: '<div id="suggestiveSellWrap">',
+        suffix: '</div>',
+    listPrefix: '<div class="suggested-products owl-carousel owl-custom-theme">',
+        listSuffix: '</div>',
+    maxItems: 100,
+    itemLayout: '<div class="suggested-item"><a class="suggested-item-image-wrap" href="@@@URL@@@"><img
+                class="suggested-item-image" src="@@@IMAGEURL:mediumsquare@@@" alt="@@@NAME@@@"
+                title="@@@NAME@@@" /></a>
+        <div class="suggested-item-info"><a class="suggested-item-name skinsetting-prod-caption-heading"
+                href="@@@URL@@@" alt="@@@NAME@@@" title="@@@NAME@@@">@@@NAME@@@</a><a class="btn btn-default"
+                href="@@@URL@@@">@@@TEXT: viewDetails@@@</a></div>
+    </div>',
+    headingLayout: '<h3 class="suggestive-heading">@@@HEADING@@@</h3>',
+    showHeading: true
+    }###
+</div>
