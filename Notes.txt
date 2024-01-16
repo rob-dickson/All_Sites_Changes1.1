@@ -4,10 +4,29 @@
 
 Yesterday
     - Tactical Precision MFG | Build - Initial Base
+    - Clyde Companies | Site Design
     - Real Deals Product Warnings and custom Skinning
-    - AG Centers | Brand Fulfillment | Centers
 Today
-    - Real Deals Custom Skin Edits for reminder alerts
     - Tactical Percision MFG
-    - Skinning Training
-    - 
+    - FBC Roofing 
+    - CBV3 API 
+    - Capacity Books
+
+
+To Do List
+
+Capacity Books 
+    - Email Notifications 
+        - Need new Footer Contact Block
+    - Payment Type Set Up
+    - Inventory Set Up
+
+TPM 
+    - Contact Us form
+        - Build
+        - Add to Navigation
+        - Add to Footer
+    - Build Out AWI
+    - Build out Granular Navigation
+    - Add Pricing Engine Calculators 
+
