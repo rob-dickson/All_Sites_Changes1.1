@@ -4,12 +4,14 @@
 
 Yesterday
     - Tactical Precision MFG | Build - Initial Base
-    - Clyde Companies | Site Design
-    - Real Deals Product Warnings and custom Skinning
+    - Capacity Books | Site
+    - FBC | Brand Fulfillment
 Today
-    - Tactical Percision MFG
+    - Silver Star | Site Users
+    - BF Center Orem
+    - Tactical Precision MFG
     - FBC Roofing 
-    - CBV3 API 
+    - CBV3/ Pressero Webhooks 
     - Capacity Books
 
 
