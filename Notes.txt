@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - Tactical Precision MFG | Build - Initial Base
-    - Capacity Books | Site
-    - FBC | Brand Fulfillment
+    - Tactical Precision MFG | Products
+    - CB V3 Connection
+    - Creative Services Meeting
+    - Orem Center Users
+    - Apparel Process and Meeting
 Today
-    - Silver Star | Site Users
-    - BF Center Orem
-    - Tactical Precision MFG
-    - FBC Roofing 
-    - CBV3/ Pressero Webhooks 
-    - Capacity Books
+    - Tactical Precision MFG 
+        - SKU and API build out
+    - Add Pricing Engine Calculators 
 
 
 To Do List
@@ -32,3 +31,313 @@ TPM
     - Build out Granular Navigation
     - Add Pricing Engine Calculators 
 
+
+
+#top-navbar .navbar-nav li a {
+    padding: 15px !important;
+}
+
+
+https://ag679.app.corebridge.net/
+
+
+
+bharat.attaluri@tecra.com
+
+elena.korchan@volia-software.com
+
+kborie@reputation.com
+
+Krobbins@graphikusa.com
+
+jordandavis1@gmail.com
+
+howard@printreadypro.com
+
+chelseew@horrocks.com
+
+johnni@horrocks.com
+
+nicholel@horrocks.com
+
+cathyl@horrocks.com
+
+cheiner@horrocks.com
+
+coler@horrocks.com
+
+cynthiah@horrocks.com
+
+angelat@horrocks.com
+
+danellf@horrocks.com
+
+kylieclark@churchofjesuschrist.org
+
+kristen.volker@lowvarates.com
+
+craig.walton@lowvarates.com
+
+amber.white@lowvarates.com
+
+jpowell@moxtek.com
+
+chayward@moxtek.com
+
+jeremy.layton@fugal.com
+
+ahicksdesign@gmail.com
+
+clayton@sqrdmedia.com
+
+clientadmin@sqrdmedia.com
+
+lydia@sqrdmedia.com
+
+keith@tophamstinytots.com
+
+christine@tophamscarecenter.com
+
+jeffh@westlandconstruction.com
+
+robyn@westlandconstruction.com
+
+jcluff@westlandconstruction.com
+
+cristina@zamphr.com
+
+monica@zamphr.com
+
+kynaston@graphikusa.com
+
+troy@veracityins.com
+
+marketing@fbcroofing.com
+
+jefferson.motto@veracityins.com
+
+tyler.leptich@veracityins.com
+
+stephanie.davis@veracityins.com
+
+aaron.zhang@veracityins.com
+
+grant.byman@veracityins.com
+
+michael.schram@pacificoffice.com
+
+
+
+
+
+
+tecra.com
+
+volia-software.com
+
+reputation.com
+
+printreadypro.com
+
+horrocks.com
+horrocks.com
+horrocks.com
+horrocks.com
+horrocks.com
+horrocks.com
+horrocks.com
+horrocks.com
+horrocks.com
+
+churchofjesuschrist.org
+
+lowvarates.com
+lowvarates.com
+lowvarates.com
+
+moxtek.com
+moxtek.com
+
+fugal.com
+
+sqrdmedia.com
+sqrdmedia.com
+sqrdmedia.com
+
+tophamstinytots.com
+
+tophamscarecenter.com
+
+westlandconstruction.com
+westlandconstruction.com
+westlandconstruction.com
+
+zamphr.com
+zamphr.com
+
+fbcroofing.com
+
+veracityins.com
+veracityins.com
+veracityins.com
+veracityins.com
+veracityins.com
+veracityins.com
+
+pacificoffice.com
+
+
+
+
+
+The Age of Fire 
+    Eden Ross
+
+The Calling
+    LC Pye 
+
+The Black Crow Flies
+    LB Perdan
+
+
+Alabama AL
+Alaska AK
+Arizona AZ
+Arkansas AR
+California CA
+Colorado CO
+Connecticut CT
+Delaware DE
+District of Columbia DC
+Florida FL
+Georgia GA
+Hawaii HI
+Idaho ID
+Illinois IL
+Indiana IN
+Iowa IA
+Kansas KS
+Kentucky KY
+Louisiana LA
+Maine ME
+Maryland MD
+Massachusetts MA
+Michigan MI
+Minnesota MN
+Mississippi MS
+Missouri MO
+Montana MT
+Nebraska NE
+Nevada NV
+New Hampshire NH
+New Jersey NJ
+New Mexico NM
+New York NY
+North Carolina NC
+North Dakota ND
+Northern Mariana Islands MP
+Ohio OH
+Oklahoma OK
+Oregon OR
+Pennsylvania PA
+Puerto Rico PR
+Rhode Island RI
+South Carolina SC
+South Dakota SD
+Tennessee TN
+Texas TX
+Trust Territories TT
+Utah UT
+Vermont VT
+Virginia VA
+Virgin Islands VI
+Washington WA
+West Virginia WV
+Wisconsin WI
+Wyoming WY
+
+AL
+AK
+AZ
+AR
+AS
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+GU
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+MP
+OH
+OK
+OR
+PA
+PR
+RI
+SC
+SD
+TN
+TX
+TT
+UT
+VT
+VA
+VI
+WA
+WV
+WI
+WY
+
+
+
+You are now chatting with Allen Boyce
+
+You:I need to limit apparel purchases to only five items per year.
+Allen Boyce:Hello Rob, I hope you are doing well.
+You:Hey Allen! Sorry, this one is kinda goofy
+You:five items per year per user
+Allen Boyce:There is no method of the system managing and/or limiting a site user to a certain of items
+You:That's what I was afraid of...
+Allen Boyce:When a site user reached their limit, someone could manually make the site user inactive. But nothing to
+manage using the system
+Allen Boyce:Someone would have to watch the orders on a daily basis I suppose
+You:That's an idea, I was hoping to take the responsibility off of the management team. But, if that's the only way, I
+guess we'll make it work.
+You:Thank you for your time!
+Allen Boyce:Ok Rob, is there anything else I can help you with before we close this chat?
+You:Nope, thank you!
+
+
+
+Allen Boyce:There is no method of the system managing and/or limiting a site user to a certain number of items
+
+
+
+So, I'm trying to figure out how to set up the AG Marketing User Rules but I'm stumped... Allen Boyce said, "There is no
+method of the system managing and/or limiting a site user to a certain number of items"
