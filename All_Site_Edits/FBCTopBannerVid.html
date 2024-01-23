@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        #customHeroModule {
+            max-height: 600px;
+        }
+
+        #customHeroModule .bigsection {
+            position: relative;
+        }
+
+        #customHeroModule .Hero__figure .media-player-wrapper {
+            height: 100%;
+            position: relative;
+        }
+
+        #customHeroModule .media-player {
+            width: 100%;
+            height: 100%;
+        }
+
+        #customHeroModule .Hero__figure::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            opacity: 0.75;
+            z-index: 2;
+        }
+
+        #customHeroModule .centered-text {
+            width: 100%;
+            color: #fff;
+            font-family: 'Sans-serif', sans-serif;
+            font-size: 5em;
+            z-index: 3;
+        }
+
+        #customHeroModule .print-portal {
+            width: 100%;
+            color: #fff;
+            font-family: 'Sans-serif', sans-serif;
+            font-size: 7em;
+            font-weight: bold;
+            z-index: 3;
+        }
+
+        #customHeroModule .logo {
+            z-index: 4;
+        }
+
+        @media (max-width: 1199px) {
+
+            #customHeroModule .centered-text {
+                font-size: 4em;
+            }
+
+            #customHeroModule .print-portal {
+                font-size: 6em;
+            }
+        }
+
+        @media (max-width: 808px) {
+            #customHeroModule {
+                display: none;
+            }
+        }
+    </style>
+    <div id="customHeroModule">
+        <div class="bigsection">
+            <div class="Hero__figure" style="text-align: center;display: grid;"
+                data-media="https://video.wixstatic.com/video/e61cf0_e748875f8f9842a094de29e87b2559a9/720p/mp4/file.mp4">
+                <div class="vsc-controller"></div>
+                <img class="logo" style="position: absolute; top: 3.5em;justify-self: center;"
+                    src="https://static.wixstatic.com/media/e61cf0_2f4c07eb99b540ea834eecc04656834a~mv2.png/v1/fill/w_187,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png"
+                    alt="Logo">
+                <video id="heroBanner0" playsinline="" muted="" autoplay="" loop=""
+                    style="width:100%;max-height:500px;object-fit: cover;">
+                    <source
+                        src="https://video.wixstatic.com/video/e61cf0_e748875f8f9842a094de29e87b2559a9/720p/mp4/file.mp4"
+                        type="video/mp4">Your browser does not support the video tag.
+                </video>
+                <h2 class="centered-text" style="position: absolute; top: 35%;color: white;justify-self: center;">
+                    WELCOME TO YOUR</h2>
+                <h1 class="print-portal" style="position: absolute; top: 50%;color: white;justify-self: center;">
+                    PRINT PORTAL</h1>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+</html>
