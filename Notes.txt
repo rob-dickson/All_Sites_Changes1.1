@@ -3,23 +3,33 @@
 
 
 Yesterday
-    - Tactical Precision MFG | Products
-    - Bennie | User Notification Errors
-    - Pressero Notification Errors
+    - Rexburg Centers
+    - Clyde Companies | Products
+    - Creative Services Meeting
+    - AG Centers | Brand Fulfillment | Centers
 Today
-    - Tactical Precision MFG 
-        - SKU and API build out
-    - Add CSV API Calculators
-    - Remake Products
+    - AG Centers | Brand Fulfillment | Centers
+    - Performance Windows | Products update
+    - AWI Updates 
+    - Speedy AG Marketing Center
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 To Do List
-
-Capacity Books 
-    - Email Notifications 
-        - Need new Footer Contact Block
-    - Payment Type Set Up
-    - Inventory Set Up
 
 TPM 
     - Contact Us form
@@ -32,9 +42,6 @@ TPM
 
 
 
-#top-navbar .navbar-nav li a {
-    padding: 15px !important;
-}
 
 
 https://ag679.app.corebridge.net/
@@ -53,86 +60,58 @@ The Black Crow Flies
     LB Perdan
 
 
-Alabama AL
-Alaska AK
-Arizona AZ
-Arkansas AR
-California CA
-Colorado CO
-Connecticut CT
-Delaware DE
-District of Columbia DC
-Florida FL
-Georgia GA
-Hawaii HI
-Idaho ID
-Illinois IL
-Indiana IN
-Iowa IA
-Kansas KS
-Kentucky KY
-Louisiana LA
-Maine ME
-Maryland MD
-Massachusetts MA
-Michigan MI
-Minnesota MN
-Mississippi MS
-Missouri MO
-Montana MT
-Nebraska NE
-Nevada NV
-New Hampshire NH
-New Jersey NJ
-New Mexico NM
-New York NY
-North Carolina NC
-North Dakota ND
-Northern Mariana Islands MP
-Ohio OH
-Oklahoma OK
-Oregon OR
-Pennsylvania PA
-Puerto Rico PR
-Rhode Island RI
-South Carolina SC
-South Dakota SD
-Tennessee TN
-Texas TX
-Trust Territories TT
-Utah UT
-Vermont VT
-Virginia VA
-Virgin Islands VI
-Washington WA
-West Virginia WV
-Wisconsin WI
-Wyoming WY
+24378-00005-Beehive Ins Folded Cards and A-6 Envelopes Submit(A-6 Cards and Envelopes).pdf
+
+24378-00006-Beehive Ins Thank You Cards and A-6 Envelopes(A-6 Cards and Envelopes).pdf
+
+24378-00007-Beehive Ins Thank You-Blue(BIA Thank You Cards).pdf
+
+24378-00008-Beehive Ins Policy Disclaimer Sheets(BIA Policy Disclaimer Sheet).pdf
+24378-00008-Beehive Ins Policy Disclaimer Sheets(NEW Policy-Proposal Cover-Background only_PRINT (2)).pdf
+
+24378-00009-Beehive Ins Proposal Disclaimer Sheets(BIA Policy Disclaimer Sheet).pdf
+24378-00009-Beehive Ins Proposal Disclaimer Sheets(BIA Proposal Disclaimer Sheet).pdf
+
+24378-00010-Beehive Ins Enter to Win Cards(Enter to Win_Business Card Size).pdf
+
+24378-00011-Beehive Ins Congrats Cards Single-Sided(BIA Congrats Cards - Single Sided).pdf
+
+24378-00012-Beehive Ins Congrats Cards Double-Sided(BIA Congrats Cards).pdf
+
+24378-00013-Beehive Ins Policy Cover Sheet(NEW Policy-Proposal Cover-Background only_PRINT (2)).pdf
+
+24378-00014-Salt Lake City Beehive Ins Letterhead Submit(BIA letterhead template (2)).pdf
+24378-00014-Salt Lake City Beehive Ins Letterhead Submit(BIA letterhead template).pdf
+
+24378-00015-SLC PO Beehive Ins #10 Envelope Submit(Beehive #10 Envelope_PRINT).pdf
+24378-00015-SLC PO Beehive Ins #10 Envelope Submit(BIA #10 envelope template).pdf
+
+24378-00016-Cyber Liability(NEW Cyber Liability 2019_PRINT).pdf
+
+24378-00017-Expect More(NEW Expect More 2019_PRINT).pdf
+
+24378-00018-Handbook Review(NEW Cyber Liability 2019_PRINT).pdf
+
+24378-00019-HivePlus(NEW HivePlus 2019_PRINT).pdf
+
+24378-00020-HR360(NEW HR360 2019_PRINT).pdf
+
+24378-00021-Retirement Planning(NEW Retirement Planning 2019_PRINT).pdf
+
+24378-00022-Safety(NEW Safety 2019_PRINT).pdf
+
+24378-00023-Victig(NEW Victig 2019_PRINT).pdf
+
+24378-00024-Work Comp(NEW Work Comp 2019_PRINT).pdf
+
+24378-00025-Cedar City Beehive Ins Letterhead(BIA letterhead template).pdf
+24378-00025-Cedar City Beehive Ins Letterhead(BIA South Utah letterhead template).pdf
+
+24378-00026-Cedar City Beehive Ins 10 Envelope Windowed(BIA #10 envelope template).pdf
+24378-00026-Cedar City Beehive Ins 10 Envelope Windowed(BIA South Window Envelopes).pdf
+
+24378-00027-Cedar City 10 Envelope Black & White(BIA South Return Envelopes).pdf
+24378-00027-Cedar City 10 Envelope Black & White(BIA South Window Envelopes).pdf
 
 
-
-You are now chatting with Allen Boyce
-
-You:I need to limit apparel purchases to only five items per year.
-Allen Boyce:Hello Rob, I hope you are doing well.
-You:Hey Allen! Sorry, this one is kinda goofy
-You:five items per year per user
-Allen Boyce:There is no method of the system managing and/or limiting a site user to a certain of items
-You:That's what I was afraid of...
-Allen Boyce:When a site user reached their limit, someone could manually make the site user inactive. But nothing to
-manage using the system
-Allen Boyce:Someone would have to watch the orders on a daily basis I suppose
-You:That's an idea, I was hoping to take the responsibility off of the management team. But, if that's the only way, I
-guess we'll make it work.
-You:Thank you for your time!
-Allen Boyce:Ok Rob, is there anything else I can help you with before we close this chat?
-You:Nope, thank you!
-
-
-
-Allen Boyce:There is no method of the system managing and/or limiting a site user to a certain number of items
-
-
-
-So, I'm trying to figure out how to set up the AG Marketing User Rules but I'm stumped... Allen Boyce said, "There is no
-method of the system managing and/or limiting a site user to a certain number of items"
+`
