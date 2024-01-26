@@ -8,10 +8,16 @@ Yesterday
     - Creative Services Meeting
     - AG Centers | Brand Fulfillment | Centers
 Today
-    - AG Centers | Brand Fulfillment | Centers
-    - Performance Windows | Products update
+    - AG Centers | Brand Fulfillment | Centers */
+    - Performance Windows | Products update */
     - AWI Updates 
     - Speedy AG Marketing Center
+
+
+
+
+To Do List
+    City of Idaho Falls
     
 
 
@@ -24,12 +30,6 @@ Today
 
 
 
-
-
-
-
-
-To Do List
 
 TPM 
     - Contact Us form
