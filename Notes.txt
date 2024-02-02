@@ -17,6 +17,15 @@ Today
 
 
 
+
+Yesterday
+    - Provo City | Products
+    - BFS Customer Tier Level Options
+Today
+    - Provo City | Products Display
+    - Tactical Precision MFG | Products
+
+
 To Do List
     City of Idaho Falls
 
@@ -36,11 +45,13 @@ Upcomming April
     
 
 
+API credentials
+AWTq2hAm2a-6IXNDKaW6TgfnOidX19pH0g4kBtw0-ZknHPPGUymHzjWtNR8W8SmmD9CqYjdKTHld7Y03
+EBd0K2z7qquDRhwaJBMUc99x1cLkmis5iZJPCc-kLfg7A3GfuubYnDqOGBqfGoEvuTVw9rSbb1RUmf8A
 
-
-
-
-
+Sandbox credentials
+sb-3fld929498712@business.example.com
+yN0ZY_iB
 
 
 

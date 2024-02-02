@@ -42,8 +42,6 @@ metal name badges 12.5
 00696	City of Idaho Falls
 18294	Civil Science
 16045	Clyde
-or
-0
 22054	DataBricks
 23661	David A. Christensen
 28519	Dentive
@@ -82,8 +80,8 @@ or
 21078	Pointe Meadows
 00993	Potandon
 01035	Premier Technology Inc.
+14092	Provo City 
 00697	Pro Rentals
-14092	Provo City
 25689	PUR Life
 20656	Purple
 08607	Real Deals
@@ -110,77 +108,6 @@ or
 20731	VanCon
 14049	Vox Marketing
 20322	Zamp HR
-
-
-
-
-
-22640	FBC
-COPPERPLATE GOTHIC 3 BOLD
-
-
-
-
-
-
-Purple
-AG Centers (Rexburg first)
-Performance Windows
-Alpine Home Medical
-City of IF
-American Land and Leisure
-
-
-Certiport
-
-Capacity Books
-
-Keller Williams
-
-NBC
-
-Provo City
-
-Simplicity
-
-VMS
-
-
-
-
-
-
-
-
-
-
-@media (min-width: 992px) {
-    #content div.general-panel.category-panel div.general-panel-body.page-content-area div div.col-md-4 {
-        max-width: 280px;
-    }
-}
-
-.prod-cat-item .img-wrap-link img {
-    background-image: none;
-    padding: 0em;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border-radius: 5px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -217,59 +144,11 @@ production. Are you sure that you want this item?
 If you are purchasing Non-Stuffed Coupons. These are sold in packs and will not be stuffed by production. Are you sure that you want this item?
  
 
-7367-Beehive Ins Folded Cards and A-6 Envelopes
-7375-Salt Lake City | Beehive Ins Letterhead
-7383-SLC PO Beehive Ins #10 Envelope
-7418-Beehive Ins Enter to Win Cards
-7507-Beehive Ins Congrats Cards Single-Sided
-7509-Beehive Ins Congrats Cards Double-Sided
-7571-Beehive Ins Policy Cover Sheet
-7578-Beehive Ins Thank You Cards and A-6 Envelopes
-8863-Cyber Liability
-8864-Expect More
-8865-Handbook Review
-8866-HivePlus
-8867-HR360
-8868-Retirement Planning
-8869-Safety
-8870-Victig
-8871-Work Comp
-8926-Beehive Ins Thank You-Blue
-9248-Cedar City Beehive Ins Letterhead
-9249-Cedar City Beehive Ins 10 Envelope Windowed
-9250-Cedar City 10 Envelope Black & White
-10471-Beehive Ins Policy Disclaimer Sheets
-10472-Beehive Ins Proposal Disclaimer Sheets
 
 
+22640	FBC
+COPPERPLATE GOTHIC 3 BOLD
 
-
-
-
-
-7367-24378-00005-Beehive Ins Folded Cards and A-6 Envelopes
-7375-24378-00014-Salt Lake City | Beehive Ins Letterhead
-7383-24378-00015-SLC PO Beehive Ins #10 Envelope
-7418-24378-00010-Beehive Ins Enter to Win Cards
-7507-24378-00011-Beehive Ins Congrats Cards Single-Sided
-7509-24378-00012-Beehive Ins Congrats Cards Double-Sided
-7571-24378-00013-Beehive Ins Policy Cover Sheets
-7578-24378-00006-Beehive Ins Thank You Cards and A-6 Envelopes
-8863-24378-00016-Cyber Liability
-8864-24378-00017-Expect More
-8865-24378-00018-Handbook Review
-8866-24378-00019-HivePlus
-8867-24378-00020-HR360 Submit
-8868-24378-00021-Retirement Planning
-8869-24378-00022-Safety
-8870-24378-00023-Victig
-8871-24378-00024-Work Comp
-8926-24378-00007-Beehive Ins Thank You - Blue
-9248-24378-00025-Cedar City Beehive Ins Letterhead
-9249-24378-00026-Cedar City Beehive Ins #10 Envelope Windowed
-9250-24378-00027-Cedar City 10 Envelope Black & White
-10471-24378-00008-Beehive Ins Policy Disclaimer Sheets Submit
-10472-24378-00009-Beehive Ins Proposal Disclaimer Sheets Submit
 
 
 40 West Lawrence Street, 
@@ -277,81 +156,31 @@ Helena, MT 59601
 
 
 
-
-
-01036-NF0A7V6J-GK.xls
-01036-NF0A7V6J-SP.xls
-01036-TLCS412-AG.xls
-01036-TLCS412-GK.xls
-01036-TLCS412-SP.xls
-01036-TLK500LS-GK.xls
-01036-TST850-GK.xls
-01036-LOG153-AG.xls
-01036-LOG153-GK.xls
-01036-LOG153-SP.xls
-01036-NF0A7V6J-AG.xls
-01036-NF0A7V6K-AG.xls
-01036-NF0A7V6K-GK.xls
-01036-NF0A7V6K-SP.xls
-01036-OG153-AG.xls
-01036-OG153-GK.xls
-01036-OG153-SP.xls
-01036-TLK500LS-AG.xls
-01036-TLK500LS-SP.xls
-01036-TST850-AG.xls
-01036-TST850-SP.xls
-
-
-
-05266-SHP-2.5x5-Banner.xls
-05266-SHP-8x5-Banner.xls
-05266-SHP-Brochures.xls
-05266-SHP-ChristmasCard.xls
-05266-SHP-DonationReciptPad.xls
-05266-SHP-ThankYouCard.xls
-
-
-
-
-
-Helana Motors - 
-    https://store.helenamotors.brandfulfillment.store/
-Internal Retail Site (Helena) - 
-    https://retail.brandfulfillment.store/
-Benefits Health System - 
-    https://benefis.brandfulfillment.store/
-Carrol College - 
-    https://carrollcollege.brandfulfillment.store/
-Intermountain - 
-    https://intermountain.brandfulfillment.store/
-Marsh Mclennan - 
-    https://marshmclennan.brandfulfillment.store/
-Apparel Store (Fall)  - 
-    https://hsd1apparel.inactive.brandfulfillment.store/
-Oppertunity Bank of Montana - 
-    https://opportunitybank.brandfulfillment.store/
-Montana Tabbaco Use Prevention Program - 
-    https://mtupp.brandfulfillment.store/
-Pureview - 
-    https://pureview.brandfulfillment.store/
-Rocky Mountain Development Council - 
-    https://rmdc.brandfulfillment.store/
-St. Peters Health - 
-    https://stpetershealth.brandfulfillment.store/
-St. Peters Health - 
-    https://stpetersgarments.brandfulfillment.store/
-
+Black#000000#0
+Polished#797982#0
+Midnight Bronze#4A4645#0
+Barrett Brown#7C4700#0
+FDE#877348#0
+Grey#808080#0
+Patriot Brown#5C4033#0
+Sig Grey#7F8583#0
+MultiCam#30063#0
 
 
 <style>
-    .navbar-position-bottom {
-        background-color: white;
-        border: none;
-        border-top: 1px solid grey;
-        border-radius: 1px;
-    }
+    div {
+        background-color: #7C4700;
+        background-color: #4A4645;
+        background-color: #877348;
+        background-color: #808080;
+        background-color: #5C4033;
+        background-color: #e5a200;
 
-    #nav-four > li.depth1 a:hover {
-        color: #2b669a;
     }
 </style>
+
+
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Instructions</title> <style>body { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: 1.428571429; font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; } .instructions-container { box-sizing: border-box; margin-bottom: 20px; border: 1px solid transparent; border-radius: 3px; padding: 12px 15px; background-image: none; background-color: rgba(217, 237, 247, 1); color: rgba(49, 112, 143, 1); border-color: rgba(154, 207, 234, 1); } </style> <div class="instructions-container"><h2 style="text-align:center;">NOTICE:</h2>
+<p style="text-align:center;">The following products are templates that are under refinement, pending approval from the client. For help or assistance please contact your sales representative.<br />
+</p>
+<!-- Add your instructions content here --> </div>
