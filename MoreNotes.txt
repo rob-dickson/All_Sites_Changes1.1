@@ -184,3 +184,20 @@ MultiCam#30063#0
 <p style="text-align:center;">The following products are templates that are under refinement, pending approval from the client. For help or assistance please contact your sales representative.<br />
 </p>
 <!-- Add your instructions content here --> </div>
+
+
+
+New Order
+
+New Password
+
+New User Approved
+
+Open Cart Reminder
+
+Order Complete
+
+Saved for Later Reminder
+
+
+

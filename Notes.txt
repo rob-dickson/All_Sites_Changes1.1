@@ -3,27 +3,20 @@
 
 
 Yesterday
-    - Tactical Precision MFG | Products
-    - Niels Fugal Company
+    - AG Centers | Helena
     - Real Deals | Site Revisions
-    - Bennie | Meeting
-    - Performance Windows | Products
-    - Speedy AG Marketing Center
-Today
-    - Performance Windows | Products
-    - Real Deals | Site Revisions
-    - TPM | Products
-
-
-
-
-
-Yesterday
-    - Provo City | Products
-    - BFS Customer Tier Level Options
-Today
-    - Provo City | Products Display
+    - City of Idaho Falls | Site Skin
     - Tactical Precision MFG | Products
+Today
+    - Tactical Precision MFG | PayPal
+    - AWI
+    - Helena Sites
+    - 
+
+
+
+
+
 
 
 To Do List
@@ -86,58 +79,105 @@ The Black Crow Flies
     LB Perdan
 
 
-24378-00005-Beehive Ins Folded Cards and A-6 Envelopes Submit(A-6 Cards and Envelopes).pdf
-
-24378-00006-Beehive Ins Thank You Cards and A-6 Envelopes(A-6 Cards and Envelopes).pdf
-
-24378-00007-Beehive Ins Thank You-Blue(BIA Thank You Cards).pdf
-
-24378-00008-Beehive Ins Policy Disclaimer Sheets(BIA Policy Disclaimer Sheet).pdf
-24378-00008-Beehive Ins Policy Disclaimer Sheets(NEW Policy-Proposal Cover-Background only_PRINT (2)).pdf
-
-24378-00009-Beehive Ins Proposal Disclaimer Sheets(BIA Policy Disclaimer Sheet).pdf
-24378-00009-Beehive Ins Proposal Disclaimer Sheets(BIA Proposal Disclaimer Sheet).pdf
-
-24378-00010-Beehive Ins Enter to Win Cards(Enter to Win_Business Card Size).pdf
-
-24378-00011-Beehive Ins Congrats Cards Single-Sided(BIA Congrats Cards - Single Sided).pdf
-
-24378-00012-Beehive Ins Congrats Cards Double-Sided(BIA Congrats Cards).pdf
-
-24378-00013-Beehive Ins Policy Cover Sheet(NEW Policy-Proposal Cover-Background only_PRINT (2)).pdf
-
-24378-00014-Salt Lake City Beehive Ins Letterhead Submit(BIA letterhead template (2)).pdf
-24378-00014-Salt Lake City Beehive Ins Letterhead Submit(BIA letterhead template).pdf
-
-24378-00015-SLC PO Beehive Ins #10 Envelope Submit(Beehive #10 Envelope_PRINT).pdf
-24378-00015-SLC PO Beehive Ins #10 Envelope Submit(BIA #10 envelope template).pdf
-
-24378-00016-Cyber Liability(NEW Cyber Liability 2019_PRINT).pdf
-
-24378-00017-Expect More(NEW Expect More 2019_PRINT).pdf
-
-24378-00018-Handbook Review(NEW Cyber Liability 2019_PRINT).pdf
-
-24378-00019-HivePlus(NEW HivePlus 2019_PRINT).pdf
-
-24378-00020-HR360(NEW HR360 2019_PRINT).pdf
-
-24378-00021-Retirement Planning(NEW Retirement Planning 2019_PRINT).pdf
-
-24378-00022-Safety(NEW Safety 2019_PRINT).pdf
-
-24378-00023-Victig(NEW Victig 2019_PRINT).pdf
-
-24378-00024-Work Comp(NEW Work Comp 2019_PRINT).pdf
-
-24378-00025-Cedar City Beehive Ins Letterhead(BIA letterhead template).pdf
-24378-00025-Cedar City Beehive Ins Letterhead(BIA South Utah letterhead template).pdf
-
-24378-00026-Cedar City Beehive Ins 10 Envelope Windowed(BIA #10 envelope template).pdf
-24378-00026-Cedar City Beehive Ins 10 Envelope Windowed(BIA South Window Envelopes).pdf
-
-24378-00027-Cedar City 10 Envelope Black & White(BIA South Return Envelopes).pdf
-24378-00027-Cedar City 10 Envelope Black & White(BIA South Window Envelopes).pdf
 
 
-`
+
+Helena Motors
+    - User Groups *
+    - Email Notifications *
+    -
+
+Helena Retail (Inactive)
+    - User Groups ?
+    - Email Notifications 
+    -
+
+Benefits Health System
+    - User Groups *
+    - Email Notifications *
+    - 
+
+Carrol College
+    - User Groups * 
+    - Email Notifications *
+    -
+
+Intermountain (Inactive)
+    - User Groups * 
+    - Email Notifications *
+    -
+
+Marsh Mclennan
+    - User Groups * 
+    - Email Notifications *
+    -
+
+Apparel Store (Fall)  (Inactive)
+    - User Groups *
+    - Email Notifications *
+    -
+
+Opportunity Bank of Montana (Inactive)
+    - User Groups *?
+    - Email Notifications *
+    -
+
+Montana Tabacco Use Prevention Program
+    - User Groups * 
+    - Email Notifications
+    -
+
+Pureview
+    - User Groups * 
+    - Email Notifications *
+    -
+
+Rocky Mountain Development Council
+    - User Groups * 
+    - Email Notifications *
+    -
+
+St. Peter's Health
+    - User Groups * 
+    - Email Notifications *
+    -
+
+St. Peter's Heath Garments (Inactive)
+    - User Groups * 
+    - Email Notifications *
+    -
+
+
+
+
+
+
+Helena Motors
+Helena Retail (Inactive)
+Benefits Health System
+Carrol College
+Intermountain (Inactive)
+Marsh Mclennan
+Apparel Store (Fall)  (Inactive)
+Opportunity Bank of Montana (Inactive)
+Montana Tabacco Use Prevention Program
+Pureview
+Rocky Mountain Development Council
+St. Peter's Health
+St. Peter's Heath Garments (Inactive)
+
+
+Active:
+    Helena Motors
+    Benefits Health System
+    Carrol College
+    Marsh Mclennan
+    Montana Tabacco Use Prevention Program
+    Pureview
+    Rocky Mountain Development Council
+    St. Peter's Health
+Inactive;
+    St. Peter's Heath Garments Intermountain
+    Helena Retail
+    Apparel Store (Fall)
+    Opportunity Bank of Montana
