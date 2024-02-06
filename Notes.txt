@@ -4,14 +4,12 @@
 
 Yesterday
     - AG Centers | Helena
-    - Real Deals | Site Revisions
-    - City of Idaho Falls | Site Skin
-    - Tactical Precision MFG | Products
-Today
     - Tactical Precision MFG | PayPal
-    - AWI
-    - Helena Sites
-    - 
+Today
+    - CB V3 Integration Meeting
+    - TPM | Products
+    - New User for Auburn's team
+    - C2 Financial Email Error
 
 
 
