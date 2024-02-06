@@ -8,7 +8,7 @@ Yesterday
 Today
     - CB V3 Integration Meeting
     - TPM | Products
-    - New User for Auburn's team
+    - New User for Auburn's team *
     - C2 Financial Email Error
 
 
@@ -147,35 +147,3 @@ St. Peter's Heath Garments (Inactive)
 
 
 
-
-
-
-Helena Motors
-Helena Retail (Inactive)
-Benefits Health System
-Carrol College
-Intermountain (Inactive)
-Marsh Mclennan
-Apparel Store (Fall)  (Inactive)
-Opportunity Bank of Montana (Inactive)
-Montana Tabacco Use Prevention Program
-Pureview
-Rocky Mountain Development Council
-St. Peter's Health
-St. Peter's Heath Garments (Inactive)
-
-
-Active:
-    Helena Motors
-    Benefits Health System
-    Carrol College
-    Marsh Mclennan
-    Montana Tabacco Use Prevention Program
-    Pureview
-    Rocky Mountain Development Council
-    St. Peter's Health
-Inactive;
-    St. Peter's Heath Garments Intermountain
-    Helena Retail
-    Apparel Store (Fall)
-    Opportunity Bank of Montana
