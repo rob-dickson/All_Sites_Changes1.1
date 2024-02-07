@@ -32,8 +32,8 @@ metal name badges 12.5
 14062	Banasky
 07253	Bank of Jackson Hole
 22829	Bennie
-00081	BISH
-10856	Boise State University
+00081	BISH 
+
 18622	Brent Brown
 23109	C2 Financial
 18937	Cascade Collision
@@ -74,7 +74,7 @@ metal name badges 12.5
 14285	Niels Fugal Sons
 22153	Not By Chance
 21152	PDR Benefits
-14066	Performance Windows
+
 21332	Persistent
 17469	Philanthropies
 21078	Pointe Meadows
@@ -204,10 +204,19 @@ Mike wants to know our five biggest storefronts on Connect. Would those be,
 American Fork Center, AHS, C2, Real Deals and Lice Clinics? 
 
 
-Bennie
-Boise State University
-Bish's RV
-Performance Windows
-Vox Marketing
+ 
 
-Hey, just a heads up, my wife finalized all of the appointments for my son! We have a meeting tomorrow with the school at 3pm to go over the medical 504, and then next week we have two Dr. appointments, one on monday at 11am and one one thursday at 8am. 
+
+
+
+
+Boise State - BC with Bleeds Printed 4/0 - https://boisestate.brandfulfillment.store/product/10856-00003
+Boise State - BC with Bleeds Printed 4/4 - https://boisestate.brandfulfillment.store/product/10856-00003
+Boise State - LTH 8.5x11 4/0 on Cust. Stock - https://boisestate.brandfulfillment.store/product/10856-00001
+Boise State - Student Created BC with Bleeds Printed 4/4 - https://boisestate.brandfulfillment.store/product/10856-00011
+
+PW - BC 4/0 - Austin - https://pw.brandfulfillment.store/product/14066-00006
+PW - BC 4/0 Corporate - https://pw.brandfulfillment.store/product/14066-00003
+PW - Contract - NCR - Austin - https://pw.brandfulfillment.store/product/14066-00009
+PW - Friends and Family Referral Program - Austin - https://pw.brandfulfillment.store/product/14066-00010
+

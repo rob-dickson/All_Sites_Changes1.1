@@ -3,14 +3,16 @@
 
 
 Yesterday
-    - AG Centers | Helena
-    - Tactical Precision MFG | PayPal
-Today
     - CB V3 Integration Meeting
-    - TPM | Products
-    - New User for Auburn's team *
-    - C2 Financial Email Error
-
+    - American Fork Center | New Users
+    - C2 Financial | Email Errors
+    - Bank of Jackson Hole | Users
+    - Provo City | Site Skin
+    - CB V3 Integration
+Today
+    - Provo City | Site Skin
+    - FBC | Site Edits
+    - TPM | Site Edits
 
 
 
@@ -144,6 +146,16 @@ St. Peter's Heath Garments (Inactive)
     - User Groups * 
     - Email Notifications *
     -
+
+
+
+
+div.col-md-6.item-des-col.order-summary-item-item-details div {
+    color: black;
+}
+
+
+
 
 
 
