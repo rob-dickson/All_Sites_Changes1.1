@@ -3,17 +3,17 @@
 
 
 Yesterday
-    - CB V3 Integration Meeting
-    - American Fork Center | New Users
-    - C2 Financial | Email Errors
-    - Bank of Jackson Hole | Users
     - Provo City | Site Skin
+    - FBC | Brand Fulfillment
+    - Boise State Nav
+    - Tactical Precision MFG | Site
     - CB V3 Integration
+    - Bank of Jackson Hole | Notifications
 Today
-    - Provo City | Site Skin
     - FBC | Site Edits
     - TPM | Site Edits
-
+    - Developer Demo | Settings
+    - Create List of Site Edits
 
 
 
