@@ -3,17 +3,16 @@
 
 
 Yesterday
-    - Provo City | Site Skin
-    - FBC | Brand Fulfillment
-    - Boise State Nav
-    - Tactical Precision MFG | Site
-    - CB V3 Integration
-    - Bank of Jackson Hole | Notifications
-Today
     - FBC | Site Edits
     - TPM | Site Edits
-    - Developer Demo | Settings
-    - Create List of Site Edits
+    - CB V3 Integration
+Today
+    - C2 Financial | Errors
+    - Developer Demo (Internal Sandbox) Settings
+    - Create List of Easy Site Edits
+    - FBC | Site Edits
+    - TPM | Site Edits
+    - CB V3 Integration/ Training
 
 
 
@@ -35,7 +34,8 @@ Upcomming April
     Homestyle Direct
     Megasphere 
 
-    
+
+Observation of issue... When the sales department has a change that needs to be implemented to a site products design, should it go through design first and then go to Kylie? Or is Kylie the gatekeeper that does her own design work when she wants and asks for help when she needs to?
 
 
 API credentials
