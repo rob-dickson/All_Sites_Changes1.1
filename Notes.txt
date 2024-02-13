@@ -3,17 +3,15 @@
 
 
 Yesterday
-    - C2 Financial | Email Errors
-    - FBC | Brand Fulfillment
-    - CB V3 Training
-    - Developer Demo
-    - Fat Cats | Site
     - CB V3 Integration
-    - Brand Fulfillment Store Requests submission | Notifications
+    - AWI | Status Updates
+    - Real Deals Product Warnings and custom Skinning
+    - CB V3 Training
+    - Fat Cats | Site
 Today
-    - CB V3 Integration/ Training
-    - Fat Cats Approval Process Review
-    - AWI Site Setup
+    - Fat Cats Approval Process
+    - CB V3 Integration
+    - AG Marketing Site
     - Create List of Easy Site Edits
     - TPM | Site Edits
 
@@ -146,7 +144,10 @@ St. Peter's Heath Garments (Inactive)
 
 
 
-
+* paid with PayPal
+* with a PO requirement
+* invoice submission
+Split shipments
 
 
 
