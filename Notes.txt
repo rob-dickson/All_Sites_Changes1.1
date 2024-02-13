@@ -3,16 +3,19 @@
 
 
 Yesterday
-    - FBC | Site Edits
-    - TPM | Site Edits
+    - C2 Financial | Email Errors
+    - FBC | Brand Fulfillment
+    - CB V3 Training
+    - Developer Demo
+    - Fat Cats | Site
     - CB V3 Integration
+    - Brand Fulfillment Store Requests submission | Notifications
 Today
-    - C2 Financial | Errors
-    - Developer Demo (Internal Sandbox) Settings
-    - Create List of Easy Site Edits
-    - FBC | Site Edits
-    - TPM | Site Edits
     - CB V3 Integration/ Training
+    - Fat Cats Approval Process Review
+    - AWI Site Setup
+    - Create List of Easy Site Edits
+    - TPM | Site Edits
 
 
 
@@ -67,17 +70,11 @@ https://ag679.app.corebridge.net/
 
 
 
+Capacity Books B2B
+    - capacitybooks.pro-matters.com
 
-
-The Age of Fire 
-    Eden Ross
-
-The Calling
-    LC Pye 
-
-The Black Crow Flies
-    LB Perdan
-
+Capacity Books B2C
+    - capacitybooks.brandfulfillment.store
 
 
 
@@ -148,11 +145,6 @@ St. Peter's Heath Garments (Inactive)
     -
 
 
-
-
-div.col-md-6.item-des-col.order-summary-item-item-details div {
-    color: black;
-}
 
 
 
