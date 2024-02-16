@@ -211,3 +211,70 @@ PW - BC 4/0 Corporate - https://pw.brandfulfillment.store/product/14066-00003
 PW - Contract - NCR - Austin - https://pw.brandfulfillment.store/product/14066-00009
 PW - Friends and Family Referral Program - Austin - https://pw.brandfulfillment.store/product/14066-00010
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Order CB-360596 - BFS-857
+BFS-Charged - 19.44
+UPS-Invoiced - 24.65
+    UPS-Breakdown:
+        UPS Ground $17.44
+        Delivery Area Surcharge $3.95
+        Fuel Surcharge $3.26
+
+
+
+Order CB-360951 - BFS-865
+BFS-Charged - 14.19
+UPS-Invoiced - 18.12
+    UPS-Breakdown:
+        UPS Ground $15.72
+        Fuel Surcharge $2.40
+
+
+
+
+
+
+
+
+
+1.268004115226337
+1.276955602536998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
