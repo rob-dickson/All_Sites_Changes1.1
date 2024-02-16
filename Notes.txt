@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - CB V3 Integration
-    - AWI | Status Updates
-    - Real Deals Product Warnings and custom Skinning
-    - CB V3 Training
+    - CB V3 Integration Meeting
     - Fat Cats | Site
-Today
-    - Fat Cats Approval Process
     - CB V3 Integration
-    - AG Marketing Site
-    - Create List of Easy Site Edits
+    - Keller Williams | Shipping Methods Fix
+    - Speedy AG Marketing Center
+Today
+    - Speedy AG Marketing Center
+    - AHS Login Page Requests
+    - Bish's RV Shipping 
     - TPM | Site Edits
 
 

@@ -543,3 +543,28 @@ ifs(DesignTypeDD="8","",
 	</a>
 </div>
 <p style="font-style: italic;">*Shipping times are estimated and may vary.</p>
+
+LOGIN to Print Store
+
+#loginpnl div form div fieldset legend
+<style>
+	div {
+		text-align: center;
+	}
+</style>
+<script>
+	function changeText() {
+		var createAccountLink = document.querySelector('.createanaccount');
+		if (createAccountLink) {
+			createAccountLink.innerText = "Create a Print Store Account";
+		} else {
+			console.error('Element with class "createanaccount" not found.');
+		}
+		var NewLoginText = document.querySelector('legend');
+		if (NewLoginText) {
+			NewLoginText.innerText = "LOGIN to Print Store";
+		} else {
+			console.error('"legend" not found.');
+		}
+	}
+</script>
