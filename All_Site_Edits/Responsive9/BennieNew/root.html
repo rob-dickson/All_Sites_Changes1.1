@@ -6,36 +6,60 @@
 
     .expand-button {
         position: absolute;
-        bottom: 20px;
+        bottom: 0px;
         left: 0px;
-        padding: 30px;
-        background-color: #007bff;
-        color: white;
+        background-image: linear-gradient(to right, transparent, transparent);
+        color: transparent;
         border: none;
         cursor: pointer;
-        transition: all 0.3s ease;
+        transition: width 1s;
+        width: .1em;
+        height: 100%;
         opacity: 0;
+        display: flex;
+    }
+
+    .expand-button-text {
+        opacity: 0;
+        color: transparent;
+        transition: color 1s;
+        align-self: center;
+        font-size: x-large;
+        padding-left: 30px;
+    }
+
+    .image-container:hover .expand-button-text {
+        color: white;
+        opacity: 1;
     }
 
     .image-container:hover .expand-button {
         opacity: 1;
+        width: 75%;
+        color: white;
+        background-image: linear-gradient(to right, #233659, #233659b0, transparent);
     }
 
     .expand-button-center {
         position: absolute;
-        bottom: 10px;
+        bottom: 0px;
         left: 0px;
-        padding: 20px 50px;
-        background-color: #007bff;
-        color: white;
+        background-image: linear-gradient(to right, transparent, transparent);
+        color: transparent;
         border: none;
         cursor: pointer;
-        transition: all 0.3s ease;
+        transition: width 1s;
+        width: .1em;
+        height: 100%;
         opacity: 0;
+        display: flex;
     }
 
     .image-container:hover .expand-button-center {
         opacity: 1;
+        width: 55%;
+        color: white;
+        background-image: linear-gradient(to right, #233659, #233659b0, transparent);
     }
 </style>
 <h2 class="tw-text-28 tw-leading-32 md:tw-text-40 md:tw-leading-44 xxl:tw-text-60 xxl:tw-leading-68 tw-text-night tw-font-black tw-text-center"
@@ -74,19 +98,23 @@
         <div class="col-md-6">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/what_is_a_bennie.jpg"
-                    class="img-responsive center-block" alt=""
-                    style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;"><a
-                    class="expand-button" href="https://bennie-sandbox.pro-matters.com/category/GiftsHome"
-                    style="text-decoration:none;">Gifts & Home</a>
+                    class="img-responsive center-block" alt="Gift"
+                    style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
+                <span class="expand-button">
+                    <a class="expand-button-text" href="https://bennie-sandbox.pro-matters.com/category/GiftsHome"
+                        style="text-decoration:none;">Gifts&nbsp&&nbspHome</a>
+                </span>
             </p>
         </div>
         <div class="col-md-6">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/bennie-stock-photos-okazaki-210630-1080.jpg"
-                    class="img-responsive center-block" alt=""
-                    style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;"><a
-                    class="expand-button" href="https://bennie-sandbox.pro-matters.com/category/drinkware"
-                    style="text-decoration:none;">Drinkware</a>
+                    class="img-responsive center-block" alt="Drinkware"
+                    style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
+                <span class="expand-button">
+                    <a class="expand-button-text" href="https://bennie-sandbox.pro-matters.com/category/drinkware"
+                        style="text-decoration:none;">Drinkware</a>
+                </span>
             </p>
         </div>
     </div>
@@ -96,25 +124,26 @@
         <div class="col-md-4">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/bennie-stock-photos-okazaki-210630-872.jpg"
-                    class="img-responsive center-block" alt=""
+                    class="img-responsive center-block" alt="Apparel1"
                     style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
             </p>
         </div>
         <div class="col-md-4">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/bennie-stock-photos-okazaki-210630-567.jpg"
-                    class="img-responsive center-block" alt=""
+                    class="img-responsive center-block" alt="Apparel2"
                     style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
             </p>
         </div>
         <div class="col-md-4">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/OOK_4136.jpg"
-                    class="img-responsive center-block" alt=""
+                    class="img-responsive center-block" alt="Apparel3"
                     style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
             </p>
-        </div><a class="expand-button-center" href="https://bennie-sandbox.pro-matters.com/category/apparel"
-            style="text-decoration:none;">Apparel</a>
+        </div><span class="expand-button-center">
+            <a class="expand-button-text" href="https://bennie-sandbox.pro-matters.com/category/apparel"
+                style="text-decoration:none;">Apparel</a></span>
     </div>
 </div>
 <div data-pb-snippet="image-row-6-6">
@@ -122,18 +151,19 @@
         <div class="col-md-6">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/bennie-stock-photos-okazaki-210630-1077.jpg"
-                    class="img-responsive center-block" alt=""
+                    class="img-responsive center-block" alt="Office1"
                     style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
             </p>
         </div>
         <div class="col-md-6">
             <p class="image-container">
                 <img src="https://www.alphagraphicsmarketing.com/Bennie/Images/bennie-stock-photos-okazaki-210630-822.jpg"
-                    class="img-responsive center-block" alt=""
+                    class="img-responsive center-block" alt="Office2"
                     style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
             </p>
-        </div><a class="expand-button-center" href="https://bennie-sandbox.pro-matters.com/category/office"
-            style="text-decoration:none;">Office</a>
+        </div><span class="expand-button-center">
+            <a class="expand-button-text" href="https://bennie-sandbox.pro-matters.com/category/office"
+                style="text-decoration:none;">Office</a></span>
     </div>
 </div>
 <div id="builder-content-end"></div>
