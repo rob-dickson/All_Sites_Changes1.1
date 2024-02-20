@@ -4,12 +4,12 @@
 
 Yesterday
     - Tactical Precision MFG | Site
-    - Speedy AG Marketing Center
-    - City of Idaho Falls | User Updates
+    - C2 Financial | Apparel Error
     - Bennie | Revamp
-    - Boise State Email Notifications
+    - Vox Marketing Email didn't send
+    - CB V3 Integration
 Today
-    - Bish's RV Shipping 
+    - List of Site Edits
     - TPM | Site Edits
     - Bennie | Revamp
 
@@ -18,6 +18,7 @@ Today
 
 
 To Do List
+
     AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
 
