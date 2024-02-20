@@ -157,4 +157,19 @@ Split shipments
 
 
 
+login page
+    - Colors and fonts
+    - Custom Login Message 
 
+Category Page
+    - Custom Welcome Banner
+    - Colors and fonts
+    - Category Thumbnail Images
+    - Top Nav
+    - Side Nav
+    - Sidebar History
+
+Footer
+    - Contact Block
+    - Content Block
+    - Custom Footer Nav
