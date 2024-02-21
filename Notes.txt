@@ -4,12 +4,11 @@
 
 Yesterday
     - Tactical Precision MFG | Site
-    - C2 Financial | Apparel Error
     - Bennie | Revamp
-    - Vox Marketing Email didn't send
     - CB V3 Integration
+    - City of Idaho Falls | User Updates
+    - AWI | Status Updates
 Today
-    - List of Site Edits
     - TPM | Site Edits
     - Bennie | Revamp
 
@@ -19,6 +18,7 @@ Today
 
 To Do List
 
+    Real Deals - Video Code
     AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
 
@@ -26,8 +26,11 @@ To Do List
 
 
 
+ I will make you a task, but can you put this on the digital asset catagory description. 
+ If you also could write me some code I can put it into each of the digital asset product instructions.
 
 
+Digital-Downloads-Instructional-Video.mp4
 
 
 
