@@ -4,11 +4,13 @@
 
 Yesterday
     - Tactical Precision MFG | Site
-    - Bennie | Revamp
-    - CB V3 Integration
-    - City of Idaho Falls | User Updates
-    - AWI | Status Updates
+    - Vox Marketing Email didn't send
+    - Real Deals Product Warnings and custom Skinning
+    - Signified - Tabbed Journal API
 Today
+    - Real Deals Product Warnings and custom Skinning
+    - Signified - Tabbed Journal API
+    - Electrical Wholesale
     - TPM | Site Edits
     - Bennie | Revamp
 
