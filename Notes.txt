@@ -3,14 +3,14 @@
 
 
 Yesterday
-    - Tactical Precision MFG | Site
-    - Vox Marketing Email didn't send
-    - Real Deals Product Warnings and custom Skinning
-    - Signified - Tabbed Journal API
-Today
     - Real Deals Product Warnings and custom Skinning
     - Signified - Tabbed Journal API
     - Electrical Wholesale
+    - TPM | Site Edits
+    - Rocky Mountain Development Council
+Today
+    - AG Sales Users
+    - AG Marketing Site
     - TPM | Site Edits
     - Bennie | Revamp
 
