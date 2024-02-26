@@ -89,8 +89,9 @@ Category Page
     - Colors and fonts
     - Category Thumbnail Images
     - Top Nav
-    - Side Nav
-    - Sidebar History
+    Removable
+    - Side Nav 
+    - Sidebar History 
 
 Footer
     - Contact Block
@@ -132,6 +133,21 @@ Hero and Root Banner Sizes
 815x290
 
 
+
+
+
+North Face Jackets 
+    - are for Sales and Executives that will be traveling to meeting with customers 
+
+Duck Cloth Insulated Hooded Work Jackets
+Sherpa-Lined Mock Neck Vest
+    - are for Delivery Drivers and Installers that will be working out in the elements 
+
+District Re-Tee
+District ® Women’s Re-Tee ® V-Neck
+Port & Company® Essential Tee
+Port & Company® Ladies Essential Tee
+    - are for Production that will not be working with the public 
 
 
 
