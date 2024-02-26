@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - Real Deals Product Warnings and custom Skinning
-    - Signified - Tabbed Journal API
-    - Electrical Wholesale
-    - TPM | Site Edits
-    - Rocky Mountain Development Council
+    - Speedy AG Marketing Center
+    - Tactical Precision MFG | Products
+    - Fat Cats | Site
+    - Developer Demo
 Today
-    - AG Sales Users
-    - AG Marketing Site
+    - Fat Cats | Products
     - TPM | Site Edits
-    - Bennie | RevampbusTaco
+    - Bennie | Revamp 
+    - 
 
 
 
@@ -24,15 +23,6 @@ To Do List
     AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
 
-
-
-
-
- I will make you a task, but can you put this on the digital asset catagory description. 
- If you also could write me some code I can put it into each of the digital asset product instructions.
-
-
-Digital-Downloads-Instructional-Video.mp4
 
 
 
@@ -88,78 +78,6 @@ Capacity Books B2C
 
 
 
-Helena Motors
-    - User Groups *
-    - Email Notifications *
-    -
-
-Helena Retail (Inactive)
-    - User Groups ?
-    - Email Notifications 
-    -
-
-Benefits Health System
-    - User Groups *
-    - Email Notifications *
-    - 
-
-Carrol College
-    - User Groups * 
-    - Email Notifications *
-    -
-
-Intermountain (Inactive)
-    - User Groups * 
-    - Email Notifications *
-    -
-
-Marsh Mclennan
-    - User Groups * 
-    - Email Notifications *
-    -
-
-Apparel Store (Fall)  (Inactive)
-    - User Groups *
-    - Email Notifications *
-    -
-
-Opportunity Bank of Montana (Inactive)
-    - User Groups *?
-    - Email Notifications *
-    -
-
-Montana Tabacco Use Prevention Program
-    - User Groups * 
-    - Email Notifications
-    -
-
-Pureview
-    - User Groups * 
-    - Email Notifications *
-    -
-
-Rocky Mountain Development Council
-    - User Groups * 
-    - Email Notifications *
-    -
-
-St. Peter's Health
-    - User Groups * 
-    - Email Notifications *
-    -
-
-St. Peter's Heath Garments (Inactive)
-    - User Groups * 
-    - Email Notifications *
-    -
-
-
-
-* paid with PayPal
-* with a PO requirement
-* invoice submission
-Split shipments
-
 
 
 login page
@@ -182,27 +100,37 @@ Footer
 
 
 
-What is expected of me in my role?
 
-    I am expected to build, update and manage websites, both front and backend, and software integration with those websites where and when applicable. This includes all websites on Procerro and what is left on XMPie. It also includes the integration of these sites with Corbridge and other third party systems.
+Responsive 6, Responsive 8, Responsive Clean
+    2000x560 Hero Banner
+    1140x366 Root Banner
 
-How does my role impact the organization and its goals?
+Bootstrap Basic, Bootstrap Basic (No Sidebar), 
+Creulean, Readable, Responsive Santiago, 
+Responsive Watson, Responsive Hero
+    2000x560 Hero Banner
 
-    It is through my ability to effectively 
+Responsive 9
+    848x446 Hero Banner
+    1140x366 Root Banner
 
-What areas, skills or development needs do you want to work on over the next quarter?
+Responsive Algernon, Responsive Ender
+    1140x500 Hero Banner
+    815x290 Root Banner
+
+Responsive Algernon (No Sidebar)
+    1140x500 Hero Banner
+    1108x395 Root Banner
 
 
+Hero and Root Banner Sizes 
+2000x560
+1140x366
+1140x500
+1108x395
+848x446
+815x290
 
-What are three things we, as a company, can do to support you in your development? 
-
-
-
-What opportunities do you want to pursue during the next quarter? 
-
-
-
-Self Review Comments:
 
 
 
