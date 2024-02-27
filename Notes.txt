@@ -6,20 +6,20 @@ Yesterday
     - Speedy AG Marketing Center
     - Tactical Precision MFG | Products
     - Fat Cats | Site
-    - Developer Demo
+    - List of Site Edits
+    - Bennie | Revamp
+
 Today
-    - Fat Cats | Products
-    - TPM | Site Edits
-    - Bennie | Revamp 
-    - 
+    - Speedy AG Marketing Center
+    - Tactical Precision MFG | Products
+    - Center | Email Notifications
+    
 
 
 
 
 
 To Do List
-
-    Real Deals - Video Code
     AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
 
@@ -37,7 +37,11 @@ Upcomming April
     Megasphere 
 
 
-Observation of issue... When the sales department has a change that needs to be implemented to a site products design, should it go through design first and then go to Kylie? Or is Kylie the gatekeeper that does her own design work when she wants and asks for help when she needs to?
+Observation of issue... When the sales department has a change 
+that needs to be implemented to a site products design, should 
+it go through design first and then go to Kylie? Or is Kylie 
+the gatekeeper that does her own design work when she wants 
+and asks for help when she needs to?
 
 
 API credentials
