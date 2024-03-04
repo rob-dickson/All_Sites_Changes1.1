@@ -568,3 +568,44 @@ LOGIN to Print Store
 		}
 	}
 </script>
+
+
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		var optionsElement = document.getElementById("Options_1_Value");
+		if (optionsElement) {
+			optionsElement.value = "1";
+		} else {
+			console.error("Element with ID 'Options_1_Value' not found.");
+		}
+	});
+</script>
+
+
+<script defer>
+	var element = document.getElementById("Options_1_Value");
+
+	if (element) {
+		element.value = "1";
+	} else {
+		console.error("Element with ID 'Options_1_Value' not found.");
+	}
+</script>
+
+<script>
+	setTimeout(function () {
+		// Code to run after 10 seconds
+		var optionsElement = document.getElementById("Options_1_Value");
+		if (optionsElement) {
+			optionsElement.value = "1";
+		}
+	}, 10000); // 10000 milliseconds = 10 seconds
+</script>
+
+
+
+<style>
+	div.footermodule.custom-html {
+		text-align: center;
+	}
+</style>

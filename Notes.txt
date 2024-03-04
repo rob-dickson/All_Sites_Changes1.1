@@ -10,8 +10,7 @@ Yesterday
     - Real Deals | User Access Issue
 
 Today
-    - Real Deals | User Access Issue
-    - Tactical Precision MFG | SSO and Products
+    - Tactical Precision MFG | Product Pricing
     - Speedy AG Marketing Center
     - Center | Email Notifications
     
