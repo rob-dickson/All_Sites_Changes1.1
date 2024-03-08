@@ -4,12 +4,15 @@
 
 Yesterday
     - Brighton Corp | Brand Fulfillment
+    - Bank of Jackson Hole | Notifications
+    - Apparel API Troubleshooting
+    - BMW/Ron Sayer | Troubleshooting
 
 Today
     - BMW Ron Sayer | Troubleshooting
     - Brighton Corp | Brand Fulfillment
-    - FreshDesk Academy
     - TPM | Site Edits
+    - FreshDesk Academy
     
 
 
@@ -164,3 +167,59 @@ AlphaGraphics Boise
 
 517 S 8th St
 Boise, ID 83702
+
+
+
+
+Residential Management
+NHS Bios
+Cadence Century Farm
+Cadence Rentals
+Cottages
+Cottages floorplan Brochures
+Single Family Floorplan Brochures
+Floorplan Brochures
+Focused Master Plans
+Lifestyle
+Master Plans
+Viera
+
+
+
+
+
+<style>
+  .new_banner { background-color: white; border: 1px solid #003A70; padding: 4em 0em 4em 0em; } .banner_section { text-align: center; }
+</style>
+<div class="new_banner">
+  <section class="banner_section">
+     <h2><span style="color:#000000;"><strong>WELCOME TO YOUR PRINT PORTAL</strong></span> </h2><span style="color:#000000;"><strong> </strong> </span> 
+    <p><strong><span style="color:#000000;">Order and customize your print materials below</span> </strong> 
+    </p>
+  </section>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+Order CB-360596 - BFS-857
+BFS-Charged - 19.44
+UPS-Invoiced - 24.65
+    UPS-Breakdown:
+        UPS Ground $17.44
+        Delivery Area Surcharge $3.95
+        Fuel Surcharge $3.26
+
+Order CB-360951 - BFS-865
+BFS-Charged - 16.28
+UPS-Invoiced - 18.12
+    UPS-Breakdown:
+        UPS Ground $15.72
+        Fuel Surcharge $2.40
