@@ -3,15 +3,15 @@
 
 
 Yesterday
-    - Brighton Corp | Brand Fulfillment
-    - Bank of Jackson Hole | Notifications
-    - Apparel API Troubleshooting
-    - BMW/Ron Sayer | Troubleshooting
+    - Tactical Precision MFG | Products
+    - Elite Windows | New Basic Site
+    - Tadd Jenkins - Email Notifications
 
 Today
-    - BMW Ron Sayer | Troubleshooting
-    - Brighton Corp | Brand Fulfillment
-    - TPM | Site Edits
+    - CBv3 Meeting 
+    - Brighton Corp | first review meeting
+    - Tactical Precision MFG | Products
+    - Brighton Corp | Edits
     - FreshDesk Academy
     
 
@@ -207,19 +207,12 @@ Viera
 
 
 
+Hey, can you get Brighton set up with the domain,
+brighton.brandfulfillment.store
 
 
-Order CB-360596 - BFS-857
-BFS-Charged - 19.44
-UPS-Invoiced - 24.65
-    UPS-Breakdown:
-        UPS Ground $17.44
-        Delivery Area Surcharge $3.95
-        Fuel Surcharge $3.26
 
-Order CB-360951 - BFS-865
-BFS-Charged - 16.28
-UPS-Invoiced - 18.12
-    UPS-Breakdown:
-        UPS Ground $15.72
-        Fuel Surcharge $2.40
+
+
+
+
