@@ -4,13 +4,12 @@
 
 Yesterday
     - Homestyle Direct | Brand Fulfillment
-    - Persistent Pricing Fix
-    - Helena - Center - Admin Permissions
-    - Brighton Corp | Edits
+    - Brighton Corp | Brand Fulfillment
+    - Electrical Wholesale - User Addition
+    - Bennie | Shipping Issue
+    - St Peter's | Notification Errors
 
 Today
-    - Provo City | Site Changes
-    - Tactical Precision MFG | Products Pictures
     - Homestyle Direct | Brand Fulfillment
     - Brighton Corp | Edits
     - FreshDesk Academy
