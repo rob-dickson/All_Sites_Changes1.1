@@ -3,10 +3,9 @@
 
 
 Yesterday
+    - CB V3 Integration Meeting
     - Homestyle Direct | Brand Fulfillment
     - Brighton Corp | Brand Fulfillment
-    - Electrical Wholesale - User Addition
-    - Bennie | Shipping Issue
     - St Peter's | Notification Errors
 
 Today
@@ -22,14 +21,6 @@ Today
 To Do List
     AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
-
-** AHS/ partial
-BFS American Fork
-** C2 
-Laced inc
-PUR Life
-Real Reals
-Swig
 
 
 Onboarding
