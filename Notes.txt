@@ -3,13 +3,13 @@
 
 
 Yesterday
-    - CB V3 Integration Meeting
     - Homestyle Direct | Brand Fulfillment
     - Brighton Corp | Brand Fulfillment
-    - St Peter's | Notification Errors
+    - Real Deals | Paypal Issue
 
 Today
     - Homestyle Direct | Brand Fulfillment
+    - Update New site defaults
     - Brighton Corp | Edits
     - FreshDesk Academy
     
