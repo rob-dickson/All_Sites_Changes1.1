@@ -156,28 +156,7 @@ Helena, MT 59601
 
 
 
-Black#000000#0
-Polished#797982#0
-Midnight Bronze#4A4645#0
-Barrett Brown#7C4700#0
-FDE#877348#0
-Grey#808080#0
-Patriot Brown#5C4033#0
-Sig Grey#7F8583#0
-MultiCam#30063#0
 
-
-<style>
-    div {
-        background-color: #7C4700;
-        background-color: #4A4645;
-        background-color: #877348;
-        background-color: #808080;
-        background-color: #5C4033;
-        background-color: #e5a200;
-
-    }
-</style>
 
 
 <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Instructions</title> <style>body { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: 1.428571429; font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; } .instructions-container { box-sizing: border-box; margin-bottom: 20px; border: 1px solid transparent; border-radius: 3px; padding: 12px 15px; background-image: none; background-color: rgba(217, 237, 247, 1); color: rgba(49, 112, 143, 1); border-color: rgba(154, 207, 234, 1); } </style> <div class="instructions-container"><h2 style="text-align:center;">NOTICE:</h2>
@@ -198,61 +177,6 @@ Open Cart Reminder
 Order Complete
 
 Saved for Later Reminder
-
-
-
-Boise State - BC with Bleeds Printed 4/0 - https://boisestate.brandfulfillment.store/product/10856-00003
-Boise State - BC with Bleeds Printed 4/4 - https://boisestate.brandfulfillment.store/product/10856-00003
-Boise State - LTH 8.5x11 4/0 on Cust. Stock - https://boisestate.brandfulfillment.store/product/10856-00001
-Boise State - Student Created BC with Bleeds Printed 4/4 - https://boisestate.brandfulfillment.store/product/10856-00011
-
-PW - BC 4/0 - Austin - https://pw.brandfulfillment.store/product/14066-00006
-PW - BC 4/0 Corporate - https://pw.brandfulfillment.store/product/14066-00003
-PW - Contract - NCR - Austin - https://pw.brandfulfillment.store/product/14066-00009
-PW - Friends and Family Referral Program - Austin - https://pw.brandfulfillment.store/product/14066-00010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Order CB-360596 - BFS-857
-BFS-Charged - 19.44
-UPS-Invoiced - 24.65
-    UPS-Breakdown:
-        UPS Ground $17.44
-        Delivery Area Surcharge $3.95
-        Fuel Surcharge $3.26
-
-
-
-Order CB-360951 - BFS-865
-BFS-Charged - 14.19
-UPS-Invoiced - 18.12
-    UPS-Breakdown:
-        UPS Ground $15.72
-        Fuel Surcharge $2.40
-
-
-
-
-
-
-Whether you're upgrading your current firearm or customizing a new build, we're here to help you find the perfect parts to suit your needs.
-
-
-
-
-
-
 
 
 

@@ -145,8 +145,28 @@ hsd.brandfulfillment.store
 
 
 
+Black#000000#0
+Polished#797982#0
+Midnight Bronze#4A4645#0
+Barrett Brown#7C4700#0
+FDE#877348#0
+Grey#808080#0
+Patriot Brown#5C4033#0
+Sig Grey#7F8583#0
+MultiCam#30063#0
 
 
+<style>
+    div {
+        background-color: #7C4700;
+        background-color: #4A4645;
+        background-color: #877348;
+        background-color: #808080;
+        background-color: #5C4033;
+        background-color: #e5a200;
+
+    }
+</style>
 
 
 
