@@ -5,9 +5,10 @@
 Yesterday
     - Homestyle Direct | Brand Fulfillment
     - Brighton Corp | Brand Fulfillment
-    - Real Deals | Paypal Issue
+    - FreshDesk Academy
 
 Today
+    - Real Deals | Site Change
     - Homestyle Direct | Brand Fulfillment
     - Update New site defaults
     - Brighton Corp | Edits
@@ -35,11 +36,7 @@ Upcomming April
     Megasphere 
 
 
-Observation of issue... When the sales department has a change 
-that needs to be implemented to a site products design, should 
-it go through design first and then go to Kylie? Or is Kylie 
-the gatekeeper that does her own design work when she wants 
-and asks for help when she needs to?
+
 
 
 API credentials
@@ -49,19 +46,6 @@ EBd0K2z7qquDRhwaJBMUc99x1cLkmis5iZJPCc-kLfg7A3GfuubYnDqOGBqfGoEvuTVw9rSbb1RUmf8A
 Sandbox credentials
 sb-3fld929498712@business.example.com
 yN0ZY_iB
-
-
-
-
-
-TPM 
-    - Contact Us form
-        - Build
-        - Add to Navigation
-        - Add to Footer
-    - Build Out AWI
-    - Build out Granular Navigation
-    - Add Pricing Engine Calculators 
 
 
 
