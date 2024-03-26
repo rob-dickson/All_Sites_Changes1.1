@@ -3,16 +3,17 @@
 
 
 Yesterday
-    - Homestyle Direct | Brand Fulfillment
+    - St Peter's | Notification Errors
     - Brighton Corp | Brand Fulfillment
-    - FreshDesk Academy
+    - MT Tobacco - Inventory
+    - Keller William's Email Notifications
 
 Today
-    - Real Deals | Site Change
+    - Keller William's Email Notifications
+    - Mud Lake - AWI
+    - MT Tobacco - Inventory
     - Homestyle Direct | Brand Fulfillment
-    - Update New site defaults
     - Brighton Corp | Edits
-    - FreshDesk Academy
     
 
 
