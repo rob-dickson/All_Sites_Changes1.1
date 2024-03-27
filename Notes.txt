@@ -6,12 +6,14 @@ Yesterday
     - St Peter's | Notification Errors
     - Brighton Corp | Brand Fulfillment
     - MT Tobacco - Inventory
+    - CB V3 Integration Meeting
+    - Mud Lake - AWI
     - Keller William's Email Notifications
 
 Today
-    - Keller William's Email Notifications
-    - Mud Lake - AWI
+    - St Peter's New Users
     - MT Tobacco - Inventory
+    - Swig - User Set up
     - Homestyle Direct | Brand Fulfillment
     - Brighton Corp | Edits
     
