@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .image-container-2 {
+        position: relative;
+        display: inline-block;
+    }
+
+    .expand-button-2 {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-image: linear-gradient(to right, transparent, transparent);
+        color: transparent;
+        border: none;
+        cursor: pointer;
+        transition: width 1s;
+        width: .1em;
+        height: 20%;
+        opacity: 0;
+        display: flex;
+    }
+
+    .expand-button-text-2 {
+        opacity: 0;
+        color: transparent;
+        transition: color 1s;
+        align-self: center;
+        font-size: x-large;
+        padding-left: 30px;
+    }
+
+    .image-container-2:hover .expand-button-text-2 {
+        color: white;
+        opacity: 1;
+    }
+
+    .image-container-2:hover .expand-button-2 {
+        opacity: 1;
+        width: 100%;
+        color: white;
+        background-image: linear-gradient(to right, #db2020, #db2020b0, transparent);
+    }
+</style>
+
+<style>
+    .image-container-3 {
+        position: relative;
+        display: inline-block;
+    }
+
+    .expand-button-3 {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-image: linear-gradient(to top, transparent, transparent);
+        color: transparent;
+        border: none;
+        cursor: pointer;
+        transition: width 1s;
+        width: .1em;
+        height: 20%;
+        opacity: 0;
+        display: flex;
+    }
+
+    .expand-button-text-3 {
+        opacity: 0;
+        color: transparent;
+        transition: color 1s;
+        align-self: center;
+        font-size: x-large;
+        padding-left: 30px;
+        margin-top: 6%;
+    }
+
+    .image-container-3:hover .expand-button-text-3 {
+        color: white;
+        opacity: 1;
+    }
+
+    .image-container-3:hover .expand-button-3 {
+        opacity: 1;
+        width: 100%;
+        color: white;
+        background-image: linear-gradient(to top, #db2020, #db2020b0, transparent);
+    }
+</style>
+
+<style>
+    .image-container {
+        position: relative;
+        display: inline-block;
+    }
+
+    .expand-button {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-image: linear-gradient(to right, transparent, transparent);
+        color: transparent;
+        border: none;
+        cursor: pointer;
+        transition: width 1s;
+        width: .1em;
+        height: 100%;
+        opacity: 0;
+        display: flex;
+    }
+
+    .expand-button-text {
+        opacity: 0;
+        color: transparent;
+        transition: color 1s;
+        align-self: center;
+        font-size: x-large;
+        padding-left: 30px;
+    }
+
+    .image-container:hover .expand-button-text {
+        color: white;
+        opacity: 1;
+    }
+
+    .image-container:hover .expand-button {
+        opacity: 1;
+        width: 75%;
+        color: white;
+        background-image: linear-gradient(to right, #db2020, #db2020b0, transparent);
+    }
+</style>
+
+<body>
+    <div style="text-align: center;">
+
+        <div>
+
+            <div class="row">
+                <div>
+                    <p class="image-container">
+                        <img src="http://placehold.it/450x450" class="img-responsive center-block" alt="####"
+                            style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;">
+                        <span class="expand-button">
+                            <a class="expand-button-text" href="####" style="text-decoration:none;">###PRODUCT1###</a>
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="row">
+                <div>
+                    <p class="image-container-2">
+                        <img src="http://placehold.it/450x450" class="img-responsive-2 center-block-2" alt="####"
+                            style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;"><span
+                            class="expand-button-2"><a class="expand-button-text-2" href="####"
+                                style="text-decoration:none;">###PRODUCT2###</a> </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="row">
+                <div>
+                    <p class="image-container-3">
+                        <img src="http://placehold.it/450x450" class="img-responsive-3 center-block-3" alt="####"
+                            style="padding:0px;background-color:rgba(0, 0, 0, 0);margin-top:0px;margin-bottom:0px;border-width:0px;border-style:none;border-color:#333333;"><span
+                            class="expand-button-3"><a class="expand-button-text-3" href="####"
+                                style="text-decoration:none;">###PRODUCT3###</a> </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</body>
+
+</html>

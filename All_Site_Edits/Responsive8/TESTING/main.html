@@ -1,0 +1,59 @@
+<style>
+    #content div.general-panel.category-panel div.general-panel-body.page-content-area div div div.prod-cat-item:hover div a.img-wrap-link {
+        color: #db2020;
+    }
+
+    .prod-cat-item {
+        position: relative;
+        display: inline-block;
+    }
+
+    .expand-button {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-image: linear-gradient(to right, transparent, transparent);
+        color: transparent;
+        border: none;
+        cursor: pointer;
+        transition: width 1s;
+        width: .1em;
+        height: 100%;
+        opacity: 0;
+        display: flex;
+    }
+
+    .expand-button-text {
+        opacity: 0;
+        color: transparent;
+        transition: color 1s;
+        align-self: center;
+        font-size: x-large;
+        padding-left: 30px;
+    }
+
+    .prod-cat-item:hover .btn-quickview {
+        color: white;
+        opacity: 1;
+    }
+
+    .prod-cat-item:hover .expand-button {
+        opacity: 1;
+        width: 75%;
+        color: white;
+        background-image: linear-gradient(to right, #db2020, #db2020b0, transparent);
+    }
+
+
+
+
+    ***************************************** .prod-cat-item .hover-layer .hover-layer-buttons {
+        position: relative;
+        top: 60%;
+        padding: 0px;
+        -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        -o-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+</style>

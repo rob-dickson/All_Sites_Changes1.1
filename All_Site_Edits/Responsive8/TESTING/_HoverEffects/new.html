@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        padding: 0;
+        margin: 0;
+        background-color: #eee;
+    }
+
+    h1 {
+        text-align: center;
+        color: #222;
+        padding: 10px;
+    }
+
+    .main {
+        margin: 10px;
+        padding: 0;
+        position: relative;
+    }
+
+    .main img {
+        position: absolute;
+        width: 100%;
+    }
+
+    .main #img-1 {
+        z-index: 101;
+        -webkit-clip-path: polygon(0 0, 25% 0, 15% 100%, 0% 100%);
+        clip-path: polygon(0 0, 25% 0, 15% 100%, 0% 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-2 {
+        z-index: 102;
+        -webkit-clip-path: polygon(25% 0, 45% 0, 35% 100%, 15% 100%);
+        clip-path: polygon(25% 0, 45% 0, 35% 100%, 15% 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-3 {
+        z-index: 103;
+        -webkit-clip-path: polygon(45% 0, 65% 0, 55% 100%, 35% 100%);
+        clip-path: polygon(45% 0, 65% 0, 55% 100%, 35% 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-4 {
+        z-index: 104;
+        -webkit-clip-path: polygon(65% 0, 85% 0, 75% 100%, 55% 100%);
+        clip-path: polygon(65% 0, 85% 0, 75% 100%, 55% 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-5 {
+        z-index: 105;
+        -webkit-clip-path: polygon(85% 0, 100% 0, 100% 100%, 75% 100%);
+        clip-path: polygon(85% 0, 100% 0, 100% 100%, 75% 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-1:hover {
+        z-index: 999;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-2:hover {
+        z-index: 999;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-3:hover {
+        z-index: 999;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-4:hover {
+        z-index: 999;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transition-duration: 500ms;
+    }
+
+    .main #img-5:hover {
+        z-index: 999;
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transition-duration: 500ms;
+    }
+</style>
+
+<body>
+
+    <h1>CSS Image Hover Banner Effect</h1>
+    <div class="main">
+        <img src="https://i.postimg.cc/d3XPDwZx/img-1.jpg" alt="" id="img-1">
+        <img src="https://i.postimg.cc/pLKbXNWs/img-2.jpg" alt="" id="img-2">
+        <img src="https://i.postimg.cc/XND0sc1k/img-3.jpg" alt="" id="img-3">
+        <img src="https://i.postimg.cc/xTwV2j2k/img-4.jpg" alt="" id="img-4">
+        <img src="https://i.postimg.cc/xdPwMKbH/img-5.jpg" alt="" id="img-5">
+    </div>
+
+
+</body>
+
+</html>
