@@ -3,10 +3,10 @@
 
 
 Yesterday
-    - Brighton Corp | Brand Fulfillment
-    - C2 | External Link (Product?)
+    - BFS emails into Spam folders
+    - FBC | Brand Fulfillment New Users
+    - Sleep in Heavenly Peace Order Problem
     - Tactical Precision MFG | SEO
-    - MT Tobacco - Inventory (HELENA)
 
 Today
     - BFS emails into Spam folders
@@ -220,7 +220,85 @@ Good morning Doug,
 
 
 
-
+ifs(DepartmentDD="1",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "2140 N Skyline Dr <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="2",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "605 North Capital Avenue <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="3",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "149 7th St <BR> Idaho Falls, ID 83401", 
+ifs(DepartmentDD="4",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "P.O. Box 50220 | 308 Constitution Way <BR> Idaho Falls, ID 83405-0220", 
+ifs(DepartmentDD="5",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "140 S Capital Ave <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="6",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "343 E St <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="7",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "P.O. Box 50220 | 308 Constitution Way <BR> Idaho Falls, ID 83405-0220", 
+ifs(DepartmentDD="8",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "457 W Broadway St <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="9",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & " 520 Memorial Dr <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="11",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "140 S Capital Ave <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="12",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "380 Constitution Way <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="13",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "380 Constitution Way <BR> Idaho Falls, ID 83402", 
+ifs(DepartmentDD="10",
+ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
+    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
+    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
+    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
+     & "<BR>" & "605 N Capital Ave <BR> Idaho Falls, ID 83405-0220", 
+"")))))))))))))
 
 
 
