@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - Email Notification Issues All Sites
-    - Horroks Engineers - Email Notifications
-    - St Peter's | Errors
-    - Tactical Precision MFG | SEO
-    - FreshDesk Academy
-    - American Land & Leisure | Shipping
-
-Today
     - American Land & Leisure | Shipping
     - Horroks | Email Notification errors
+    - St Peter's | Notification Errors
+    - Speedy CPS Employee Site | User Edits
+    - Tactical Precision MFG | Inventory
+
+Today
+    - St Peter's | Notification Errors
+    - Tactical Precision MFG | Wholesale Access 
     - Homestyle Direct | Brand Fulfillment
     - Brighton Corp | Edits
     - FreshDesk
@@ -33,13 +32,12 @@ Tactical Precision MFG To Do
     ✓ Moira - moira@hubsuite.com 
     ✓ Harry - harry@hubsuite.com
 
-https://adminc.pro-matters.com/authentication/Login
+✓ https://adminc.pro-matters.com/authentication/Login
 
-harry@hubsuite.com
-moira@hubsuite.com
+✓ harry@hubsuite.com
+✓ moira@hubsuite.com
 
 
-I have tried to regenerate these files to complete the order but they are not showing up.
 
 
 Get Pictures/ Content access For
