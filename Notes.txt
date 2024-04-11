@@ -3,15 +3,14 @@
 
 
 Yesterday
-    - Performance Windows | Users
-    - Homestyle Direct | Brand Fulfillment
-    - Speedy CPS Employee Site | User Edits
     - Everbowl | Brand Fulfillment Meeting
+    - Speedy CPS Employee Site | Sam's Order Issues
+    - Mud Lake | Apparel
+    - Tactical Precision MFG | Gift Card
 
 Today
     - Everbowl | Brand Fulfillment Meeting
-    - St Peter's | Email Notifications
-    - AWI Not Generating 
+    - St Peter's | Notification Errors
     - Homestyle Direct | Brand Fulfillment
     
 
@@ -218,7 +217,9 @@ Good morning Doug,
 
 
 
-
+body footer div.container div.row.footer-columns div {
+    width: 100% !important;
+}
 
 
 
