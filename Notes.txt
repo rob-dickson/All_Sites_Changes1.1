@@ -3,14 +3,15 @@
 
 
 Yesterday
-    - Everbowl | Brand Fulfillment Meeting
+    - Everbowl | Brand Fulfillment
     - Homestyle Direct | Brand Fulfillment
     - St Peter's | Notification Errors
 
 Today
-    - Everbowl | Brand Fulfillment Meeting
+    - Everbowl | Brand Fulfillment
     - Homestyle Direct | Brand Fulfillment
-    - Purple Pricing
+    - AWI Errors 
+    - TPM inventory
     
 
 
