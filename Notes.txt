@@ -16,6 +16,8 @@ Today
     - Fat Cats | Approvers
     
 - FIX FATCATS APPROVERS
+- Tactical Precision Needs Fixed
+
 
 
 
