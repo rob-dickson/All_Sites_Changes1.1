@@ -4,15 +4,18 @@
 
 Yesterday
     - Everbowl | Brand Fulfillment
-    - Homestyle Direct | Brand Fulfillment
-    - St Peter's | Notification Errors
+    - Tactical Precision MFG | Inventory
+    - AWI Errors
+    - Fat Cats | Approvers
 
 Today
     - Everbowl | Brand Fulfillment
-    - Homestyle Direct | Brand Fulfillment
+    - Real Deals 
     - AWI Errors 
     - TPM inventory
+    - Fat Cats | Approvers
     
+- FIX FATCATS APPROVERS
 
 
 
