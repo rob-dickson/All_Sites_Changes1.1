@@ -4,13 +4,15 @@
 
 Yesterday
     - Everbowl | Brand Fulfillment
+    - Real Deals | Shipping Change
+    - Real Deals | Product Changes
     - Tactical Precision MFG | Inventory
     - AWI Errors
     - Fat Cats | Approvers
 
 Today
+    - Fat Cats | Approvers
     - Everbowl | Brand Fulfillment
-    - Real Deals 
     - AWI Errors 
     - TPM inventory
     - Fat Cats | Approvers
