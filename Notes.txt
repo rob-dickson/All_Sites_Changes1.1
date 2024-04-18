@@ -3,25 +3,22 @@
 
 
 Yesterday
-    - Everbowl | Brand Fulfillment
-    - Real Deals | Shipping Change
-    - Real Deals | Product Changes
-    - Tactical Precision MFG | Inventory
-    - AWI Errors
     - Fat Cats | Approvers
+    - Everbowl | Brand Fulfillment
+    - Performance Windows | Pricing
+    - Bank of Jackson Hole | eDoc Pinedale Address
 
 Today
-    - Fat Cats | Approvers
+    - Bank of Jackson Hole | eDoc Pinedale Address
+    - Real Deals
     - Everbowl | Brand Fulfillment
-    - AWI Errors 
-    - TPM inventory
-    - Fat Cats | Approvers
+    - Homestyle Direct
+
     
-- FIX FATCATS APPROVERS
 - Tactical Precision Needs Fixed
 
-
-
+Everbowl - approving users with self-sign up
+Mary Wakabayashi <mwakabayashi@everbowl.com>
 
 
 Tactical Precision MFG To Do
