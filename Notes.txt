@@ -3,14 +3,14 @@
 
 
 Yesterday
-    - Fat Cats | Approvers
-    - Everbowl | Brand Fulfillment
-    - Performance Windows | Pricing
     - Bank of Jackson Hole | eDoc Pinedale Address
+    - Everbowl | Brand Fulfillment
+    - Real Deals | Product Changes
+    - Homestyle Direct | Brand Fulfillment
+    - Basic Sites | Shipping
 
 Today
-    - Bank of Jackson Hole | eDoc Pinedale Address
-    - Real Deals
+    - Performance Windows | New Products
     - Everbowl | Brand Fulfillment
     - Homestyle Direct
 
@@ -318,8 +318,12 @@ ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
 
 
 
-
-
+14066-00071 Las Vegas Contract.pdf
+14066-00072 Las Vegas FriendsFamReferralProgram.pdf
+14066-00073 Las Vegas Generic BC.pdf
+14066-00074 Las Vegas NCR Forms Property Agreement and What to Expect.pdf
+14066-00075 Las Vegas Variable BC_Blank.pdf
+14066-00076 Las Vegas Yard Sign.pdf
 
 
 
