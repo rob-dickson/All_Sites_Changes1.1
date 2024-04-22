@@ -3,14 +3,16 @@
 
 
 Yesterday
-    - Bank of Jackson Hole | eDoc Pinedale Address
     - Everbowl | Brand Fulfillment
-    - Real Deals | Product Changes
-    - Homestyle Direct | Brand Fulfillment
-    - Basic Sites | Shipping
+    - Real Deals | Product Missing
+    - Performance Windows | New Assets
+    - Basic Sites | Email Notifications
+    - Speedy CPS Employee Site | Category Updates
 
 Today
-    - Performance Windows | New Products
+    - AWI is skipping
+    - Email Notifications BFS
+    - SpeedyCPS | New Categories 
     - Everbowl | Brand Fulfillment
     - Homestyle Direct
 
