@@ -5,16 +5,16 @@
 Yesterday
     - Everbowl | Brand Fulfillment
     - Real Deals | Product Missing
-    - Performance Windows | New Assets
-    - Basic Sites | Email Notifications
-    - Speedy CPS Employee Site | Category Updates
+    - Real Deals | Email Notifications
+    - AWI Errors
+    - Homestyle Direct | Brand Fulfillment
+    - Performance Windows | New Users
 
 Today
-    - AWI is skipping
-    - Email Notifications BFS
-    - SpeedyCPS | New Categories 
+    - Bennie Apparel
     - Everbowl | Brand Fulfillment
-    - Homestyle Direct
+    - SpeedyCPS | New Categories 
+    - Email Notifications BFS
 
     
 - Tactical Precision Needs Fixed
@@ -23,11 +23,8 @@ Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
 
 
-Tactical Precision MFG To Do
 
-✓ Set Up reorder point 10 ✓
 
-✓ Set low inventory Notification ✓
 
 
 
@@ -37,8 +34,8 @@ Tactical Precision MFG To Do
 
 ✓ https://adminc.pro-matters.com/authentication/Login
 
-✓ harry@hubsuite.com
-✓ moira@hubsuite.com
+
+
 
 
 
@@ -60,7 +57,8 @@ Sites to aspire to
 
 
 
-Harrison Kenning
+
+
 
 
 
@@ -70,15 +68,7 @@ To Do List
     Look into showing more products per page on Provo City 
 
 
-Onboarding
-    Purple??? -Products
-    TPM
-    Swig 
-    Fatcats
 
-Upcoming April 
-    Homestyle Direct
-    Megasphere 
 
 
 
@@ -218,7 +208,9 @@ MultiCam#30063#0
 
 
 
-Good morning Doug,
+
+
+
 
 
 
@@ -235,97 +227,28 @@ body footer div.container div.row.footer-columns div {
 
 
 
-ifs(DepartmentDD="1",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "2140 N Skyline Dr <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="2",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "605 North Capital Avenue <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="3",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "149 7th St <BR> Idaho Falls, ID 83401", 
-ifs(DepartmentDD="4",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "P.O. Box 50220 | 308 Constitution Way <BR> Idaho Falls, ID 83405-0220", 
-ifs(DepartmentDD="5",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "140 S Capital Ave <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="6",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "343 E St <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="7",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "P.O. Box 50220 | 308 Constitution Way <BR> Idaho Falls, ID 83405-0220", 
-ifs(DepartmentDD="8",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "457 W Broadway St <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="9",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & " 520 Memorial Dr <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="11",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "140 S Capital Ave <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="12",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "380 Constitution Way <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="13",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "380 Constitution Way <BR> Idaho Falls, ID 83402", 
-ifs(DepartmentDD="10",
-ifs(DepartmentFORMAT="1",UPPER("Office of " & DepartmentUI),
-    ifs(DepartmentFORMAT="2",UPPER("Department of " & DepartmentUI),
-    ifs(DepartmentFORMAT="3",UPPER(DepartmentUI & "Department"),
-    ifs(DepartmentFORMAT="4",UPPER(DepartmentUI),""))))
-     & "<BR>" & "605 N Capital Ave <BR> Idaho Falls, ID 83405-0220", 
-"")))))))))))))
 
 
 
 
 
 
-14066-00071 Las Vegas Contract.pdf
-14066-00072 Las Vegas FriendsFamReferralProgram.pdf
-14066-00073 Las Vegas Generic BC.pdf
-14066-00074 Las Vegas NCR Forms Property Agreement and What to Expect.pdf
-14066-00075 Las Vegas Variable BC_Blank.pdf
-14066-00076 Las Vegas Yard Sign.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
