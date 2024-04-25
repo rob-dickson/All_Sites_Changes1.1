@@ -3,18 +3,15 @@
 
 
 Yesterday
+    - Bennie Apparel API
     - Everbowl | Brand Fulfillment
-    - Real Deals | Product Missing
-    - Real Deals | Email Notifications
-    - AWI Errors
-    - Homestyle Direct | Brand Fulfillment
-    - Performance Windows | New Users
+    - Speedy CPS Employee Site | Category Updates
+    - Tactical Precision MFG | Inventory
 
 Today
-    - Bennie Apparel
+    - Tactical Precision MFG | Inventory
+    - Unbranded Inventory Category
     - Everbowl | Brand Fulfillment
-    - SpeedyCPS | New Categories 
-    - Email Notifications BFS
 
     
 - Tactical Precision Needs Fixed
@@ -218,6 +215,56 @@ MultiCam#30063#0
 body footer div.container div.row.footer-columns div {
     width: 100% !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
