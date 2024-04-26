@@ -3,18 +3,17 @@
 
 
 Yesterday
-    - Bennie Apparel API
-    - Everbowl | Brand Fulfillment
-    - Speedy CPS Employee Site | Category Updates
     - Tactical Precision MFG | Inventory
+    - Real Deals | Site Change
 
 Today
     - Tactical Precision MFG | Inventory
-    - Unbranded Inventory Category
+    - Real Deals | Site Change
     - Everbowl | Brand Fulfillment
+    - Unbranded Inventory Category
+
 
     
-- Tactical Precision Needs Fixed
 
 Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
@@ -30,9 +29,6 @@ Mary Wakabayashi <mwakabayashi@everbowl.com>
     ✓ Harry - harry@hubsuite.com
 
 ✓ https://adminc.pro-matters.com/authentication/Login
-
-
-
 
 
 
