@@ -7,13 +7,18 @@ Yesterday
     - Real Deals | Site Change
 
 Today
-    - Tactical Precision MFG | Inventory
-    - Real Deals | Site Change
     - Everbowl | Brand Fulfillment
+    - Tactical Precision MFG | Inventory
+    - Provo City 
     - Unbranded Inventory Category
 
 
     
+Bennie New Category - Kits
+    Need to update home page
+
+
+
 
 Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
