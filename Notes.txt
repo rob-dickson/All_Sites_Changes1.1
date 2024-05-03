@@ -3,23 +3,44 @@
 
 
 Yesterday
-    - Bennie Apparel API
+    - Tactical Precision MFG | SEO
     - Everbowl | Brand Fulfillment
-    - Speedy CPS Employee Site | Category Updates
-    - Tactical Precision MFG | Inventory
 
 Today
-    - Tactical Precision MFG | Inventory
-    - Unbranded Inventory Category
+    - Speedy CPS Employee Site | Category Updates
+    - Bennies Updates
     - Everbowl | Brand Fulfillment
+    - Tactical Precision MFG
+
 
     
-- Tactical Precision Needs Fixed
+Bennie New Category - Kits
+    Need to update home page
+
+
+This is the to-do list that I need to remember!!!! 
 
 Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
 
+Everbowl need to have the url added to the 
+"New User Approved" Email Notification When URL is set.
 
+
+Look into showing more products per page on Provo City 
+
+
+
+
+Make prices more up-front and visible
+    Teaser Price
+More dynamic web banner with sales, relevant copy/photos, etc
+    
+More clear call to action 
+    Where? Banner? 
+Product Sections such as “new releases” “our picks” “popular now” etc
+
+Pop up for email list
 
 
 
@@ -30,11 +51,6 @@ Mary Wakabayashi <mwakabayashi@everbowl.com>
     ✓ Harry - harry@hubsuite.com
 
 ✓ https://adminc.pro-matters.com/authentication/Login
-
-
-
-
-
 
 
 Get Pictures/ Content access For
