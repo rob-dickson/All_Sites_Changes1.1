@@ -4,14 +4,19 @@
 
 Yesterday
     - Tactical Precision MFG | SEO
+    - Homestyle Direct | Brand Fulfillment
     - Everbowl | Brand Fulfillment
+    - Bennie | New Category
 
 Today
-    - Speedy CPS Employee Site | Category Updates
-    - Bennies Updates
-    - Everbowl | Brand Fulfillment
-    - Tactical Precision MFG
+    - Bennie | New Category
+    - Tactical Precision MFG Training
+    - Homestyle Direct | Brand Fulfillment
 
+
+
+Everbowl need to have the url added to the 
+"New User Approved" Email Notification When URL is set.
 
 
 
@@ -30,8 +35,7 @@ This is the to-do list that I need to remember!!!!
 Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
 
-Everbowl need to have the url added to the 
-"New User Approved" Email Notification When URL is set.
+
 
 
 Look into showing more products per page on Provo City 
