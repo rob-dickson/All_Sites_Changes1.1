@@ -3,20 +3,23 @@
 
 
 Yesterday
+    - Brighton | Brand Fulfillment Store
     - Tactical Precision MFG | SEO
     - Homestyle Direct | Brand Fulfillment
     - Everbowl | Brand Fulfillment
     - Bennie | New Category
 
 Today
-    - Bennie | New Category
+    - SHP - Files Missing
     - Tactical Precision MFG Training
     - Homestyle Direct | Brand Fulfillment
 
 
 
-Everbowl need to have the url added to the 
-"New User Approved" Email Notification When URL is set.
+
+
+✓✓ Everbowl need to have the url added to the 
+"New User Approved" Email Notification When URL is set. ✓✓
 
 
 
