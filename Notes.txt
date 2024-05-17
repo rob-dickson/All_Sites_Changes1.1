@@ -3,16 +3,16 @@
 
 
 Yesterday
-    - Everbowl | Brand Fulfillment
     - Suntado | Brand Fulfillment
-    - Benefits Health System
-    - Dentive | BFS
     - Real Deals | Shipping
+    - Lice Clinics | Brand Fulfillment
+    - Potandon | BFS
+    - Brighton | Brand Fulfillment Store
 
 Today
-    - Dentive | BFS
-    - Suntado | Brand Fulfillment
-    - Real Deals | Shipping
+    - Brighton | Brand Fulfillment
+    - Everbowl | Brand Fulfillment
+    - Alpine Home Med | Brand Fulfillment
     - Connect API 
 
 
@@ -25,6 +25,11 @@ Today
 
 
 Homestyle Direct
+Brighton
+Everbowl
+Alpine Home Med
+Provo City - Look into showing more products per page
+
 
 
 
