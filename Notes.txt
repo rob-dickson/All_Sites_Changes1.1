@@ -3,17 +3,17 @@
 
 
 Yesterday
-    - Suntado | Brand Fulfillment
-    - Real Deals | Shipping
-    - Lice Clinics | Brand Fulfillment
-    - Potandon | BFS
-    - Brighton | Brand Fulfillment Store
+    - Trade Show
+    - Homestyle Direct
+    - Swig | User Edits
 
 Today
-    - Brighton | Brand Fulfillment
-    - Everbowl | Brand Fulfillment
-    - Alpine Home Med | Brand Fulfillment
-    - Connect API 
+    - Dentive
+    - Trade Show
+    - New Password Notifications
+    - Swig User Edits
+
+    Fix Dentive Image order
 
 
 How many tickets do you have in your queue?
