@@ -3,20 +3,22 @@
 
 
 Yesterday
-    - Creative Services Project
-    - Brighton | Brand Fulfillment Store
-    - C2 BFS issue
+    - C2 | Brand Fulfillment Store
+    - Provo City | Users
+    - Provo City | Site
+    - Boise Bish's RV BFs New Order #2189 - Missing File
     - New Password Notifications
-    - St. Peter's | User errors
-    - Provo City | Locations
 
 Today
     - C2 | Brand Fulfillment Store
-    - Creative Services Project
-    - Brighton
+    - Provo City | Site
+    - Integration Discovery
     - New Password Notifications
 
 
+
+
+Build quality assurance checklist 
 
 
 How many tickets do you have in your queue?
