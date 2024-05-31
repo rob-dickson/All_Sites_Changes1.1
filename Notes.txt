@@ -3,17 +3,18 @@
 
 
 Yesterday
-    - C2 | Brand Fulfillment Store
-    - Provo City | Users
     - Provo City | Site
-    - Boise Bish's RV BFs New Order #2189 - Missing File
-    - New Password Notifications
+    - Tactical Precision MFG | Inventory
+    - Purple | Addresses
+    - C2 | Brand Fulfillment Store
+    - BF | IDS Meeting
 
 Today
     - C2 | Brand Fulfillment Store
     - Provo City | Site
     - Integration Discovery
-    - New Password Notifications
+    - Center | Users
+
 
 
 
@@ -21,24 +22,11 @@ Today
 Build quality assurance checklist 
 
 
-How many tickets do you have in your queue?
-    - 0 
-Updates to tickets that are larger projects.
-    - None
-Any wins you had the last week?
-    - Cleaned out my queue!
-Any troubles you had with the last week?
-    - Nope
-A goal that you want to accomplish this week.
-    - Get Davin ready for Trade Show
-Something fun you did over the weekend.
-    - Started watching "Boy Meets World" with my kids
 
 
 
-✓✓ Everbowl need to have the url added to the 
+       ✓✓ Everbowl need to have the url added to the 
 "New User Approved" Email Notification When URL is set. ✓✓
-
 
 
 Homestyle Direct
@@ -48,30 +36,24 @@ Alpine Home Med
 Provo City - Look into showing more products per page
 
 
-
-
-    
 Bennie New Category - Kits
-    Need to update home page
+  Need to update home page
 
 
 This is the to-do list that I need to remember!!!! 
+
 
 Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
 
 
-
-
 Look into showing more products per page on Provo City 
-
-
 
 
 Make prices more up-front and visible
     Teaser Price
 More dynamic web banner with sales, relevant copy/photos, etc
-    
+
 More clear call to action 
     Where? Banner? 
 Product Sections such as “new releases” “our picks” “popular now” etc
@@ -79,12 +61,10 @@ Product Sections such as “new releases” “our picks” “popular now” et
 Pop up for email list
 
 
-
-
-
 ✓ Get Pressero Admin Access for TPM to ✓
     ✓ Moira - moira@hubsuite.com 
     ✓ Harry - harry@hubsuite.com
+
 
 ✓ https://adminc.pro-matters.com/authentication/Login
 
@@ -105,54 +85,36 @@ Sites to aspire to
     https://www.parkermountainmachine.com/
 
 
-
-
-
-
-
-
-
 To Do List
     AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
-
-
-
-
-
-
 
 
 API credentials
 AWTq2hAm2a-6IXNDKaW6TgfnOidX19pH0g4kBtw0-ZknHPPGUymHzjWtNR8W8SmmD9CqYjdKTHld7Y03
 EBd0K2z7qquDRhwaJBMUc99x1cLkmis5iZJPCc-kLfg7A3GfuubYnDqOGBqfGoEvuTVw9rSbb1RUmf8A
 
+
 Sandbox credentials
 sb-3fld929498712@business.example.com
 yN0ZY_iB
 
 
-
-
-
 https://ag679.app.corebridge.net/
-
 
 
 Capacity Books B2B
     - capacitybooks.pro-matters.com
 
+
 Capacity Books B2C
     - capacitybooks.brandfulfillment.store
-
-
-
-
 
 
 login page
     - Colors and fonts
     - Custom Login Message 
+
 
 Category Page
     - Custom Welcome Banner
@@ -163,31 +125,33 @@ Category Page
     - Side Nav 
     - Sidebar History 
 
+
 Footer
     - Contact Block
     - Content Block
     - Custom Footer Nav
 
 
-
-
-
 Responsive 6, Responsive 8, Responsive Clean
     2000x560 Hero Banner
     1140x366 Root Banner
+
 
 Bootstrap Basic, Bootstrap Basic (No Sidebar), 
 Creulean, Readable, Responsive Santiago, 
 Responsive Watson, Responsive Hero
     2000x560 Hero Banner
 
+
 Responsive 9
     848x446 Hero Banner
     1140x366 Root Banner
 
+
 Responsive Algernon, Responsive Ender
     1140x500 Hero Banner
     815x290 Root Banner
+
 
 Responsive Algernon (No Sidebar)
     1140x500 Hero Banner
@@ -203,10 +167,7 @@ Hero and Root Banner Sizes
 815x290
 
 
-
 https://www.alphagraphicsmarketing.com/Clyde/StaticAssets/24378-00015-SLC PO Beehive Ins #10 Envelope Submit(BIA #10 envelope template).pdf
-
-
 
 
 <style>
@@ -221,12 +182,8 @@ https://www.alphagraphicsmarketing.com/Clyde/StaticAssets/24378-00015-SLC PO Bee
 </div>
 
 
-
-
-
 Can you get Homestyle Direct set up with the domain,
 hsd.brandfulfillment.store
-
 
 
 Black#000000#0
@@ -253,21 +210,9 @@ MultiCam#30063#0
 </style>
 
 
-
-
-
-
-
-
-
-
-
-
-
 body footer div.container div.row.footer-columns div {
     width: 100% !important;
 }
-
 
 
 What is the mission or purpose of your company?
@@ -280,6 +225,7 @@ Where do you see your company heading in the future?
 Are there any upcoming projects, expansions, or goals you'd like to share?
 How would you describe the personality or character of your brand?
 Are there any specific tone or style preferences for the "About Us" page content?
+
 
 Mission and Values:
 - Products/Services: 
@@ -302,89 +248,6 @@ Brand Personality:
     The personality of our brand can be described as bold, innovative, and reliable. We are passionate about what we do and are driven by a relentless pursuit of excellence. Our brand is built on a foundation of trust and integrity, and we take pride in delivering products that exceed our customers' expectations.
 - Tone/Style Preferences: 
     For the "About Us" page content, we prefer a tone that is professional, yet engaging and informative. We want to convey our passion for precision engineering and commitment to quality while also providing insight into our company's values, history, and vision for the future. The content should be clear, concise, and compelling, capturing the essence of who we are as a company and what sets us apart from the competition.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
