@@ -17,6 +17,11 @@ Today
 
 
 
+Homestyle Direct - Apparel moved to inventory and run through the API 
+
+
+Fat Cats Approval Precesses 
+
 
 
 Build quality assurance checklist 
