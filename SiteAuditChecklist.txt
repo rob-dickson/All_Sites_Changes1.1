@@ -1,0 +1,61 @@
+
+By conducting a website audit, we can gain valuable insights into 
+our customer's site's current performance and make informed decisions 
+about how to enhance their effectiveness, user experience, 
+and search engine visibility.
+
+The primary purposes of a website audit include:
+
+Performance Improvement:
+    -   Assessing the site's speed and responsiveness, and making 
+        recommendations to enhance performance.
+    -   Analyzing factors that contribute to slow load times, such as 
+        large image files, excessive scripts, or poor server response times.
+
+User Experience (UX) Enhancement:
+    -   Evaluating the site’s navigation, layout, and overall usability.
+    -   Identifying elements that hinder user interaction and suggesting 
+        improvements to make the site more user-friendly.
+
+Content Quality:
+    -   Reviewing the quality, relevance, and structure of the content.
+    -   Ensuring that the content is engaging, informative, and aligned 
+        with the target audience's needs.
+
+Technical Health:
+    -   Checking for technical issues such as broken links, missing alt tags, 
+        and duplicate content.
+    -   Verifying that the site is mobile-friendly and adheres to web 
+        accessibility standards.
+
+SEO Optimization: (B2C Sites)
+    -   Identifying and fixing issues that could be affecting the site's 
+        search engine rankings, such as broken links, poor keyword optimization, 
+        and slow loading times.
+    -   Ensuring that the site adheres to SEO best practices, such as proper 
+        use of meta tags, alt text for images, and appropriate use of headings.
+
+Compliance and Standards: (Mainly on Pressero's Side)
+    -   Ensuring that the site complies with relevant regulations and standards, 
+        such as GDPR for data privacy.
+    -   Checking for adherence to web standards and best practices.
+
+Security: (Mainly on Pressero's Side)
+    -   Identifying potential security vulnerabilities.
+    -   Ensuring that security measures, such as HTTPS, are properly implemented.
+
+
+### Things to Check on the Site Audit ###
+
+Site Defaults Checked
+Admin & Higher-level User Review
+Minimal Site Design Review
+Shipping Method Review
+Payment Method Review
+Correct Sales Rep & Sales Center (Ship From Location) is Assigned
+Tax Profile Review
+Email Templates Review
+Sender Display Name and Display Email Review
+Locations Review (if applicable)
+Checkout Forms (if applicable)
+Approval Process Review (if applicable)

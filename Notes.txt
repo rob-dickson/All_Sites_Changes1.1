@@ -3,17 +3,16 @@
 
 
 Yesterday
-    - Provo City | Site
-    - Tactical Precision MFG | Inventory
-    - Purple | Addresses
     - C2 | Brand Fulfillment Store
-    - BF | IDS Meeting
+    - Real Deals | Shipping
+    - Homestyle Direct | Brand Fulfillment
+    - Center | Users
 
 Today
-    - C2 | Brand Fulfillment Store
-    - Provo City | Site
-    - Integration Discovery
-    - Center | Users
+    - Everbowl | Brand Fulfillment Store
+    - Real Deals | Brand Fulfillment Store
+    - Homestyle Direct | Brand Fulfillment
+    - Provo City  | Users
 
 
 
@@ -91,7 +90,6 @@ Sites to aspire to
 
 
 To Do List
-    AG Marketing Sales Page Build
     Look into showing more products per page on Provo City 
 
 
@@ -257,15 +255,85 @@ Brand Personality:
 
 
 
+29534-00016-OGIOExtendLongSleeveButtonUp-OG161
+29534-00017-MensPoloShirt-K580
+29534-00018-MensAthleticPoloOGIO-OG135
+29534-00019-MensShortSleeve-DM108
+29534-00020-MensFitSuperProOxfordShirt-S651
+29534-00021-MensPortAuthorityLongSleeveChambrayEasyCareShirt-S651
+29534-00022-MensStretchFullButtonPolo-MM1006
+29534-00023-MensPlaidFlannelTunic-W668
+29534-00024-MensLongSleeveTee-DT108
+29534-00025-WomensTunicBlouse-LW701
+29534-00026-WomensCardiganButton-L545
+29534-00027-WomensCardiganWPockets-LK5434
+29534-00028-WomensPolo-L580
+29534-00029-WomensVNeckT-DM1190L
+29534-00030-BrooksBrothersWomensWrinkleFreeStretchNailheadShirt-BB18003
+29534-00031-WomensScoopNeckT-DM108L
+29534-00032-OGIOLadiesCommuterTunic-LOG1002
+29534-00033-SportTekLadiesHoodedPullover-LST358
+29534-00034-SportTekLadiesHoodieTank-LST410
+29534-00035-FullZipHoodedSweatshirt-DT356
+29534-00036-PulloverHoodedSweatshirt-DT355
+29534-00037-JacketHoodedZip-EB234
+29534-00038-JacketHalfZip-EB234
+29534-00039-VestZipUp-F236
+29534-00040-HeavyDutySweatshirt-PC78H
+29534-00041-FleeceHoodie-DT1101
+29534-00042-CampFleeceSnapPullover-f140
+29534-00043-PortCompanyCoreFleecePulloverHoodedSweatshirt-PC78H
+29534-00044-SportTekQuarterZipPullover-ST469
+
+
+
+
+{order}_ Product-{item}__{product}.{x}
+
+
+
+No Peeking Coupons | Summer (Non-Stuffed) 	    08607-00115
+No Peeking Coupons | Summer (Stuffed) 	        08607-00116
+No Peeking Envelopes | Summer   	            08607-00117
+
+No Peeking Coupons | Christmas (Non-Stuffed)    08607-00076
+No Peeking Coupons | Christmas (Stuffed)        08607-00075
+No Peeking Envelopes | Christmas	            08607-00026
 
 
 
 
 
+MBR-30-SPST-TI      MBR-30-ST-TI-POL-5/8x24
+MBR-30-SPST-TUN     MBR-30-ST-TI-TG-5/8x24
+MBR-30-SPST-PBR     MBR-30-ST-TI-PBR-5/8x24
+MBR-65-SPST-TI      MBR-65-ST-TI-POL-5/8x24
+MBR-65-SPST-TUN     MBR-65-ST-TI-TG-5/8x24
+MBR-65-SPST-PBR     MBR-65-ST-TI-PBR-5/8x24
 
 
 
+PRODUCTNAME	SKU	URL
+Titanium ST/Side Ported Muzzle Brake .30 Cal 1/2-28 Polished
+MBR-30-SPST-TI
+MBR-30-ST-TI-12x28
 
+Titanium ST/Side Ported Muzzle Brake .30 Cal 1/2-28 Tungsten Cerakote
+MBR-30-SPST-TUN
+MBR-30-ST-TI-TG-12x28
 
+Titanium ST/Side Ported Muzzle Brake .30 Cal 1/2-28 Patriot Brown Cerakote
+MBR-30-SPST-PBR
+MBR-30-ST-TI-PBR-12x28
 
+Titanium ST/Side Ported Muzzle Brake 6.5mm 1/2-28 Polished	
+MBR-65-SPST-TI
+MBR-65-ST-TI-12x28
 
+Titanium ST/Side Ported Muzzle Brake 6.5mm 1/2-28 Tungsten Cerakote
+MBR-65-SPST-TUN
+MBR-65-ST-TI-TG-12x28
+
+Titanium ST/Side Ported Muzzle Brake 6.5mm 1/2-28 Patriot Brown Cerakote
+MBR-65-SPST-PBR
+MBR-65-ST-TI-PBR-12x28
