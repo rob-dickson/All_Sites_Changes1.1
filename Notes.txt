@@ -3,17 +3,16 @@
 
 
 Yesterday
-    - Tactical Precision MFG | Stickers
-    - Swig | Product Edits
-    - Homestyle Direct | Brand Fulfillment
-    - FBC Roofing | Shipping
     - Purple | BFS - Notification errors
+    - Performance Windows | locations
+    - Provo City | Police BC
+    - FBC Roofing | Inventory added
+    - C2 BFS issue
+    - Dentive | BFS
 
-Today
-    - Purple | BFS - Notification errors
-    - Real Deals | Product Changes
-    - Performance Windows
-    - Work on Products Queue
+Today    
+    - FBC Roofing | Apparel API
+    - TPM Home Page
 
 
 
@@ -291,8 +290,6 @@ Brand Personality:
 
 {order}_ Product-{item}__{product}.{x}
 
-
-
 No Peeking Coupons | Summer (Non-Stuffed) 	    08607-00115
 No Peeking Coupons | Summer (Stuffed) 	        08607-00116
 No Peeking Envelopes | Summer   	            08607-00117
@@ -300,17 +297,6 @@ No Peeking Envelopes | Summer   	            08607-00117
 No Peeking Coupons | Christmas (Non-Stuffed)    08607-00076
 No Peeking Coupons | Christmas (Stuffed)        08607-00075
 No Peeking Envelopes | Christmas	            08607-00026
-
-
-
-
-
-MBR-30-SPST-TI      MBR-30-ST-TI-POL-5/8x24
-MBR-30-SPST-TUN     MBR-30-ST-TI-TG-5/8x24
-MBR-30-SPST-PBR     MBR-30-ST-TI-PBR-5/8x24
-MBR-65-SPST-TI      MBR-65-ST-TI-POL-5/8x24
-MBR-65-SPST-TUN     MBR-65-ST-TI-TG-5/8x24
-MBR-65-SPST-PBR     MBR-65-ST-TI-PBR-5/8x24
 
 
 
@@ -403,3 +389,8 @@ Tigard OR | 7369 SW Bridgeport Road, Tigard OR 97224
 Torrence CA | 21712 Hawthorne Blvd., Ste. 221A, Torrance CA 92122
 Tysons VA | 7980L Tysons Corner Center, Tysons VA 22102
 Woodstock GA | 915 Ridgewalk Parkway, Ste. 300, Woodstock GA 30188
+
+
+
+
+
