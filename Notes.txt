@@ -2,15 +2,15 @@
 ✓✓✓✓✓✓✓
 
 
-Yesterday
-    - Purple | BFS - Notification errors
-    - Performance Windows | locations
-    - Provo City | Police BC
-    - FBC Roofing | Inventory added
-    - C2 BFS issue
-    - Dentive | BFS
+Yesterday    
+    - FBC Roofing | Apparel API
+    - Brighton | Brand Fulfillment Store
+    - Fix Quick View | All Sites
+    - Swig | Product Edits
+    - Everbowl | Brand Fulfillment
 
 Today    
+    - Marsh McLennan | BFS - Users
     - FBC Roofing | Apparel API
     - TPM Home Page
 
