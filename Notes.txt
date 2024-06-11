@@ -3,20 +3,22 @@
 
 
 Yesterday    
+    - Marsh McLennan | Brand Fulfillment Site - Users
+    - Tactical Precision MFG | Site
+    - Center | Users
     - FBC Roofing | Apparel API
-    - Brighton | Brand Fulfillment Store
-    - Fix Quick View | All Sites
-    - Swig | Product Edits
-    - Everbowl | Brand Fulfillment
+    - Philanthropies | AWI
+    - Tactical Precision MFG | New Users
 
 Today    
-    - Marsh McLennan | BFS - Users
-    - FBC Roofing | Apparel API
-    - TPM Home Page
+    - FBC Roofing | Inventory added
+    - Tactical Precision MFG | Site
+    - Fat Cats Approval Precesses
+    - 
 
 
 
-Homestyle Direct - Apparel moved to inventory and run through the API 
+✓✓ Homestyle Direct - Apparel moved to inventory and run through the API 
 
 
 Fat Cats Approval Precesses 
