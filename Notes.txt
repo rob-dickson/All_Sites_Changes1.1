@@ -3,38 +3,27 @@
 
 
 Yesterday
-    - AWI WIP Folders
-    - Carroll College | Brand Fulfillment Site
-    - Fix Quick View | All Sites
-    - FBC Roofing | Products
-    - Creative Services Meeting
-    - BFS Inventory Site
-
-Today
     - BFS Inventory Site
     - Carroll College | Brand Fulfillment Site
     - C2 | BFS Site
+    - City of Idaho Falls | BFS Site Users
+
+Today
+    - City of Idaho Falls | BFS Site Users
+    - BFS Inventory Site
     - FBC Roofing | Products
 
 
 
 
-✓✓ Homestyle Direct - Apparel moved to inventory and run through the API 
 
 
 Fat Cats Approval Precesses 
 
-
-
+✓✓ Homestyle Direct - Apparel moved to inventory and run through the API 
 ✓✓ Build quality assurance checklist 
-
-
-
-
-
-       ✓✓ Everbowl need to have the url added to the 
-"New User Approved" Email Notification When URL is set. ✓✓
-
+✓✓ Everbowl need to have the url added to the 
+    "New User Approved" Email Notification When URL is set. ✓✓
 
 Homestyle Direct
 Brighton
@@ -42,21 +31,18 @@ Everbowl
 Alpine Home Med
 Provo City - Look into showing more products per page
 
-
 Bennie New Category - Kits
   Need to update home page
 
-
 This is the to-do list that I need to remember!!!! 
-
 
 Everbowl - approving users with self-sign up
 Mary Wakabayashi <mwakabayashi@everbowl.com>
 
-
 Look into showing more products per page on Provo City 
 
 
+- TPM -
 Make prices more up-front and visible
     Teaser Price
 More dynamic web banner with sales, relevant copy/photos, etc
