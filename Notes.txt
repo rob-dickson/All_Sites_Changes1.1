@@ -2,19 +2,20 @@
 ✓✓✓✓✓✓✓
 
 
-Yesterday    
-    - Marsh McLennan | Brand Fulfillment Site - Users
-    - Tactical Precision MFG | Site
-    - Center | Users
-    - FBC Roofing | Apparel API
-    - Philanthropies | AWI
-    - Tactical Precision MFG | New Users
+Yesterday
+    - AWI WIP Folders
+    - Carroll College | Brand Fulfillment Site
+    - Fix Quick View | All Sites
+    - FBC Roofing | Products
+    - Creative Services Meeting
+    - BFS Inventory Site
 
-Today    
-    - FBC Roofing | Inventory added
-    - Tactical Precision MFG | Site
-    - Fat Cats Approval Precesses
-    - 
+Today
+    - BFS Inventory Site
+    - Carroll College | Brand Fulfillment Site
+    - C2 | BFS Site
+    - FBC Roofing | Products
+
 
 
 
@@ -75,12 +76,12 @@ Pop up for email list
 ✓ https://adminc.pro-matters.com/authentication/Login
 
 
-Get Pictures/ Content access For
-    Moira
-    Harry Kenning
+✓ Get Pictures/ Content access For
+    ✓ Moira
+    ✓ Harry Kenning
 
 
-Set up Wholesale Access With Wholesale Pricing 
+✓ Set up Wholesale Access With Wholesale Pricing 
 
 
 Sites to aspire to
@@ -396,3 +397,6 @@ Woodstock GA | 915 Ridgewalk Parkway, Ste. 300, Woodstock GA 30188
 
 
 
+div.prod-cat-item {
+    text-align: center;
+}
