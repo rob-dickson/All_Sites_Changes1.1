@@ -3,15 +3,18 @@
 
 
 Yesterday
-    - BFS Inventory Site
-    - Carroll College | Brand Fulfillment Site
-    - C2 | BFS Site
     - City of Idaho Falls | BFS Site Users
+    - BFS Inventory Site
+    - Pressero to Switch Webhook
+    - Vox | BFS Logo Changes
+    - Speedy CPS Employee Site | Category update
 
 Today
-    - City of Idaho Falls | BFS Site Users
+    - New AG Sales User | User Edits
+    - New TPM Wholesale User | User Edits
+    - Pressero to Switch Webhook
     - BFS Inventory Site
-    - FBC Roofing | Products
+    - TPM Landing Page
 
 
 
