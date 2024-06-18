@@ -3,18 +3,22 @@
 
 
 Yesterday
-    - City of Idaho Falls | BFS Site Users
-    - BFS Inventory Site
+    - Speedy CPS Employee Site | User Edits
+    - Purple | Addresses
+    - Performance Windows | New location Category
+    - Bish's RV Cant Add users
     - Pressero to Switch Webhook
-    - Vox | BFS Logo Changes
-    - Speedy CPS Employee Site | Category update
+    - Tactical Precision MFG | New Users
+    - Lice Clinics | Brand Fulfillment
+    - Speedy CPS Employee Site | User Edits
 
 Today
-    - New AG Sales User | User Edits
-    - New TPM Wholesale User | User Edits
     - Pressero to Switch Webhook
     - BFS Inventory Site
     - TPM Landing Page
+
+
+
 
 
 
@@ -389,3 +393,47 @@ Woodstock GA | 915 Ridgewalk Parkway, Ste. 300, Woodstock GA 30188
 div.prod-cat-item {
     text-align: center;
 }
+
+
+
+Site Type
+Site Name & Domain
+Sales Rep Name
+Sales Center 
+Primary Location
+Ship From Location
+Shipping Methods
+Payment Methods
+Tax Profile
+Category List
+Navigation
+User Groups
+New User Defaults
+User List
+Info for custom Email Notifications
+Overall Site Design Guide
+Logos
+Favicon
+Footer Information
+Checkout forms if needed
+Approval Plans if needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
