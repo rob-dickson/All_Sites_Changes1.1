@@ -3,16 +3,16 @@
 
 
 Yesterday
-    - Speedy CPS Employee Site | User Edits
-    - Purple | Addresses
-    - Performance Windows | New location Category
-    - Bish's RV Cant Add users
-    - Pressero to Switch Webhook
-    - Tactical Precision MFG | New Users
-    - Lice Clinics | Brand Fulfillment
-    - Speedy CPS Employee Site | User Edits
+    - BFS Inventory Site
+    - Everbowl | Brand Fulfillment
+    - BFS Inventory Option 3
+    - Certiport | BFS User Edits
+    - Persistent | BFS
+    - Tactical Precision MFG | Site
 
 Today
+    - Purple | Addresses
+    - Tactical Precision MFG | Site
     - Pressero to Switch Webhook
     - BFS Inventory Site
     - TPM Landing Page
@@ -385,6 +385,196 @@ Tigard OR | 7369 SW Bridgeport Road, Tigard OR 97224
 Torrence CA | 21712 Hawthorne Blvd., Ste. 221A, Torrance CA 92122
 Tysons VA | 7980L Tysons Corner Center, Tysons VA 22102
 Woodstock GA | 915 Ridgewalk Parkway, Ste. 300, Woodstock GA 30188
+
+
+
+https://www.alphagraphicsmarketing.com/
+
+
+--NAME--         per1000
+
+Folders        - 118.231
+Booklets       - 474
+Brochures      - 20
+Business Cards - 3.125
+Certificate    - 62.5
+Flyers         - 50
+Form           - 10
+poster 18x24   - 133.056
+3.5x8.5 Card   - 12.5
+Thank you Card - 22.0625
+12x12 Window   - 81.25
+Popup Banner   - 11.25each
+Letterhead     - 6.299
+Envelope       - 9.375
+Product Tags   - 9.5
+metal name badges 12.5
+
+
+21688	6Sense
+14053	Alpine Home Medical
+18105	American Heritage School
+18398	American Land & Leisure
+04299	Archibald Leavitt Group
+23057	Arkestro
+18341	AWD
+14062	Banasky
+07253	Bank of Jackson Hole
+22829	Bennie
+00081	BISH 
+
+18622	Brent Brown
+23109	C2 Financial
+18937	Cascade Collision
+13725	Centennial Community Cooperative
+14612	Certiport
+00696	City of Idaho Falls
+18294	Civil Science
+16045	Clyde
+22054	DataBricks
+23661	David A. Christensen
+28519	Dentive
+19998	DOMO
+20400	Dynamond
+01823	Electrical Wholesale
+21142	Ensign College
+18178	ERC
+20602	Fat Cats
+22640	FBC
+20296	Flagship Homes
+35513	Grigg tot Legacy Foundation
+14893	Homeward Bound
+34693	Horroks
+21192	Hutchings Museum
+12181	Idaho Department of Labor
+22819	Infinite Minds
+22434	Innovative Mortagage01036	Internal Marketin
+16136	Keller Williams
+14206	KLAS Research
+14069	Laced Inc.
+14081	Lice Clinics of America
+07957	Lookout Credit Union
+17273	Low VA Rates
+28401	Master Autotech
+00725	Mountain America Credit Union
+05024	Mountain West Rentals
+14147	MoxTek
+18579	Net Documents
+14285	Niels Fugal Sons
+22153	Not By Chance
+21152	PDR Benefits
+
+21332	Persistent
+17469	Philanthropies
+21078	Pointe Meadows
+00993	Potandon
+01035	Premier Technology Inc.
+14092	Provo City 
+00697	Pro Rentals
+25689	PUR Life
+20656	Purple
+08607	Real Deals
+20325	Rocky Mountain University
+07390	Rocky Mountain Yeti
+05570	Ron Sayer - Dodge
+00543	Ron Sayer - Nissan
+22122	Rooftop
+20215	Saratoga Springs City
+20573	Savory
+23585	Signified
+01822	Silver Star Communications
+20393	Simplicity Laser
+19506	SIRQ
+05266	Sleep In Heavenly Peace
+22165	SQRD Media
+04935	St. Johns Hospital
+20560	STACK Real Estate
+23447	Swig
+04345	Tadd Jenkins
+28210	Tremonton
+19381	TSC EcoSolutions
+00559	Valued Merchant Services
+20731	VanCon
+14049	Vox Marketing
+20322	Zamp HR
+
+
+
+On the Stuffed Coupons: 
+
+    These Coupons are STUFFED, 
+    meaning that they will be hand-inserted by production 
+    for any envelopes you order. If you wish to buy or 
+    reorder individual coupon packs please order *Non-Stuffed Coupons.
+ 
+On Non-Stuffed Coupons: 
+
+    These coupons are NOT STUFFED, 
+    meaning that they are sold in packs and will not be 
+    inserted into envelopes. If you wish to order stuffed 
+    coupons please order *Stuffed Coupons
+ 
+On Checkout cart: 
+
+IF STUFFED COUPONS
+Looks like you are ordering stuffed coupons, to help us- 
+please make sure that you have purchased the correct 
+amount of envelopes in your order.
+
+If you are ordering stuffed coupons, please help us by making sure that you have purchased the correct amount of envelopes in your order.
+ 
+On Checkout: 
+
+    IF NON STUFFED
+Looks like you are purchasing Non-Stuffed Coupons. 
+These are sold in packs and will not be stuffed by 
+production. Are you sure that you want this item?
+
+If you are purchasing Non-Stuffed Coupons. These are sold in packs and will not be stuffed by production. Are you sure that you want this item?
+ 
+
+
+
+22640	FBC
+COPPERPLATE GOTHIC 3 BOLD
+
+
+
+40 West Lawrence Street, 
+Helena, MT 59601
+
+
+
+
+
+
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Instructions</title> <style>body { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: 1.428571429; font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; } .instructions-container { box-sizing: border-box; margin-bottom: 20px; border: 1px solid transparent; border-radius: 3px; padding: 12px 15px; background-image: none; background-color: rgba(217, 237, 247, 1); color: rgba(49, 112, 143, 1); border-color: rgba(154, 207, 234, 1); } </style> <div class="instructions-container"><h2 style="text-align:center;">NOTICE:</h2>
+<p style="text-align:center;">The following products are templates that are under refinement, pending approval from the client. For help or assistance please contact your sales representative.<br />
+</p>
+<!-- Add your instructions content here --> </div>
+
+
+
+New Order
+
+New Password
+
+New User Approved
+
+Open Cart Reminder
+
+Order Complete
+
+Saved for Later Reminder
+
+
+
+
+
+<p>Questions?&nbsp;<a href="https://www.tactical-precision.com/page/Contact">Contact Us</a></p>
+<p>Stay Connected With Us&nbsp;</p>
+<p><span style="font-size:xx-small;"></span><a href="https://www.instagram.com/tacprecision208/" style="text-decoration:none;"><img src="https://alphagraphicsmarketing.com/img/instagram_gray-01.png" width="auto" height="30" alt="instagramlogo" /></a> </p>
+
 
 
 
