@@ -4,18 +4,40 @@
 
 Yesterday
     - BFS Inventory Site
-    - Everbowl | Brand Fulfillment
-    - BFS Inventory Option 3
-    - Certiport | BFS User Edits
-    - Persistent | BFS
-    - Tactical Precision MFG | Site
+    - Marsh McLennan | Brand Fulfillment Site - Users
+    - Persistent | BFS | New Category
+    - Signifyd | BFS | New Category
+    - Bennie | BFS | New Category
+    - C2 | BFS | New Category
+    - Homestyle Direct | BFS | New Category
+    - Lice Clinics | BFS | New Category
+    - Real Deals | AWI Issues
 
 Today
-    - Purple | Addresses
-    - Tactical Precision MFG | Site
-    - Pressero to Switch Webhook
-    - BFS Inventory Site
-    - TPM Landing Page
+    - Dentive | BFS User Edits
+    - Boise State New Order #2327 - Missing Files
+    - Homestyle Direct | Apparel API 
+
+
+Newport Blue#232A34#0
+Black#000000#0
+White#ffffff#0
+Grey#bebfc1#0
+Blue#4169e1#0
+Navy#202A44#0
+Heathered Steel#6C6C6B#0
+Battleship Grey#3B3F48#0
+Iron Grey#3C4142#0
+True Navy#202A44#0
+Sterling Grey#6C6C6B#0
+Graphite#5B595A#0
+Grey Heather#BBB9C3#0
+Blue Heather#304A5A#0
+Blacktop Heather#3C4142#0
+Deep Blue Heather#395281#0
+Light Grey Heather#d3d3d3#0
+Estate Blue#2a487a#0
+
 
 
 
