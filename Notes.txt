@@ -3,20 +3,16 @@
 
 
 Yesterday
-    - BFS Inventory Site
-    - Marsh McLennan | Brand Fulfillment Site - Users
-    - Persistent | BFS | New Category
-    - Signifyd | BFS | New Category
-    - Bennie | BFS | New Category
-    - C2 | BFS | New Category
-    - Homestyle Direct | BFS | New Category
-    - Lice Clinics | BFS | New Category
-    - Real Deals | AWI Issues
+    - Boise State BFS New Order #2327 - Missing Files
+    - Homestyle Direct | Convert Products to Apparel API
+    - Vox | BFS Add Images
+    - Bennie | BFS New Users
+    - Performance Windows | New Users
 
 Today
-    - Dentive | BFS User Edits
-    - Boise State New Order #2327 - Missing Files
-    - Homestyle Direct | Apparel API 
+    - Performance Windows | New Users
+    - Homestyle Direct | Apparel API
+    - Real Deals | AWI Issues
 
 
 Newport Blue#232A34#0
@@ -42,6 +38,25 @@ Estate Blue#2a487a#0
 
 
 
+Black#000000#0|Navy#202A44#0|Oxford Blue#2a487a#0
+Anchor Grey#3C4142#0|Anchor Grey Heather#BBB9C3#0|Deep Black#000000#0|White#ffffff#0
+Black#000000#0|White#ffffff#0
+Black#000000#0
+Black#000000#0
+Black#000000#0
+Blacktop#000000#0|Gear Grey Heather#3C4142#0|White#ffffff#0
+Black#000000#0|Navy#202A44#0
+Black#000000#0
+Black#000000#0
+Black#000000#0
+Black Heather#000000#0
+Black Heather#000000#0|True Navy#202A44#0
+Black#000000#0|Grey Steel#6C6C6B#0
+Black#000000#0
+
+
+
+M|Black|Embroidered|0;Embroidered;weight;0;0-999999#0
 
 
 
