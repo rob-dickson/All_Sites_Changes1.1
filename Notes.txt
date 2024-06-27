@@ -3,16 +3,21 @@
 
 
 Yesterday
-    - Boise State BFS New Order #2327 - Missing Files
-    - Homestyle Direct | Convert Products to Apparel API
-    - Vox | BFS Add Images
-    - Bennie | BFS New Users
-    - Performance Windows | New Users
+    - C2 | BFS Apparel API Conversion
+    - Master Autotech | New Login 
+    - Signifyd | BFS Apparel API Conversion
+    - Real Deals | AWI Issues
 
 Today
-    - Performance Windows | New Users
-    - Homestyle Direct | Apparel API
+    - Connect Admin | User Edits
+    - City of Idaho Falls | User Edits
+    - Signifyd | BFS Apparel API Conversion
+    - C2 | BFS Apparel API Conversion
     - Real Deals | AWI Issues
+
+
+
+
 
 
 Newport Blue#232A34#0
@@ -33,6 +38,12 @@ Blacktop Heather#3C4142#0
 Deep Blue Heather#395281#0
 Light Grey Heather#d3d3d3#0
 Estate Blue#2a487a#0
+
+Berry#990F4B#0
+Navy#000080#0
+Purple#A020F0#0
+True Royal#4169e1#0#4169e1#0
+
 
 
 
