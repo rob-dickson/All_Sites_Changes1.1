@@ -3,16 +3,16 @@
 
 
 Yesterday
-    - C2 | BFS Apparel API Conversion
-    - Master Autotech | New Login 
-    - Signifyd | BFS Apparel API Conversion
-    - Real Deals | AWI Issues
-
-Today
     - Connect Admin | User Edits
     - City of Idaho Falls | User Edits
     - Signifyd | BFS Apparel API Conversion
+    - Provo City | Address Update
+    - Homestyle Direct | Convert Products to Apparel API
+
+Today
+    - Homestyle Direct | Convert Products to Apparel API
     - C2 | BFS Apparel API Conversion
+    - Marsh McLennan | Brand Fulfillment Site - Users
     - Real Deals | AWI Issues
 
 
