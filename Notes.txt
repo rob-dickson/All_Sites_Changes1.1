@@ -3,13 +3,13 @@
 
 
 Yesterday
-    - Connect Admin | User Edits
-    - City of Idaho Falls | User Edits
-    - Signifyd | BFS Apparel API Conversion
-    - Provo City | Address Update
     - Homestyle Direct | Convert Products to Apparel API
+    - Provo City | Address Update
+    - C2 | BFS Apparel API Conversion
+    - Everbowl | BFS Notifications
 
 Today
+    - Purple | Address Updates
     - Homestyle Direct | Convert Products to Apparel API
     - C2 | BFS Apparel API Conversion
     - Marsh McLennan | Brand Fulfillment Site - Users

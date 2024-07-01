@@ -18,22 +18,19 @@
 29534-00043-PC78H-CoreFleecePulloverHoodedSweatshirt
 
 
-DT108
-L545
-DM1190L
-DT356
 
 
 
+Events Specialist
+    < 300 M
+    > 300 M & DM
 
+Manager 
+    < 300 ✓
+    > 300 DM
 
-
-
-
-
-
-
-
+District Manager
+    No Approval
 
 
 
