@@ -3,17 +3,21 @@
 
 
 Yesterday
-    - Homestyle Direct | Convert Products to Apparel API
-    - Provo City | Address Update
-    - C2 | BFS Apparel API Conversion
-    - Everbowl | BFS Notifications
+    - Everbowl | Brand Fulfillment
+    - Purple | Addresses
+    - Fat Cats | BFS Site
+    - Safety Training
 
 Today
-    - Purple | Address Updates
-    - Homestyle Direct | Convert Products to Apparel API
-    - C2 | BFS Apparel API Conversion
-    - Marsh McLennan | Brand Fulfillment Site - Users
+    - Signifyd Apparel API
+    - Everbowl | Brand Fulfillment
+    - Homestyle Direct | Apparel API
     - Real Deals | AWI Issues
+
+
+
+
+
 
 
 
@@ -38,38 +42,19 @@ Blacktop Heather#3C4142#0
 Deep Blue Heather#395281#0
 Light Grey Heather#d3d3d3#0
 Estate Blue#2a487a#0
-
 Berry#990F4B#0
 Navy#000080#0
 Purple#A020F0#0
 True Royal#4169e1#0#4169e1#0
-
-
-
-
-
-
-Black#000000#0|Navy#202A44#0|Oxford Blue#2a487a#0
-Anchor Grey#3C4142#0|Anchor Grey Heather#BBB9C3#0|Deep Black#000000#0|White#ffffff#0
-Black#000000#0|White#ffffff#0
 Black#000000#0
-Black#000000#0
-Black#000000#0
-Blacktop#000000#0|Gear Grey Heather#3C4142#0|White#ffffff#0
-Black#000000#0|Navy#202A44#0
-Black#000000#0
-Black#000000#0
-Black#000000#0
-Black Heather#000000#0
-Black Heather#000000#0|True Navy#202A44#0
-Black#000000#0|Grey Steel#6C6C6B#0
-Black#000000#0
-
-
-
-M|Black|Embroidered|0;Embroidered;weight;0;0-999999#0
-
-
+Polished#797982#0
+Midnight Bronze#4A4645#0
+Barrett Brown#7C4700#0
+FDE#877348#0
+Grey#808080#0
+Patriot Brown#5C4033#0
+Sig Grey#7F8583#0
+MultiCam#30063#0
 
 
 
@@ -80,10 +65,6 @@ Fat Cats Approval Precesses
 ✓✓ Everbowl need to have the url added to the 
     "New User Approved" Email Notification When URL is set. ✓✓
 
-Homestyle Direct
-Brighton
-Everbowl
-Alpine Home Med
 Provo City - Look into showing more products per page
 
 Bennie New Category - Kits
@@ -233,15 +214,7 @@ Can you get Homestyle Direct set up with the domain,
 hsd.brandfulfillment.store
 
 
-Black#000000#0
-Polished#797982#0
-Midnight Bronze#4A4645#0
-Barrett Brown#7C4700#0
-FDE#877348#0
-Grey#808080#0
-Patriot Brown#5C4033#0
-Sig Grey#7F8583#0
-MultiCam#30063#0
+
 
 
 <style>
@@ -299,79 +272,11 @@ Brand Personality:
 
 
 
-29534-00016-OGIOExtendLongSleeveButtonUp-OG161
-29534-00017-MensPoloShirt-K580
-29534-00018-MensAthleticPoloOGIO-OG135
-29534-00019-MensShortSleeve-DM108
-29534-00020-MensFitSuperProOxfordShirt-S651
-29534-00021-MensPortAuthorityLongSleeveChambrayEasyCareShirt-S651
-29534-00022-MensStretchFullButtonPolo-MM1006
-29534-00023-MensPlaidFlannelTunic-W668
-29534-00024-MensLongSleeveTee-DT108
-29534-00025-WomensTunicBlouse-LW701
-29534-00026-WomensCardiganButton-L545
-29534-00027-WomensCardiganWPockets-LK5434
-29534-00028-WomensPolo-L580
-29534-00029-WomensVNeckT-DM1190L
-29534-00030-BrooksBrothersWomensWrinkleFreeStretchNailheadShirt-BB18003
-29534-00031-WomensScoopNeckT-DM108L
-29534-00032-OGIOLadiesCommuterTunic-LOG1002
-29534-00033-SportTekLadiesHoodedPullover-LST358
-29534-00034-SportTekLadiesHoodieTank-LST410
-29534-00035-FullZipHoodedSweatshirt-DT356
-29534-00036-PulloverHoodedSweatshirt-DT355
-29534-00037-JacketHoodedZip-EB234
-29534-00038-JacketHalfZip-EB234
-29534-00039-VestZipUp-F236
-29534-00040-HeavyDutySweatshirt-PC78H
-29534-00041-FleeceHoodie-DT1101
-29534-00042-CampFleeceSnapPullover-f140
-29534-00043-PortCompanyCoreFleecePulloverHoodedSweatshirt-PC78H
-29534-00044-SportTekQuarterZipPullover-ST469
 
 
 
 
 {order}_ Product-{item}__{product}.{x}
-
-No Peeking Coupons | Summer (Non-Stuffed) 	    08607-00115
-No Peeking Coupons | Summer (Stuffed) 	        08607-00116
-No Peeking Envelopes | Summer   	            08607-00117
-
-No Peeking Coupons | Christmas (Non-Stuffed)    08607-00076
-No Peeking Coupons | Christmas (Stuffed)        08607-00075
-No Peeking Envelopes | Christmas	            08607-00026
-
-
-
-PRODUCTNAME	SKU	URL
-Titanium ST/Side Ported Muzzle Brake .30 Cal 1/2-28 Polished
-MBR-30-SPST-TI
-MBR-30-ST-TI-12x28
-
-Titanium ST/Side Ported Muzzle Brake .30 Cal 1/2-28 Tungsten Cerakote
-MBR-30-SPST-TUN
-MBR-30-ST-TI-TG-12x28
-
-Titanium ST/Side Ported Muzzle Brake .30 Cal 1/2-28 Patriot Brown Cerakote
-MBR-30-SPST-PBR
-MBR-30-ST-TI-PBR-12x28
-
-Titanium ST/Side Ported Muzzle Brake 6.5mm 1/2-28 Polished	
-MBR-65-SPST-TI
-MBR-65-ST-TI-12x28
-
-Titanium ST/Side Ported Muzzle Brake 6.5mm 1/2-28 Tungsten Cerakote
-MBR-65-SPST-TUN
-MBR-65-ST-TI-TG-12x28
-
-Titanium ST/Side Ported Muzzle Brake 6.5mm 1/2-28 Patriot Brown Cerakote
-MBR-65-SPST-PBR
-MBR-65-ST-TI-PBR-12x28
-
-
-
-
 
 Albuquerque NM | 2240 Q Street, Ste. 10N, Albuquerque NM 87110
 Austin TX | 11800 Domain Blvd. Suite 114, Austin TX 77564
@@ -433,7 +338,6 @@ Tigard OR | 7369 SW Bridgeport Road, Tigard OR 97224
 Torrence CA | 21712 Hawthorne Blvd., Ste. 221A, Torrance CA 92122
 Tysons VA | 7980L Tysons Corner Center, Tysons VA 22102
 Woodstock GA | 915 Ridgewalk Parkway, Ste. 300, Woodstock GA 30188
-
 
 
 https://www.alphagraphicsmarketing.com/
@@ -581,19 +485,11 @@ production. Are you sure that you want this item?
 If you are purchasing Non-Stuffed Coupons. These are sold in packs and will not be stuffed by production. Are you sure that you want this item?
  
 
-
-
 22640	FBC
 COPPERPLATE GOTHIC 3 BOLD
 
-
-
 40 West Lawrence Street, 
 Helena, MT 59601
-
-
-
-
 
 
 <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Instructions</title> <style>body { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: 1.428571429; font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; } .instructions-container { box-sizing: border-box; margin-bottom: 20px; border: 1px solid transparent; border-radius: 3px; padding: 12px 15px; background-image: none; background-color: rgba(217, 237, 247, 1); color: rgba(49, 112, 143, 1); border-color: rgba(154, 207, 234, 1); } </style> <div class="instructions-container"><h2 style="text-align:center;">NOTICE:</h2>
