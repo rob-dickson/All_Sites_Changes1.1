@@ -4,12 +4,15 @@
 
 Yesterday
     - Everbowl | Brand Fulfillment
-    - Purple | Addresses
+    - Real Deals | User Error
     - Fat Cats | BFS Site
-    - Safety Training
+    - Certiport | BFS User Edits
+    - Real Deals | AWI Issues
 
 Today
-    - Signifyd Apparel API
+    - Marsh McClennan | New Users
+    - Bella Rothe | New Users
+    - Certiport | BFS User Edits
     - Everbowl | Brand Fulfillment
     - Homestyle Direct | Apparel API
     - Real Deals | AWI Issues
@@ -17,11 +20,18 @@ Today
 
 
 
+UN: 
+UN: 
+UN: 
+UN: bella.rothe@marshmma.com
+UN: elizabeth.trevino@marshmma.com
+UN: paige.rader@marshmma.com​
+PS: P@ssW0rd
 
 
 
-
-
+ifs(DesignDD="1","2 sided black & white intake form - logo 1.png","2 sided black & white intake form - logo 2.png")
+ifs(DesignDD="1","2 sided black & white intake form - logo 1b.png","2 sided black & white intake form - logo 2b.png")
 
 
 Newport Blue#232A34#0
