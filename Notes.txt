@@ -3,19 +3,21 @@
 
 
 Yesterday
-    - Everbowl | Brand Fulfillment
-    - Real Deals | User Error
-    - Fat Cats | BFS Site
-    - Certiport | BFS User Edits
+    - Everbowl | BFS User Edits
+    - Dentive | BFS User Edits
+    - Rocky Mountain University
+    - Lice Clinics | BFS Product issues
+    - Marsh McLennan | Brand Fulfillment Site - Users
+    - Homestyle Direct | Products
     - Real Deals | AWI Issues
 
 Today
-    - Marsh McClennan | New Users
-    - Bella Rothe | New Users
-    - Certiport | BFS User Edits
-    - Everbowl | Brand Fulfillment
-    - Homestyle Direct | Apparel API
-    - Real Deals | AWI Issues
+    - Real Deals | Tax Issue
+    - Dentive | BFS User Edits
+    - Certiport new users
+    - Signifyd Apparel API
+    - Work on Product Tickets
+    - Homestyle Direct | Products
 
 
 
