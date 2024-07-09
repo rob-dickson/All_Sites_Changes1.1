@@ -3,17 +3,21 @@
 
 
 Yesterday
-    - Real Deals | Tax Issue
-    - Dentive | BFS User Edits
-    - C2 | BFS new User Downloads
+    - Certiport | BFS Payment Edits
+    - AHS | User Edits
+    - Connect Admin | User Edits
     - Signifyd Apparel API
-    - Homestyle Direct | Products
+    - Dentive | BFS User Edits
 
 Today
-    - Signifyd Apparel API
     - Dentive | BFS User Edits
     - Homestyle Direct | Products
-    - C2 | BFS new User Downloads
+    - Real Deals | User Edits
+    - Rocky Mountain University
+
+
+
+
 
 
 UN: ddudley@coopernorman.com
