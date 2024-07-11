@@ -1,4 +1,4 @@
-urlProducto;sizes;colors;base;areas;1.5;MinQuantity;PriceBreaks
+urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
 22829-00008-WomensZipUpJacket;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;1.5;0;0-999999#0
 22829-00016-HeatheredTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Heather#9c9da4#0;M|Heather|0;;1.5;0;0-999999#0
 22829-00024-MensZipUpJacket;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;1.5;0;0-999999#0
@@ -22,3 +22,4 @@ urlProducto;sizes;colors;base;areas;1.5;MinQuantity;PriceBreaks
 22829-00217-BennieHHDaybreakerQuarterZipHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;1.5;0;0-999999#0
 22829-00228-HRAAmbassadorMercerMettleStretchQuarterZipPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;1.5;0;0-999999#0
 
+22829-00237-HRAAmbassadorLongSleeveTee;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;White#ffffff#0;M|White|0;;0.5;0;0-999999#0
