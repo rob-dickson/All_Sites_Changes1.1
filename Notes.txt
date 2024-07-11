@@ -3,16 +3,19 @@
 
 
 Yesterday
-    - Certiport | BFS Payment Edits
-    - AHS | User Edits
-    - Connect Admin | User Edits
-    - Signifyd Apparel API
-    - Dentive | BFS User Edits
+    - Alpine Home Medical User edits
+    - Purple | User and Location  Edits
+    - BFS Inventory Site User Edits
+    - Certiport | BFS User Edits
+    - Master Autotech | Email Edits
+    - Lice Clinics | Brand Fulfillment User Edits
 
 Today
+    - Master Autotech | CB v2
+    - Alpine Home Medical User edits
+    - TPM Planning Meeting 
     - Dentive | BFS User Edits
-    - Homestyle Direct | Products
-    - Real Deals | User Edits
+    - Purple | User and Location  Edits
     - Rocky Mountain University
 
 
