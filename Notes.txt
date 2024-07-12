@@ -3,20 +3,18 @@
 
 
 Yesterday
-    - Alpine Home Medical User edits
-    - Purple | User and Location  Edits
-    - BFS Inventory Site User Edits
-    - Certiport | BFS User Edits
-    - Master Autotech | Email Edits
-    - Lice Clinics | Brand Fulfillment User Edits
+    - Master Autotech | CB v2
+    - Tactical Precision MFG | Site Meeting
+    - Purple | User Edits
+    - Alpine Home Medical Inventory edits
+    - Bennie | BFS Products API
+    - Tactical Precision MFG | User Edits
 
 Today
-    - Master Autotech | CB v2
-    - Alpine Home Medical User edits
-    - TPM Planning Meeting 
-    - Dentive | BFS User Edits
-    - Purple | User and Location  Edits
-    - Rocky Mountain University
+    - TPM Build out New User forms
+    - More Purple | User Edits
+    - CBV2 Integration 
+    - Brighton Corp Final Review
 
 
 
