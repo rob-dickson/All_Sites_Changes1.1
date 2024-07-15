@@ -3,22 +3,20 @@
 
 
 Yesterday
-    - Master Autotech | CB v2
-    - Tactical Precision MFG | Site Meeting
     - Purple | User Edits
-    - Alpine Home Medical Inventory edits
-    - Bennie | BFS Products API
-    - Tactical Precision MFG | User Edits
+    - Tactical Precision MFG | New User Form
+    - Homestyle Direct | Apparel Pricing Change
+    - Brighton | BFS Review
+    - Vox | BFS Order error
 
 Today
-    - TPM Build out New User forms
-    - More Purple | User Edits
-    - CBV2 Integration 
+    - Dentive User Edits
+    - Purple | User Edits
+    - CBV2 Integration
     - Brighton Corp Final Review
 
 
-
-
+TPM WHOLESALE FORM!!!
 
 
 UN: ddudley@coopernorman.com
