@@ -3,17 +3,21 @@
 
 
 Yesterday
-    - Purple | User Edits
-    - Tactical Precision MFG | New User Form
-    - Homestyle Direct | Apparel Pricing Change
-    - Brighton | BFS Review
-    - Vox | BFS Order error
+    - Everbowl | Brand Fulfillment | Order Issue
+    - Performance Windows | Order Errors
+    - Speedy CPS Employee Site | User Edits
+    - Master Autotech | CB v2
 
 Today
-    - Dentive User Edits
-    - Purple | User Edits
+    - Performance Windows | Order Errors
+    - TPM Wholesale Form Edits
+    - Master Autotech | CB v2
     - CBV2 Integration
     - Brighton Corp Final Review
+
+
+***Copy Persistent To Build TigerGraph***
+
 
 
 TPM WHOLESALE FORM!!!
