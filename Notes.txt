@@ -3,24 +3,23 @@
 
 
 Yesterday
-    - Everbowl | Brand Fulfillment | Order Issue
-    - Performance Windows | Order Errors
-    - Speedy CPS Employee Site | User Edits
     - Master Autotech | CB v2
+    - Tactical Precision MFG | Wholesale User Form
+    - Performance Windows | Order Errors
+    - Tactical Precision MFG | About Us Page
+    - Speedy CPS Employee Site | User Edits
+    - Swig BFS | Ordering Options
 
 Today
+    - Real Deals | Order Issues
     - Performance Windows | Order Errors
-    - TPM Wholesale Form Edits
-    - Master Autotech | CB v2
+    - Build TigerGraph
     - CBV2 Integration
-    - Brighton Corp Final Review
 
 
 ***Copy Persistent To Build TigerGraph***
 
 
-
-TPM WHOLESALE FORM!!!
 
 
 UN: ddudley@coopernorman.com
