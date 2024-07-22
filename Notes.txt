@@ -11,14 +11,17 @@ Yesterday
     - Swig BFS | Ordering Options
 
 Today
-    - Real Deals | Order Issues
-    - Performance Windows | Order Errors
-    - Build TigerGraph
+    - TPM | Site Edit
+    - Homestyle Direct | New Users
+    - Real Deals | Order Errors
     - CBV2 Integration
+    - Fix Apparel Master List CSV File
 
 
 ***Copy Persistent To Build TigerGraph***
 
+
+Everbowl "Banner - Now Open" product 23137-00003 doesn't have an asset attached and they are trying to order it.
 
 
 
