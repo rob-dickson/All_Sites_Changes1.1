@@ -3,20 +3,20 @@
 
 
 Yesterday
-    - Swig BFS | New Users
-    - Everbowl | Brand Fulfillment | Order Issue
-    - AHS | Missing Files
-    - Tactical Precision MFG | Site Edit
-    - Speedy CPS Employee Site | User Edits
-    - Homestyle Direct | Products
+    - Purple | User Edits
+    - Bennie | BFS API Products    
+    - FBC Roofing | Products
+    - Real Deals | AWI Issues
+    - Tactical Precision MFG | User Issue
 
 Today
-    - Dentive | BFS User Edits
-    - FatCats | Approver Testing
-    - Real Deals | Order Errors
+    - FBC Roofing | Products
+    - Bennie | BFS API Products   
     - Put out Fires
     - CBV2 Integration
-    - Fix Apparel Master List CSV File
+    - Fix Apparel Master File
+
+
 
 
 
