@@ -3,18 +3,20 @@
 
 
 Yesterday
-    - Purple | User Edits
-    - Bennie | BFS API Products    
     - FBC Roofing | Products
-    - Real Deals | AWI Issues
-    - Tactical Precision MFG | User Issue
+    - Bennie | BFS API Products
+    - CoreBridge Training Meeting
+    - Tactical Precision MFG | Wholesale User Edits
+    - Apparel API Fix
 
 Today
-    - FBC Roofing | Products
-    - Bennie | BFS API Products   
-    - Put out Fires
+    - Speedy CPS Employee Site | User Edits
+    - American Fork | Users
+    - Bennie | BFS API Products
     - CBV2 Integration
     - Fix Apparel Master File
+
+
 
 
 
