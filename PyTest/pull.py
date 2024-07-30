@@ -11,6 +11,7 @@ if not os.path.exists(directory):
 
 # CSV file containing the URLs
 csv_file = 'url.csv'
+#
 
 # Read the CSV file and download the images
 with open(csv_file, 'r') as f:
