@@ -3,18 +3,17 @@
 
 
 Yesterday
-    - Speedy CPS Employee Site | User Edits
-    - American Fork Site | BFS
-    - Apparel API Fix
-    - CB v2 Integration
-    - BFS Inventory Site | Update
     - C2 | BFS Apparel API Conversion
+    - US614 | Exploration
+    - CB v2 Integration
+    - Integration Meeting
+    - Brighton | BFS Edits
 
 Today
-    - C2 | BFS Apparel API Conversion
-    - US614 Exploration 
-    - BFS Inventory Site | Update
+    - Dentive | BFS User Edits
+    - Dentive | Site Edits
     - CB V2 Integration
+    - US614 Exploration
     - Fix Apparel Master File
 
 
