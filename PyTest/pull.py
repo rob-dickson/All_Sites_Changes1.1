@@ -28,3 +28,6 @@ with open(csv_file, 'r') as f:
         else:
             print(
                 f'Failed to download {url}. Status code: {response.status_code}')
+
+
+

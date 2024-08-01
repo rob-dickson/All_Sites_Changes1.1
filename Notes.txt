@@ -3,17 +3,17 @@
 
 
 Yesterday
-    - C2 | BFS Apparel API Conversion
-    - US614 | Exploration
-    - CB v2 Integration
-    - Integration Meeting
     - Brighton | BFS Edits
+    - Lice Clinics | BFS User Edits
+    - Workbook Proofing
+    - CB v2 Integration
+    - Data Project for Suzi
 
 Today
-    - Dentive | BFS User Edits
-    - Dentive | Site Edits
+    - Lice Clinics | BFS User Edits
+    - TPM Reviews Exploration 
+    - Brighton | BFS Edits
     - CB V2 Integration
-    - US614 Exploration
     - Fix Apparel Master File
 
 
