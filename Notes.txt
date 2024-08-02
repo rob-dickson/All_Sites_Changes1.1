@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - Brighton | BFS Edits
-    - Lice Clinics | BFS User Edits
-    - Workbook Proofing
+    - Vox | BFS Shipping error
+    - TPM | Notification Issues
+    - C2 | BFS Apparel API Issues
+    - Homestyle Direct | Products
     - CB v2 Integration
-    - Data Project for Suzi
 
 Today
-    - Lice Clinics | BFS User Edits
-    - TPM Reviews Exploration 
-    - Brighton | BFS Edits
+    - Homestyle Direct | Products
+    - C2 | BFS Apparel Issues
     - CB V2 Integration
     - Fix Apparel Master File
 
