@@ -3,17 +3,19 @@
 
 
 Yesterday
-    - Vox | BFS Shipping error
-    - TPM | Notification Issues
-    - C2 | BFS Apparel API Issues
-    - Homestyle Direct | Products
-    - CB v2 Integration
+    - Homestyle Direct | Report/AWI Edits
+    - Lice Clinics | BFS Notification Edits
+    - Master Autotech | Site Edits
+    - C2 | BFS User Edits
+    - Speedy CPS Employee Site | User Edits
 
 Today
-    - Homestyle Direct | Products
+    - Master Autotech | Site Edits
+    - Speedy Branding Site Edits
     - C2 | BFS Apparel Issues
     - CB V2 Integration
-    - Fix Apparel Master File
+    - Fix API Master File
+
 
 
 
@@ -23,18 +25,6 @@ Today
 UN: ddudley@coopernorman.com
 PW: CN2pD0YLNdvD1Bu[[2vA
 
-
-
-
-UN: bella.rothe@marshmma.com
-UN: elizabeth.trevino@marshmma.com
-UN: paige.rader@marshmma.com​
-PS: P@ssW0rd
-
-
-
-ifs(DesignDD="1","2 sided black & white intake form - logo 1.png","2 sided black & white intake form - logo 2.png")
-ifs(DesignDD="1","2 sided black & white intake form - logo 1b.png","2 sided black & white intake form - logo 2b.png")
 
 
 Newport Blue#232A34#0
@@ -78,22 +68,12 @@ Fat Cats Approval Precesses
 ✓✓ Everbowl need to have the url added to the 
     "New User Approved" Email Notification When URL is set. ✓✓
 
-Provo City - Look into showing more products per page
-
-Bennie New Category - Kits
-  Need to update home page
 
 This is the to-do list that I need to remember!!!! 
 
-Everbowl - approving users with self-sign up
-Mary Wakabayashi <mwakabayashi@everbowl.com>
-
 Look into showing more products per page on Provo City 
 
-
 - TPM -
-Make prices more up-front and visible
-    Teaser Price
 More dynamic web banner with sales, relevant copy/photos, etc
 
 More clear call to action 
@@ -102,21 +82,9 @@ Product Sections such as “new releases” “our picks” “popular now” et
 
 Pop up for email list
 
-
 ✓ Get Pressero Admin Access for TPM to ✓
     ✓ Moira - moira@hubsuite.com 
     ✓ Harry - harry@hubsuite.com
-
-
-✓ https://adminc.pro-matters.com/authentication/Login
-
-
-✓ Get Pictures/ Content access For
-    ✓ Moira
-    ✓ Harry Kenning
-
-
-✓ Set up Wholesale Access With Wholesale Pricing 
 
 
 Sites to aspire to
@@ -130,32 +98,19 @@ Sites to aspire to
 To Do List
     Look into showing more products per page on Provo City 
 
-
 API credentials
 AWTq2hAm2a-6IXNDKaW6TgfnOidX19pH0g4kBtw0-ZknHPPGUymHzjWtNR8W8SmmD9CqYjdKTHld7Y03
 EBd0K2z7qquDRhwaJBMUc99x1cLkmis5iZJPCc-kLfg7A3GfuubYnDqOGBqfGoEvuTVw9rSbb1RUmf8A
-
 
 Sandbox credentials
 sb-3fld929498712@business.example.com
 yN0ZY_iB
 
-
 https://ag679.app.corebridge.net/
-
-
-Capacity Books B2B
-    - capacitybooks.pro-matters.com
-
-
-Capacity Books B2C
-    - capacitybooks.brandfulfillment.store
-
 
 login page
     - Colors and fonts
     - Custom Login Message 
-
 
 Category Page
     - Custom Welcome Banner
@@ -166,38 +121,31 @@ Category Page
     - Side Nav 
     - Sidebar History 
 
-
 Footer
     - Contact Block
     - Content Block
     - Custom Footer Nav
 
-
 Responsive 6, Responsive 8, Responsive Clean
     2000x560 Hero Banner
     1140x366 Root Banner
-
 
 Bootstrap Basic, Bootstrap Basic (No Sidebar), 
 Creulean, Readable, Responsive Santiago, 
 Responsive Watson, Responsive Hero
     2000x560 Hero Banner
 
-
 Responsive 9
     848x446 Hero Banner
     1140x366 Root Banner
-
 
 Responsive Algernon, Responsive Ender
     1140x500 Hero Banner
     815x290 Root Banner
 
-
 Responsive Algernon (No Sidebar)
     1140x500 Hero Banner
     1108x395 Root Banner
-
 
 Hero and Root Banner Sizes 
 2000x560
@@ -223,12 +171,6 @@ https://www.alphagraphicsmarketing.com/Clyde/StaticAssets/24378-00015-SLC PO Bee
 </div>
 
 
-Can you get Homestyle Direct set up with the domain,
-hsd.brandfulfillment.store
-
-
-
-
 
 <style>
     div {
@@ -243,114 +185,9 @@ hsd.brandfulfillment.store
 </style>
 
 
-body footer div.container div.row.footer-columns div {
-    width: 100% !important;
-}
-
-
-What is the mission or purpose of your company?
-What values do you prioritize as a business?
-How do you strive to make a difference in your industry or community?
-What services or products does your company offer?
-What sets your services/products apart from competitors?
-Can you describe any specialized knowledge or expertise your team possesses?
-Where do you see your company heading in the future?
-Are there any upcoming projects, expansions, or goals you'd like to share?
-How would you describe the personality or character of your brand?
-Are there any specific tone or style preferences for the "About Us" page content?
-
-
-Mission and Values:
-- Products/Services: 
-    Tactical Precision MFG specializes in manufacturing precision-engineered tactical gun parts, including but not limited to muzzle brakes and muzzle devices, bolt knobs, bolt shrouds, and other accessories. Our products are designed and manufactured to the highest tolerances using advanced CNC machining techniques and premium materials to ensure unmatched performance and durability.
-- Differentiation: 
-    What sets us apart from competitors is our relentless pursuit of perfection and our unwavering commitment to quality. We meticulously control every step of the manufacturing process, from design to delivery, to ensure that every product that bears our name meets our exacting standards. Additionally, our dedication to innovation drives us to continuously explore new technologies and techniques to stay ahead of the curve.
-    
-Expertise and Services:
-- Specialized Knowledge/Expertise: 
-    Our team possesses a wealth of specialized knowledge and expertise in precision machining, firearms engineering, and materials science. With years of experience in the industry, our engineers and craftsmen have honed their skills to perfection, allowing us to tackle even the most complex challenges with confidence and precision.
-
-Future Vision:
-- Future Direction: 
-    Looking ahead, we see Tactical Precision MFG continuing to lead the way in the tactical firearms industry, setting new standards for quality, innovation, and customer satisfaction. We plan to expand our product line, explore new markets, and forge strategic partnerships to further solidify our position as a trusted leader in the industry.
-- Upcoming Projects/Goals: 
-    While we can't disclose specific details at this time, we are constantly working on new projects and initiatives to push the boundaries of what's possible in tactical firearms technology. Our goals include expanding our product offerings, enhancing our manufacturing capabilities, and strengthening our presence in key markets.
-
-Brand Personality:
-- Brand Personality/Character: 
-    The personality of our brand can be described as bold, innovative, and reliable. We are passionate about what we do and are driven by a relentless pursuit of excellence. Our brand is built on a foundation of trust and integrity, and we take pride in delivering products that exceed our customers' expectations.
-- Tone/Style Preferences: 
-    For the "About Us" page content, we prefer a tone that is professional, yet engaging and informative. We want to convey our passion for precision engineering and commitment to quality while also providing insight into our company's values, history, and vision for the future. The content should be clear, concise, and compelling, capturing the essence of who we are as a company and what sets us apart from the competition.
-
-
-
-
-
-
-
 
 {order}_ Product-{item}__{product}.{x}
 
-Albuquerque NM | 2240 Q Street, Ste. 10N, Albuquerque NM 87110
-Austin TX | 11800 Domain Blvd. Suite 114, Austin TX 77564
-Bethesda MD | 7101 Democracy Blvd., Ste 2024, Bethesda MD 21044
-Bloomington MN | 108 South Ave, Bloomington MN 55425
-Brea CA | 2055 Brea Mall, Brea CA 91739
-Cerritos CA | 330 Cerritos Center, Ste. C07, Cerritos CA 90703
-Cherry Hill NJ | 2000 NJ-38, Ste. 1809, Cherry Hill NJ 7702
-Cincinnati OH | 7875 Montgomery Road, Ste. R029, Cincinnati OH 45236
-Colorado Springs CO | 1785 Briargate Parkway, Ste. 715, Colorado Springs CO 80920
-Columbia MD | 10300 Little Patuxent Parkway, Ste. 2245, Columbia MD 20817
-Costa Mesa CA | 3303 Hyland Ave., Ste. A1, Costa Mesa CA 95050
-Corte Madera CA | 105 Corte Madera Town Center, Corte Madera CA 92618
-Cypress TX | 29300 Hempstead Road, Ste. 210, Cypress TX 78666
-Dallas TX | 13350 Dallas Parkway, Ste. 120, Dallas TX 75240
-Durham NC | 6910 Fayetteville Road, Ste. 118, Durham NC 27713
-Emeryville CA | 5644 Bay Street, Emeryville CA 92626
-Farmington UT | 955 W Promontory, Ste. G100, Farmington UT 84025
-Fresno CA | 708 W. Shaw Avenue, Fresno CA 94925
-Friendswood TX | 500 Baybrook Mall, Ste. 1376, Friendswood TX 75034
-Frisco TX | 2601 Preston Road, Ste. 1164, Frisco TX 76092
-Garden City NY | 630 Old Country Road, Garden City NY 11530
-Gilbert AZ | 2174 E. Williams Field Road, Ste. 104, Gilbert AZ 85254
-Irvine CA | 749 Spectrum Center Drive, Ste. 749, Irvine CA 90503
-King of Prussia PA | 680 W Dekalb Pike, Ste. 2033, King of Prussia PA 19406
-Kirkland WA | 11901 NE Village Plaza, Ste. 157, Kirkland WA 98034
-Las Vegas NV | 905 Grand Central Parkway, Ste. 1729, Las Vegas NV 89106
-Leawood KS | 4563 W 119th Street, Ste A-107B, Leawood KS 66209
-Lone Tree CO | 8505 Park Meadows Center Drive, Ste. 2055 Lone Tree CO 80124
-Lynnfield MA | 663 Market Street, Lynnfield MA 1940
-Lynnwood WA | 3000 184th St. SW, Ste. 972, Lynnwood WA 98037
-Louisville KY | 7900 Shelbyville Road, Ste. A09, Louisville KY 40222
-Murray UT | 6191 S. State St.. Ste. A-206, Murray UT 84025
-Meridian ID | 3424 E Longwing Lane, Ste. 145, Meridian ID 83646
-Nashville TN | 2126 Abbott Martin Road, Ste. 206, Nashville TN 37215
-Newark DE | 450 Christiana Mall, Ste. 1660, Newark DE 19702
-Novi MI | 27716 Novi Road, Novi MI 48377
-Orem UT | 575 E. University Pkwy, Orem UT 84097
-Orlando FL | 4965 International Drive, Ste. 2D-11, Orlando FL 34243
-Phoenix AZ | 1831 E Camelback Road, Ste. B1, Phoenix AZ 85016
-Rancho Cucamonga CA | 12534 S Mainstreet, Ste. 1740, Rancho Cucamonga CA 93704
-Riverton UT | 13253 S. Teal Ridge Way, Ste. J-110, Riverton UT 84096
-San Diego CA | 4575 La Jolla Village Drive., Ste. 1175, San Diego CA 90401
-San Marcos TX | 4015 I-35 South, Ste. 101, San Marcos TX 78758
-Santa Clara CA | 2855 Stevens Creek Blvd., Ste. 1323, Santa Clara CA 94608
-Santa Monica CA | 395 Santa Monica Place, Ste. 208, Santa Monica CA 92821
-Sarasota FL | 140 University Town Center Drive, Ste 123, Sarasota FL 32819
-Schaumburg IL | 5 Woodfield Mall, Ste J-109, Schaumburg IL 60173
-Scottsdale AZ | 15125 N Scottsdale Road, Ste. 180, Scottsdale AZ 85016
-Seattle WA | 2670 NE Village Lane, Seattle WA 98037
-Shrewsbury NJ | 629 Broad Street, Shrewsbury NJ 07702
-Short Hills NJ | 1200 Morris Turnpike, Ste. B283, Short Hills NJ 7078
-Skokie IL | 4999 Old Orchard Center, Ste. E12, Skokie IL 60077
-Somerville MA | 330 Artisan Way, Somerville MA 2145
-South Salt Lake UT | 291 W 2100 S, South Salt Lake UT 84115
-Southlake TX | 234 State St, Southlake TX 77433
-Tampa FL | 2223 N. Westshore Blvd., Ste 177, Tampa FL 33607
-Tigard OR | 7369 SW Bridgeport Road, Tigard OR 97224
-Torrence CA | 21712 Hawthorne Blvd., Ste. 221A, Torrance CA 92122
-Tysons VA | 7980L Tysons Corner Center, Tysons VA 22102
-Woodstock GA | 915 Ridgewalk Parkway, Ste. 300, Woodstock GA 30188
 
 
 https://www.alphagraphicsmarketing.com/
@@ -376,144 +213,11 @@ Product Tags   - 9.5
 metal name badges 12.5
 
 
-21688	6Sense
-14053	Alpine Home Medical
-18105	American Heritage School
-18398	American Land & Leisure
-04299	Archibald Leavitt Group
-23057	Arkestro
-18341	AWD
-14062	Banasky
-07253	Bank of Jackson Hole
-22829	Bennie
-00081	BISH 
-
-18622	Brent Brown
-23109	C2 Financial
-18937	Cascade Collision
-13725	Centennial Community Cooperative
-14612	Certiport
-00696	City of Idaho Falls
-18294	Civil Science
-16045	Clyde
-22054	DataBricks
-23661	David A. Christensen
-28519	Dentive
-19998	DOMO
-20400	Dynamond
-01823	Electrical Wholesale
-21142	Ensign College
-18178	ERC
-20602	Fat Cats
-22640	FBC
-20296	Flagship Homes
-35513	Grigg tot Legacy Foundation
-14893	Homeward Bound
-34693	Horroks
-21192	Hutchings Museum
-12181	Idaho Department of Labor
-22819	Infinite Minds
-22434	Innovative Mortagage01036	Internal Marketin
-16136	Keller Williams
-14206	KLAS Research
-14069	Laced Inc.
-14081	Lice Clinics of America
-07957	Lookout Credit Union
-17273	Low VA Rates
-28401	Master Autotech
-00725	Mountain America Credit Union
-05024	Mountain West Rentals
-14147	MoxTek
-18579	Net Documents
-14285	Niels Fugal Sons
-22153	Not By Chance
-21152	PDR Benefits
-
-21332	Persistent
-17469	Philanthropies
-21078	Pointe Meadows
-00993	Potandon
-01035	Premier Technology Inc.
-14092	Provo City 
-00697	Pro Rentals
-25689	PUR Life
-20656	Purple
-08607	Real Deals
-20325	Rocky Mountain University
-07390	Rocky Mountain Yeti
-05570	Ron Sayer - Dodge
-00543	Ron Sayer - Nissan
-22122	Rooftop
-20215	Saratoga Springs City
-20573	Savory
-23585	Signified
-01822	Silver Star Communications
-20393	Simplicity Laser
-19506	SIRQ
-05266	Sleep In Heavenly Peace
-22165	SQRD Media
-04935	St. Johns Hospital
-20560	STACK Real Estate
-23447	Swig
-04345	Tadd Jenkins
-28210	Tremonton
-19381	TSC EcoSolutions
-00559	Valued Merchant Services
-20731	VanCon
-14049	Vox Marketing
-20322	Zamp HR
-
-
-
-On the Stuffed Coupons: 
-
-    These Coupons are STUFFED, 
-    meaning that they will be hand-inserted by production 
-    for any envelopes you order. If you wish to buy or 
-    reorder individual coupon packs please order *Non-Stuffed Coupons.
- 
-On Non-Stuffed Coupons: 
-
-    These coupons are NOT STUFFED, 
-    meaning that they are sold in packs and will not be 
-    inserted into envelopes. If you wish to order stuffed 
-    coupons please order *Stuffed Coupons
- 
-On Checkout cart: 
-
-IF STUFFED COUPONS
-Looks like you are ordering stuffed coupons, to help us- 
-please make sure that you have purchased the correct 
-amount of envelopes in your order.
-
-If you are ordering stuffed coupons, please help us by making sure that you have purchased the correct amount of envelopes in your order.
- 
-On Checkout: 
-
-    IF NON STUFFED
-Looks like you are purchasing Non-Stuffed Coupons. 
-These are sold in packs and will not be stuffed by 
-production. Are you sure that you want this item?
-
-If you are purchasing Non-Stuffed Coupons. These are sold in packs and will not be stuffed by production. Are you sure that you want this item?
- 
-
 22640	FBC
 COPPERPLATE GOTHIC 3 BOLD
 
 40 West Lawrence Street, 
 Helena, MT 59601
-
-
-<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Instructions</title> <style>body { -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); line-height: 1.428571429; font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; } .instructions-container { box-sizing: border-box; margin-bottom: 20px; border: 1px solid transparent; border-radius: 3px; padding: 12px 15px; background-image: none; background-color: rgba(217, 237, 247, 1); color: rgba(49, 112, 143, 1); border-color: rgba(154, 207, 234, 1); } </style> <div class="instructions-container"><h2 style="text-align:center;">NOTICE:</h2>
-<p style="text-align:center;">The following products are templates that are under refinement, pending approval from the client. For help or assistance please contact your sales representative.<br />
-</p>
-<!-- Add your instructions content here --> </div>
-
-
-
-
-
 
 
 
