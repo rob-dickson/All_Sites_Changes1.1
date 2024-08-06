@@ -3,18 +3,23 @@
 
 
 Yesterday
-    - Homestyle Direct | Report/AWI Edits
-    - Lice Clinics | BFS Notification Edits
     - Master Autotech | Site Edits
-    - C2 | BFS User Edits
+    - Speedy CPS Employee Site | Site Edits
+    - FBC Roofing | User Edits
+    - Data Project for Suzi
     - Speedy CPS Employee Site | User Edits
+    - Swig BFS | Notification Edits
+    - AHS | Payment Error
 
 Today
-    - Master Autotech | Site Edits
+    - Master Autotech | CB v2 Integration
+    - Provo City | User Edits
     - Speedy Branding Site Edits
-    - C2 | BFS Apparel Issues
     - CB V2 Integration
     - Fix API Master File
+
+
+
 
 
 
