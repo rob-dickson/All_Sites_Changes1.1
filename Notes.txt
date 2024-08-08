@@ -3,20 +3,20 @@
 
 
 Yesterday
-    - Master Autotech | Site Edits
-    - Speedy CPS Employee Site | Site Edits
-    - FBC Roofing | User Edits
-    - Data Project for Suzi
     - Speedy CPS Employee Site | User Edits
-    - Swig BFS | Notification Edits
-    - AHS | Payment Error
+    - Real Deals | User Issues
+    - File Upload Build
+    - CB v2 Integration
+    - First Aid Training
+    - Benefis Health Systems | BFS User Edits
 
 Today
-    - Master Autotech | CB v2 Integration
-    - Provo City | User Edits
+    - Provo City | Notification Issues
+    - File Upload Form Build
     - Speedy Branding Site Edits
     - CB V2 Integration
-    - Fix API Master File
+
+
 
 
 
