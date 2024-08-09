@@ -1,8 +1,152 @@
-<fieldset style="width: fit-content;">
-    <legend>File Upload</legend>
-    <form style="padding-top: .5em;width: fit-content;">
-        <input type="file" name="myFile" mulitple>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form style="font-family: sans-serif;">
+        <input type="file" name="myFile" multiple="">
         <input type="button" id="submitBtn" value="Upload Files">
+        </br>
+        </br>
+        <div id="status-bar"></div>
+        </br>
         <label id="resp"></label>
     </form>
-</fieldset>
+
+    <fieldset style="width: fit-content;">
+        <legend>File Upload</legend>
+        <form style="padding-top: .5em;width: fit-content;">
+            <input type="file" name="myFile" mulitple>
+            <input type="button" id="submitBtn" value="Upload Files">
+            <label id="resp"></label>
+        </form>
+    </fieldset>
+
+
+
+
+
+    <iframe src="" frameborder="0" width="100%" height="fit-content">
+    </iframe>
+
+</body>
+
+<script>
+    function doGet() {
+        var html = HtmlService.createHtmlOutputFromFile('index');
+        return html.setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL);
+    }
+
+    function uploadFiles(data) {
+        var service = getService();
+        var folderId = '1IxMiswEfi67ovoBf8ZH1RV7qVPx1Ks6l';
+        var file = data.myFile;
+        var folder = DriveApp.getFolderById(folderId);
+
+        // Use the service account to upload the file
+        var options = {
+            "method": "POST",
+            "headers": {
+                "Authorization": "Bearer " + service.getAccessToken()
+            },
+            "body": file
+        };
+
+        var response = UrlFetchApp.fetch("https://www.googleapis.com/upload/drive/v3/files?uploadType=media&fields=id",
+            options);
+        var fileId = JSON.parse(response.getContentText()).id;
+
+        // Move the file to the desired folder
+        var file = DriveApp.getFileById(fileId);
+        folder.addFile(file);
+
+        return file.getUrl();
+    }
+
+    // Function to get the service account
+    function getService() {
+        var service = OAuth2.createService('drive')
+            .setAuthorizationBaseUrl('https://accounts.google.com')
+            .setTokenUrl('https://accounts.google.com/o/oauth2/token')
+            .setClientId('YOUR_CLIENT_ID')
+            .setClientSecret('YOUR_CLIENT_SECRET')
+            .setCallbackFunction('authCallback')
+            .setPropertyStore(PropertiesService.getUserProperties());
+
+        return service;
+    }
+
+    // Callback function for authorization
+    function authCallback(request) {
+        var service = getService();
+        var authorized = service.handleCallback(request);
+        if (authorized) {
+            return HtmlService.createHtmlOutput('Authenticated!');
+        } else {
+            return HtmlService.createHtmlOutput('Authentication failed.');
+        }
+    }
+
+    // Function to update the status bar
+    function updateStatus(status) {
+        return status;
+    }
+
+</script>
+
+</html>
+
+
+
+
+<!-- **************************************************************************** -->
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <base target="_top">
+    <title>Upload Files</title>
+</head>
+
+<body>
+    <form style="font-family: sans-serif;">
+        <input type="file" name="myFile" multiple="">
+        <input type="button" id="submitBtn" value="Upload Files">
+        </br>
+        </br>
+        <div id="status-bar"></div>
+        </br>
+        <label id="resp"></label>
+    </form>
+    <script>
+        document.getElementById('submitBtn').addEventListener('click',
+            function (e) {
+                var statusBar = document.getElementById('status-bar');
+                statusBar.innerHTML = 'Uploading...';
+                google.script.run.withSuccessHandler(onSuccess).withFailureHandler(onFailure).uploadFiles(this.parentNode);
+            })
+
+        function onSuccess(data) {
+            var statusBar = document.getElementById('status-bar');
+            statusBar.innerHTML = 'Upload complete!';
+            document.getElementById('resp').innerHTML = "File Uploaded Successfully ";
+        }
+
+        function onFailure(error) {
+            var statusBar = document.getElementById('status-bar');
+            statusBar.innerHTML = 'Upload failed!';
+            console.error(error);
+        }
+    </script>
+</body>
+
+</html>

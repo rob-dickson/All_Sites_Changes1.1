@@ -3,18 +3,16 @@
 
 
 Yesterday
+    - Provo City | Notification Issues
+    - US614 | Exploration Meeting
+    - South Salt Lake agOnline
     - Speedy CPS Employee Site | User Edits
-    - Real Deals | User Issues
-    - File Upload Build
-    - CB v2 Integration
-    - First Aid Training
-    - Benefis Health Systems | BFS User Edits
 
 Today
-    - Provo City | Notification Issues
+    - US614 | Exploration Meeting
+    - Performance Windows | File Error
     - File Upload Form Build
     - Speedy Branding Site Edits
-    - CB V2 Integration
 
 
 
