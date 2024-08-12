@@ -3,16 +3,19 @@
 
 
 Yesterday
-    - Provo City | Notification Issues
-    - US614 | Exploration Meeting
     - South Salt Lake agOnline
+    - Performance Windows | Order Errors
+    - File Upload Build
     - Speedy CPS Employee Site | User Edits
+    - Purple | Order Error
 
 Today
-    - US614 | Exploration Meeting
+    - Speedy CPS Employee Site | User Edits
     - Performance Windows | File Error
     - File Upload Form Build
-    - Speedy Branding Site Edits
+
+
+
 
 
 
