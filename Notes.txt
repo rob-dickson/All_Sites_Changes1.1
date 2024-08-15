@@ -3,30 +3,26 @@
 
 
 Yesterday
-    - Certiport | user issues
-    - SHP | Site Edit
-    - Master Autotech | CB v2 Integration
-    - BFS Inventory Site | Updates
-    - Speedy CPS Employee Site | User Edits
     - TPM | Shipping Issues
-    - Everbowl | Brand Fulfillment | Order Issue
+    - South Salt Lake agOnline
+    - Speedy CPS Apparel Site Edits
+    - Brighton | BFS Notification Edits
+    - Creative Services Meeting
+    - Brighton | BFS Site Edits
 
 Today
-    - Everbowl BFS | Order Issue
-    - Marsh McClennan User Edits
-    - TPM | Shipping Issues
-    - Speedy CPS Employee Site | User Edits
+    - Brighton | BFS Site Edits
+    - Inventory Site updates
+    - Speedy CPS Apparel Site Edits
     - File Upload Form Build
 
 
-
-
-
-
-
-
-
-
+Add to Inventory Site
+    36165 - Elevated Charter Schools (1 product)
+    30605 - FREEFORM (6)
+    23870 - Pello Agency (3)
+    24977 - Bay Area News Group [BANG] (1)
+    23073 - Sales Community (1)
 
 
 
