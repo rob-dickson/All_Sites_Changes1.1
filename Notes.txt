@@ -3,18 +3,23 @@
 
 
 Yesterday
-    - TPM | Shipping Issues
-    - South Salt Lake agOnline
+    - Certiport | Notification issues
+    - Keller Williams Files Missing
     - Speedy CPS Apparel Site Edits
+    - Savory BFS | Assets
+    - Performance Windows | Order Errors
     - Brighton | BFS Notification Edits
-    - Creative Services Meeting
-    - Brighton | BFS Site Edits
 
 Today
+    - BFS Inventory Site | Updates
+    - Certiport | Site Issues
     - Brighton | BFS Site Edits
-    - Inventory Site updates
     - Speedy CPS Apparel Site Edits
+    - Master Autotech
     - File Upload Form Build
+
+
+
 
 
 Add to Inventory Site
@@ -24,12 +29,14 @@ Add to Inventory Site
     24977 - Bay Area News Group [BANG] (1)
     23073 - Sales Community (1)
 
+Migration 
+    Westminster
+    
 
 
 
-
-UN: ddudley@coopernorman.com
-PW: CN2pD0YLNdvD1Bu[[2vA
+UN: 
+PW: 
 
 
 
