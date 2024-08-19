@@ -3,19 +3,17 @@
 
 
 Yesterday
-    - Certiport | Notification issues
-    - Keller Williams Files Missing
-    - Speedy CPS Apparel Site Edits
-    - Savory BFS | Assets
-    - Performance Windows | Order Errors
-    - Brighton | BFS Notification Edits
+    - BFS Inventory Site | Updates
+    - Certiport | Notification/Site issues
+    - Brighton | BFS Site Edits
+    - US614 | Migration Meeting
+    - TPM | Deactivation
+    - Master Autotech | CB v2 Integration
 
 Today
+    - Master Autotech | CB v2 Integration
     - BFS Inventory Site | Updates
-    - Certiport | Site Issues
-    - Brighton | BFS Site Edits
-    - Speedy CPS Apparel Site Edits
-    - Master Autotech
+    - US614 | Migration
     - File Upload Form Build
 
 
