@@ -3,15 +3,15 @@
 
 
 Yesterday
-    - BFS Inventory Site | Updates
-    - Certiport | Notification/Site issues
-    - Brighton | BFS Site Edits
-    - US614 | Migration Meeting
-    - TPM | Deactivation
     - Master Autotech | CB v2 Integration
+    - BFS Meetings
+    - Performance Windows | New Location
+    - BFS Inventory Site | Updates
+    - Everbowl BFS | Approval Issue
 
 Today
     - Master Autotech | CB v2 Integration
+    - Everbowl BFS | Approval Issue
     - BFS Inventory Site | Updates
     - US614 | Migration
     - File Upload Form Build
