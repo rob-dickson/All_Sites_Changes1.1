@@ -3,16 +3,17 @@
 
 
 Yesterday
+    - JKR Windows | BFS New Site Demo
     - Master Autotech | CB v2 Integration
-    - BFS Meetings
-    - Performance Windows | New Location
-    - BFS Inventory Site | Updates
-    - Everbowl BFS | Approval Issue
+    - City of Idaho Falls New Users
+    - C2 | BFS Inventory Issues
+    - Performance Windows | Location Edit
 
 Today
+    - Speedy CPS Employee Site | User Edits
+    - Real Deals - Issues
+    - JKR Windows | BFS New Site Demo
     - Master Autotech | CB v2 Integration
-    - Everbowl BFS | Approval Issue
-    - BFS Inventory Site | Updates
     - US614 | Migration
     - File Upload Form Build
 
@@ -26,6 +27,8 @@ Add to Inventory Site
     23870 - Pello Agency (3)
     24977 - Bay Area News Group [BANG] (1)
     23073 - Sales Community (1)
+
+
 
 Migration 
     Westminster
