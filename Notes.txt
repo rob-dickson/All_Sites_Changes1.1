@@ -3,15 +3,15 @@
 
 
 Yesterday
-    - JKR Windows | BFS New Site Demo
-    - Master Autotech | CB v2 Integration
-    - City of Idaho Falls New Users
+    - Speedy CPS Employee Site | User Edits
+    - Real Deals | Product Files Missing
+    - Brighton | BFS User Permission Edits
     - C2 | BFS Inventory Issues
-    - Performance Windows | Location Edit
+    - 6sense | BFS User Edits
+    - JKR Windows | BFS New Site Demo
+    - Swig BFS | User Edits
 
 Today
-    - Speedy CPS Employee Site | User Edits
-    - Real Deals - Issues
     - JKR Windows | BFS New Site Demo
     - Master Autotech | CB v2 Integration
     - US614 | Migration
@@ -19,14 +19,6 @@ Today
 
 
 
-
-
-Add to Inventory Site
-    36165 - Elevated Charter Schools (1 product)
-    30605 - FREEFORM (6)
-    23870 - Pello Agency (3)
-    24977 - Bay Area News Group [BANG] (1)
-    23073 - Sales Community (1)
 
 
 
@@ -82,31 +74,6 @@ Fat Cats Approval Precesses
 ✓✓ Everbowl need to have the url added to the 
     "New User Approved" Email Notification When URL is set. ✓✓
 
-
-This is the to-do list that I need to remember!!!! 
-
-Look into showing more products per page on Provo City 
-
-- TPM -
-More dynamic web banner with sales, relevant copy/photos, etc
-
-More clear call to action 
-    Where? Banner? 
-Product Sections such as “new releases” “our picks” “popular now” etc
-
-Pop up for email list
-
-✓ Get Pressero Admin Access for TPM to ✓
-    ✓ Moira - moira@hubsuite.com 
-    ✓ Harry - harry@hubsuite.com
-
-
-Sites to aspire to
-    Odin Works
-    Witt Machine
-    Strike Industries
-    Anarchy Outdoors
-    https://www.parkermountainmachine.com/
 
 
 To Do List
