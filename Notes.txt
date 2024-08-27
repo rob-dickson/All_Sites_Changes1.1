@@ -3,18 +3,18 @@
 
 
 Yesterday
-    - Speedy CPS Employee Site | User Edits
-    - Real Deals | Product Files Missing
-    - Brighton | BFS User Permission Edits
-    - C2 | BFS Inventory Issues
-    - 6sense | BFS User Edits
-    - JKR Windows | BFS New Site Demo
-    - Swig BFS | User Edits
+    - AHS | Site Fix
+    - Performance Windows | Assets
+    - Savory BFS | Site Edits
+    - Benefis Health Systems | BFS
+    - US614 | Migration
+        - Westminster | BFS New Site
 
 Today
-    - JKR Windows | BFS New Site Demo
+    - AHS | Site Fix
     - Master Autotech | CB v2 Integration
     - US614 | Migration
+        - Westminster | BFS New Site
     - File Upload Form Build
 
 

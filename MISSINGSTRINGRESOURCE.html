@@ -1,0 +1,108 @@
+<meta charset="utf-8" /><!-- utf-8 works for most cases -->
+<meta name="viewport" content="width=device-width" /><!-- Forcing initial-scale shouldn't be necessary -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /><!-- Use the latest (edge) version of IE rendering engine -->
+<meta name="x-apple-disable-message-reformatting" /><!-- Disable auto-scale in iOS 10 Mail entirely -->
+<title></title><!-- The title tag shows in email notifications, like Android 4.4. --> <!-- CSS Reset : BEGIN -->
+<style>
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #000000;
+        margin-top: 0;
+        font-weight: 400;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 1.8;
+        color: rgba(0, 0, 0, .4);
+    }
+</style>
+<center style="width:100%;background-color:#f1f1f1;">
+    <div style="max-width:500px;margin:2% auto 0;" class="email-container">
+        <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"
+            style="margin:auto;">
+            <tbody>
+                <tr>
+                    <td valign="top" class="bg_white" style="padding:1em 2.5em 0 2.5em;">
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody>
+                                <tr>
+                                    <td class="logo" style="text-align:center;"><a href="##SITE_WEBSITE##"
+                                            target="_blank"> <img id="siteLogo" src="##SITE_LOGO##"
+                                                title="##SITE_NAME##" alt="##SITE_NAME##"
+                                                style="max-width:300px;height:auto;margin:auto;display:block;" /></a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <!-- end tr -->
+                <tr>
+                    <td valign="middle" class="hero bg_white" style="padding:2em 0 4em 0;">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <div class="text" style="padding:0 2.5em;text-align:center;">
+                                            <h2>Order Pending Payment</h2>
+                                            <p style="margin-top:0;">The order number ##ordernumber## has not been paid
+                                                yet. Please go to the order and complete the payment.</p>
+                                            <p style="padding-top:1em;"><a class="btn btn-primary"
+                                                    style="border-radius: 5px; background: #069; color: #ffffff; padding: 10px 15px; display: inline-block; text-decoration: none;"
+                                                    href="##password##" target="_blank">Go to Order</a>. </p>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <!-- end tr --> <!-- 1 Column Text + Button : END -->
+            </tbody>
+        </table>
+        <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"
+            style="margin:auto;">
+            <tbody>
+                <tr>
+                    <td valign="middle" class="bg_light footer email-section">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td valign="top" style="padding-top:0;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+                                            width="100%">
+                                            <tbody>
+                                                <tr>
+                                                    <td style="text-align:left;padding-left:5px;padding-right:5px;">
+                                                        &nbsp;</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <!-- end: tr -->
+            </tbody>
+        </table>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <p style="font-size:12px;padding-top:2em;">Email not displaying correctly? ##SHOW_MSG_LINK##</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</center>
