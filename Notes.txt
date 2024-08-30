@@ -3,18 +3,25 @@
 
 
 Yesterday
-    - AHS | Site Fix
-    - Performance Windows | Assets
-    - Savory BFS | Site Edits
-    - Benefis Health Systems | BFS
-    - US614 | Migration
-        - Westminster | BFS New Site
+    - Purple | User Changes
+    - Certiport Shipping/Delivery options
+    - Savory BFS | User Edits
+    - City of Idaho Falls New Users
+    - Speedy CPS Employee Site | User Edits
+    - Academy Mortgage | BFS New Site
+    - Awardco | BFS
+    - Master Autotech | CB v2 Integration
+    - Performance Windows | CB Integration
+    - BFS Booklet Review
 
 Today
-    - AHS | Site Fix
+    - Purple | User Changes
+    - Speedy CPS Employee Site | User Edits
     - Master Autotech | CB v2 Integration
+    - Performance Windows | CB Integration
+    - BFS Booklet Review
     - US614 | Migration
-        - Westminster | BFS New Site
+        - Academy Mortgage | BFS New Site
     - File Upload Form Build
 
 
