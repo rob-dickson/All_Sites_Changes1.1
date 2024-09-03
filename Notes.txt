@@ -15,11 +15,9 @@ Yesterday
     - BFS Booklet Review
 
 Today
-    - Purple | User Changes
+    - AHS | Site Change
     - Speedy CPS Employee Site | User Edits
-    - Master Autotech | CB v2 Integration
-    - Performance Windows | CB Integration
-    - BFS Booklet Review
+    - CB v2 Integration
     - US614 | Migration
         - Academy Mortgage | BFS New Site
     - File Upload Form Build
