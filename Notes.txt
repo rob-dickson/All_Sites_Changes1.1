@@ -3,25 +3,39 @@
 
 
 Yesterday
-    - Purple | User Changes
-    - Certiport Shipping/Delivery options
-    - Savory BFS | User Edits
-    - City of Idaho Falls New Users
-    - Speedy CPS Employee Site | User Edits
-    - Academy Mortgage | BFS New Site
-    - Awardco | BFS
-    - Master Autotech | CB v2 Integration
-    - Performance Windows | CB Integration
-    - BFS Booklet Review
+    - AHS | BFS Site
+    - Lindon | BFS User Edits
+    - SAL Management | BFS New Site
+    - C2 | BFS Site Issues
+    - Performance Windows | Site edit
 
 Today
-    - AHS | Site Change
-    - Speedy CPS Employee Site | User Edits
+    - Performance Windows | Site edit
+    - SAL Management
     - CB v2 Integration
     - US614 | Migration
         - Academy Mortgage | BFS New Site
-    - File Upload Form Build
 
+
+
+
+
+A-Frame Inserts
+Brochure
+Business Cards
+Checks
+Envelopes
+Floor Plans
+Folder
+Logo
+Meal Vouchers
+Notepads
+Posters
+Price Sheets
+Razor Flags
+Stickers
+Thank You Cards
+Vinyl
 
 
 
