@@ -3,23 +3,45 @@
 
 
 Yesterday
-    - Performance Windows | Site edit
-    - St George | BFS Files missing
+    - Academy Mortgage | BFS New Site
+    - South Salt Lake agOnline
+    - Marsh McClennan User Edits
+    - Mountain West | Email Signature
     - SAL Management | BFS New Site
-    - Good to Go | Meeting
-    - AHS | BFS Site
 
 Today
+    - AHS | Redesign 
+    - TPM | Rebuild
     - SAL Management | BFS New Site
-    - Performance Windows | Site edit
-    - SAL Management
     - CB v2 Integration
     - US614 | Migration
         - Academy Mortgage | BFS New Site
 
 
+TPM
+    - get his footer updated with his contact information
+
+    - change anything else up on his website that directs customers to us
+
+    - change the email templates for TPM and not AG
+
+    - change the notifications to go to his email
+
+    - if there is a contact us form on the site to make sure those leads go to him and not us
+
+    - set up a dummy user for the backend that has access to see and edit orders/shipping/inventory and test it 
+    (we will be giving him that access and train him on how to use it so that is why we need to test it)
+
+AHS
+    - Coming Soon Page 
+        root/Micro-School/Coming-Soon
+    - 
 
 
+
+
+
+    
 
 A-Frame Inserts
 Brochure
