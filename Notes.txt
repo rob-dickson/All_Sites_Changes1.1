@@ -3,15 +3,24 @@
 
 
 Yesterday
-    - Academy Mortgage | BFS New Site
-    - South Salt Lake agOnline
-    - Marsh McClennan User Edits
-    - Mountain West | Email Signature
+    - Real Deals | Shipping Issues
+    - AHS | BFS Pricing Calculators
+    - C2 | BFS Site Issues
+    - TPM | Rebuild 
+    - Speedy CPS Employee Site | User Edits
+    - Homestyle Direct
     - SAL Management | BFS New Site
 
 Today
-    - AHS | Redesign 
-    - TPM | Rebuild
+    - Real Deals | Shipping Issues
+    - AHS | BFS Pricing Calculators
+    - C2 | BFS Site Issues
+    - TPM | Rebuild 
+    - Speedy CPS Employee Site | User Edits
+    - Homestyle Direct
+    - SAL Management | BFS New Site
+    
+    - AHS New Page
     - SAL Management | BFS New Site
     - CB v2 Integration
     - US614 | Migration
@@ -19,16 +28,11 @@ Today
 
 
 TPM
-    - get his footer updated with his contact information
-
-    - change anything else up on his website that directs customers to us
-
-    - change the email templates for TPM and not AG
-
-    - change the notifications to go to his email
-
-    - if there is a contact us form on the site to make sure those leads go to him and not us
-
+    - get his footer updated with his contact information -
+    - change anything else up on his website that directs customers to us -
+    - change the email templates for TPM and not AG -
+    - change the notifications to go to his email -
+    - if there is a contact us form on the site to make sure those leads go to him and not us -
     - set up a dummy user for the backend that has access to see and edit orders/shipping/inventory and test it 
     (we will be giving him that access and train him on how to use it so that is why we need to test it)
 
