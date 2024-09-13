@@ -3,24 +3,17 @@
 
 
 Yesterday
-    - Real Deals | Shipping Issues
-    - AHS | BFS Pricing Calculators
-    - C2 | BFS Site Issues
-    - TPM | Rebuild 
-    - Speedy CPS Employee Site | User Edits
-    - Homestyle Direct
+    - AHS | BFS New Page
+    - Homestyle Direct | Issues
+    - SHP | Site Change
     - SAL Management | BFS New Site
+    - Bennie BFS | User Edits
+    - C2 | BFS Shipping Issues
+    - City of Idaho Falls User Edits
 
 Today
-    - Real Deals | Shipping Issues
-    - AHS | BFS Pricing Calculators
-    - C2 | BFS Site Issues
-    - TPM | Rebuild 
-    - Speedy CPS Employee Site | User Edits
-    - Homestyle Direct
-    - SAL Management | BFS New Site
-    
-    - AHS New Page
+    - AHS | BFS Site edit
+    - C2 | BFS Shipping Issues
     - SAL Management | BFS New Site
     - CB v2 Integration
     - US614 | Migration
