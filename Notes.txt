@@ -3,21 +3,22 @@
 
 
 Yesterday
-    - AHS | BFS New Page
-    - Homestyle Direct | Issues
-    - SHP | Site Change
+    - AHS | BFS Site Edit
     - SAL Management | BFS New Site
-    - Bennie BFS | User Edits
-    - C2 | BFS Shipping Issues
-    - City of Idaho Falls User Edits
+    - Performance Windows | CB Integration
+    - Purple | Meeting
+    - Purple | Approval Edits
+    - South Salt Lake agOnline
+    - AHS | BFS Pricing Calculators
 
 Today
     - AHS | BFS Site edit
-    - C2 | BFS Shipping Issues
+    - Speedy | Approvals
     - SAL Management | BFS New Site
     - CB v2 Integration
     - US614 | Migration
         - Academy Mortgage | BFS New Site
+
 
 
 TPM
@@ -36,7 +37,16 @@ AHS
 
 
 
-
+<!-- 
+<span><strong>Questions?</strong> <br />
+Contact Alpha Graphics:<br />
+801.426.6200<br />
+<br />
+<strong>Our Mailing Address is:</strong><br />
+Alpha Graphics<br />
+1466 N State St<br />
+Orem, UT 84057<br />
+<br /> --> 
 
     
 

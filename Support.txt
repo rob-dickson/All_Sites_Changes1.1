@@ -1,9 +1,0 @@
-
-
-Hey Lynn,
-
-Adam asked me to update you on this with the hope that you can get the ball rolling. I have been working with CoreBridge on an integration issue that has been ongoing with CoreBridge not syncing automatically with Pressero(Our Brand Fulfillment Store ordering portals). Long story short, when an order is placed on Pressero, CoreBridge should pull the information and the files over and create a new ticket in CoreBridge for that customer and it's not doing that. The ticket was created 15 days ago and we aren't able to move forward with the integration without a resolution. 
-
-The last response from CoreBridge was, "Apologies for the delay in response on this.
-Our team is actively looking into this, and as soon as I have more information on this we will be in touch. I do understand the priority of this as well, as we want to ensure that the auto-sync feature is working, as I know when you and I tested in our meeting that manually it was able to work. As soon as I have an update I will be reaching out in this email thread." That was eight days ago.
-
