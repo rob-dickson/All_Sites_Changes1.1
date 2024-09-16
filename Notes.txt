@@ -12,12 +12,13 @@ Yesterday
     - AHS | BFS Pricing Calculators
 
 Today
-    - AHS | BFS Site edit
-    - Speedy | Approvals
+    - Tigergraph | Demo Site
+    - Smith Entertainment | BFS
     - SAL Management | BFS New Site
     - CB v2 Integration
     - US614 | Migration
         - Academy Mortgage | BFS New Site
+
 
 
 
@@ -48,7 +49,7 @@ Alpha Graphics<br />
 Orem, UT 84057<br />
 <br /> --> 
 
-    
+
 
 A-Frame Inserts
 Brochure
@@ -67,23 +68,6 @@ Stickers
 Thank You Cards
 Vinyl
 
-
-
-
-Family School
-    - 
-    - 
-
-Micro Masters School
-    - 
-    - 
-
-
-
-
-Migration 
-    Westminster
-    
 
 
 
@@ -220,18 +204,12 @@ https://www.alphagraphicsmarketing.com/Clyde/StaticAssets/24378-00015-SLC PO Bee
         background-color: #808080;
         background-color: #5C4033;
         background-color: #e5a200;
-
     }
 </style>
 
-
-
 {order}_ Product-{item}__{product}.{x}
 
-
-
 https://www.alphagraphicsmarketing.com/
-
 
 --NAME--         per1000
 
