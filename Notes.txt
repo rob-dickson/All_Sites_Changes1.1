@@ -3,17 +3,18 @@
 
 
 Yesterday
-    - AHS | BFS Site Edit
-    - SAL Management | BFS New Site
     - Performance Windows | CB Integration
-    - Purple | Meeting
-    - Purple | Approval Edits
-    - South Salt Lake agOnline
-    - AHS | BFS Pricing Calculators
+    - TigerGraph | Demo Site
+    - Academy Mortgage | BFS New Site
+    - AHS | BFS Assets
+    - Smith Entertainment | BFS
+    - Speedy CPS Employee Site | User Edits
+    - Purple | Missing Files
+    - TPM | User edits
 
 Today
-    - Tigergraph | Demo Site
-    - Smith Entertainment | BFS
+    - Speedy CPS Employee Site | User Edits
+    - AHS | User Updates 
     - SAL Management | BFS New Site
     - CB v2 Integration
     - US614 | Migration
