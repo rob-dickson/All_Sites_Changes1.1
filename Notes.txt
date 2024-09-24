@@ -3,28 +3,33 @@
 
 
 Yesterday
-    - TigerGraph | Demo Site
-    - Speedy CPS Employee Site | User Edits
-    - Performance Windows | CB Integration
+    - Good2Go | BFS New Site
+    - Speedy CPS | User Edits
+    - Smith Entertainment | BFS
+    - C2 | BFS Shipping Issues
+    - Brighton | BFS User Edits
+    - Dentive | Sales Change
     - Master Autotech | CB v2 Integration
-    - SAL Management | BFS New Site
-    - Fat Cats | Addresses
-    - Inventory Site Shipping Edits
+    - SAL Management | BFS Products
 
 Today
-    - Everbowl | Site error
-    - Speedy CPS Employee Site | More User Edits
-    - SAL Management | BFS New Site
+    - Master Autotech | CB v2 Integration
+    - C2 | BFS Shipping Issues
+    - SAL Management | BFS Products
+    - Good2Go | BFS New Site
     - CB v2 Integration
     - US614 | Migration
         - Academy Mortgage | BFS New Site
+        - Special Olympics of Utah
 
 
-USPS Priority Mail Flat Rate Envelope
-USPS Priority Mail Flat Rate Large Box
-USPS Priority Mail Flat Rate Medium Box
-USPS Priority Mail Flat Rate Padded Envelope
-USPS Priority Mail Flat Rate Small Box
+
+
+
+
+
+
+
 
 TPM
     - get his footer updated with his contact information -
