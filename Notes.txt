@@ -3,23 +3,21 @@
 
 
 Yesterday
-    - Good2Go | BFS New Site
     - Speedy CPS | User Edits
-    - Smith Entertainment | BFS
-    - C2 | BFS Shipping Issues
-    - Brighton | BFS User Edits
-    - Dentive | Sales Change
+    - Special Olympics of Utah | BFS New Site
+    - AHS | BFS Shipping Calculators
+    - Verkada | BFS Site
     - Master Autotech | CB v2 Integration
-    - SAL Management | BFS Products
+    - AHS | BFS Site Edits
+    - Swig BFS | Assets Edits
 
 Today
-    - Master Autotech | CB v2 Integration
-    - C2 | BFS Shipping Issues
-    - SAL Management | BFS Products
+    - Special Olympics of Utah | BFS New Site
+    - AHS | BFS Shipping Calculators
     - Good2Go | BFS New Site
+    - C2 | BFS Shipping Issues
     - CB v2 Integration
     - US614 | Migration
-        - Academy Mortgage | BFS New Site
         - Special Olympics of Utah
 
 
