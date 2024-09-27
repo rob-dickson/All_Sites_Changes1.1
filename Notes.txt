@@ -4,17 +4,16 @@
 
 Yesterday
     - Speedy CPS | User Edits
+    - City of Idaho Falls Product Edits
     - Special Olympics of Utah | BFS New Site
-    - AHS | BFS Shipping Calculators
-    - Verkada | BFS Site
     - Master Autotech | CB v2 Integration
-    - AHS | BFS Site Edits
-    - Swig BFS | Assets Edits
-
-Today
-    - Special Olympics of Utah | BFS New Site
+    - C2 | BFS Shipping Issues
     - AHS | BFS Shipping Calculators
     - Good2Go | BFS New Site
+
+Today
+    - AHS | BFS Shipping Calculators
+    - Good2Go | BFS New Site User
     - C2 | BFS Shipping Issues
     - CB v2 Integration
     - US614 | Migration
