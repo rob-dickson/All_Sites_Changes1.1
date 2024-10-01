@@ -102,6 +102,9 @@ sweatpants;XS#0|S#0|M#0|L#0|XL#0|XXL#10|XXXL#10;Black & yellow#f9d62e#0|Blue & w
 23109-00040-JambysChilluxeCrew;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0|Charcoal#3C4142#0;M|Black|0;;2;0;0-999999#78
 23109-00189-JCrewLinenRollCuffTeeWomens;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0|Blue#2a487a#0;M|Black|Front|0;Front#0;2;0;0-9999999#50
 23109-00191-ClassicTeeOffsetLogoONLY;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|Front|0;Front#0;2;0;0-9999999#10
+23109-00195-MadewellCottonHat;Snap Back#0;Alabaster#FFFFF0#0|Light Denim#304A5A#0|True Black#000000#0;Snap Back|Alabaster|0;;0;0;0-999999#40.00
+23109-00196-MelinHatOdysseyHydro;Snap Back#0;Black Hat with Black Logo#000000#0|Black Hat with White Logo#000000#0|Navy Hat With Navy Logo#202A44#0|Navy Hat with White Logo#202A44#0;Snap Back|Black Hat with Black Logo|0;;0;0;0-999999#65.00
+23109-00197-MelinHatAGameHydro;Snap Back#0;Grey Hat With Navy Logo#bebfc1#0|Ice Blue Hat With Navy Logo#2a487a#0|Navy Hat With Ice Blue Logo#202A44#0;Snap Back|Grey Hat With Navy Logo|0;;0;0;0-999999#50.00
 
 1;XS#0|S#0|M#0|L#0|XL#0|XXL#0|XXXL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0
 2;XS#0|S#0|M#0|L#0|XL#0|XXL#0|XXXL#0;Black#000000#0;M|Black|Front|0;Front#0;0;0;0-9999999#0
@@ -115,8 +118,8 @@ sweatpants;XS#0|S#0|M#0|L#0|XL#0|XXL#10|XXXL#10;Black & yellow#f9d62e#0|Blue & w
 
 1231-test;XS#0|S#0|M#0|L#0|XL#0|XXL#0|XXXL#0;Grey#bebfc1#0;L|Grey|Front|0;Front#0;1;0;0-9999999#0
 
-
 21332-00004-CorkBottomMug;Lid#0|No Lid#0;Black#000000#0;Lid|Black|0;;0;0;0-9999999#0
+
 BK-AL-ACN;Qty#0;Black#000000#0|Midnight Bronze#4A4645#0;Qty|Black|0;;0;0;0-9999#37.99
 BK-AL-DRK;Qty#0;Black#000000#0|Midnight Bronze#4A4645#0;Qty|Black|0;;0;0;0-9999#37.99
 BK-AL-GRN;Qty#0;Black#000000#0|Midnight Bronze#4A4645#0;Qty|Black|0;;0;0;0-9999#37.99
@@ -162,7 +165,6 @@ BS-TIKT3-TI;Qty#0;Polished#797982#0;Qty|Polished|0;;0;0;0-9999#75.99
 TDP-AR15-TI;Qty#0;Polished#797982#0;Qty|Polished|0;;0;0;0-9999#37.99
 ME-GLK10-5-AL;Qty#0;Black#000000#0;Qty|Black|0;;0;0;0-9999#39.99
 ME-GLK40-2-AL;Qty#0;Black#000000#0|Midnight Bronze#4A4645#0;Qty|Black|0;;0;0;0-9999#37.99
-23585-00003-TabbedJournal;Qty#0;Grey#797982#0|Blue#0E4C92#0;Qty|Grey|0;;1;0;0-9999999
 MBR-22-TI;1/2x28#0;Black#000000#6|Polished#797982#0;1/2x28|Black|0;;0;0;0-9999#66.99
 MBR-30-TI;1/2x28#0|5/8x24#0;Black#000000#6|Polished#797982#0;1/2x28|Black|0;;0;0;0-9999#66.99
 MBR-65-TI;5/8x24#0;Black#000000#6|Polished#797982#0;5/8x24|Black|0;;0;0;0-9999#66.99
@@ -170,12 +172,14 @@ MBR-30-3P-TI;5/8x24#0;Black#000000#0;5/8x24|Black|0;;0;0;0-9999#79.99
 MBR-30-ST-TI;1/2x28#0|5/8x24#0;Polished#797982#0|Patriot Brown#5C4033#0|Tungsten#767980#0;1/2x28#0|Polished|0;;0;0;0-9999#169.99
 MBR-65-ST-TI;1/2x28#0|5/8x24#0;Polished#797982#0|Patriot Brown#5C4033#0|Tungsten#767980#0;1/2x28#0|Polished|0;;0;0;0-9999#169.99
 RL-AL-ARCA;2”#0|4”#4|6”#8;Black#000000#0;2”|Black|0;;0;0;0-9999#31.99
+
 31384-00001;XS#0|S#0|M#0|L#0|XL#0|XXL#0|XXXL#0;HEATHER HEAVY METAL#3C4142#0;M|HEATHER HEAVY METAL|0;;0;0;0-9999999#20
 31384-00002-TPM Next Level Tee Idaho-HEATHER HEAVY METAL;XS#0|S#0|M#0|L#0|XL#0|XXL#0|XXXL#0;HEATHER HEAVY METAL#3C4142#0;M|HEATHER HEAVY METAL|0;;0;0;0-9999999#20
 31384-00002-TPM-Next-Level-Tee-Idaho-HEATHER-HEAVY-METAL;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;HEATHER HEAVY METAL#3C4142#0;M|HEATHER HEAVY METAL|0;;0;0;0-9999999#20
 31384-00002-TPMNextLevelTeeIdaho-HEATHER HEAVY METAL;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;HEATHER HEAVY METAL#3C4142#0;M|HEATHER HEAVY METAL|0;;0;0;0-9999999#20
 31384-00002-TPMNextLevelTeeIdaho;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;HEATHER HEAVY METAL#3C4142#0;M|HEATHER HEAVY METAL|0;;0;0;0-9999999#20
 31384-00003-TPMNextLevelTeeIdahoElk;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;HEATHER GREY#BBB9C3#0;M|HEATHER GREY|0;;0;0;0-9999999#20
+
 22829-00193-BennieBearBirthdayTee;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Blue#4169e1#0;M|Blue|0;;2;0;0-999999#0
 22829-00205-SaygeMercerMettleStretchQuarterZipPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;2;0;0-999999#0
 22829-00206-SaygeBellaCanvasFullZipHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;2;0;0-999999#0
@@ -187,6 +191,8 @@ RL-AL-ARCA;2”#0|4”#4|6”#8;Black#000000#0;2”|Black|0;;0;0;0-9999#31.99
 22829-00215-HRAdvisoryStretchQuarterZipPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;2;0;0-999999#0
 22829-00217-BennieHHDaybreakerQuarterZipHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;2;0;0-999999#0
 22829-00228-HRAAmbassadorMercerMettleStretchQuarterZipPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#202A44#0;M|Navy|0;;2;0;0-999999#0
+22829-00237-HRAAmbassadorLongSleeveTee;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;White#ffffff#0;M|White|0;;1;0;0-999999#0
+
 28519-00009-ST254PulloverHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#5.40|3XL#5.40|4XL#5.40;Althletic Heather#E0E0E0#0|Black#1E1F1E#0|Forest Green#2C3D33#0|Graphite Heather#5B595A#0|Maroon#800000#0|True Navy#000080#0|True Royal#3B549F#0|Vintage Heather#DCD9CA#0;M|Black|0;Screen Print - 1 Color in 1 Location#2.70|Screen Print - 2 Colors in 1 Location#5.40|Screen Print - 3 Colors in 1 Locations#8.10|Screen Print - 1 Color in 2 Locations#5.40|Screen Print - 2 Colors in 2 Locations#10.80|Embroidery - 1 Location (Estimated)#5.31;2;0;0-999999#30.58
 28519-00012-S6000ChampionCrewneckSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#3.60|3XL#3.60|4XL#3.60;Black#1E1F1E#0|Heather Charcoal#5B595A#0|Light Steel#6C6C6B#0|Maroon#800000#0|Royal Blue#2C70CB#0|Scarlet#D2242D#0|Silver Mist#E0E0E0#0|White#ffffff#0|Navy#000080#0;M|Black|0;Screen Print - 1 Color in 1 Location#2.70|Screen Print - 2 Colors in 1 Location#5.40|Screen Print - 3 Colors in 1 Locations#8.10|Screen Print - 1 Color in 2 Locations#5.40|Screen Print - 2 Colors in 2 Locations#10.80|Embroidery - 1 Location (Estimated)#5.31;2;0;0-999999#22.95
 28519-00015-J317CoreSoftShellJacket;XS#0|S#0|M#0|L#0|XL#0|2XL#5.40|3XL#5.40|4XL#5.40;Battleship Grey#3B3F48#0|Black#1E1F1E#0|Black Charcoal#494947#0|Deep Smoke#777374#0|Dress Blue#2E394B#0|Navy Heather#515D73#0|Pearl Grey Heather#6C6C6B#0|Rich Red#B3142F#0|True Royal#3B549F#0|Navy#000080#0|Forest Green#2C3D33#0|Maroon#800000#0;M|Black|0;Screen Print - 1 Color in 1 Location#2.70|Screen Print - 2 Colors in 1 Location#5.40|Screen Print - 3 Colors in 1 Locations#8.10|Screen Print - 1 Color in 2 Locations#5.40|Screen Print - 2 Colors in 2 Locations#10.80|Embroidery - 1 Location (Estimated)#5.31;2;0;0-999999#44.98
@@ -195,11 +201,13 @@ RL-AL-ARCA;2”#0|4”#4|6”#8;Black#000000#0;2”|Black|0;;0;0;0-9999#31.99
 28519-00010-DT6104FleeceCrew;XS#0|S#0|M#0|L#0|XL#0|2XL#7.30|3XL#7.30|4XL#7.30;Black#1E1F1E#0Heather Cardinal#793748#0|Ice Blue#C1E0F2#0|Rosewater Pink#F0CAC1#0|Charcoal#454543#0|Heather Charcoal#5B595A#0|New Navy#232A34#0|Royal Frost#536CAC#0|Classic Red#C02F36#0|Heathered Navy#4A4D5C#0|Heathered Olive#706F5D#0|Oatmeal Heather#DCD9CA#0|Plum#793748#0;M|Black|0;Screen Print - 1 Color in 1 Location#2.70|Screen Print - 2 Colors in 1 Location#5.40|Screen Print - 3 Colors in 1 Locations#8.10|Screen Print - 1 Color in 2 Locations#5.40|Screen Print - 2 Colors in 2 Locations#10.80|Embroidery - 1 Location (Estimated)#5.31;2;0;0-999999#18.88
 28519-00014-DT6102FleeceFullZipHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#6.30|3XL#6.30|4XL#6.30;Black#1E1F1E#0|Charcoal#454543#0|Classic Red#C02F36#0|Deep Royal#294A91#0|Forest Green#2C3D33#0|Heather Charcoal#5B595A#0|Heathered Navy#4A4D5C#0|Heathered Olive#706F5D#0|Ice Blue#C1E0F2#0|Light Heathered Grey#D0D0CE#0|New Navy#232A34#0|Oatmeal Heather#DCD9CA#0|Plum#793748#0|Royal Frost#536CAC#0|White#ffffff#0;M|Black|0;Screen Print - 1 Color in 1 Location#2.70|Screen Print - 2 Colors in 1 Location#5.40|Screen Print - 3 Colors in 1 Locations#8.10|Screen Print - 1 Color in 2 Locations#5.40|Screen Print - 2 Colors in 2 Locations#10.80|Embroidery - 1 Location (Estimated)#5.31;2;0;0-999999#24.28
 28519-00013-267020NikeDriFITClassicPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#5.40|3XL#5.40|4XL#5.40;Black#1E1F1E#0|Court Blue#294A91#0|Light Blue#C1E0F2#0|Midnight Navy#000080#0|Varsity Red#C02F36#0|White#ffffff#0;M|Black|0;Screen Print - 1 Color in 1 Location#2.70|Screen Print - 2 Colors in 1 Location#5.40|Screen Print - 3 Colors in 1 Locations#8.10|Screen Print - 1 Color in 2 Locations#5.40|Screen Print - 2 Colors in 2 Locations#10.80|Embroidery - 1 Location (Estimated)#5.31;2;0;0-999999#46.80
+
 22640-00005-Tshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#5.00|3XL#7.24;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;1;0;0-999999#18.1843
 22640-00008-LongSleeveT;XS#0|S#0|M#0|L#0|XL#0|2XL#2.00|3XL#5.50;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;1;0;0-999999#24.36
 22640-00009-Hoodies;XS#0|S#0|M#0|L#0|XL#0|2XL#5.00|3XL#9.00;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;2;0;0-999999#32.255
 22640-00020-LadiesPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;2;0;0-999999#54.61
 22640-00021-WomensVNeckTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;2;0;0-999999#31.51
+
 29534-00030-BB18003-WomensNailheadShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;White#ffffff#0|Newport Blue#C1E0F2#0|;M|White|Embroidered|0;Embroidered;1;0;0-999999#62.46
 29534-00019-DM108-MensShortSleeveT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|White#ffffff#0|;M|Black|Vinyl|0;Vinyl;1;0;0-999999#12.25
 29534-00031-DM108L-WomensScoopNeckT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|;M|Black|Vinyl|0;Vinyl;1;0;0-999999#11.98
@@ -230,15 +238,13 @@ RL-AL-ARCA;2”#0|4”#4|6”#8;Black#000000#0;2”|Black|0;;0;0;0-9999#31.99
 29534-00040-DT1001-HeavyDutySweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#000000#0|Grey Steel#6C6C6B#0;M|Black Heather|0;;2;0;0-999999#34.14
 29534-00042-F140-CampFleeceSnapPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Grey Steel#6C6C6B#0;M|Black|0;;2;0;0-999999#78.85
 29534-00043-PC78H-CoreFleecePulloverHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#27.35
-23109-00195-MadewellCottonHat;Snap Back#0;Alabaster#FFFFF0#0|Light Denim#304A5A#0|True Black#000000#0;Snap Back|Alabaster|0;;0;0;0-999999#40.00
-23109-00196-MelinHatOdysseyHydro;Snap Back#0;Black Hat with Black Logo#000000#0|Black Hat with White Logo#000000#0|Navy Hat With Navy Logo#202A44#0|Navy Hat with White Logo#202A44#0;Snap Back|Black Hat with Black Logo|0;;0;0;0-999999#65.00
-23109-00197-MelinHatAGameHydro;Snap Back#0;Grey Hat With Navy Logo#bebfc1#0|Ice Blue Hat With Navy Logo#2a487a#0|Navy Hat With Ice Blue Logo#202A44#0;Snap Back|Grey Hat With Navy Logo|0;;0;0;0-999999#50.00
+29534-00054-OG160-OGIOExtendShortSleeveButtonUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Deep Blue Heather#395281#0|;M|Blacktop|Embroidered|0;Embroidered;1;0;0-999999#43.44
+
 23585-00027-BellaCanvasShortSleeveFlow;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Berry#990F4B#0|Navy#000080#0|Purple#A020F0#0|True Royal#4169e1#0;M|Berry|0;;1;0;0-999999#0
 23585-00028-BellaCanvasShortSleeveNewYork;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Berry#990F4B#0|Purple#A020F0#0|True Royal#4169e1#0;M|Berry|0;;1;0;0-999999#0
 23585-00029-BellaCanvasLongSleeveFlow;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#000080#0|True Royal#4169e1#0;M|Navy|0;;1;0;0-999999#0
 23585-00030-BellaCanvasLongSleeveNewYork;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#000080#0|True Royal#4169e1#0;M|Navy|0;;1;0;0-999999#0
 23585-00031-DistrictFleeceHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Navy#000080#0;M|Navy|0;;1;0;0-999999#0
-29534-00054-OG160-OGIOExtendShortSleeveButtonUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Deep Blue Heather#395281#0|;M|Blacktop|Embroidered|0;Embroidered;1;0;0-999999#43.44
-22829-00237-HRAAmbassadorLongSleeveTee;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;White#ffffff#0;M|White|0;;1;0;0-999999#0
+23585-00003-TabbedJournal;Qty#0;Grey#797982#0|Blue#0E4C92#0;Qty|Grey|0;;1;0;0-9999999
 
 
