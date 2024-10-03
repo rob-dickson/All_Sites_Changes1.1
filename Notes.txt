@@ -3,19 +3,19 @@
 
 
 Yesterday
-    - Good2Go | BFS New Site
     - Special Olympics of Utah | BFS New Site
-    - Speedy CPS | Product Edits
-    - Provo City | BFS Product Change
-    - Performance Windows | CB Integration
+    - Safety Training
+    - CB v2 Integration
+    - Everbowl | Site Edits
+    - FBC | Site Edit
+    - Speedy CPS | Apparel API
 
 Today
-    - Horrocks | Product Edits
-    - C2 | BFS Shipping Issues
+    - Everbowl | Site Edits
+    - FBC | Site Edit
     - Help w/ Products
     - CB v2 Integration
     - US614 | Migration
-        - Special Olympics of Utah
 
 
 
