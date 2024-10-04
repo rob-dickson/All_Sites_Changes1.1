@@ -4,16 +4,13 @@
 
 Yesterday
     - Special Olympics of Utah | BFS New Site
-    - Safety Training
-    - CB v2 Integration
     - Everbowl | Site Edits
+    - AHS | BFS Site Edits
     - FBC | Site Edit
-    - Speedy CPS | Apparel API
+    - CB v2 Integration
 
 Today
-    - Everbowl | Site Edits
-    - FBC | Site Edit
-    - Help w/ Products
+    - Swig User Edits
     - CB v2 Integration
     - US614 | Migration
 
