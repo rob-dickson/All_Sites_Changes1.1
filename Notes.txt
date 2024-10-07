@@ -10,11 +10,13 @@ Yesterday
     - CB v2 Integration
 
 Today
-    - Swig User Edits
+    - C2 User Edits
+    - Speedy Apparel Site User edits
+    - Performance Windows Product Edits
     - CB v2 Integration
     - US614 | Migration
 
-
+ 
 
 
 
