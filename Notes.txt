@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - Special Olympics of Utah | BFS New Site
-    - Everbowl | Site Edits
-    - AHS | BFS Site Edits
-    - FBC | Site Edit
-    - CB v2 Integration
+    - agOnline | Demo Sites
+    - C2 | BFS User Access Issues
+    - Performance Windows | Address change
+    - Speedy CPS | User Edits
+    - SAL Management | BFS Product Assets
 
 Today
-    - C2 User Edits
+    - agOnline | Demo Sites
     - Speedy Apparel Site User edits
-    - Performance Windows Product Edits
     - CB v2 Integration
     - US614 | Migration
 
