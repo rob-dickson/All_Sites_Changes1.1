@@ -4,13 +4,13 @@
 
 Yesterday
     - agOnline | Demo Sites
-    - C2 | BFS User Access Issues
-    - Performance Windows | Address change
+    - CB v2 Integration
+    - Homestyle Direct | BFS
     - Speedy CPS | User Edits
-    - SAL Management | BFS Product Assets
+    - Dentive | Missing Files
 
 Today
-    - agOnline | Demo Sites
+    - Dentive | Upload File issues
     - Speedy Apparel Site User edits
     - CB v2 Integration
     - US614 | Migration
