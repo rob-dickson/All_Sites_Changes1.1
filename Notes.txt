@@ -3,19 +3,21 @@
 
 
 Yesterday
-    - agOnline | Demo Sites
-    - C2 | BFS User Access Issues
-    - Performance Windows | Address change
-    - Speedy CPS | User Edits
+    - FBC | Apparel API
+    - Everbowl | Product Edits
     - SAL Management | BFS Product Assets
+    - agOnline | Demo Sites
+    - Cal Ranch | Discovery Meeting
+    - Good2Go | BFS New Site
 
 Today
+    - Good2Go | BFS New Site
+    - Real deals | Products
     - FBC | Apparel API
-    - agOnline | Demo Sites
-    - SAL | Onboarding 
     - Speedy Apparel Site User edits
     - CB v2 Integration
     - US614 | Migration
+
 
 
 

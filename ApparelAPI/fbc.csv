@@ -1,2 +1,10 @@
 urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
-22640-00029-MensZonePerformancePolo;XS#0|S#0|M#0|L#0|XL#0|2XL#3|3XL#3;Black#000000#0|Sport Graphite#75787B#0;M|Black|Plain Logo|0;Plain Logo#0|Hawaiian Logo#0;1.5;0;0-999999#25.65
+
+22640-00005-Tshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#5.00|3XL#7.24;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;1;0;0-999999#18.1843
+22640-00008-LongSleeveT;XS#0|S#0|M#0|L#0|XL#0|2XL#2.00|3XL#5.50;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;1;0;0-999999#24.36
+22640-00009-Hoodies;XS#0|S#0|M#0|L#0|XL#0|2XL#5.00|3XL#9.00;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;2;0;0-999999#32.255
+22640-00020-LadiesPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;2;0;0-999999#54.61
+22640-00021-WomensVNeckTShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Black#000000#0;M|Black|0;Plain Logo|Hawaiian Logo;2;0;0-999999#31.51
+
+22640-00029-MensZonePerformancePolo;XS#0|S#0|M#0|L#0|XL#0|2XL#3|3XL#3|4XL#3;Black#000000#0|Sport Graphite#75787B#0;M|Black|Plain Logo|0;Plain Logo#0|Hawaiian Logo#0;1.5;0;0-999999#25.65
+22640-00030-EddieBauerFleeceFullZipJacket;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0|4XL#0;Black#000000#0;M|Black|Plain Logo|0;Plain Logo#0|Hawaiian Logo#0;1.5;0;0-999999#60.00
