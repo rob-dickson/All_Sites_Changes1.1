@@ -3,18 +3,15 @@
 
 
 Yesterday
-    - FBC | Apparel API
-    - Everbowl | Product Edits
-    - SAL Management | BFS Product Assets
-    - agOnline | Demo Sites
-    - Cal Ranch | Discovery Meeting
-    - Good2Go | BFS New Site
+    - Everbowl | Add Product
+    - SAL Management
+    - CB v2 Integration
+    - Swig BFS | Product Edits
+    - Real deals | weights
 
 Today
-    - Good2Go | BFS New Site
-    - Real deals | Products
-    - FBC | Apparel API
-    - Speedy Apparel Site User edits
+    - Speedy CPS Employee Site | Site Edits
+    - Everbowl | User edits
     - CB v2 Integration
     - US614 | Migration
 
