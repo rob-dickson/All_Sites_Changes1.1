@@ -1,0 +1,40 @@
+
+- General
+    - BFS Tier
+    - Footer Information
+    - Name Site-Add Logos
+    - Set Site Type
+    - Assign Sales Rep
+    - Set up Center location
+    - Set up Tax
+    - Set up appropriate checkout forms
+    - Assign Domain
+    - Select Shipping Methods
+    - Addressing Method
+    - Add Payment Option(s)
+    - Set Sender to Appropriate Center
+    - Set up approvals if necessary
+    - Set up user groups and permissions
+    - Import Users
+
+    
+    - Navigation 
+    - Categories
+    - 
+
+- Basic
+
+
+
+- Advanced
+
+
+
+- Advanced Plus
+
+
+
+- Enterprise
+
+
+

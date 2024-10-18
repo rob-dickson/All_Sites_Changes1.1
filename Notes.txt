@@ -3,15 +3,17 @@
 
 
 Yesterday
-    - Everbowl | Add Product
-    - SAL Management
-    - CB v2 Integration
-    - Swig BFS | Product Edits
-    - Real deals | weights
+    - Speedy CPS Employee Site | Site Edits
+    - Everbowl | User Errors
+    - TigerGraph | Demo Site
+    - Speedy CPS Employee Site | User Edits
+    - Performance Windows | CB Integration
+    - Shipping
 
 Today
-    - Speedy CPS Employee Site | Site Edits
-    - Everbowl | User edits
+    - Performance Windows | CB Integration
+    - Speedy CPS Employee Site | User Edits
+    - Swig Shipping
     - CB v2 Integration
     - US614 | Migration
 
