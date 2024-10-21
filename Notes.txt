@@ -11,11 +11,13 @@ Yesterday
     - Shipping
 
 Today
-    - Performance Windows | CB Integration
-    - Speedy CPS Employee Site | User Edits
-    - Swig Shipping
+    - BFS | Processes
+    - SAL Management
+    - Fix AWI File Paths
+    - Employee Site | User Edits
     - CB v2 Integration
     - US614 | Migration
+
 
 
 
