@@ -3,16 +3,17 @@
 
 
 Yesterday
-    - Speedy CPS Employee Site | Site Edits
-    - Everbowl | User Errors
-    - TigerGraph | Demo Site
-    - Speedy CPS Employee Site | User Edits
-    - Performance Windows | CB Integration
-    - Shipping
+    - SAL Management | AWI Setup
+    - AHS | BFS Shipping Calculators
+    - Bennie BFS | User  Edits
+    - BFS | Processes
+    - AHS | Shipping Change
 
 Today
+    - Everbowl | Order Issue
+    - AHS | Uploads
+    - AHS | Shipping
     - BFS | Processes
-    - SAL Management
     - Fix AWI File Paths
     - Employee Site | User Edits
     - CB v2 Integration
