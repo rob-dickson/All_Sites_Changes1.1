@@ -3,22 +3,26 @@
 
 
 Yesterday
-    - Real deals | Product Weights
     - BFS | Processes
-    - AHS | Pricing Calculators
+    - AHS | Product Errors
+    - AHS | New Pricing Calculators
     - Everbowl | Order Errors
-    - AHS | Shipping Change
 
 Today
     - BFS | Processes
+    - AHS | Integrations
     - Everbowl | Order Issue
-    - AHS | Integration
-    - AHS | Shipping
     - CB v2 Integration
     - US614 | Migration
 
 
 
+
+    - Real deals | Product Weights
+    - BFS | Processes
+    - AHS | Pricing Calculators
+    - Everbowl | Order Errors
+    - AHS | Shipping Change
 
 
 
