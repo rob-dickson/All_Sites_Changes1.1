@@ -3,26 +3,22 @@
 
 
 Yesterday
+    - AHS | Integrations
     - BFS | Processes
-    - AHS | Product Errors
-    - AHS | New Pricing Calculators
-    - Everbowl | Order Errors
+    - AHS | New User
+    - AHS | Shipping Change
+    - Inventory Site Edits
 
 Today
-    - BFS | Processes
     - AHS | Integrations
-    - Everbowl | Order Issue
+    - AHS | Shipping change
+    - API | Development
+    - AG Inventory Site | Product Uploads
+    - Speedy New user
     - CB v2 Integration
     - US614 | Migration
 
 
-
-
-    - Real deals | Product Weights
-    - BFS | Processes
-    - AHS | Pricing Calculators
-    - Everbowl | Order Errors
-    - AHS | Shipping Change
 
 
 
