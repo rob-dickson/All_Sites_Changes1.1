@@ -10,10 +10,9 @@ Yesterday
     - Inventory Site Edits
 
 Today
-    - AHS | Integrations
+    - Everbowl | Site Edits
     - AHS | Shipping change
     - API | Development
-    - AG Inventory Site | Product Uploads
     - Speedy New user
     - CB v2 Integration
     - US614 | Migration
