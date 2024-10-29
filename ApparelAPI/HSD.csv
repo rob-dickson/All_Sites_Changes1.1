@@ -1,34 +1,32 @@
 urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
-29534-00030-BB18003-WomensNailheadShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;White#ffffff#0|Newport Blue#C1E0F2#0|;M|White|Embroidered|0;Embroidered;1;0;0-999999#62.46
-29534-00031-DM108L-WomensScoopNeckT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|;M|Black|Vinyl|0;Vinyl;1;0;0-999999#11.98
-29534-00019-DM108-MensShortSleeveT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|White#ffffff#0|;M|Black|Vinyl|0;Vinyl;1;0;0-999999#12.25
-29534-00041-DT1101-FleeceHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Jet Black#000000#0|Heathered Steel#6C6C6B#0|;M|Jet Black|Vinyl|0;Vinyl;2;0;0-999999#30.85
+29534-00012-NE905-Beanie;One/Size#0;Black/Graphite#000000#0|Graphite/Black#5B595A#0|;One/Size|Black/Graphite|Embroidered|0;Embroidered;1;0;0-999999#21.44
+29534-00016-OG161-OGIOExtendLongSleeveButtonUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Blacktop Heather#3B3F48#0|Deep Blue Heather#395281#0|;M|Blacktop|Embroidered|0;Embroidered;1;0;0-999999#47.44
 29534-00017-K580-MensPoloShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Battleship Grey#3B3F48#0|;M|Black|Embroidered|0;Embroidered;1;0;0-999999#29.92
-29534-00028-L580-WomensPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|;M|Black|Embroidered|0;Embroidered;1;0;0-999999#29.92
-29534-00033-LST358-SportTekLadiesHoodedPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Iron Grey#3C4142#0|Black#000000#0|;M|Iron Grey|Vinyl|0;Vinyl;1;0;0-999999#20.85
-29534-00034-LST410-SportTekLadiesHoodieTank;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black/Black Triad Solid#000000#0|True Navy/Dark Grey Heather#202A44#0|;M|Black/Black Triad Solid|Vinyl|0;Vinyl;1;0;0-999999#25.85
-29534-00025-LW701-WomensTunicBlouse;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Ivory Chiffon#FFFFF0#0|Sterling Grey#6C6C6B#0|True Navy#202A44#0|;M|Black|Embroidered|0;Embroidered;1;0;0-999999#35.44
-29534-00012-NE905-Beanie;One/Size#0;Black/Graphite#000000#0|Black#000000#0|Graphite#5B595A#0|;One/Size|Black|Embroidered|0;Embroidered;1;0;0-999999#21.44
-29534-00018-OG135-MensAthleticPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Grey Heather#BBB9C3#0|Blue Heather#304A5A#0|Blacktop Heather#3C4142#0|;M|Grey Heather|Embroidered|0;Embroidered;1;0;0-999999#46.46
-29534-00054-OG160-OGIOExtendShortSleeveButtonUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Deep Blue Heather#395281#0|;M|Blacktop|Embroidered|0;Embroidered;1;0;0-999999#43.44
-29534-00016-OG161-OGIOExtendLongSleeveButtonUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Deep Blue Heather#395281#0|;M|Blacktop|Embroidered|0;Embroidered;1;0;0-999999#47.44
-29534-00044-ST469-SportTek14ZipPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#3C4142#0|Dark Royal Heather#395281#0|Deep Navy Heather#304A5A#0|Light Grey Heather#d3d3d3#0|;M|Black Heather|Embroidered|0;Embroidered;1;0;0-999999#29.12
+29534-00018-OG135-MensAthleticPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop Heather#3C4142#0|Blue Heather#304A5A#0|;M|Blacktop Heather|Embroidered|0;Embroidered;1;0;0-999999#46.46
+29534-00019-DM108-MensShortSleeveT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|White#ffffff#0|;M|Black|Vinyl|0;Vinyl;1;0;0-999999#12.25
+29534-00020-S651-MensFitSuperProOxfordShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Navy#202A44#0|Oxford Blue#2a487a#0;M|Black|0;;1;0;0-999999#40.46
 29534-00021-w382-PortAuthorityLongSleeveEasyCareShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Estate Blue#2a487a#0|;M|Estate Blue|Embroidered|0;Embroidered;1;0;0-999999#37.44
-29534-00023-W668-MensPlaidFlannelTunic;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black/Grey#000000#0|;M|Black/Grey|Embroidered|0;Embroidered;1;0;0-999999#40.12
-
-
-29534-00029-DM1190L-WomensVNeckT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;1;0;0-999999#13.33
-29534-00040-DT1001-HeavyDutySweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#000000#0|Grey Steel#6C6C6B#0;M|Black Heather|0;;2;0;0-999999#34.14
+29534-00022-MM1006-MensStretchFullButtonPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Anchor Grey#3C4142#0|Anchor Grey Heather#BBB9C3#0|Deep Black#000000#0|White#ffffff#0;M|Anchor Grey|0;;1;0;0-999999#35.46
+29534-00023-W668-MensPlaidFlannelTunic;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Grey/Black#000000#0|;M|Grey/Black|Embroidered|0;Embroidered;1;0;0-999999#40.12
 29534-00024-DT108-MensLongSleeveTee;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|White#ffffff#0;M|Black|0;;1;0;0-999999#29.65
-29534-00036-DT355-PulloverHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#35.93
-29534-00035-DT356-FullZipHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Navy#202A44#0;M|Black|0;;2;0;0-999999#39.51
-29534-00038-EB234-Jacket12Zip;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#69.16
-29534-00037-EB244-JacketHoodedZip;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#79.16
-29534-00042-F140-CampFleeceSnapPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Grey Steel#6C6C6B#0;M|Black|0;;2;0;0-999999#78.85
-29534-00039-F236-VestZipUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#000000#0;M|Black Heather|0;;2;0;0-999999#54.14
+29534-00025-LW701-WomensTunicBlouse;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Ivory Chiffon#FFFFF0#0|Sterling Grey#6C6C6B#0|True Navy#202A44#0|;M|Black|Embroidered|0;Embroidered;1;0;0-999999#35.44
 29534-00026-L545-WomensCardiganButton;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#38.46
 29534-00027-LK5434-WomensCardiganWPockets;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#43.46
+29534-00028-L580-WomensPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|;M|Black|Embroidered|0;Embroidered;1;0;0-999999#29.92
+29534-00029-DM1190L-WomensVNeckT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;1;0;0-999999#13.33
+29534-00030-BB18003-WomensNailheadShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;White#ffffff#0|Newport Blue#C1E0F2#0|;M|White|Embroidered|0;Embroidered;1;0;0-999999#62.46
+29534-00031-DM108L-WomensScoopNeckT;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|;M|Black|Vinyl|0;Vinyl;1;0;0-999999#11.98
 29534-00032-LOG1002-OGIOLadiesCommuterTunic;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Gear Grey Heather#3C4142#0|White#ffffff#0;M|Blacktop|0;;2;0;0-999999#54.48
-29534-00022-MM1006-MensStretchFullButtonPolo;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Anchor Grey#3C4142#0|Anchor Grey Heather#BBB9C3#0|Deep Black#000000#0|White#ffffff#0;M|Anchor Grey|0;;1;0;0-999999#35.46
+29534-00033-LST358-SportTekLadiesHoodedPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Iron Grey#3C4142#0|Black#000000#0|;M|Iron Grey|Vinyl|0;Vinyl;1;0;0-999999#20.85
+29534-00034-LST410-SportTekLadiesHoodieTank;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black/Black Triad Solid#000000#0|True Navy/Dark Grey Heather#202A44#0|;M|Black/Black Triad Solid|Vinyl|0;Vinyl;1;0;0-999999#25.85
+29534-00035-DT356-FullZipHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Navy#202A44#0;M|Black|0;;2;0;0-999999#39.51
+29534-00036-DT355-PulloverHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#35.93
+29534-00037-EB244-JacketHoodedZip;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#79.16
+29534-00038-EB234-Jacket12Zip;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#69.16
+29534-00039-F236-VestZipUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#000000#0;M|Black Heather|0;;2;0;0-999999#54.14
+29534-00040-DT1001-HeavyDutySweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#000000#0|Grey Steel#6C6C6B#0;M|Black Heather|0;;2;0;0-999999#34.14
+29534-00041-DT1101-FleeceHoodie;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Jet Black#000000#0|Heathered Steel#6C6C6B#0|;M|Jet Black|Vinyl|0;Vinyl;2;0;0-999999#30.85
+29534-00042-F140-CampFleeceSnapPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Grey Steel#6C6C6B#0;M|Black|0;;2;0;0-999999#78.85
 29534-00043-PC78H-CoreFleecePulloverHoodedSweatshirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0;M|Black|0;;2;0;0-999999#27.35
-29534-00020-S651-MensFitSuperProOxfordShirt;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black#000000#0|Navy#202A44#0|Oxford Blue#2a487a#0;M|Black|0;;1;0;0-999999#40.46
+29534-00044-ST469-SportTek14ZipPullover;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Black Heather#3C4142#0|Dark Royal Heather#395281#0|Deep Navy Heather#304A5A#0|Light Grey Heather#d3d3d3#0|;M|Black Heather|Embroidered|0;Embroidered;1;0;0-999999#29.12
+29534-00054-OG160-OGIOExtendShortSleeveButtonUp;XS#0|S#0|M#0|L#0|XL#0|2XL#2|3XL#2;Blacktop#000000#0|Blacktop Heather#3C4142#0|Deep Blue Heather#395281#0|;M|Blacktop|Embroidered|0;Embroidered;1;0;0-999999#43.44

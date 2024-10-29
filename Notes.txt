@@ -3,16 +3,17 @@
 
 
 Yesterday
-    - AHS | Integrations
-    - BFS | Processes
-    - AHS | New User
     - AHS | Shipping Change
-    - Inventory Site Edits
+    - Everbowl | Site Edits
+    - Homestyle Direct | Meeting/ Site Edits
+    - Speedy CPS Employee Site | User Edits
+    - Performance Windows | CB Integration
+    - AHS | Product Edits
+    - South Salt Lake agOnline
+    - Homestyle Direct | Site Edits
 
 Today
-    - Everbowl | Site Edits
-    - AHS | Shipping change
-    - API | Development
+    - Homestyle Direct | Site Edits
     - Speedy New user
     - CB v2 Integration
     - US614 | Migration
