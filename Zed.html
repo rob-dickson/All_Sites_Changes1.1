@@ -1,3 +1,59 @@
+<!-- 
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle List Example</title>
+    <style>
+        .toggle-list {
+            display: none; /* Initially hide the list */
+            margin-left: 20px;
+        }
+        .toggle-list.active {
+            display: block; /* Show the list when active */
+        }
+        h3 {
+            cursor: pointer; /* Change cursor to pointer for clickable effect */
+            color: #007BFF; /* Optional: Change color to indicate it's clickable */
+        }
+    </style>
+</head>
+<body>
+
+<h3 class="toggle-header">Click to Toggle List 1</h3>
+<ul class="toggle-list">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
+<h3 class="toggle-header">Click to Toggle List 2</h3>
+<ul class="toggle-list">
+    <li>Item A</li>
+    <li>Item B</li>
+    <li>Item C</li>
+</ul>
+
+<script>
+    document.querySelectorAll('.toggle-header').forEach(header => {
+        header.addEventListener('click', () => {
+            const list = header.nextElementSibling; // Get the next sibling (ul)
+            list.classList.toggle('active'); // Toggle the 'active' class
+        });
+    });
+</script>
+
+</body>
+</html>
+
+-->
+
+
+
+
+
 <style>
     div ul li a {
         background-color: transparent;
