@@ -3,16 +3,15 @@
 
 
 Yesterday
-    - AHS | Shipping Change
-    - Everbowl | Site Edits
-    - Homestyle Direct | Meeting/ Site Edits
     - Speedy CPS Employee Site | User Edits
-    - Performance Windows | CB Integration
-    - AHS | Product Edits
-    - South Salt Lake agOnline
     - Homestyle Direct | Site Edits
+    - AHS | Integrations
+    - Performance Windows | CB Integration
+    - Certiport | BFS New User
+    - RSL & Monarch | BFS New Site
 
 Today
+    - RSL & Monarch | BFS New Site
     - Homestyle Direct | Site Edits
     - Speedy New user
     - CB v2 Integration
