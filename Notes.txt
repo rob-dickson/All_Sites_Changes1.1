@@ -3,17 +3,16 @@
 
 
 Yesterday
-    - Speedy CPS Employee Site | User Edits
-    - Homestyle Direct | Site Edits
-    - AHS | Integrations
-    - Performance Windows | CB Integration
-    - Certiport | BFS New User
+    - AHS | Shipping Change
     - RSL & Monarch | BFS New Site
+    - Homestyle Direct | Site Edits
+    - TigerGraph | Demo Site
+    - Everbowl | Site Edits
 
 Today
-    - RSL & Monarch | BFS New Site
-    - Homestyle Direct | Site Edits
-    - Speedy New user
+    - Everbowl | Site Edits
+    - Sicilian Butcher
+    - Homestyle Direct
     - CB v2 Integration
     - US614 | Migration
 

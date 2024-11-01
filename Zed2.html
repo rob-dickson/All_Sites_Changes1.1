@@ -1,0 +1,36 @@
+<Script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    UPPER(
+        ifs(EmailUI = "", "",
+            ifs(Len(EmailUI) <= 20,
+                "<font face='DINNextLTPro-Bold' fontsize='8.5pt' color='#A51D36'><stylerun fixedwidth='10'>E:</stylerun></font>" & EmailUI & "<BR>",
+                "<font face='DINNextLTPro-Bold' fontsize='8.5pt' color='#A51D36'><stylerun fixedwidth='10'>E:</stylerun></font>" &
+                Left(EmailUI, 20) & "-<BR><font fontsize='8.5'><stylerun fixedwidth='10'>&nbsp;</stylerun></font>" &
+                substr(EmailUI, 21, Len(EmailUI) - 20) & "<BR>")
+        )
+    )
+
+</Script>
+
+
