@@ -1,36 +1,77 @@
-<Script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    UPPER(
-        ifs(EmailUI = "", "",
-            ifs(Len(EmailUI) <= 20,
-                "<font face='DINNextLTPro-Bold' fontsize='8.5pt' color='#A51D36'><stylerun fixedwidth='10'>E:</stylerun></font>" & EmailUI & "<BR>",
-                "<font face='DINNextLTPro-Bold' fontsize='8.5pt' color='#A51D36'><stylerun fixedwidth='10'>E:</stylerun></font>" &
-                Left(EmailUI, 20) & "-<BR><font fontsize='8.5'><stylerun fixedwidth='10'>&nbsp;</stylerun></font>" &
-                substr(EmailUI, 21, Len(EmailUI) - 20) & "<BR>")
-        )
-    )
-
-</Script>
-
-
+<!--header-top-->
+<div class="header-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="site-logo-wrap logo">
+                    <a class="site-logo" href="/">
+                        <img class="default-header-logo-height skinsetting-header-logo-height"
+                            src="###SITELOGO_JSON, {size: 'large', url_only: true}###" alt="###SITEINFO, site-name###"
+                            title="###SITEINFO, site-name###" />
+                    </a>
+                </div>
+                <div class="header-right pull-right">
+                    <ul class="list-inline quick-links alt-links-color">
+                        <li class="welcome-msg">
+                            ###TEXT, welcome### <a class="user" href="/settings">###USERINFO, firstname###</a>
+                        </li>
+                        <li class="login-link"><a href="/login">###TEXT, login###</a>###CREATEACCOUNTLINK,<span
+                                class="create-account-separator">/</span>,,create-account-link###</li>
+                        <li class="account-link dropdown"><a href="/settings" id="account-link" aria-haspopup="true"
+                                aria-expanded="true" data-hover="dropdown" data-toggle="dropdown">###TEXT, myaccount###
+                                <i class="caret"></i></a>
+                            <ul class="dropdown-menu" aria-labelledby="account-link">
+                                <li class="save-for-later-link"><a href="/savedforlater">###TEXT, saved###</a></li>
+                                <li><a href="/orders">###TEXT, orderHistory###</a></li>
+                                <li><a href="/settings">###TEXT, settings###</a></li>
+                                <li><a href="/login">###TEXT, logout###</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/search">###TEXT, search###</a></li>
+                    </ul>
+                    <div id="cart" class="dropdown dropdown-right cart-link">
+                        <a href="/cart" class=" btn btn-default" id="cart-button" data-hover="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            <i class="fa fa-fw fa-shopping-cart"></i>###CARTCOUNT### ###TEXT,items###
+                        </a>
+                        ###CARTITEMS_JSON, {
+                        prefix: '<div class="dropdown-menu" aria-labelledby="cart-button">',
+                            suffix: '</div>',
+                        itemLayout: '<div class="menu-cart-item">
+                            <div class="menu-cart-img">
+                                <img src="@@@IMAGEURL:smallsquare@@@" alt="@@@NAME@@@" title="@@@NAME@@@" />
+                            </div>
+                            <a href="@@@URL@@@" class="menu-cart-name text-ellipsis">@@@NAME@@@</a>
+                            <div class="menu-cart-item-cost">@@@COST@@@</div>
+                        </div>',
+                        countLayout: '<div class="menu-cart-preview-count">@@@TEXT:showing@@@ @@@SHOWCOUNT@@@
+                            @@@TEXT:of@@@ @@@CARTCOUNT@@@</div>',
+                        footerLayout: '<div class="menu-cart-preview-footer clearfix">
+                            <div class="menu-cart-subtotal">@@@TEXT:subtotal@@@<span>@@@CARTCOST@@@</span></div><a
+                                href="/cart" class="btn btn-primary btn-sm menu-cart-btn">@@@TEXT:viewCart@@@</a>
+                        </div>'
+                        }###
+                    </div>
+                    <div class="header-mobile-links">
+                        <a class="mobile-nav-btn" class="mobile-nav-btn" data-toggle="collapse" data-target="#top-nav"
+                            href="javascript:void(0)"><i class="fa fa-fw fa-bars" aria-hidden="true"></i></a>
+                        <a href="/cart" class="mobile-nav-btn mobile-nav-btn-cart"><i class="fa fa-fw fa-shopping-cart"
+                                aria-hidden="true"></i>###CARTCOUNT_JSON,
+                            {
+                            prefix: '<span class="badge">',
+                                suffix: '</span>'
+                            }
+                            ###</a>
+                        <a href="/search" class="mobile-nav-btn"><i class="fa fa-search fa-fw"
+                                aria-hidden="true"></i></a>
+                        <a href="/login" class="mobile-nav-btn mobile-nav-login"><i class="fa fa-user fa-fw"
+                                aria-hidden="true"></i></a>
+                        <a href="/settings" class="mobile-nav-btn mobile-nav-settings"><i class="fa fa-user fa-fw"
+                                aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/header-top-->

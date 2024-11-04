@@ -10,9 +10,9 @@ Yesterday
     - Everbowl | Site Edits
 
 Today
-    - Everbowl | Site Edits
-    - Sicilian Butcher
     - Homestyle Direct
+    - Everbowl | Site Edits
+    - Speedy Site Edits
     - CB v2 Integration
     - US614 | Migration
 

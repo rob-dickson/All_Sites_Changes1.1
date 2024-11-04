@@ -1,40 +1,51 @@
+<!-- 
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle List Example</title>
+    <style>
+        .toggle-list {
+            display: none; /* Initially hide the list */
+            margin-left: 20px;
+        }
+        .toggle-list.active {
+            display: block; /* Show the list when active */
+        }
+        h3 {
+            cursor: pointer; /* Change cursor to pointer for clickable effect */
+            color: #007BFF; /* Optional: Change color to indicate it's clickable */
+        }
+    </style>
+</head>
+<body>
 
-- General Needs
-    - BFS Tier
-    - Footer Information
-    - Name Site-Add Logos
-    - Set Site Type
-    - Assign Sales Rep
-    - Set up Center location
-    - Set up Tax
-    - Set up appropriate checkout forms
-    - Assign Domain
-    - Select Shipping Methods
-    - Addressing Method
-    - Add Payment Option(s)
-    - Set Sender to Appropriate Center
-    - Set up approvals if necessary
-    - Set up user groups and permissions
-    - Import Users
+<h3 class="toggle-header">Click to Toggle List 1</h3>
+<ul class="toggle-list">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
 
-    
-    - Navigation 
-    - Categories
-    - 
+<h3 class="toggle-header">Click to Toggle List 2</h3>
+<ul class="toggle-list">
+    <li>Item A</li>
+    <li>Item B</li>
+    <li>Item C</li>
+</ul>
 
-- Basic
+<script>
+    document.querySelectorAll('.toggle-header').forEach(header => {
+        header.addEventListener('click', () => {
+            const list = header.nextElementSibling; // Get the next sibling (ul)
+            list.classList.toggle('active'); // Toggle the 'active' class
+        });
+    });
+</script>
 
+</body>
+</html>
 
-
-- Advanced
-
-
-
-- Advanced Plus
-
-
-
-- Enterprise
-
-
-
+-->
