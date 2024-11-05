@@ -3,15 +3,13 @@
 
 
 Yesterday
-    - AHS | Shipping Change
-    - RSL & Monarch | BFS New Site
-    - Homestyle Direct | Site Edits
-    - TigerGraph | Demo Site
+    - Homestyle Direct | API
+    - Speedy CPS Employee Site | Site Edits
     - Everbowl | Site Edits
+    - CB v2 Integration
 
 Today
     - Homestyle Direct
-    - Everbowl | Site Edits
     - Speedy Site Edits
     - CB v2 Integration
     - US614 | Migration
@@ -24,19 +22,9 @@ Today
 
 
 
-TPM
-    - get his footer updated with his contact information -
-    - change anything else up on his website that directs customers to us -
-    - change the email templates for TPM and not AG -
-    - change the notifications to go to his email -
-    - if there is a contact us form on the site to make sure those leads go to him and not us -
-    - set up a dummy user for the backend that has access to see and edit orders/shipping/inventory and test it 
-    (we will be giving him that access and train him on how to use it so that is why we need to test it)
 
-AHS
-    - Coming Soon Page 
-        root/Micro-School/Coming-Soon
-    - 
+
+
 
 
 
@@ -182,7 +170,7 @@ Hero and Root Banner Sizes
 815x290
 
 
-https://www.alphagraphicsmarketing.com/Clyde/StaticAssets/24378-00015-SLC PO Beehive Ins #10 Envelope Submit(BIA #10 envelope template).pdf
+https://www.alphagraphicsmarketing.com/Clyde/StaticAssets/24378-00015-SLC 
 
 
 <style>
@@ -232,36 +220,6 @@ Envelope       - 9.375
 Product Tags   - 9.5
 metal name badges 12.5
 
-
-22640	FBC
-COPPERPLATE GOTHIC 3 BOLD
-
-40 West Lawrence Street, 
-Helena, MT 59601
-
-
-
-Site Type
-Site Name & Domain
-Sales Rep Name
-Sales Center 
-Primary Location
-Ship From Location
-Shipping Methods
-Payment Methods
-Tax Profile
-Category List
-Navigation
-User Groups
-New User Defaults
-User List
-Info for custom Email Notifications
-Overall Site Design Guide
-Logos
-Favicon
-Footer Information
-Checkout forms if needed
-Approval Plans if needed
 
 
 
