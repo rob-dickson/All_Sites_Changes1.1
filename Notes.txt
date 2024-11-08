@@ -3,11 +3,10 @@
 
 
 Yesterday
-    - AHS | BFS Coming Soon Page
-    - Marsh McClennan | New Users
-    - Homestyle Direct | User Edits
-    - Speedy CPS Employee Site | User Edits
     - San Mar Master List
+    - Speedy CPS Employee Site | Site Development
+    - Performance Windows | New Assets
+    - AHS | BFS Products Coming Soon Page
 
 Today
     - AHS | BFS Coming Soon Page
