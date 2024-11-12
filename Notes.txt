@@ -3,14 +3,14 @@
 
 
 Yesterday
-    - San Mar Master List
-    - Speedy CPS Employee Site | Site Development
-    - Performance Windows | New Assets
-    - AHS | BFS Products Coming Soon Page
+    - CB v2 Integration | Cart Level Discounts
+    - Performance Windows | CB Integration
+    - RSL & Monarch | BFS New Site
+    - Speedy CPS Employee Site | Site Dev
 
 Today
-    - AHS | BFS Coming Soon Page
-    - Homestyle Direct
+    - Persistent | Apparel 
+    - Homestyle Direct | Apparel
     - Speedy Site Edits
     - CB v2 Integration
     - US614 | Migration
