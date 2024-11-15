@@ -1,4 +1,4 @@
-<p>
+<!-- <p>
 
 
 
@@ -59,6 +59,213 @@
     Quick Products
     - Create a new Quick Product in CoreBridge
 
+ -->
+
+
+
+<!--
+<style>
+    .popup-link {
+        color: white;
+        text-decoration: none;
+    }
+
+    .popup-link:hover {
+        color: #dfdfdf;
+    }
+</style>
+
+<script>
+    // Function to show the popup message
+    function showSecurityUpdatePopup() {
+        // Check if the user has deactivated the popup
+        if (localStorage.getItem('popupDeactivated') !== 'true') {
+            // Create the popup message
+            const popup = document.createElement('div');
+            popup.style.position = 'fixed';
+            popup.style.top = '50%';
+            popup.style.left = '50%';
+            popup.style.maxWidth = '700px';
+            popup.style.transform = 'translate(-50%, -50%)';
+            popup.style.backgroundColor = '#DA291C';
+            popup.style.border = '1px solid #003A70';
+            popup.style.padding = '20px';
+            popup.style.minHeight = '20em';
+            popup.style.zIndex = '1000';
+            popup.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.5)';
+
+            // Add the message with links
+            const message = document.createElement('p');
+            message.style.color = 'white';
+            message.style.fontFamily = 'sans-serif';
+            message.innerHTML = "Your browser has implemented some security updates. Please ensure your browser is updated to its latest version, and clear your cache and site data. Doing so will help your site and products function smoothly. If you need assistance with updating your browser or clearing cache, please refer to the links below:<br><br>" +
+                "<strong>Google Chrome:</strong> <a class='popup-link' href='https://youtu.be/HMEdQan8AkE' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Mozilla Firefox:</strong> <a class='popup-link' href='https://youtu.be/VX5UHwIK-50' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Microsoft Edge:</strong> <a class='popup-link' href='https://youtu.be/h2Th2jSKf94' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Safari:</strong> <a class='popup-link' href='https://oit.colorado.edu/tutorial/clear-web-browser-cache-safari' target='_blank'>Updating & Clearing Cache and Data</a><br><br>" +
+                "Thank you for helping us maintain a secure and optimized browsing experience!";
+            popup.appendChild(message);
+
+            // Create the deactivate button
+            const deactivateButton = document.createElement('button');
+            deactivateButton.style.fontFamily = 'sans-serif';
+            deactivateButton.style.position = 'fixed';
+            deactivateButton.style.fontSize = '1em';
+            deactivateButton.style.right = '1em';
+            deactivateButton.textContent = 'Deactivate Popup';
+            deactivateButton.style.marginTop = '10px';
+            deactivateButton.onclick = function () {
+                // Deactivate the popup for future visits
+                localStorage.setItem('popupDeactivated', 'true');
+                document.body.removeChild(popup);
+            };
+            popup.appendChild(deactivateButton);
+
+            // Create the close button
+            const closeButton = document.createElement('button');
+            closeButton.style.fontFamily = 'sans-serif';
+            closeButton.style.position = 'fixed';
+            closeButton.style.fontSize = '1em';
+            closeButton.style.left = '1em';
+            closeButton.textContent = 'Close';
+            closeButton.style.marginTop = '10px';
+            closeButton.onclick = function () {
+                // Simply remove the popup from the DOM
+                document.body.removeChild(popup);
+            };
+            popup.appendChild(closeButton);
+
+            // Append the popup to the body
+            document.body.appendChild(popup);
+        }
+    }
+
+    // Trigger the popup on page load
+    window.onload = function () {
+        showSecurityUpdatePopup();
+    };
+</script>
+
+
+
+So here is where I'm at. I made a popup that pops up on page load with message you gave me. The problem I noticed is
+that it will pop up on every page load (I can't get it to be page specific). To address this I made two buttons, one
+deactivating it so that it doesn't ever show back up and one just closing it until the page loads again. I then added a
+date checker so that it only runs once per day (that way they didn't have to close it on every page load or choose to
+deactivate it and lose access to the links). With the date checker in place I'm not sure if I should keep the deactivate
+button. The other option I have is to put the message in the login page instructions, but then the message would always
+be there until we deleted from the site. What are your thoughts?
+
+You can test it at https://testing.pro-matters.com/login using login credentials:
+username: abostrom@alphagraphics.com
+password: Alpha679!
+
+I am leaving the login page instructions set so that you can see that option too. But, I haven't customized the look
+yet.
+
+
+
+<style>
+    body div p a
+        div {
+            font-family: sans-serif;
+        }
+    </style> -->
+<!-- 
+
+<p>
+    "Your browser has implemented some security updates. Please ensure your browser is updated to its latest version,
+    and clear your cache and site data. Doing so will help your site and products function smoothly. If you need
+    assistance with updating your browser or clearing cache, please refer to the links below:<br>
+    <strong>Google Chrome:</strong> <a href='https://youtu.be/HMEdQan8AkE' target='_blank'>Updating & Clearing Cache and
+        Data</a><br>
+    <strong>Mozilla Firefox:</strong> <a href='https://youtu.be/VX5UHwIK-50' target='_blank'>Updating & Clearing Cache
+        and Data</a><br>
+    <strong>Microsoft Edge:</strong> <a href='https://youtu.be/h2Th2jSKf94' target='_blank'>Updating & Clearing Cache
+        and Data</a><br>
+    <strong>Safari:</strong> <a href='https://oit.colorado.edu/tutorial/clear-web-browser-cache-safari'
+        target='_blank'>Updating & Clearing Cache and Data</a><br>
+    Thank you for helping us maintain a secure and optimized browsing experience!"
+</p> -->
+
+
+<style>
+    .popup-link {
+        color: white;
+        text-decoration: none;
+    }
+
+    .popup-link:hover {
+        color: #dfdfdf;
+    }
+</style>
+
+<script>
+    function showSecurityUpdatePopup() {
+        const today = new Date().toISOString().split('T')[0];
+        console.log(today)
+        if (localStorage.getItem('popupDeactivated') !== 'true' && localStorage.getItem('popupLastShown') !== today) {
+            const popup = document.createElement('div');
+            popup.style.position = 'fixed';
+            popup.style.top = '50%';
+            popup.style.left = '50%';
+            popup.style.maxWidth = '700px';
+            popup.style.transform = 'translate(-50%, -50%)';
+            popup.style.backgroundColor = '#DA291C';
+            popup.style.border = '1px solid #003A70';
+            popup.style.padding = '20px';
+            popup.style.minHeight = '20em';
+            popup.style.zIndex = '1000';
+            popup.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.5)';
+            const message = document.createElement('p');
+            message.style.color = 'white';
+            message.style.fontFamily = 'sans-serif';
+            message.innerHTML = "Your browser has implemented some security updates. Please ensure your browser is updated to its latest version, and clear your cache and site data. Doing so will help your site and products function smoothly. If you need assistance with updating your browser or clearing cache, please refer to the links below:<br><br>" +
+                "<strong>Google Chrome:</strong> <a class='popup-link' href='https://youtu.be/HMEdQan8AkE' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Mozilla Firefox:</strong> <a class='popup-link' href='https://youtu.be/VX5UHwIK-50' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Microsoft Edge:</strong> <a class='popup-link' href='https://youtu.be/h2Th2jSKf94' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Safari:</strong> <a class='popup-link' href='https://oit.colorado.edu/tutorial/clear-web-browser-cache-safari' target='_blank'>Updating & Clearing Cache and Data</a><br><br>" +
+                "Thank you for helping us maintain a secure and optimized browsing experience!";
+            popup.appendChild(message);
+            const deactivateButton = document.createElement('button');
+            deactivateButton.style.fontFamily = 'sans-serif';
+            deactivateButton.style.position = 'fixed';
+            deactivateButton.style.fontSize = '1em';
+            deactivateButton.style.right = '1em';
+            deactivateButton.textContent = 'Deactivate Popup';
+            deactivateButton.style.marginTop = '10px';
+            deactivateButton.onclick = function () {
+                localStorage.setItem('popupDeactivated', 'true');
+                document.body.removeChild(popup);
+            };
+            popup.appendChild(deactivateButton);
+            const closeButton = document.createElement('button');
+            closeButton.style.fontFamily = 'sans-serif';
+            closeButton.style.position = 'fixed';
+            closeButton.style.fontSize = '1em';
+            closeButton.style.left = '1em';
+            closeButton.textContent = 'Close';
+            closeButton.style.marginTop = '10px';
+            closeButton.onclick = function () {
+                document.body.removeChild(popup);
+            };
+            popup.appendChild(closeButton);
+            document.body.appendChild(popup);
+            localStorage.setItem('popupLastShown', today);
+        }
+    }
+    window.onload = function () {
+        const currentUrl = window.location.href;
+        const loginPages = [
+            'https://testing.pro-matters.com/login'
+        ];
+        const isHomePage = currentUrl.includes('https://testing.pro-matters.com/');
+        const isLoginPage = loginPages.some(url => currentUrl.includes(url));
+        if (isHomePage && !isLoginPage) {
+            showSecurityUpdatePopup();
+        }
+    };
+</script>
 
 
 
@@ -70,28 +277,109 @@
 
 
 
+<!-- 
+<style>
+    .popup-link {
+        color: white;
+        text-decoration: none;
+    }
 
+    .popup-link:hover {
+        color: #dfdfdf;
+    }
+</style>
 
+<script>
+    // Function to show the popup message
+    function showSecurityUpdatePopup() {
+        // Get today's date in YYYY-MM-DD format
+        const today = new Date().toISOString().split('T')[0];
 
+        // Check if the user has deactivated the popup or if it has already been shown today
+        if (localStorage.getItem('popupDeactivated') !== 'true' && localStorage.getItem('popupLastShown') !== today) {
+            // Create the popup message
+            const popup = document.createElement('div');
+            popup.style.position = 'fixed';
+            popup.style.top = '50%';
+            popup.style.left = '50%';
+            popup.style.maxWidth = '700px';
+            popup.style.transform = 'translate(-50%, -50%)';
+            popup.style.backgroundColor = '#DA291C';
+            popup.style.border = '1px solid #003A70';
+            popup.style.padding = '20px';
+            popup.style.minHeight = '20em';
+            popup.style.zIndex = '1000';
+            popup.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.5)';
 
+            // Add the message with links
+            const message = document.createElement('p');
+            message.style.color = 'white';
+            message.style.fontFamily = 'sans-serif';
+            message.innerHTML = "Your browser has implemented some security updates. Please ensure your browser is updated to its latest version, and clear your cache and site data. Doing so will help your site and products function smoothly. If you need assistance with updating your browser or clearing cache, please refer to the links below:<br><br>" +
+                "<strong>Google Chrome:</strong> <a class='popup-link' href='https://youtu.be/HMEdQan8AkE' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Mozilla Firefox:</strong> <a class='popup-link' href='https://youtu.be/VX5UHwIK-50' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Microsoft Edge:</strong> <a class='popup-link' href='https://youtu.be/h2Th2jSKf94' target='_blank'>Updating & Clearing Cache and Data</a><br>" +
+                "<strong>Safari:</strong> <a class='popup-link' href='https://oit.colorado.edu/tutorial/clear-web-browser-cache-safari' target='_blank'>Updating & Clearing Cache and Data</a><br><br>" +
+                "Thank you for helping us maintain a secure and optimized browsing experience!";
+            popup.appendChild(message);
 
+            // Create the deactivate button
+            const deactivateButton = document.createElement('button');
+            deactivateButton.style.fontFamily = 'sans-serif';
+            deactivateButton.style.position = 'fixed';
+            deactivateButton.style.fontSize = '1em';
+            deactivateButton.style.right = '1em';
+            deactivateButton.textContent = 'Deactivate Popup';
+            deactivateButton.style.marginTop = '10px';
+            deactivateButton.onclick = function () {
+                // Deactivate the popup for future visits
+                localStorage.setItem('popupDeactivated', 'true');
+                document.body.removeChild(popup);
+            };
+            popup.appendChild(deactivateButton);
 
+            // Create the close button
+            const closeButton = document.createElement('button');
+            closeButton.style.fontFamily = 'sans-serif';
+            closeButton.style.position = 'fixed';
+            closeButton.style.fontSize = '1em';
+            closeButton.style.left = '1em';
+            closeButton.textContent = 'Close';
+            closeButton.style.marginTop = '10px';
+            closeButton.onclick = function () {
+                // Simply remove the popup from the DOM
+                document.body.removeChild(popup);
+            };
+            popup.appendChild(closeButton);
 
+            // Append the popup to the body
+            document.body.appendChild(popup);
 
+            // Store today's date as the last shown date
+            localStorage.setItem('popupLastShown', today);
+        }
+    }
 
+    // Trigger the popup on page load
+    window.onload = function() {
+        // Get the current URL
+        const currentUrl = window.location.href;
 
+        // Define the login page URLs
+        const loginPages = [
+            'https://testing.pro-matters.com/login'
+        ];
 
+        // Check if the current page is the home page and not a login page
+        const isHomePage = currentUrl.includes('https://testing.pro-matters.com/');
+        const isLoginPage = loginPages.some(url => currentUrl.includes(url));
 
-
-
-
-
-
-
-
-
-
-
+        // Show the popup only if it's the home page and not a login page
+        if (isHomePage && !isLoginPage) {
+            showSecurityUpdatePopup();
+        }
+    };
+</script> -->
 
 
 

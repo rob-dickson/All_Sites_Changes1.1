@@ -3,14 +3,12 @@
 
 
 Yesterday
-    - CB v2 Integration | Cart Level Discounts
-    - Performance Windows | CB Integration
-    - RSL & Monarch | BFS New Site
-    - Speedy CPS Employee Site | Site Dev
+    - Site Development
+    - DOPL | User Edits
+    - Homestyle Direct | Site Edits
 
 Today
-    - Persistent | Apparel 
-    - Homestyle Direct | Apparel
+    - Site Development
     - Speedy Site Edits
     - CB v2 Integration
     - US614 | Migration
@@ -19,7 +17,17 @@ Today
 
 
 
+<script>
+    // Function to show the popup message
+    function showLoginPopup() {
+        alert("Don't forget to check out new products");
+    }
 
+    // Trigger the popup on page load
+    window.onload = function() {
+        showLoginPopup();
+    };
+</script>
 
 
 
