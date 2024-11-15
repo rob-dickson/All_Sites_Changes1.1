@@ -3,13 +3,16 @@
 
 
 Yesterday
-    - Site Development
-    - DOPL | User Edits
-    - Homestyle Direct | Site Edits
+    - SAL Management | BFS Categories
+    - RSL & Monarch | BFS New Site
+    - Cart Level Discounts
+    - AHS | Basic Site
+    - Speedy Site | Site Dev
+    - Everbowl | Order Errors
 
 Today
+    - AHS | User Edits
     - Site Development
-    - Speedy Site Edits
     - CB v2 Integration
     - US614 | Migration
 
