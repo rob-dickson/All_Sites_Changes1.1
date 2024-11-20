@@ -3,14 +3,15 @@
 
 
 Yesterday
-    - SAL Management | BFS Categories
-    - RSL & Monarch | BFS New Site
-    - Cart Level Discounts
-    - AHS | Basic Site
-    - Speedy Site | Site Dev
-    - Everbowl | Order Errors
+    - Real deals | User Access Issues
+    - AHS | Integration Error
+    - AHS | Assets
+    - Speedy CPS Employee Site | User Edits
+    - Inventory Site Edits
 
 Today
+    - BSU | Site Edits
+    - Inventory New Products
     - AHS | User Edits
     - Site Development
     - CB v2 Integration
@@ -236,3 +237,19 @@ metal name badges 12.5
 
 
 
+Process for New User for the Apparel Site
+	Employee wants to order Apparel or Collateral
+		- On the Speedy CPS login page select, "Create an account" (https://speedycps.brandfulfillment.store/login)
+		- Fill out General Information
+		- Create Password
+		- Create Account
+	BFS receives New User Approved email
+		- BFS verifies employment and hire date
+		- BFS creates a Budget and sets User permissions
+		- User is notified
+	Employee now has an account with permissions and a budget
+		- Employee can place orders using their account and budget
+		- Approval is required
+	Center manager receives Approve Order Request email
+		- Center manager can view, edit and approve or deny order
+		- Order Item Approved email generated or Order Item Denied email generated
