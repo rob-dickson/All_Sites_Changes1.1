@@ -278,6 +278,8 @@ yet.
 
 
 <!-- 
+
+
 <style>
     .popup-link {
         color: white;
@@ -290,14 +292,10 @@ yet.
 </style>
 
 <script>
-    // Function to show the popup message
     function showSecurityUpdatePopup() {
-        // Get today's date in YYYY-MM-DD format
         const today = new Date().toISOString().split('T')[0];
-
-        // Check if the user has deactivated the popup or if it has already been shown today
+        console.log(today)
         if (localStorage.getItem('popupDeactivated') !== 'true' && localStorage.getItem('popupLastShown') !== today) {
-            // Create the popup message
             const popup = document.createElement('div');
             popup.style.position = 'fixed';
             popup.style.top = '50%';
@@ -307,11 +305,10 @@ yet.
             popup.style.backgroundColor = '#DA291C';
             popup.style.border = '1px solid #003A70';
             popup.style.padding = '20px';
+            popup.style.paddingBottom = '3em';
             popup.style.minHeight = '20em';
             popup.style.zIndex = '1000';
             popup.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.5)';
-
-            // Add the message with links
             const message = document.createElement('p');
             message.style.color = 'white';
             message.style.fontFamily = 'sans-serif';
@@ -322,8 +319,6 @@ yet.
                 "<strong>Safari:</strong> <a class='popup-link' href='https://oit.colorado.edu/tutorial/clear-web-browser-cache-safari' target='_blank'>Updating & Clearing Cache and Data</a><br><br>" +
                 "Thank you for helping us maintain a secure and optimized browsing experience!";
             popup.appendChild(message);
-
-            // Create the deactivate button
             const deactivateButton = document.createElement('button');
             deactivateButton.style.fontFamily = 'sans-serif';
             deactivateButton.style.position = 'fixed';
@@ -332,13 +327,10 @@ yet.
             deactivateButton.textContent = 'Deactivate Popup';
             deactivateButton.style.marginTop = '10px';
             deactivateButton.onclick = function () {
-                // Deactivate the popup for future visits
                 localStorage.setItem('popupDeactivated', 'true');
                 document.body.removeChild(popup);
             };
             popup.appendChild(deactivateButton);
-
-            // Create the close button
             const closeButton = document.createElement('button');
             closeButton.style.fontFamily = 'sans-serif';
             closeButton.style.position = 'fixed';
@@ -347,55 +339,31 @@ yet.
             closeButton.textContent = 'Close';
             closeButton.style.marginTop = '10px';
             closeButton.onclick = function () {
-                // Simply remove the popup from the DOM
                 document.body.removeChild(popup);
             };
             popup.appendChild(closeButton);
-
-            // Append the popup to the body
             document.body.appendChild(popup);
-
-            // Store today's date as the last shown date
             localStorage.setItem('popupLastShown', today);
         }
     }
-
-    // Trigger the popup on page load
-    window.onload = function() {
-        // Get the current URL
+    window.onload = function () {
         const currentUrl = window.location.href;
-
-        // Define the login page URLs
         const loginPages = [
             'https://testing.pro-matters.com/login'
         ];
-
-        // Check if the current page is the home page and not a login page
         const isHomePage = currentUrl.includes('https://testing.pro-matters.com/');
         const isLoginPage = loginPages.some(url => currentUrl.includes(url));
-
-        // Show the popup only if it's the home page and not a login page
         if (isHomePage && !isLoginPage) {
             showSecurityUpdatePopup();
         }
     };
-</script> -->
+</script>
 
+-->
 
+1418
 
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
+padding-bottom: 3em;
 
 <p style="font-size: 1.25em;color: rgba(239, 90, 96, 1);">
     Special AHS 10% discount applied!
