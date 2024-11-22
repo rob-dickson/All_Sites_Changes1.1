@@ -3,20 +3,24 @@
 
 
 Yesterday
-    - SAL Management | BFS Categories
-    - RSL & Monarch | BFS New Site
-    - Cart Level Discounts
-    - AHS | Basic Site
-    - Speedy Site | Site Dev
-    - Everbowl | Order Errors
+    - Everbowl | Assets
+    - BSU | Site Edits
+    - Inventory Site Edits
+    - AHS | Integration Error
 
 Today
-    - AHS | User Edits
+    - Flynn Companies
+    - AHS | Integrations
+    - BSU | Site Edits
     - Site Development
     - CB v2 Integration
     - US614 | Migration
 
 
+
+
+
+PW: KiRrKpwxNFnCV4j
 
 
 
@@ -231,6 +235,92 @@ Letterhead     - 6.299
 Envelope       - 9.375
 Product Tags   - 9.5
 metal name badges 12.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### UPLOAD SITE ###
+
+Alpha Graphics Branded
+ - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
