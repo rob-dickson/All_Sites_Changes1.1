@@ -3,14 +3,14 @@
 
 
 Yesterday
-    - Everbowl | Assets
-    - BSU | Site Edits
-    - Inventory Site Edits
-    - AHS | Integration Error
+    - Flynn Companies
+    - Dentive
+    - Everbowl | File error
+    - AHS | Integrations
 
 Today
+    - Carroll College
     - Flynn Companies
-    - AHS | Integrations
     - BSU | Site Edits
     - Site Development
     - CB v2 Integration
@@ -19,8 +19,10 @@ Today
 
 
 
+Helena Needs a New Center Site
 
-PW: KiRrKpwxNFnCV4j
+
+
 
 
 
@@ -113,8 +115,40 @@ Grey#808080#0
 Patriot Brown#5C4033#0
 Sig Grey#7F8583#0
 MultiCam#30063#0
-
-
+#B30838
+#013A81
+#F1CB00
+#DA291C
+#AE2116
+#233659
+#42B8FD
+#C9C9C9 
+#D0021B
+#015294
+#FFFFFF
+#00B5E2
+#75787B
+#A2C7E3
+#223745
+#F15C22
+#8252C7
+#211551
+#888888
+#423B42
+#752878
+#7F777F
+#6C6C6B -pearl grey heather
+#777374 -deepsmoke
+#3B549F -trueroyal
+#515D73 -navyheather
+#494947 -black Charcoal
+#3B3F48 -battleship
+#2E394B -dressbluenavy
+#B3142F -richred
+#BAE2F8 -Ice Blue
+#1C3A56 -Cool Blue
+#A6C1D9 -Ice Blue-
+#1C273B 
 
 Fat Cats Approval Precesses 
 
