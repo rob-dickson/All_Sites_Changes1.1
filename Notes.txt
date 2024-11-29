@@ -3,17 +3,10 @@
 
 
 Yesterday
-    - Speed Site | User Edits
-    - SAL Management | Approvers
-    - Helena Center Site
-    - City of Idaho Falls | Users
-    - Swig Site Edits
+    - 
 
 Today
-    - Swig Site Edits
-    - Flynn Companies
-    - Helena Center
-    - TAX Edits
+    - Everbowl | More Order Errors
     - Site Development
     - CB v2 Integration
 
@@ -21,20 +14,10 @@ Today
 C2 Add short description 
 
 
-Boise
-Idaho Falls
-Rexburg
-Rigby
-Twin Falls
-Helena
-Logan
-Salt Lake
-American Fork
-Graphik
-Lindon
-Orem
-St. George
-Jackson
+
+
+
+
 
 
 
