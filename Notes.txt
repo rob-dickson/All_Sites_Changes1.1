@@ -3,19 +3,44 @@
 
 
 Yesterday
-    - 
+    - Everbowl | More Order Errors
+    - AHS | Description Edits
+    - Homestyle Direct | API Edits
+    - Flynn Companies | BFS Site
+    - Site Process Development
 
 Today
-    - Everbowl | More Order Errors
-    - Site Development
-    - CB v2 Integration
+    - Sleep In Heavenly Peace | Integrations
+    - Everbowl | Order Errors
+    - Site Process Development
+    - CB v2 Integration Testing
 
+
+
+
+
+https://brandfulfillment.freshdesk.com/support/home
 
 C2 Add short description 
 
 
 
+Identify repetitive tasks
 
+- Site Upkeep
+    - Edit Users
+        - Add Users (Teach Sales how to through the storefront)
+        - User Can't Log in
+        - User Permissions
+        - User Approvals 
+
+    - Apparel API Edits
+    
+
+- New Site 
+    - Edit Email Notifications
+    - Set User Groups
+    - 
 
 
 
