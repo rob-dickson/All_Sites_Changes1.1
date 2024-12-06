@@ -3,17 +3,17 @@
 
 
 Yesterday
-    - Everbowl | More Order Errors
-    - AHS | Description Edits
-    - Homestyle Direct | API Edits
-    - Flynn Companies | BFS Site
-    - Site Process Development
+    - Everbowl | File error
+    - SAL Management | AWI Error
+    - SHP | Integrations
+    - Performance Windows
+    - Site Development
 
 Today
-    - Sleep In Heavenly Peace | Integrations
-    - Everbowl | Order Errors
+    - SHP | Integrations
     - Site Process Development
-    - CB v2 Integration Testing
+    - Site Standardizations
+    - CB v2 Integration
 
 
 
