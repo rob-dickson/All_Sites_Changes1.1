@@ -3,13 +3,15 @@
 
 
 Yesterday
-    - Everbowl | File error
-    - SAL Management | AWI Error
-    - SHP | Integrations
-    - Performance Windows
-    - Site Development
+    - Inventory Site API
+    - CB v2 Integration
+    - Swig Assets
+    - Speedy Site | User Edits
+    - Blueprint Site
 
 Today
+    - Blueprint Site
+    - Dentive
     - SHP | Integrations
     - Site Process Development
     - Site Standardizations
@@ -40,7 +42,18 @@ Identify repetitive tasks
 - New Site 
     - Edit Email Notifications
     - Set User Groups
-    - 
+    - Email Notification Settings
+    - HTML content for bottom of <head> section
+         -  <!--EXTERNAL PRICE ENGINE --> 
+                <meta http-equiv="Access-Control-Allow-Origin" content="https://external.pressero.com/" />
+                <script type="text/javascript" src="https://external.pressero.com/calculator/calculator.js"></script>
+                <link href="https://external.pressero.com/calculator/calculator.css" rel="stylesheet">
+            <!-- END EXTERNAL PRICE ENGINE -->
+            <style>
+                .addressAddress3 {
+                    display:none;
+                }
+            </style>
 
 
 
