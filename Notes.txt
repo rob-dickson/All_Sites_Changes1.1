@@ -1,17 +1,21 @@
 
+
 ✓✓✓✓✓✓✓
 
 
 Yesterday
     - AF New Basic Sites
-    - Everbowl - Assets
+    - SWIG SITE DEMO
+    - St Peters Health | Site
 
 Today
+    - BSU Edits
+    - Edit SWIG DEMO
+    - Speedy Site | User Edits
     - AF New Basic Sites
     - Boise New Basic Sites
-    - Site Process Development
-    - Site Standardizations
     - CB v2 Integration
+
 
 
 BUILD SWIG DEMO
@@ -22,10 +26,14 @@ Sales pole to figure out who's is who's
 
 
 
+@lphaUS614!
+
 
 
 Brand Fulfillment Store Team
 orders@brandfulfillment.store
+
+
 
 <!--EXTERNAL PRICE ENGINE --> 
     <meta http-equiv="Access-Control-Allow-Origin" content="https://external.pressero.com/" />
@@ -37,6 +45,7 @@ orders@brandfulfillment.store
         display:none;
     }
 </style>
+
 
 
 American Fork
@@ -93,7 +102,6 @@ Idaho Falls
     Silver Star Communications
     Tactical Precision Manufacturing
     Tadd Jenkins
-
 
 
 
