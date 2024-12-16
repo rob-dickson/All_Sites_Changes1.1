@@ -504,4 +504,66 @@ Alpha Graphics Branded
 
 
 
+1. Order Accuracy Rate
 
+Definition: Measures the percentage of orders fulfilled correctly without errors.
+
+Importance: High accuracy reduces returns and enhances customer satisfaction.
+
+Calculation: [ \text{Order Accuracy Rate} = \left( \frac{\text{Number of Correctly Fulfilled Orders}}{\text{Total Number of Orders}} \right) \times 100 ]
+
+2. Order Cycle Time
+
+Definition: The time taken from when a customer places an order to when they receive it.
+
+Importance: Shorter cycle times indicate efficient processing and can lead to higher customer satisfaction.
+
+Calculation: [ \text{Order Cycle Time} = \text{Actual Ship Date} - \text{Customer Order Date} ]
+
+3. On-Time Shipping Rate
+
+Definition: The ratio of orders shipped on time or early to the total number of orders shipped.
+
+Importance: A high on-time shipping rate is crucial for maintaining customer trust and satisfaction.
+
+Calculation: [ \text{On-Time Shipping Rate} = \left( \frac{\text{Orders Shipped On Time}}{\text{Total Orders Shipped}} \right) \times 100 ]
+
+4. Customer Satisfaction Score (CSAT)
+
+Definition: Measures customer satisfaction with their overall shopping experience, including fulfillment.
+
+Importance: High CSAT indicates a positive customer experience and can lead to repeat business.
+
+Collection Method: Typically gathered through post-purchase surveys or feedback forms.
+
+5. Rate of Return
+
+Definition: The percentage of orders that customers return.
+
+Importance: A high return rate can indicate issues with product quality or fulfillment accuracy.
+
+Calculation: [ \text{Rate of Return} = \left( \frac{\text{Number of Returned Orders}}{\text{Total Number of Orders}} \right) \times 100 ]
+
+6. Perfect Order Rate
+
+Definition: Measures the percentage of orders delivered complete, on time, undamaged, and with accurate documentation.
+
+Importance: A high perfect order rate reflects overall fulfillment efficiency and customer satisfaction.
+
+Calculation: [ \text{Perfect Order Rate} = \left( \text{On-Time Delivery} \times \text{Complete Orders} \times \text{Damage-Free Orders} \times \text{Accurate Documentation} \right) \times 100 ]
+
+7. Inventory Turnover Rate
+
+Definition: Measures how quickly inventory is sold and replaced over a specific period.
+
+Importance: A high turnover rate indicates effective inventory management and demand forecasting.
+
+Calculation: [ \text{Inventory Turnover Rate} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{Average Inventory Value}} ]
+
+8. Order Fill Rate
+
+Definition: The percentage of customer orders fulfilled from available stock without backorders.
+
+Importance: A high fill rate indicates sufficient inventory to meet customer demand.
+
+Calculation: [ \text{Order Fill Rate} = \left( \frac{\text{Orders Fulfilled from Available Stock}}{\text{Total Orders}} \right) \times 100 ]
