@@ -6,14 +6,12 @@
 Yesterday
     - AF New Basic Sites
     - SWIG SITE DEMO
-    - St Peters Health | Site
+    - BFS | Documentation
 
 Today
-    - BSU Edits
-    - Edit SWIG DEMO
-    - Speedy Site | User Edits
-    - AF New Basic Sites
-    - Boise New Basic Sites
+    - IF New Basic Sites
+    - Homestyle Integration
+    - Blueprint Edits
     - CB v2 Integration
 
 
@@ -25,8 +23,74 @@ Global QPs Don't work
 Sales pole to figure out who's is who's
 
 
-
 @lphaUS614!
+
+Nexiuum Admin Access
+  URL: Pressero - https://adminc.pro-matters.com/authentication/Login 
+    EMAIL: nswanson@nexiuum.com
+    UN: NexiuumDEV
+    PW: NexiuumDEV1216*
+  URL: Sandbox - (You will need to make users with the pressero admin user)
+    https://sandbox-bennie.pro-matters.com/login
+    https://sandbox-swig.pro-matters.com/login
+
+
+
+
+American Fork
+    ✓    American Heritage School | Brand Fulfillment Store - american.heritage.school.brandfulfillment.store 
+    ✓    AWD Sales & Service | Brand Fulfillment Store - awd.brandfulfillment.store
+    ✓    Banasky Insurance Inc. | Brand Fulfillment Store - banasky.insurance.brandfulfillment.store
+    ✓    Brent Brown Toyota | Brand Fulfillment Store - brent.brown.toyota.brandfulfillment.store
+    ✓    Cascade Collision Repair | Brand Fulfillment Store - cascade.collision.repair.brandfulfillment.store
+    ✓    Civil Science | Brand Fulfillment Store - civil.science.brandfulfillment.store
+    ✓    Connor Group | Brand Fulfillment Store - connor.group.brandfulfillment.store
+    ✓    CrownBuyers | Brand Fulfillment Store - crown.buyers.brandfulfillment.store
+    ✓    DataBricks | Brand Fulfillment Store - databricks.brandfulfillment.store
+    ✓    Dynamond | Brand Fulfillment Store - dynamond.brandfulfillment.store
+    ✓    Elite Windows | Brand Fulfillment Store - elite.windows.brandfulfillment.store
+    ✓    Ensign College | Brand Fulfillment Store - ensign.college.brandfulfillment.store
+    ✓    Flagship Homes | Brand Fulfillment Store - flagship.homes.brandfulfillment.store
+    ✓    Homeward Bound | Brand Fulfillment Store - homeward.bound.brandfulfillment.store
+    ✓    Hutchings Museum | Brand Fulfillment Store - hutchings.museum.brandfulfillment.store
+    ✓    Innovative Mortgage Alliance | Brand Fulfillment Store - innovative.mortgage.alliance.brandfulfillment.store
+    ✓    KLAS Research | Brand Fulfillment Store - klas.research.brandfulfillment.store
+    ✓    NetDocuments | Brand Fulfillment Store - netdocuments.brandfulfillment.store
+    ✓    PDR Benefits | Brand Fulfillment Store - pdr.benefits.brandfulfillment.store
+    ✓    Pointe Meadows | Brand Fulfillment Store - pointe.meadows.brandfulfillment.store
+    ✓    Rocky Mountain University of Health Professions | Brand Fulfillment Store - rmu.health.professions.brandfulfillment.store
+    ✓    Saratoga Springs | Brand Fulfillment Store - saratoga.springs.ut.brandfulfillment.store
+    ✓    SIRQ Construction | Brand Fulfillment Store - sirq.brandfulfillment.store
+    ✓    STACK Real Estate | Brand Fulfillment Store - stack.realestate.brandfulfillment.store
+    ✓    Tremonton City | Brand Fulfillment Store - tremontoncity.brandfulfillment.store
+    ✓    VanCon Inc. | Brand Fulfillment Store - vancon.brandfulfillment.store
+    ✓    Verkada | Brand Fulfillment Store - verkada.brandfulfillment.store
+
+NO PRODUCTS
+    ✓    Thanksgiving Point Instituition | Brand Fulfillment Store - thanksgiving.point.brandfulfillment.store
+    ✓    The Walton Group | Brand Fulfillment Store - the.walton.group.brandfulfillment.store
+    ✓    Greenwood Elementary | Brand Fulfillment Store - greenwood.elementary.brandfulfillment.store
+
+Boise
+    ✓     Connections Credit Union | Brand Fulfillment Store - connections.credit.union.brandfulfillment.store 
+    ✓     Idaho Department of Labor	 | Brand Fulfillment Store - idol.brandfulfillment.store 
+
+
+Idaho Falls
+✓    Archibald Leavitt
+✓    BMW of Idaho Falls
+✓    Cooper Norman
+✓    Electrical Wholesale
+✓    Grigg Tater Tot Legacy Foundation
+✓    Lookout Credit Union
+✓    Melaleuca
+    Philanthropies
+    Potandon
+    Premier Technology Inc.
+    Ron Sayer Auto Group
+    Silver Star Communications
+    Tactical Precision Manufacturing
+    Tadd Jenkins
 
 
 
@@ -45,68 +109,6 @@ orders@brandfulfillment.store
         display:none;
     }
 </style>
-
-
-
-American Fork
-✓    American Heritage School | Brand Fulfillment Store - american.heritage.school.brandfulfillment.store 
-✓    AWD Sales & Service | Brand Fulfillment Store - awd.brandfulfillment.store
-✓    Banasky Insurance Inc. | Brand Fulfillment Store - banasky.insurance.brandfulfillment.store
-✓    Brent Brown Toyota | Brand Fulfillment Store - brent.brown.toyota.brandfulfillment.store
-✓    Cascade Collision Repair | Brand Fulfillment Store - cascade.collision.repair.brandfulfillment.store
-✓    Civil Science | Brand Fulfillment Store - civil.science.brandfulfillment.store
-✓    Connor Group | Brand Fulfillment Store - connor.group.brandfulfillment.store
-✓    CrownBuyers | Brand Fulfillment Store - crown.buyers.brandfulfillment.store
-✓    DataBricks | Brand Fulfillment Store - databricks.brandfulfillment.store
-✓    Dynamond | Brand Fulfillment Store - dynamond.brandfulfillment.store
-✓    Elite Windows | Brand Fulfillment Store - elite.windows.brandfulfillment.store
-✓    Ensign College | Brand Fulfillment Store - ensign.college.brandfulfillment.store
-✓    Flagship Homes | Brand Fulfillment Store - flagship.homes.brandfulfillment.store
-✓    Homeward Bound | Brand Fulfillment Store - homeward.bound.brandfulfillment.store
-✓    Hutchings Museum | Brand Fulfillment Store - hutchings.museum.brandfulfillment.store
-✓    Innovative Mortgage Alliance | Brand Fulfillment Store - innovative.mortgage.alliance.brandfulfillment.store
-✓    KLAS Research | Brand Fulfillment Store - klas.research.brandfulfillment.store
-✓    NetDocuments | Brand Fulfillment Store - netdocuments.brandfulfillment.store
-✓    PDR Benefits | Brand Fulfillment Store - pdr.benefits.brandfulfillment.store
-✓    Pointe Meadows | Brand Fulfillment Store - pointe.meadows.brandfulfillment.store
-✓    Rocky Mountain University of Health Professions | Brand Fulfillment Store - rmu.health.professions.brandfulfillment.store
-✓    Saratoga Springs | Brand Fulfillment Store - saratoga.springs.ut.brandfulfillment.store
-✓    SIRQ Construction | Brand Fulfillment Store - sirq.brandfulfillment.store
-✓    STACK Real Estate | Brand Fulfillment Store - stack.realestate.brandfulfillment.store
-✓    Tremonton City | Brand Fulfillment Store - tremontoncity.brandfulfillment.store
-✓    VanCon Inc. | Brand Fulfillment Store - vancon.brandfulfillment.store
-✓    Verkada | Brand Fulfillment Store - verkada.brandfulfillment.store
-
-NO PRODUCTS
-✓    Thanksgiving Point Instituition | Brand Fulfillment Store - thanksgiving.point.brandfulfillment.store
-✓    The Walton Group | Brand Fulfillment Store - the.walton.group.brandfulfillment.store
-✓    Greenwood Elementary | Brand Fulfillment Store - greenwood.elementary.brandfulfillment.store
-
-
-Boise
-     Connections Credit Union | Brand Fulfillment Store - connections.credit.union.brandfulfillment.store 
-     Idaho Department of Labor	 | Brand Fulfillment Store - idol.brandfulfillment.store 
-
-Idaho Falls
-    Archibald Leavitt
-    BMW of Idaho Falls
-    Cooper Norman
-    Electrical Wholesale
-    Grigg Tater Tot Legacy Foundation
-    Lookout Credit Union
-    Melaleuca
-    Philanthropies
-    Potandon
-    Premier Technology Inc.
-    Ron Sayer Auto Group
-    Silver Star Communications
-    Tactical Precision Manufacturing
-    Tadd Jenkins
-
-
-
-
-
 
 
 
@@ -226,72 +228,72 @@ UN:
 PW: 
 
 
-
-Newport Blue#232A34#0
-Black#000000#0
-White#ffffff#0
-Grey#bebfc1#0
-Blue#4169e1#0
-Navy#202A44#0
-Heathered Steel#6C6C6B#0
-Battleship Grey#3B3F48#0
-Iron Grey#3C4142#0
-True Navy#202A44#0
-Sterling Grey#6C6C6B#0
-Graphite#5B595A#0
-Grey Heather#BBB9C3#0
-Blue Heather#304A5A#0
-Blacktop Heather#3C4142#0
-Deep Blue Heather#395281#0
-Light Grey Heather#d3d3d3#0
-Estate Blue#2a487a#0
-Berry#990F4B#0
-Navy#000080#0
-Purple#A020F0#0
-True Royal#4169e1#0#4169e1#0
-Black#000000#0
-Polished#797982#0
-Midnight Bronze#4A4645#0
-Barrett Brown#7C4700#0
-FDE#877348#0
-Grey#808080#0
-Patriot Brown#5C4033#0
-Sig Grey#7F8583#0
-MultiCam#30063#0
-#B30838
-#013A81
-#F1CB00
-#DA291C
-#AE2116
-#233659
-#42B8FD
-#C9C9C9 
-#D0021B
-#015294
-#FFFFFF
-#00B5E2
-#75787B
-#A2C7E3
-#223745
-#F15C22
-#8252C7
-#211551
-#888888
-#423B42
-#752878
-#7F777F
-#6C6C6B -pearl grey heather
-#777374 -deepsmoke
-#3B549F -trueroyal
-#515D73 -navyheather
-#494947 -black Charcoal
-#3B3F48 -battleship
-#2E394B -dressbluenavy
-#B3142F -richred
-#BAE2F8 -Ice Blue
-#1C3A56 -Cool Blue
-#A6C1D9 -Ice Blue-
-#1C273B 
+Colors - 
+    Newport Blue#232A34#0
+    Black#000000#0
+    White#ffffff#0
+    Grey#bebfc1#0
+    Blue#4169e1#0
+    Navy#202A44#0
+    Heathered Steel#6C6C6B#0
+    Battleship Grey#3B3F48#0
+    Iron Grey#3C4142#0
+    True Navy#202A44#0
+    Sterling Grey#6C6C6B#0
+    Graphite#5B595A#0
+    Grey Heather#BBB9C3#0
+    Blue Heather#304A5A#0
+    Blacktop Heather#3C4142#0
+    Deep Blue Heather#395281#0
+    Light Grey Heather#d3d3d3#0
+    Estate Blue#2a487a#0
+    Berry#990F4B#0
+    Navy#000080#0
+    Purple#A020F0#0
+    True Royal#4169e1#0#4169e1#0
+    Black#000000#0
+    Polished#797982#0
+    Midnight Bronze#4A4645#0
+    Barrett Brown#7C4700#0
+    FDE#877348#0
+    Grey#808080#0
+    Patriot Brown#5C4033#0
+    Sig Grey#7F8583#0
+    MultiCam#30063#0
+    #B30838
+    #013A81
+    #F1CB00
+    #DA291C
+    #AE2116
+    #233659
+    #42B8FD
+    #C9C9C9 
+    #D0021B
+    #015294
+    #FFFFFF
+    #00B5E2
+    #75787B
+    #A2C7E3
+    #223745
+    #F15C22
+    #8252C7
+    #211551
+    #888888
+    #423B42
+    #752878
+    #7F777F
+    #6C6C6B -pearl grey heather
+    #777374 -deep smoke
+    #3B549F -true royal
+    #515D73 -navy heather
+    #494947 -black Charcoal
+    #3B3F48 -battleship
+    #2E394B -dress blue navy
+    #B3142F -rich red
+    #BAE2F8 -Ice Blue
+    #1C3A56 -Cool Blue
+    #A6C1D9 -Ice Blue-
+    #1C273B 
 
 Fat Cats Approval Precesses 
 
