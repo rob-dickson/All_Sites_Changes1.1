@@ -4,14 +4,17 @@
 
 
 Yesterday
-    - AF New Basic Sites
-    - SWIG SITE DEMO
+    - IF New Basic Sites
+    - Nexiuum | Inventory Meeting
+    - AHS | Assets
+    - Bennie | New Users
+    - Blueprint Edits
     - BFS | Documentation
 
 Today
     - IF New Basic Sites
+    - Nexiuum Admin 
     - Homestyle Integration
-    - Blueprint Edits
     - CB v2 Integration
 
 
@@ -75,7 +78,6 @@ Boise
     ✓     Connections Credit Union | Brand Fulfillment Store - connections.credit.union.brandfulfillment.store 
     ✓     Idaho Department of Labor	 | Brand Fulfillment Store - idol.brandfulfillment.store 
 
-
 Idaho Falls
 ✓    Archibald Leavitt
 ✓    BMW of Idaho Falls
@@ -84,20 +86,31 @@ Idaho Falls
 ✓    Grigg Tater Tot Legacy Foundation
 ✓    Lookout Credit Union
 ✓    Melaleuca
-    Philanthropies
-    Potandon
-    Premier Technology Inc.
-    Ron Sayer Auto Group
-    Silver Star Communications
+✓    Philanthropies
+✓    Potandon
+✓    Premier Technology Inc.
+✓    Ron Sayer Auto Group
+✓    Silver Star Communications
     Tactical Precision Manufacturing
     Tadd Jenkins
+
+Orem
+    Horrocks Engineers
+    Low VA Rates, LLC
+    Moxtek Inc.
+    Niels Fugal Sons Company
+    Veracity Insurance
+    Zamp HR
+
+
+
+
+
 
 
 
 Brand Fulfillment Store Team
 orders@brandfulfillment.store
-
-
 
 <!--EXTERNAL PRICE ENGINE --> 
     <meta http-equiv="Access-Control-Allow-Origin" content="https://external.pressero.com/" />
