@@ -150,6 +150,13 @@ orders@brandfulfillment.store
 
 
 
+###
+GET https://admin.chi.v6.pressero.com/api/SiteInfo/8d49c16e-1566-4610-be12-d8d1237339e4 HTTP/1.1
+Authorization: token 3C1B0000-569F-0050-3894-08DD1A050023
+
+
+
+
 https://brandfulfillment.freshdesk.com/support/home
 
 C2 Add short description 
