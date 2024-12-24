@@ -5,11 +5,13 @@
 
 Yesterday
     - New Basic Sites
+    - Speedy CPS | Site Edits
     - AHS Assets
+    - Nexiuum Integration
 
 Today
+    - Pointe Meadows | New Users
     - New Basic Sites
-    - BFS | Documentation
     - Demo Site
     - CB v2 Integration
 
@@ -22,16 +24,7 @@ Global QPs Don't work
 Sales pole to figure out who's is who's
 
 
-@lphaUS614!
 
-Nexiuum Admin Access
-  URL: Pressero - https://adminc.pro-matters.com/authentication/Login 
-    EMAIL: nswanson@nexiuum.com
-    UserName: NexiuumDEV
-    Password: NexiuumDEV1216*
-  SandboxURLs: (Same UN and PW)
-    https://sandbox-bennie.pro-matters.com/login
-    https://sandbox-swig.pro-matters.com/login
 
 
 
