@@ -73,16 +73,16 @@ Idaho Falls
     ✓    Archibald Leavitt
     ✓    BMW of Idaho Falls
     ✓    Cooper Norman
-    ✓    Electrical Wholesale
+    ✓    Electrical Wholesale    
     ✓    Grigg Tater Tot Legacy Foundation
     ✓    Lookout Credit Union
     ✓    Melaleuca
     ✓    Philanthropies
     ✓    Potandon
-    ✓    Premier Technology Inc.
+    ✓    Premier Technology Inc.    
     ✓    Ron Sayer Auto Group
     ✓    Silver Star Communications
-    ✓    Tactical Precision Manufacturing
+    ✓    Tactical Precision Manufacturing    
     ✓    Tadd Jenkins
 
 Orem
@@ -102,6 +102,7 @@ St. George
 Twin Falls
     ✓    - Suntado LLC
 
+
 South Salt Lake
     ✓    - FCI Watermakers
     ✓    - Flynn
@@ -115,6 +116,7 @@ South Salt Lake
     ✓    - Select Portfolio Servicing
     ✓    - Smith Entertainment Group
     ✓    - Stadler    
+
     ✓    - Total Reporting
     ✓    - Elko Dental Specialists
 
