@@ -5,15 +5,16 @@
 
 Yesterday
     - New Basic Sites
-    - Speedy CPS | Site Edits
     - AHS Assets
-    - Nexiuum Integration
 
 Today
-    - Pointe Meadows | New Users
-    - New Basic Sites
-    - Demo Site
+    - AWI Set Up for Basic Sites
+    - Everbowl User Edits
+    - Flynn Assets
+    - The Children's School Site
+    - BFS | Documentation
     - CB v2 Integration
+
 
 
 
