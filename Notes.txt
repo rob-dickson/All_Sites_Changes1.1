@@ -24,7 +24,8 @@ Global QPs Don't work
 Sales pole to figure out who's is who's
 
 
-
+agifserver21
+192.168.0.226
 
 
 
