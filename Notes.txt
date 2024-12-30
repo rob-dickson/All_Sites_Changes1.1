@@ -115,8 +115,7 @@ South Salt Lake
     ✓    - Salt Lake Legal
     ✓    - Select Portfolio Servicing
     ✓    - Smith Entertainment Group
-    ✓    - Stadler    
-
+    ✓    - Stadler
     ✓    - Total Reporting
     ✓    - Elko Dental Specialists
 
