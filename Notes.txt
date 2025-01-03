@@ -4,14 +4,14 @@
 
 
 Yesterday
-    - New Basic Sites
-    - AHS Assets
+    - PPE Training
+    - Universal Login Documentation
+    - Speedy CPS Employee Site | User Edits    
+    - Help Kylie and Jeremy move desks
+    - L10 | Meeting
 
 Today
-    - AWI Set Up for Basic Sites
-    - Everbowl User Edits
-    - Flynn Assets
-    - The Children's School Site
+    - Provo City BFS Store    
     - BFS | Documentation
     - CB v2 Integration
 
