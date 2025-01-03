@@ -4,15 +4,19 @@
 
 
 Yesterday
-    - PPE Training
     - Universal Login Documentation
-    - Speedy CPS Employee Site | User Edits    
-    - Help Kylie and Jeremy move desks
-    - L10 | Meeting
+    - Provo City | Tax Issue
+    - C2 User issues
+    - Bennie | Apparel API
+    - Speedy CPS Employee Site | User Edits
+    - Bish's RV | Site
+    - Ron Sayer Auto Group | Site
+
 
 Today
-    - Provo City BFS Store    
-    - BFS | Documentation
+    - Bennie | Apparel API
+    - Bish's RV | Tax Issue
+    - BFS | Documentation and Videos
     - CB v2 Integration
 
 
