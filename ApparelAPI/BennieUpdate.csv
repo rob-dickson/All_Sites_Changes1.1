@@ -2,18 +2,3 @@ urlProducto;sizes;colors;base;areas;weight;MinQuantity;PriceBreaks
 22829-00083-LongSleeveCrew;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Blue#4169e1#0|Heavy Metal#3B3F48#0;M|Blue|0;;2;0;0-999999#0
 22829-00260-NL3600-Unisex-Cotton-Tee;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Heather Grey#BBB9C3#0;M|Heather Grey|0;;2;0;0-999999#0
 22829-00087-StandardLongSleeve;XS#0|S#0|M#0|L#0|XL#0|2XL#0|3XL#0;Heather#9c9da4#0|Heathergrey#BBB9C3#0;M|Heather|0;;1;0;0-999999#0
-
-
-
-
-
-
-
-I am having an issue with the Pressero Extended Services, Calculator. When I try to upload a csv file to update a calculator I am seeing this error,
-
-POST https://external.pressero.com/calculator/cargarcsv.php 500 (Internal Server Error)
-send	@	jquery-3.2.1.min.js:4
-ajax	@	jquery-3.2.1.min.js:4
-(anonymous)	@	index.php:68
-dispatch	@	jquery-3.2.1.min.js:3
-q.handle	@	jquery-3.2.1.min.js:3
