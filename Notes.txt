@@ -4,22 +4,22 @@
 
 
 Yesterday
-    - Universal Login Documentation
-    - Provo City | Tax Issue
-    - C2 User issues
-    - Bennie | Apparel API
-    - Speedy CPS Employee Site | User Edits
-    - Bish's RV | Site
-    - Ron Sayer Auto Group | Site
-
+    - City of Idaho Falls | Site
+    - Brighton | Site
+    - Persistent | Apparel API
+    - Site Maintenance Documentation
+    - Karie Anne's Meeting
+    - Order File Retrieval Documentation
+    - Everbowl | Email Notification Edits
+    - Campbell Companies | Site
 
 Today
-    - Campbell Companies | Site
-    - Clif Bar Basic Site
+    - Clif Bar | Site
+    - Persistent | Apparel API
     - Bennie | Apparel API
-    - Bish's RV | Tax Issue
     - BFS | Documentation and Videos
     - CB v2 Integration
+
 
 
 
