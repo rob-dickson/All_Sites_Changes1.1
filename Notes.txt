@@ -4,19 +4,15 @@
 
 
 Yesterday
-    - City of Idaho Falls | Site
-    - Brighton | Site
-    - Persistent | Apparel API
-    - Site Maintenance Documentation
-    - Karie Anne's Meeting
-    - Order File Retrieval Documentation
-    - Everbowl | Email Notification Edits
-    - Campbell Companies | Site
+    - Documentation
+    - Apparel API and Webhooks Error
+    - Approval Groups
+    - Clif Bar | Site
 
 Today
-    - Clif Bar | Site
-    - Persistent | Apparel API
-    - Bennie | Apparel API
+    - Benchmark Resorts & Hotels | Site Users
+    - Approval Discovery
+    - Apparel Site 
     - BFS | Documentation and Videos
     - CB v2 Integration
 
@@ -26,13 +22,13 @@ Today
 
 BUILD SWIG DEMO
 Don't see your plans? link for Blueprint Nav
-Follow up with John on Integration 
 Global QPs Don't work
 Sales pole to figure out who's is who's
 
 
 agifserver21
 192.168.0.226
+
 
 
 
