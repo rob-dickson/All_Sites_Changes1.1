@@ -4,15 +4,17 @@
 
 
 Yesterday
-    - Benchmark Resorts & Hotels | Site Users
+    - Apparel API and Webhooks Error
     - Apparel Demo options
-    - Lindon | Inventory Site Edits
-    - Apparel API Issues
+    - Karie Anne's Meeting
+    - Speedy CPS | User Edits
+    - Brighton | Site
+    - Bish's RV Tax Issue
 
 Today
     - Speedy CPS Site | User Edits
+    - L10 Prep
     - Apparel API Issues
-    - Apparel Site 
     - BFS | Documentation and Videos
     - CB v2 Integration
 
