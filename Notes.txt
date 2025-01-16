@@ -4,17 +4,14 @@
 
 
 Yesterday
-    - Apparel API and Webhooks Error
-    - Apparel Demo options
-    - Karie Anne's Meeting
     - Speedy CPS | User Edits
-    - Brighton | Site
     - Bish's RV Tax Issue
+    - Demo Options
+    - CB v2 Integration
 
 Today
-    - Speedy CPS Site | User Edits
-    - L10 Prep
-    - Apparel API Issues
+    - Sleep in Heavenly Peace | Reports
+    - L10 Tasks
     - BFS | Documentation and Videos
     - CB v2 Integration
 
