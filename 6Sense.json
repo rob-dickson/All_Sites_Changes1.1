@@ -1,0 +1,669 @@
+[
+    {
+        "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+        "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+        "SiteName": "6sense Bookstore",
+        "IsActive": true,
+        "Url": "6sensebook.pro-matters.com",
+        "SiteType": "CustomerStore",
+        "PrimaryDomain": "6sensebook.brandfulfillment.store",
+        "StartUrl": "",
+        "Culture": "en-US",
+        "SiteDomains": [
+            {
+                "Domain": "6sensebook.brandfulfillment.store",
+                "IsHTTPS": true,
+                "IsCannonical": true,
+                "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04"
+            }
+        ],
+        "MisId": null,
+        "SiteShippingMethods": [
+            {
+                "SiteShippingMethodId": "f2f18e13-56ba-4dab-a602-493b46259214",
+                "IsActive": true,
+                "SortOrder": 4,
+                "AvailableToAllGroups": true,
+                "SubscriberShippingMethod": {
+                    "SubscriberShippingMethodId": "8c270000-569f-0050-6d91-08db0f7235ea",
+                    "IsResidential": false,
+                    "MethodName": "UPS Ground (1-5 Business Days)",
+                    "MinCharge": 0.0000,
+                    "IsActive": true,
+                    "Markup": 30.0000,
+                    "Handling": 2.5000,
+                    "ClientID": null,
+                    "MaxPkgWt": 65.00,
+                    "ShippingMethod": {
+                        "Carrier": "UPSV2",
+                        "ServiceName": "UPS Ground",
+                        "TrackingMethod": "URL",
+                        "TrackingUrl": "http://wwwapps.ups.com/WebTracking/processInputRequest?HTMLVersion=5.0&sort_by=status&tracknums_displayed=5&TypeOfInquiryNumber=T&loc=en_US&InquiryNumber1=***TRACKING***&track.x=25&track.y=9",
+                        "CarrierServiceCode": "03",
+                        "MaxWt": 150,
+                        "IsActive": true
+                    },
+                    "Carrier": "UPSV2",
+                    "ServiceName": "UPS Ground",
+                    "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+                    "MisId": null
+                },
+                "AllowedGroups": [],
+                "SubscriberShippingMethodId": "8c270000-569f-0050-6d91-08db0f7235ea",
+                "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04"
+            }
+        ],
+        "SitePaymentMethods": [
+            {
+                "SitePMConfigInfo": {
+                    "Code": null,
+                    "Info": null
+                },
+                "AllowedGroups": [
+                    {
+                        "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                        "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+                        "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                        "GroupName": "AG Development",
+                        "GroupType": "C",
+                        "Description": "AlphaGraphics Development team members who build, develop, and maintain the store and its products.",
+                        "Acls": [
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canAdminAssets",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canAdminSiteReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canApproveSameLocation",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canApproveSameSite",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "CanCheckoutwithoutSelectingBudget",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canImpersonate",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canManageAccessibleBudgets",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canManageBudgets",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canViewAccessibleBudgetReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canViewBudgetReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canViewOrdersSameLocation",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canViewOrdersSite",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "canViewSiteReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "createUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "editSelf",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "editSiteLocations",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "editUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "getSiteLocations",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "getUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "getUsers",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "listAssets",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "orderProduct",
+                                "TargetType": "Product",
+                                "Target": "a4022940-c836-4403-b857-095e5d2a85f6",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "orderProduct",
+                                "TargetType": "Product",
+                                "Target": "abf5bfc5-d6b5-4016-9b92-59ce681aa742",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "viewInventory",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "viewPage",
+                                "TargetType": "Site",
+                                "Target": "1e33aee8-4acf-4f3b-9e12-61f0d249c7c1",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "c1f2426a-6eaf-4492-85e7-72e0a0e7fdec",
+                                "AclType": "viewPage",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                        "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+                        "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                        "GroupName": "AG Sales",
+                        "GroupType": "C",
+                        "Description": "AlphaGraphics Sales team members who need access to the site to process orders and support the account.",
+                        "Acls": [
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canAdminSiteReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canApproveSameLocation",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "D"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canApproveSameSite",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "D"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "CanCheckoutwithoutSelectingBudget",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canImpersonate",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canManageAccessibleBudgets",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canManageBudgets",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canViewAccessibleBudgetReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canViewBudgetReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canViewOrdersSite",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "canViewSiteReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "createUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "editSelf",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "editSiteLocations",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "editUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "getSiteLocations",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "getUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "getUsers",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "orderProduct",
+                                "TargetType": "Product",
+                                "Target": "a4022940-c836-4403-b857-095e5d2a85f6",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "orderProduct",
+                                "TargetType": "Product",
+                                "Target": "abf5bfc5-d6b5-4016-9b92-59ce681aa742",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "viewInventory",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "49c3d665-978e-4fe6-b577-cf5e7b14f0e6",
+                                "AclType": "viewPage",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            }
+                        ]
+                    },
+                    {
+                        "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                        "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+                        "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                        "GroupName": "Admin",
+                        "GroupType": "C",
+                        "Description": "Admin has access to manage reports, users, and view inventory levels.",
+                        "Acls": [
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "canAdminSiteReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "canImpersonate",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "D"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "canViewOrdersSite",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "canViewSiteReports",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "createUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "editSelf",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "editSiteLocations",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "editUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "getSiteLocations",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "getUser",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "getUsers",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "orderProduct",
+                                "TargetType": "Product",
+                                "Target": "a4022940-c836-4403-b857-095e5d2a85f6",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "orderProduct",
+                                "TargetType": "Product",
+                                "Target": "abf5bfc5-d6b5-4016-9b92-59ce681aa742",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "viewInventory",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "viewPage",
+                                "TargetType": "Site",
+                                "Target": "1e33aee8-4acf-4f3b-9e12-61f0d249c7c1",
+                                "AllowOrDeny": "A"
+                            },
+                            {
+                                "GroupId": "badcf236-3baf-4795-88b3-f8e4dcbe59e8",
+                                "AclType": "viewPage",
+                                "TargetType": "Site",
+                                "Target": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                                "AllowOrDeny": "A"
+                            }
+                        ]
+                    }
+                ],
+                "SitePaymentMethodId": "b0b3d001-ae0b-4e59-9abd-b4279c6c70a8",
+                "Provider": "Nonintegrated",
+                "ServiceName": "Misc",
+                "MethodName": "Invoice",
+                "IsActive": true,
+                "CustomSiteMessage": null,
+                "LongDescription": null,
+                "UseRange": false,
+                "MinTotal": 0.00,
+                "MaxTotal": 0.00,
+                "SortOrder": 2,
+                "DisplayProviderError": false,
+                "CustomCheckoutErrorMessage": null,
+                "Implementor": null,
+                "AvailableToAllGroups": false,
+                "SiteStoreId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+                "SubscriberPaymentMethodId": "68090000-569f-0050-3478-08db113d0488",
+                "PaymentTerms": null
+            }
+        ],
+        "SiteStore": {
+            "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+            "TaxStructure": "<salesTaxInfo><countryTaxes /><stateTaxes /><postalTaxes /><flatTaxRate>0</flatTaxRate><flatShippingSpecificRate p2:nil=\"true\" xmlns:p2=\"http://www.w3.org/2001/XMLSchema-instance\" /><taxBasedOn>shippingAddress</taxBasedOn><includeHandlingInTax>false</includeHandlingInTax><includeShippingInTax>false</includeShippingInTax><evalOrderPostalTax>1</evalOrderPostalTax><evalOrderStateTax>2</evalOrderStateTax><evalOrderCountryTax>3</evalOrderCountryTax><evalOrderFlatTax>4</evalOrderFlatTax><evalOnlyIfPriorIsZeroFlatTax>true</evalOnlyIfPriorIsZeroFlatTax><evalOnlyIfPriorIsZeroPostalTax>true</evalOnlyIfPriorIsZeroPostalTax><evalOnlyIfPriorIsZeroStateTax>true</evalOnlyIfPriorIsZeroStateTax><evalOnlyIfPriorIsZeroCountryTax>true</evalOnlyIfPriorIsZeroCountryTax></salesTaxInfo>",
+            "NavType": "tab",
+            "MisId": null,
+            "ShippingConfig": "<SiteConfig><InShip /><BrazilShip /></SiteConfig>",
+            "BillToDeptOption": "NO",
+            "CheckoutConversionTracking": null,
+            "CaptureReqShipDate": false,
+            "CaptureRequestedShipDate": 3,
+            "DefaultShipDays": null,
+            "PurchaseOrderPrompt": null,
+            "CapturePurchaseOrder": 0,
+            "LogoutUrl": null,
+            "ContinueShoppingUrl": "",
+            "BackToCatalogUrl": "",
+            "AnonymousCartInstructions": null,
+            "CXMLUrl": null,
+            "TaxId": null,
+            "CaptureTaxId": false,
+            "TaxIDName": null,
+            "AllowCustomPONumber": false,
+            "ValidatePONumber": false,
+            "CaptureBillingAddress": false,
+            "ShipToMultipleAddress": false,
+            "ProductQuickViewText": null,
+            "AllowGuestCheckout": false,
+            "TaxPrompt": null,
+            "TaxIdMask": null,
+            "ListPOCodeBasedOnBilling": false,
+            "IsEnableBudget": false,
+            "BudgetPrompt": null,
+            "ShoppingCartRedirectOption": 0,
+            "SelectShipAddress": false,
+            "ProofType": "PDF",
+            "PayBeforeApproval": true,
+            "FinishPendingOnApprove": false,
+            "Location": null,
+            "ShippingLocation": null,
+            "SiteStoreCust": {
+                "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                "SelfSignupApprovalGroup": "",
+                "CaptureShippingAddress": true,
+                "AuthConfig": null,
+                "AllowOneClickApproval": false,
+                "AllowApproverEdit": false,
+                "AllowAdHocForm": false,
+                "BillToLocation": null,
+                "PrimaryLocation": null,
+                "BossGroup": null,
+                "SalesUser": null,
+                "IsReturnFilesInHistoryToApprovers": true,
+                "AddressBookMode": 2,
+                "ApprovalPlans": [
+                    {
+                        "ApprovalPlanId": "22ce0a03-8aa9-407b-96c8-0b197d36bd81",
+                        "PlanName": "Basic plan",
+                        "Seq": 1,
+                        "IsActive": true,
+                        "SubscriberId": "7b4c94dc-b43e-4a2d-833a-58a6456148a2",
+                        "SiteId": "e72cdddb-ba8c-4219-b030-b6af41c10d04",
+                        "Rules": [
+                            {
+                                "ApprovalRuleId": "74fdd19c-fdf1-43e8-ad5d-87c9e8cffd0e",
+                                "ApprovalPlanId": "22ce0a03-8aa9-407b-96c8-0b197d36bd81",
+                                "RuleType": "userNeedsApproval",
+                                "DollarAmount": null,
+                                "AttributeName": null,
+                                "MatchText": null,
+                                "WhoCanApproveFlags": 8,
+                                "ActionsAllowed": 2,
+                                "Seq": 1,
+                                "RuleName": "Default rule",
+                                "SiteShippingMethodId": null,
+                                "MatchGroupId": null,
+                                "ExtraApprovalGroupId": null,
+                                "LocationId": null
+                            }
+                        ]
+                    }
+                ],
+                "Locations": [],
+                "Departments": [],
+                "Budgets": [],
+                "PrimaryLocationId": null,
+                "SubscriberSalesUser": null,
+                "ApprovalPlanId": "22ce0a03-8aa9-407b-96c8-0b197d36bd81",
+                "BossGroupId": null,
+                "BillToLocationId": null,
+                "BrokerId": null
+            },
+            "SiteCxmlPunchOutInfo": null,
+            "Promos": [],
+            "ShipFromLocation": null,
+            "SubscriberLocationId": null,
+            "SubscriberTaxProfileID": "602b0000-569f-0050-9b81-08dbc353df8c"
+        },
+        "ExplicitConsentForPrivacy": false,
+        "PrivacyPolicyPageURL": null,
+        "PrivacyPolicyCustomPrompt": null,
+        "ConsentToContactCustomPrompt": null,
+        "ReCaptcha": false,
+        "ReCaptchaTermsOfUseUrl": null,
+        "ReCaptchaCookiePolicyUrl": null,
+        "ReCaptchaPrivacyPolicyUrl": null
+    }
+]

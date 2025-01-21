@@ -4,13 +4,14 @@
 
 
 Yesterday
-    - Sleep in Heavenly Peace | Reports
-    - Demo Options
-    - CB v2 Integration
-    - Flynn Companies | BFS Calculators
+    - BFS Site List Updates
+    - Paycom Training
+    - Speedy CPS | User Edits
 
 Today
-    - Performance Windows
+    - Speedy CPS | User Edits
+    - Speedy Training 
+    - Demo Options
     - L10 Tasks
     - BFS | Documentation and Videos
     - CB v2 Integration
