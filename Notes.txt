@@ -4,14 +4,13 @@
 
 
 Yesterday
-    - BFS Site List Updates
-    - Paycom Training
     - Speedy CPS | User Edits
+    - Demo Site Build
+    - Clif Bar | Site
+    - Site Documentation
 
 Today
-    - Speedy CPS | User Edits
-    - Speedy Training 
-    - Demo Options
+    - Demo Site Build
     - L10 Tasks
     - BFS | Documentation and Videos
     - CB v2 Integration
