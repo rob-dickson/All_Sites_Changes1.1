@@ -4,18 +4,20 @@
 
 
 Yesterday
-    - Speedy CPS | User Edits
-    - Demo Site Build
-    - Clif Bar | Site
-    - Site Documentation
+    - Speedy CPS Employee Site | User Edits
+    - Performance Windows | Site
+    - CB v2 Integration
+    - Sicilian Butcher | Site
 
 Today
-    - Demo Site Build
+    - Sicilian Butcher | Site
+    - HSD Sandbox
+    - agPrintPortal Demo Site Build
     - L10 Tasks
-    - BFS | Documentation and Videos
     - CB v2 Integration
 
 
+    - BFS | Documentation and Videos
 
 
 
@@ -797,3 +799,133 @@ display: none;
         width: 50%;
     }
 </style>
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", function () {
+  // Create the button element
+  var button = document.createElement("button");
+  button.innerHTML = "Need Help?";
+  button.style.position = "fixed";
+  button.style.bottom = "20px";
+  button.style.right = "20px";
+  button.style.padding = "10px 20px";
+  button.style.backgroundColor = "#D22A30";
+  button.style.color = "white";
+  button.style.border = "none";
+  button.style.borderRadius = "5px";
+  button.style.cursor = "pointer";
+  button.style.fontSize = "1.25em";
+
+  // Add hover effect
+  button.onmouseover = function () {
+    button.style.backgroundColor = "white";
+    button.style.color = "Black";
+    button.style.border = "1px solid Black";
+  };
+  button.onmouseout = function () {
+    button.style.backgroundColor = "#D22A30";
+    button.style.color = "White";
+    button.style.border = "none";
+  };
+
+  // Set the button click event
+  button.onclick = function () {
+    window.open("https://bfshelp.freshdesk.com", "_blank");
+  };
+
+  // Append the button to the body
+  document.body.appendChild(button);
+});
+
+
+
+<style>
+
+body header div.header-main div.header-body div div div.hidden-xs.col-sm-8.col-md-5.col-lg-6 div div input {
+    background-color: #fff !important;
+    color: #444 !important;
+}
+
+</style>
+
+
+<style>
+
+#kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div p{
+display: none;
+}
+
+#kitArea div div div.kit-set-item-image-desc div div.col-sm-4{
+display: none;
+}
+
+#kitArea div div.well {
+    display: flex;
+    padding: 19px;
+    padding-bottom: 0em;
+    margin-bottom: 5px;
+}
+
+#kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div h4 {
+    margin-top: 0px !important;
+    text-wrap-mode: nowrap;
+    padding-top: 5px;
+}
+
+#kitArea div div div.kit-set-item-image-desc{
+    width: 55%;
+} 
+
+#kitArea div div div.kit-set-item-price-area{
+    width: 66%;
+}
+
+#kitArea div div.form-group.kit-quantity{
+    display: none;
+}
+
+
+#kitArea div div div.kit-set-item-price-area div div{
+    display: flex;
+}
+
+#kitArea div div div.kit-set-item-price-area div div label{
+    padding-top: 5px;
+    padding-right: 1em;
+}
+
+
+@media screen and (max-width: 1200px) {
+
+#kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div h4 {
+    font-size: small !important;
+}
+#kitArea div div.well {
+    font-size: small !important;
+}
+
+}
+
+@media screen and (min-width: 992px) {
+
+#kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div h4 {
+    font-size: auto !important;
+}
+#kitArea div div.well {
+    font-size: auto !important;
+}
+
+}
+
+
+</style>
+**************************************************************
+
+
+
+
+
+<style>#kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div p{ display: none; } #kitArea div div div.kit-set-item-image-desc div div.col-sm-4{ display: none; } #kitArea div div.well { display: flex; padding: 19px; padding-bottom: 0em; margin-bottom: 5px; } #kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div h4 { margin-top: 0px !important; } #kitArea div div div.kit-set-item-image-desc, #kitArea div div div.kit-set-item-price-area{ width: 50%; }</style>
