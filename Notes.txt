@@ -10,9 +10,10 @@ Yesterday
     - Sicilian Butcher | Site
 
 Today
-    - Sicilian Butcher | Site
+    - Freshdesk | Edits
+    - Performance Windows | Users
     - HSD Sandbox
-    - agPrintPortal Demo Site Build
+    - agPrintPortal Demo Site
     - L10 Tasks
     - CB v2 Integration
 
@@ -21,11 +22,10 @@ Today
 
 
 
-BUILD SWIG DEMO
-Don't see your plans? link for Blueprint Nav
-Global QPs Don't work
-Sales pole to figure out who's is who's
+https://www.alphagraphicsmarketing.com/img/ag-Print-Portal-Logo-2C.png
 
+<p><span><img src="https://www.alphagraphicsmarketing.com/img/ag-Print-Portal-Logo-2C.png" width="190" height="48" alt="" /><br />
+</span></p>
 
 agifserver21
 192.168.0.226
