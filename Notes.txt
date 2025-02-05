@@ -4,16 +4,16 @@
 
 
 Yesterday
-    - Speedy CPS Employee Site | User Edits
-    - Performance Windows | Site
-    - CB v2 Integration
-    - Sicilian Butcher | Site
+    - Freshdesk | Edits
+    - Everbowl | Site Edits
+    - Performance Windows | User Training
+    - agPrintPortal Demo Site Build
+    - AHS | Site Issue
 
 Today
-    - Freshdesk | Edits
-    - Performance Windows | Users
-    - HSD Sandbox
+    - AHS | Site Issue
     - agPrintPortal Demo Site
+    - Core Architecture | Site
     - L10 Tasks
     - CB v2 Integration
 
@@ -30,8 +30,49 @@ https://www.alphagraphicsmarketing.com/img/ag-Print-Portal-Logo-2C.png
 agifserver21
 192.168.0.226
 
+TO BUILD
+    Select Portfolio Servicing
+    Elko Dental
+    McArther Home
+    Hub International
+    Westminister
+    Rooftek
+    Hamlet Homes
+    Cambell Companies
+    Whitibaker Construction
+    Security National Life
+    Cryq Energy
+    Dog Training Elite
+    Western Govenors University
+    Wheeler Machinery Co.
+    Real Salt Lake & Monarchs
+    Heart & Lung Institute of Utah
+    Utah Pain Specialists
+    Salt Lake Chamber of Commerce
+    Academy Mortgage
+    FJ Management
+    MaCall Hotel Management & Development
+    Columbus Community Center
+    GPS Capital
+    Granite School District
+    Modern & Main Real Estate
+    Chipr
+    Special Olympics of Utah - Public
+    Special Olympics of Utah - Private
+    University of Utah
 
-
+NOT BUILDING
+    Signiture Health
+    Insurance Network
+    CLS Health
+    Brighton Hospice
+    Alliance Health Networks
+    Alta View Sports Medicine
+    Total Reporting
+    Net Documents
+    Layton Okland
+    Salt Lake Legal
+    Miller sports & Entertainment
 
 
 American Fork
