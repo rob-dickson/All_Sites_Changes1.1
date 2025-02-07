@@ -4,21 +4,88 @@
 
 
 Yesterday
-    - Freshdesk | Edits
-    - Everbowl | Site Edits
-    - Performance Windows | User Training
-    - agPrintPortal Demo Site Build
-    - AHS | Site Issue
+    - Rooftek | Site
+    - Hamlet Homes | Site
+    - Speedy CPS Site | User Edits
+    - Performance Windows | Users
 
 Today
-    - AHS | Site Issue
-    - agPrintPortal Demo Site
-    - Core Architecture | Site
+    - Performance Windows | Users
+    - Hamlet Homes
+    - Arivo Acceptance
     - L10 Tasks
     - CB v2 Integration
 
 
     - BFS | Documentation and Videos
+
+Fat Cats | Brand Fulfillment Store (Annette Rasmussen, Cory Hernandez, Tyler Jensen)
+    - Fat Cats - 262 
+    - Fat Cats Fun Logan - 30997
+    - Fat Cats Fun Centers - 20602
+
+Performance Windows | Brand Fulfillment Store 
+    James Van Fleet and Austin Simpson
+        - Performance Windows - Austin - 24701
+        - Performance Windows - Boise ID - 23089
+        - Performance Windows - Charlotte NC - 39881
+        - Performance Windows - Colorado Springs - 44943
+        - Performance Windows - Dallas - 28594
+        - Performance Windows - Denver North - 27121
+        - Performance Windows - Denver South - 38045
+        - Performance Windows - Houston - 28859
+        - Performance Windows - Jacksonville - 25022
+        - Performance Windows - Kaysville - 22930
+        - Performance Windows - Las Vegas - 38077
+        - Performance Windows - Nashville, TN - 43633
+        - Performance Windows - Orlando - 35385
+        - Performance Windows - PG/Corporate - 14066
+        - Performance Windows - Phoenix - 23163
+        - Performance Windows - Tucson - 28352
+
+Lice Clinics | Brand Fulfillment Store 
+    Tina Hunt
+        - Lice Clinics of America - 14081
+        - Lice Clinics of America - Bowling Green - 22773
+    Judy Hayden
+        - Lice Clinics of America - 14081
+        - Lice Clinics of America - Lexington - 20743
+    Amanda Westerman
+        - Lice Clinics of America - 14081
+        - Lice Clinics of America - McKinney - 20744
+        - Lice Clinics of America - Richardson - 44517
+    Courtney Callahan
+        - Lice Clinics of America - 14081
+        - Lice Clinics of America - Murray - 20747
+    Athena West
+        - Lice Clinics of America - 14081
+        - Lice Clinics of America - Nashville - 38894
+    Mayra Thompson
+        - Lice Clinics of America - 14081
+        - Lice Clinics of America - Portand - 25339
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
