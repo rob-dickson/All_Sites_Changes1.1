@@ -4,15 +4,17 @@
 
 
 Yesterday
-    - Rooftek | Site
-    - Hamlet Homes | Site
-    - Speedy CPS Site | User Edits
     - Performance Windows | Users
+    - Speedy CPS Employee Site | User Edits
+    - Arivo Acceptance | Site
+    - Whitibaker Construction | Site
+    - Security National Life | Site
 
 Today
-    - Performance Windows | Users
-    - Hamlet Homes
-    - Arivo Acceptance
+    - Performance Windows | Site Edits
+    - Security National Life | Site
+    - Cryq Energy
+    - Dog Training Elite
     - L10 Tasks
     - CB v2 Integration
 
