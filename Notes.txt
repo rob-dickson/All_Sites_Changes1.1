@@ -4,16 +4,16 @@
 
 
 Yesterday
-    - Performance Windows | Users
-    - Speedy CPS Employee Site | User Edits
-    - Arivo Acceptance | Site
-    - Whitibaker Construction | Site
-    - Security National Life | Site
+    - SAL Management | Users
+    - CoreBridge API
+    - Paycom Training
+    - Wheeler Machinery Co | Site
+    - Brighton | Assets
+    - Heart & Lung Institute of Utah | Site
 
 Today
-    - SAL Management | Users
-    - Wheeler Machinery Co.
-    - Heart & Lung Institute of Utah
+    - Heart & Lung Institute of Utah | Site
+    - Everbowl Tax
     - Utah Pain Specialists
     - L10 Tasks
     - CB v2 Integration
