@@ -11,10 +11,10 @@ Yesterday
     - Security National Life | Site
 
 Today
-    - Performance Windows | Site Edits
-    - Security National Life | Site
-    - Cryq Energy
-    - Dog Training Elite
+    - SAL Management | Users
+    - Wheeler Machinery Co.
+    - Heart & Lung Institute of Utah
+    - Utah Pain Specialists
     - L10 Tasks
     - CB v2 Integration
 
@@ -1039,3 +1039,84 @@ display: none;
 
 
 <style>#kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div p{ display: none; } #kitArea div div div.kit-set-item-image-desc div div.col-sm-4{ display: none; } #kitArea div div.well { display: flex; padding: 19px; padding-bottom: 0em; margin-bottom: 5px; } #kitArea div div div.kit-set-item-image-desc div div.col-sm-8 div h4 { margin-top: 0px !important; } #kitArea div div div.kit-set-item-image-desc, #kitArea div div div.kit-set-item-price-area{ width: 50%; }</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1- What is expected of me in my role?
+
+I am expected to build, update, and manage websites, both front and backend, and software integration with those websites where and when applicable. This includes all websites on Pressero and what is left on XMPie. It also includes the integration of these sites with Corbridge and other third-party systems.
+
+2- How does my role impact the organization and its goals?
+
+My role impacts the organization and its goals by providing our customers an efficient tool to place orders without the hassle of calling an order in, it also simplifies the ordering process. This frees up salesman's time to service our customers in other ways. When I do my job right, a large portion of the busy work goes away.
+
+3- What areas, skills or development needs do you want to work on over the next quarter?
+
+I want to continue learning better coding practices so that I can build more efficient sites. Along with this I want to spend more time understanding the capabilities of Pressero so that I can build better sites faster and less buggy.
+
+4- What are three things we, as a company, can do to support you in your development?
+
+From what I have seen, the company has been amazing at providing opportunities to learn and grow and the training to grow as well. But the three things I will say are, training, new opportunities, and more training.
+
+5- What opportunities do you want to pursue during the next quarter?
+
+I want to continue to be involved with the build-out of the Corbridge integration.
+
+Self-Review
+Comments:
+This last year has been a great year for learning what our current limitations are. I 
+
+
+
+I still feel like Im drinking from a fire hose, but I am understanding better and faster. I am excited for more sites like Bennie and Tactical Precision that want to stretch my abilities and make me work hard at delivering a great product.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
