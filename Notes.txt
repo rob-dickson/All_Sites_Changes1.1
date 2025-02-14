@@ -4,16 +4,14 @@
 
 
 Yesterday
-    - MaCall Hotel Management & Development |Site
-    - Columbus Community Center
-    - Granite School District
+    - Modern & Main Real Estate
     - Sicilian Butcher | Site
-    - Phil Shipping issue
-    - Brighton | Site
+    - South Salt Lake | User Updates
+    - Missoula Site
 
 Today
-    - Modern & Main Real Estate
-    - University of Utah
+    - Support Link 
+    - Missoula Site Files
     - L10 Tasks
     - CB v2 Integration
 
