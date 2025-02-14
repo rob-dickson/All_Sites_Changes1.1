@@ -4,17 +4,16 @@
 
 
 Yesterday
-    - SAL Management | Users
-    - CoreBridge API
-    - Paycom Training
-    - Wheeler Machinery Co | Site
-    - Brighton | Assets
-    - Heart & Lung Institute of Utah | Site
+    - MaCall Hotel Management & Development |Site
+    - Columbus Community Center
+    - Granite School District
+    - Sicilian Butcher | Site
+    - Phil Shipping issue
+    - Brighton | Site
 
 Today
-    - Heart & Lung Institute of Utah | Site
-    - Everbowl Tax
-    - Utah Pain Specialists
+    - Modern & Main Real Estate
+    - University of Utah
     - L10 Tasks
     - CB v2 Integration
 
@@ -69,7 +68,32 @@ Lice Clinics | Brand Fulfillment Store
 
 
 
-
+American Eagle
+Boyle Deveny Meyer
+Western Montana Clinic
+ALPS 
+Allegiance
+Blackfoot Communications
+Vim&Vigr
+University of Montana
+Coffee ?
+City of Missoula
+Ammonite Rainbow ? 
+Missoula Childrens Theatre
+Dayspring Restoration
+Missoula Aging Services
+Missoula Correctional Services
+JCCS
+Western Montana Clinic
+Envirocon 
+Western Montana Mental Health Center
+Jackson Contractor Group
+First Montana Bank
+Clearwater Credit Union
+Consumer Direct Care Network
+Marsh McLennan Agency
+Montana Technological University Storefront
+University of Montana
 
 
 
