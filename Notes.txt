@@ -4,10 +4,9 @@
 
 
 Yesterday
-    - Modern & Main Real Estate
-    - Sicilian Butcher | Site
-    - South Salt Lake | User Updates
-    - Missoula Site
+    - Everbowl | User Edits
+    - Support Link
+    - CB v2 Integration
 
 Today
     - Support Link 
