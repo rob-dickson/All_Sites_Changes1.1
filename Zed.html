@@ -368,3 +368,129 @@ padding-bottom: 3em;
 <p style="font-size: 1.25em;color: rgba(239, 90, 96, 1);">
     Special AHS 10% discount applied!
 </p>
+
+
+<div class="main">
+    <div class="title-area">
+        <div class="title text">CDCN Print Store</div>
+        <div class="subtitle text">Order CDCN-branded print items and swag</div>
+        <div class="button button-primary truncate">Shop now</div>
+    </div>
+</div>
+
+I need a JS script that I can add to a webpage that will add this html to the div with id="home-banner" as an overlay
+
+
+<div>
+    <style>
+        .new_banner {
+            border: 1px solid #005AA3;
+            padding: 4em 0em 4em 0em;
+        }
+
+        .banner_section {
+            text-align: center;
+        }
+    </style>
+    <div class="new_banner">
+        <section class="banner_section">
+            <h2><span style="color:#ffffff;"><strong>CDCN Print Store</strong></span></h2>
+            <p><span style="color:#ffffff;">Order CDCN-branded print items and swag</span></p>
+        </section>
+    </div>
+</div>
+
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const bannerWidget = document.querySelector(".widget.widget-banner");
+
+        if (bannerWidget) {
+            const overlayHTML = `
+                <div class="banner-overlay">
+                    <style>
+                        .banner-overlay {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            height: 100%;
+                            color: white;
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: center;
+                            align-items: center;
+                            text-align: center;
+                            padding: 20px;
+                            z-index: 100;
+                        }
+                        .banner-overlay h2 {
+                            font-size: 2rem;
+                            margin-bottom: 10px;
+                        }
+                        .banner-overlay p {
+                            font-size: 1.2rem;
+                        }
+                    </style>
+                    <h2>CDCN Print Store</h2>
+                    <p>Order CDCN-branded print items and swag</p>
+                </div>
+            `;
+
+            bannerWidget.insertAdjacentHTML("beforeend", overlayHTML);
+        } else {
+            console.warn("Banner widget not found");
+        }
+    });
+</script>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const bannerWidget = document.querySelector(".widget.widget-banner");
+
+        if (bannerWidget) {
+            const overlayHTML = `
+                <div class="banner-overlay">
+                    <style>
+                        .banner-overlay {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            height: 100%;
+                            color: white !important;
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: center;
+                            align-items: center;
+                            text-align: center;
+                            padding: 20px;
+                            z-index: 100;
+                        }
+                        .banner-overlay h1 {
+                            margin-bottom: 10px;
+                        }
+                        #home-banner div div.banner-overlay h1 {
+                            color: white !important;
+                            font-size: xxx-large;
+                        }                            
+                        #home-banner div div.banner-overlay h3 {
+                            color: white !important;
+                            font-size: x-large;
+                        }
+                    </style>
+                    <h1>CDCN Print Store</h1>
+                    <h3>Order CDCN-branded print items and swag</h3>
+                </div>
+            `;
+
+            bannerWidget.insertAdjacentHTML("beforeend", overlayHTML);
+        } else {
+            console.warn("Banner widget not found");
+        }
+    });
+</script>
