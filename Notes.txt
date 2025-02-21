@@ -5,12 +5,15 @@
 
 Yesterday
     - Consumer Direct | Site
-    - Sleep in Heavenly Peace | Users
+    - Homestyle Direct | Integration Issues
     - Speedy CPS Employee Site | Site Edits
+    - Performance Windows | Integration
 
 Today
+    - CoreBridge API
+    - Performance Windows
     - Consumer Direct | Site
-    - Speedy Site Fixes
+    - Speedy Site Budget Fixes
     - L10 Tasks
 
     **** Set Budgets ****
@@ -62,6 +65,70 @@ Lice Clinics | Brand Fulfillment Store
     Mayra Thompson
         - Lice Clinics of America - 14081
         - Lice Clinics of America - Portand - 25339
+
+
+
+
+
+
+
+1Pay - Local Banking Charging 
+Alipay
+Authorize.Net CIM
+CardConnect
+CIC
+Corvus
+CyberSource Hosted
+EBS - Payment Gateway
+eGHL
+eNets
+EPayDankort
+EuPago
+IPAY88
+K-Bank
+Mercado Pago
+Midtrans
+Misc
+MobilPay
+Moneris Hosted
+NAB Transact
+Pagos Online
+PagSeguro
+PayFast
+Paypage
+PayPal
+PayTabs
+Paytrail
+PayU Money
+PayU WebCheckout
+Print Reach Pay
+Redsys
+Stripe
+TouchNet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
