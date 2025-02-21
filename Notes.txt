@@ -4,16 +4,16 @@
 
 
 Yesterday
-    - Shipping issue
-    - Performance Windows | Integration
-    - Missoula Center Site
-    - Performance Windows | Assets
+    - Consumer Direct | Site
+    - Sleep in Heavenly Peace | Users
+    - Speedy CPS Employee Site | Site Edits
 
 Today
-    - Everbowl | Order Issue
-    - Consumer Direct PreBuild
+    - Consumer Direct | Site
+    - Speedy Site Fixes
     - L10 Tasks
-    - CB v2 Integration
+
+    **** Set Budgets ****
 
 
     - BFS | Documentation and Videos
