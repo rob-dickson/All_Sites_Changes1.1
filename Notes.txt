@@ -4,16 +4,16 @@
 
 
 Yesterday
-    - Consumer Direct | Site
-    - Homestyle Direct | Integration Issues
-    - Speedy CPS Employee Site | Site Edits
-    - Performance Windows | Integration
+    - Missoula Sites    
+    - CB v2 API 
+    - Boise State | Order Issue
+    - Performance Windows | permissions
+    - V2 Integration
 
 Today
-    - CoreBridge API
-    - Performance Windows
-    - Consumer Direct | Site
-    - Speedy Site Budget Fixes
+    - Missoula Sites    
+    - V2 Integration
+    - Speedy Site User
     - L10 Tasks
 
     **** Set Budgets ****
@@ -65,66 +65,6 @@ Lice Clinics | Brand Fulfillment Store
     Mayra Thompson
         - Lice Clinics of America - 14081
         - Lice Clinics of America - Portand - 25339
-
-
-
-
-
-
-
-1Pay - Local Banking Charging 
-Alipay
-Authorize.Net CIM
-CardConnect
-CIC
-Corvus
-CyberSource Hosted
-EBS - Payment Gateway
-eGHL
-eNets
-EPayDankort
-EuPago
-IPAY88
-K-Bank
-Mercado Pago
-Midtrans
-Misc
-MobilPay
-Moneris Hosted
-NAB Transact
-Pagos Online
-PagSeguro
-PayFast
-Paypage
-PayPal
-PayTabs
-Paytrail
-PayU Money
-PayU WebCheckout
-Print Reach Pay
-Redsys
-Stripe
-TouchNet
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1217,16 +1157,26 @@ This past year has been particularly challenging as I struggled to see many tang
 
 
 
+###################################################################################################################################################
+###################################################################################################################################################
 
 
 
+<p>Your browser has implemented some security updates. Please ensure your browser </p>
+<p>is updated to its latest version, and clear your cache and site data. Doing so will </p>
+<p>help your site and products function smoothly. If you need assistance with updating </p>
+<p>your browser or clearing cache, please refer to the links below:</p>
+<p><strong>Google Chrome:</strong> <a href="https://youtu.be/HMEdQan8AkE" target="_blank">Updating &amp; Clearing Cache and Data</a><br />
+<strong>Mozilla Firefox:</strong> <a href="https://youtu.be/VX5UHwIK-50" target="_blank">Updating &amp; Clearing Cache and Data</a><br />
+<strong>Microsoft Edge:</strong> <a href="https://youtu.be/h2Th2jSKf94" target="_blank">Updating &amp; Clearing Cache and Data</a><br />
+<strong>Safari:</strong> <a href="https://oit.colorado.edu/tutorial/clear-web-browser-cache-safari" target="_blank">Updating &amp; Clearing Cache and Data</a></p>
+<p><br />
+Thank you for helping us maintain a secure and optimized browsing experience!</p>
 
 
 
-
-
-
-
+###################################################################################################################################################
+###################################################################################################################################################
 
 
 
