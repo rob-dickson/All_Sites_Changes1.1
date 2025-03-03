@@ -11,9 +11,10 @@ Yesterday
     - V2 Integration
 
 Today
+    - SAL Management | Notifications
     - Missoula Sites    
     - V2 Integration
-    - Speedy Site User
+    - Speedy Site Budgets
     - L10 Tasks
 
     **** Set Budgets ****
