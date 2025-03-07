@@ -2,16 +2,16 @@
 
 
 Yesterday
-    - Speedy CPS Site | Budgets
-    - Dev Meeting with Nick
+    - Missoula Sites
+    - Consumer Direct | Site
     - Lice Clinics | Weight issue
     - Pressero API
 
 Today
-    - Lice Clinics | User issue
-    - Pressero API
+    - Master Autotech | Shipping
+    - Consumer Direct | Site
     - Missoula Sites
-    - L10 Tasks/Meeting
+    - L10 Tasks
 
     - BFS | Documentation and Videos
 
