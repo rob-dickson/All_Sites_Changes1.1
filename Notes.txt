@@ -2,16 +2,15 @@
 
 
 Yesterday
-    - SAL | Notifications
-    - Paycom Training
-    - Missoula Sites
-    - CB v2 API
-    - Print Speak Meeting
+    - Speedy CPS Site | Budgets
+    - Dev Meeting with Nick
+    - Lice Clinics | Weight issue
+    - Pressero API
 
 Today
-    - CB v2 API
+    - Lice Clinics | User issue
+    - Pressero API
     - Missoula Sites
-    - Speedy Site Budgets
     - L10 Tasks/Meeting
 
     - BFS | Documentation and Videos
