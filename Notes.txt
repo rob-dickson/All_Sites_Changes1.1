@@ -2,15 +2,17 @@
 
 
 Yesterday
-    - Missoula Sites
-    - Consumer Direct | Site
-    - Lice Clinics | Weight issue
-    - Pressero API
+    - Speedy CPS Site | Permissions
+    - Vox | API Discovery Meeting
+    - SHP | User Issue
+    - American  Fork ShipStation
+    - Master Autotech | Shipping
 
 Today
+    - American  Fork ShipStation
     - Master Autotech | Shipping
-    - Consumer Direct | Site
-    - Missoula Sites
+    - Speedy CPS Site | Permissions
+    - CB v2 API
     - L10 Tasks
 
     - BFS | Documentation and Videos
