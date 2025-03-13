@@ -2,18 +2,16 @@
 
 
 Yesterday
-    - Speedy CPS Site | Permissions
-    - Vox | API Discovery Meeting
-    - SHP | User Issue
-    - American  Fork ShipStation
-    - Master Autotech | Shipping
+    - Fix Link on All sites
+    - Homestyle Direct | Integration Issues
+    - Missoula Sites
 
 Today
+    - Homestyle Direct | Integration Issues
     - American  Fork ShipStation
-    - Master Autotech | Shipping
-    - Speedy CPS Site | Permissions
-    - CB v2 API
+    - Clearwater Credit Union | Site
     - L10 Tasks
+    - CB v2 API
 
     - BFS | Documentation and Videos
 
