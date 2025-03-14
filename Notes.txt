@@ -2,16 +2,15 @@
 
 
 Yesterday
-    - Fix Link on All sites
     - Homestyle Direct | Integration Issues
-    - Missoula Sites
+    - Everbowl | Order Issue
+    - Clearwater Credit Union | Site
 
 Today
+    - Clearwater Credit Union | Site
     - Homestyle Direct | Integration Issues
     - American  Fork ShipStation
-    - Clearwater Credit Union | Site
     - L10 Tasks
-    - CB v2 API
 
     - BFS | Documentation and Videos
 
