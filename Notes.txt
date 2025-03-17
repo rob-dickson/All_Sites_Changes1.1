@@ -7,9 +7,10 @@ Yesterday
     - Clearwater Credit Union | Site
 
 Today
+    - Morrison-Maierle | Site
     - Clearwater Credit Union | Site
     - Homestyle Direct | Integration Issues
-    - American  Fork ShipStation
+    - AWI Issues
     - L10 Tasks
 
     - BFS | Documentation and Videos
