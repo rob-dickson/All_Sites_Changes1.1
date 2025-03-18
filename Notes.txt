@@ -2,16 +2,18 @@
 
 
 Yesterday
+    - AWI Issues
     - Homestyle Direct | Integration Issues
-    - Everbowl | Order Issue
-    - Clearwater Credit Union | Site
+    - Apparel API
+    - Morrison-Maierle | Site
 
 Today
+    - Sleep in Heavenly Peace | User Issue
+    - ShipStation Set Up
     - Morrison-Maierle | Site
-    - Clearwater Credit Union | Site
-    - Homestyle Direct | Integration Issues
-    - AWI Issues
+    - Missoula Stores | Site
     - L10 Tasks
+
 
     - BFS | Documentation and Videos
 
