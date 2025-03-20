@@ -2,15 +2,14 @@
 
 
 Yesterday
-    - AWI Issues
-    - Homestyle Direct | Integration Issues
-    - Apparel API
-    - Morrison-Maierle | Site
+    - Brighton | Assets
+    - American  Fork ShipStation
+    - agPrintPortal Setup
 
 Today
-    - Sleep in Heavenly Peace | User Issue
-    - ShipStation Set Up
     - Morrison-Maierle | Site
+    - American  Fork ShipStation
+    - agPrintPortal Setup
     - Missoula Stores | Site
     - L10 Tasks
 
@@ -449,3 +448,83 @@ Thank you for helping us maintain a secure and optimized browsing experience!</p
 
 
 
+Chat started
+Category: Domain Registration
+Domain: None
+Subject: I am trying to set up a new domain
+
+I am trying to set up a new domain, " agprintportal.com" and I am getting an error
+Juan V joined the chat
+Juan V
+Hello thanks for using DreamHost LiveChat my name is Juan V! I'll be happy to assist you. One moment while I pull up your account.
+Could you let me know the error being received please?
+
+This Domain already exists in our system. Please try again with another domain.
+Juan V
+Thanks for holding online allow me to have a look. Please bear with me.
+
+Thank you
+Juan V
+IT should allow you to add it now from the main account.
+Since this account does not have the correct priveleges you cannod add it from here.
+
+Thank you, I will let the admin know. They add it by clicking Manage Websites / Add Website / Enter your domain, and then entering that domain, correct?
+Juan V
+yes
+
+Awesome, thank you!
+Chat rated Good
+Juan V
+In the meantime, is there anything else I can assist you with?
+It looks like you may have stepped away from the chat. Do you wish to continue?
+It appears you have stepped away from the chat. As that is the case, I am going to close the session now. If you have any additional questions or concerns, please feel free to contact us again at any time. Thanks again for contacting DreamHost Support!
+
+Juan V left the chat
+Chat ended
+Today 3:24 PM
+
+Category: Other
+Domain: None
+Subject: How do I make my domain DNS only?
+
+On my account I have a domain that is agprintportal.com and I need to make it DNS Only and add it to my Websites tab. How do I do that?
+Chat started
+Camille F joined the chat
+Camille F
+Hello there, thank you for contacting DreamHost Support! Camille here! I'll be happy to assist you. One moment while I pull up your account.
+
+Thank you
+Camille F
+Thank you for waiting. To set the domain, agprintportal.com as DNS only, this can be done through the Websites > Manage Websites page.
+It looks like you are linked to the main account, which means that the main account holder can do it instead.
+For the steps, you can provide this article:
+https://help.dreamhost.com/hc/en-us/articles/360056398191-Setting-your-domain-to-DNS-Only
+
+So with my permissions I can't Add Website? Is that correct?
+Camille F
+That's correct
+
+How does the main account give me that permission? I think he has tried twice today and I'm still stuck.
+Camille F
+First, they need to add the domain first in the Website > Manage Websites first and set to DNS only
+Then tick the domain in privileges.
+I just checked and look like that domain is still not added in the Websites > Manage Websites page
+
+And I can't add it? My manager is slow getting back...
+Camille F
+There is no option to add it from your end.
+It will say that the domain already exists.
+
+Got it, I will tell him that he really does need to do it. Thank you for your help!
+Camille F
+You're welcome!
+Is there anything else I can assist you with today?
+
+Nope. You are awesome!
+Chat rated Good
+Camille F
+Alright. Thank you for contacting DreamHost Support! Please feel free to chat back in if you have any other questions and we will be happy to assist you! Have a great day!
+Camille F left the chat
+
+Thank you! You as well
+Queue position: 1
