@@ -37,7 +37,18 @@ Morrison-Maierle - Direct to Garment - Sam Martin
     
 
 
+I am sorry this is late.
 
+Current sites under build status 
+   90% - Consumer Direct Care Network - Jessica - Missoula
+   85% - Clearwater Credit Union - Jessica - Missoula
+   60% - Monte Carlo Data -Phil - American Fork
+   60% - Morrison-Maierle - Sam - Helena
+
+Other Projects
+    - ShipStation - Dan - American Fork 
+    - Master Autotech Shipping Issues - Davin
+    - CoreBridge Integration - All
 
 
 
