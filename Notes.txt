@@ -16,6 +16,61 @@ Today
 
     - BFS | Documentation and Videos
 
+
+
+MonteCarlo - Apparel Site - Phil
+    - Inventory
+    - Branded Site
+    - 
+
+
+
+For MonteCarlo I am working on gathering info for site set up. I now have logos and I'll pull colors from their main website. I will have a rough site up by end of day today and work on polish next week. I still need a list of categories and how they want it to flow in the navigation. Shipping will be integrated with ShipStation. CoreBridge integration hasn't been discussed as far as who is building the QuickProducts aut once they are built I will link all products. I think that's everything so far...
+
+
+
+Morrison-Maierle - Direct to Garment - Sam Martin
+    - No Inventory
+    - Set Budgets
+    - Branded Site
+    - Shipping Best Method
+    - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Missoula Sites
     American Eagle
     Boyle Deveny Meyer
@@ -73,10 +128,6 @@ GET https://admin.chi.v6.pressero.com/api/SiteInfo/8d49c16e-1566-4610-be12-d8d12
 Authorization: token 3C1B0000-569F-0050-3894-08DD1A050023
 
 https://brandfulfillment.freshdesk.com/support/home
-
-C2 Add short description 
-
-Identify repetitive tasks
 
 - Site Upkeep
     - Edit Users
@@ -214,35 +265,36 @@ yN0ZY_iB
 
 https://ag679.app.corebridge.net/
 
+Banners
 
-Responsive 6, Responsive 8, Responsive Clean
-    2000x560 Hero Banner
-    1140x366 Root Banner
+    Responsive 6, Responsive 8, Responsive Clean
+        2000x560 Hero Banner
+        1140x366 Root Banner
 
-Bootstrap Basic, Bootstrap Basic (No Sidebar), 
-Creulean, Readable, Responsive Santiago, 
-Responsive Watson, Responsive Hero
-    2000x560 Hero Banner
+    Bootstrap Basic, Bootstrap Basic (No Sidebar), 
+    Creulean, Readable, Responsive Santiago, 
+    Responsive Watson, Responsive Hero
+        2000x560 Hero Banner
 
-Responsive 9
-    848x446 Hero Banner
-    1140x366 Root Banner
+    Responsive 9
+        848x446 Hero Banner
+        1140x366 Root Banner
 
-Responsive Algernon, Responsive Ender
-    1140x500 Hero Banner
-    815x290 Root Banner
+    Responsive Algernon, Responsive Ender
+        1140x500 Hero Banner
+        815x290 Root Banner
 
-Responsive Algernon (No Sidebar)
-    1140x500 Hero Banner
-    1108x395 Root Banner
+    Responsive Algernon (No Sidebar)
+        1140x500 Hero Banner
+        1108x395 Root Banner
 
-Hero and Root Banner Sizes 
-    2000x560
-    1140x366
-    1140x500
-    1108x395
-    848x446
-    815x290
+    Hero and Root Banner Sizes 
+        2000x560
+        1140x366
+        1140x500
+        1108x395
+        848x446
+        815x290
 
 <style>
   .new_banner { background-color: white; border: 1px solid #003A70; padding: 4em 0em 4em 0em; } .banner_section { text-align: center; }
