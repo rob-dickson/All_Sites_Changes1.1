@@ -2,14 +2,15 @@
 
 
 Yesterday
-    - Brighton | Assets
-    - American  Fork ShipStation
+    - Morrison-Maierle | Site
+    - Purple | Order error
     - agPrintPortal Setup
+    - Monte Carlo | Site
 
 Today
+    - Lice Clinics | Shipping Issues
     - Morrison-Maierle | Site
     - Monte Carlo | Site
-    - American  Fork ShipStation
     - Missoula Stores | Site
     - L10 Tasks
 
