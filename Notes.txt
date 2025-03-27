@@ -2,14 +2,13 @@
 
 
 Yesterday
-    - Morrison-Maierle | Site
-    - Purple | Order error
-    - agPrintPortal Setup
+    - Lice Clinics | Site
+    - PW | Integration Issues
+    - HSD | Integration Issues
     - Monte Carlo | Site
 
 Today
-    - Lice Clinics | Shipping Issues
-    - Morrison-Maierle | Site
+    - Performance Windows | Site
     - Monte Carlo | Site
     - Missoula Stores | Site
     - L10 Tasks
@@ -57,10 +56,18 @@ Other Projects
 
 
 
+Thank you for reaching out!
+
+For any questions related to orders, pricing, or product details, we recommend contacting your sales representative directly as they’ll be best equipped to assist you with these inquiries.
+
+Our customer support team is here to help with technical issues or anything that’s broken on the website. If you're experiencing any problems with the site, please don’t hesitate to let us know.
+
+We appreciate your understanding and are happy to assist with any site-related issues.
+
+Best regards,
 
 
-
-
+Thanks for waiting. Rob, I have added the subdomain and set the redirect. Nevertheless, you will need to ask the account owner to grant privileges over the subdomain so you can continue seeing it in the panel
 
 
 
@@ -592,3 +599,93 @@ Camille F left the chat
 
 Thank you! You as well
 Queue position: 1
+
+
+
+
+
+
+
+*****************************************************************************
+*****************************************************************************
+
+
+
+
+
+
+
+
+
+
+Category: Other
+Domain: agprintportal.com
+Subject: Redirect a subdomain
+
+I am working with a customer and I need to redirect a subdomain (umt.agprintportal.com) to their current URL, https://us704.agstorefront.com/ustorethemes/AquaBlue/10/en-US/home/
+
+is this possible?
+Chat started
+Santiago G joined the chat
+Santiago G
+Hello! Thank you for contacting DreamHost Support, Santiago G speaking, please hold for a moment while I look into your inquiry
+Thanks for waiting. Rob, there wouldn't be any issue while the subdomain exists at the DreamHost panel
+avatar
+Can you walk through that? 
+Santiago G
+I can help you to make the process : )
+avatar
+Thank you!
+Santiago G
+Not a problem
+Thanks for waiting. Rob, I have added the subdomain and set the redirect. Nevertheless, you will need to ask the account owner to grant privileges over the subdomain so you can continue seeing it in the panel
+avatar
+You are amazing! Thank you! So it is good to go? 
+Santiago G
+It should be good
+Now, we will need to give 1-2 hours while the subdomain DNS is propagated
+avatar
+I will talk to the account owner and see if he will give me the privileges I need. Thank you agan!
+Santiago G
+Thanks for contacting DreamHost Support! Please feel free to reach out to us again if you have any additional questions. I hope you have a great rest of your day!
+
+You can close the Chat by clicking the 3 dots at the bottom right of the chat and then "End Chat".
+
+Have a good one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
