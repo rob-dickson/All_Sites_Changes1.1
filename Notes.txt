@@ -2,13 +2,14 @@
 
 
 Yesterday
-    - Lice Clinics | Site
-    - PW | Integration Issues
-    - HSD | Integration Issues
+    - Speedy CPS Site | Budgets
     - Monte Carlo | Site
+    - PW | Integration Issues
+    - University of MT | URL Forwarding
+    - Purple | Order error
 
 Today
-    - Performance Windows | Site
+    - ShipStation
     - Monte Carlo | Site
     - Missoula Stores | Site
     - L10 Tasks
@@ -52,7 +53,7 @@ Other Projects
 
 
 
-
+@channel I think I want to send out a summary / update email to go out ever Friday for each of the projects we are working on. Can both of you give me an update on all the current projects we are working on by 4pm so that I can get that out to sales/managers/clients please? I think this will help keep people updated, keep us informed, and improve our overall processes.
 
 
 
