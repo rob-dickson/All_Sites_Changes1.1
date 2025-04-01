@@ -2,17 +2,15 @@
 
 
 Yesterday
-    - Speedy CPS Site | Budgets
+    - Benchmark Resorts & Hotels
+    - Performance Windows | New Products
     - Monte Carlo | Site
-    - PW | Integration Issues
-    - University of MT | URL Forwarding
-    - Purple | Order error
+    - Swig | Shipping
 
 Today
-    - Benchmark Resorts & Hotels
-    - ShipStation
     - Everprint
-    - PW New Products
+    - Performance Windows | New Products
+    - ShipStation
     - Monte Carlo | Site
     - Missoula Stores | Site
 
