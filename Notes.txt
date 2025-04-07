@@ -2,16 +2,18 @@
 
 
 Yesterday
-    - Benchmark Resorts & Hotels
-    - Performance Windows | New Products
-    - Monte Carlo | Site
-    - Swig | Shipping
+    - Speedy CPS Employee Site | Users
+    - Connections Credit Union | Site edits
+    - Connections Credit Union | New Users
+    - Real Deals | Refund
+    - CoreBridge | Integration Issues
+    - Performance Windows | Issues
 
-Today
-    - Everprint
-    - Performance Windows | New Products
-    - ShipStation
+today
+    - Morrison-Maierle | Site
     - Monte Carlo | Site
+    - Speedy CPS Employee Site | Users
+    - ShipStation
     - Missoula Stores | Site
 
 
@@ -64,17 +66,10 @@ Other Projects
 
 
 Thank you for reaching out!
-
-For any questions related to orders, pricing, or product details, we recommend contacting your sales representative directly as they’ll be best equipped to assist you with these inquiries.
-
-Our customer support team is here to help with technical issues or anything that’s broken on the website. If you're experiencing any problems with the site, please don’t hesitate to let us know.
-
-We appreciate your understanding and are happy to assist with any site-related issues.
-
+For any questions related to orders, pricing, or product details, we recommend contacting your sales representative directly as they’ll be best equipped to assist you with these inquiries. Our customer support team is here to help with technical issues or anything that’s broken on the website. If you're experiencing any problems with the site, please don’t hesitate to let us know. We appreciate your understanding and are happy to assist with any site-related issues.
 Best regards,
 
 
-Thanks for waiting. Rob, I have added the subdomain and set the redirect. Nevertheless, you will need to ask the account owner to grant privileges over the subdomain so you can continue seeing it in the panel
 
 
 
