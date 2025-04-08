@@ -2,16 +2,21 @@
 
 
 Yesterday
+    - ShipStation
+    - Monte Carlo | Calculators
     - Speedy CPS Employee Site | Users
-    - Connections Credit Union | Site edits
-    - Connections Credit Union | New Users
-    - Real Deals | Refund
-    - CoreBridge | Integration Issues
-    - Performance Windows | Issues
+    - Marsh McLennan | Site
+    - Monte Carlo | Site
 
-today
+Today
+    - Marsh McLennan | Site
+    - Core Architecture | Site
     - Morrison-Maierle | Site
     - Monte Carlo | Site
+
+
+
+
     - Speedy CPS Employee Site | Users
     - ShipStation
     - Missoula Stores | Site
