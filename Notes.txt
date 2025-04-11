@@ -280,6 +280,20 @@ Colors -
     #A6C1D9 -Ice Blue-
     #1C273B 
 
+#054549
+#121F38
+#FF7350
+#0096D6
+#0080B6
+#002C77
+
+
+
+
+
+
+
+
 API credentials
 AWTq2hAm2a-6IXNDKaW6TgfnOidX19pH0g4kBtw0-ZknHPPGUymHzjWtNR8W8SmmD9CqYjdKTHld7Y03
 EBd0K2z7qquDRhwaJBMUc99x1cLkmis5iZJPCc-kLfg7A3GfuubYnDqOGBqfGoEvuTVw9rSbb1RUmf8A
