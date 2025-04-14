@@ -1,0 +1,38 @@
+{{<font face="6SENSEICONS.TTF" fontsize="6pt" color="#96cc5c">
+    <stylerun fixedwidth="10"></stylerun>
+</font>Office: @PhoneUI@<br />}}
+{{<font face="6SENSEICONS.TTF" fontsize="6pt" color="#96cc5c">
+    <stylerun fixedwidth="10">&nbsp;</stylerun>
+</font>Cell: @CellUI@<br />}}
+{{<font face="6SENSEICONS.TTF" fontsize="6pt" color="#96cc5c">
+    <stylerun fixedwidth="10"></stylerun>
+</font>Fax: @FaxUI@<br />}}
+{{<font face="6SENSEICONS.TTF" fontsize="6pt" color="#96cc5c">
+    <stylerun fixedwidth="10"></stylerun>
+</font>@WebsiteUI@<br />}}
+{{<font face="6SENSEICONS.TTF" fontsize="6pt" color="#96cc5c">
+    <stylerun fixedwidth="10"></stylerun>
+</font>@StreetUI@ @SuiteUI@<br />}}
+{{<font face="6SENSEICONS.TTF" fontsize="6pt" color="#96cc5c">
+    <stylerun fixedwidth="10">&nbsp;</stylerun>
+</font>@CityUI@, @StateUI@ @ZipUI@<br />}}
+
+
+
+
+<script>
+
+    ifs(PhoneTypeDD = "None", "", ifs(PhoneTypeDD = "Phone", "Ph " & Phone & ifs(PhoneTypeDDopt = "", "", "<BR>"), "") &
+        ifs(PhoneTypeDD = "Cell", "Cell " & Phone & ifs(PhoneTypeDDopt = "", "", "<BR>"), "") &
+        ifs(PhoneTypeDD = "Fax", "Fax " & Phone & ifs(PhoneTypeDDopt = "", "", "<BR>"), ""))
+
+        & ifs(PhoneTypeDD = "None", "", ifs(PhoneTypeDDopt = "Phone", "Ph " & Cell & "<BR>", "") &
+            ifs(PhoneTypeDDopt = "Cell", "Cell " & Cell & "<BR>", "")
+            & ifs(PhoneTypeDDopt = "Fax", "Fax " & Cell & "<BR>", ""))
+
+        & ifs(replaceRegex(Email, "^[a-zA-Z0-9_.+-]+@boisestate.edu", "") = "", Email & "<BR>", "<font color='red'>" & "ERROR: Not a
+    valid email domain." & " < BR > " & "</font > ")
+        & ifs(replaceRegex(Website, "^boisestate\.edu(?:\/[\w\-\/]+)*[\w\d]?$", "") = "", Website, "<font color='red'>"
+            & "ERROR: Not a valid URL." & "</font>")
+
+</script>
