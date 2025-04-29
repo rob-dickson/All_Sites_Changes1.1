@@ -679,15 +679,60 @@ Have a good one.
 
 
 
+#main-content div form div div.product-detail div div.col-md-4.col-md-push-8 div.calculator-wrap div.renameArea h4 span {
+    display: none;
+}
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    var input = document.getElementById('txtCustomName');
+    if (input) {
+      input.setAttribute('required', 'required');
+    }
+  });
+</script>
 
 
 
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    const url = window.location.href;
+
+    if (url.includes('/Checkout') && !url.includes('/checkout/shipping')) {
+      const radios = document.querySelectorAll('input[name="budgetId"]');
+      const buttons = document.querySelectorAll('button[type="submit"], input[type="submit"]');
+
+      buttons.forEach(button => {
+        button.addEventListener('click', function (e) {
+          const oneChecked = Array.from(radios).some(r => r.checked);
+          if (!oneChecked) {
+            e.preventDefault();
+            e.stopImmediatePropagation();
+            alert('Please select your budget before submitting.');
+          }
+        });
+      });
+    }
+  });
+</script>
 
 
 
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('form'); // adjust if your form is more specific
+    const radios = document.querySelectorAll('input[name="budgetId"]');
 
-
-
+    if (form && radios.length > 0) {
+      form.addEventListener('submit', function (e) {
+        const oneChecked = Array.from(radios).some(radio => radio.checked);
+        if (!oneChecked) {
+          e.preventDefault();
+          alert('Please select your budget before submitting.');
+        }
+      });
+    }
+  });
+</script>
 
 
 
